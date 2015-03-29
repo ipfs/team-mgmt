@@ -2,6 +2,8 @@
 
 This is a repository for general ipfs project management.
 
+#### Please don't open issues here unless you know what you're doing.
+
 ## Sprints
 
 IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. It adds a heartbeat to our development. We will seldom add or drop work mid-sprint, though exceptions may emerge. This means incoming PRs or new issues may not be addressed until the next sprint. We will try to make sure things don't get backlogged for long periods of time. 
