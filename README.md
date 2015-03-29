@@ -12,4 +12,5 @@ If you'd like to join a sprint, let @jbenet know how much time + and what you'd 
 - Sprint Discuss: Mondays at `19:00-20:00 UTC` via +hangout (link posted on IRC)
 - Sprint Checkin: Daily at `19:00-19:05 UTC` on `#ipfs` IRC
 
-There will be issues representing sprints here, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
+Each sprint will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
+
