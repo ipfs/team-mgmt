@@ -17,7 +17,7 @@ If you'd like to join a sprint, let `@jbenet` know how much time + and what you'
 Each sprint will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
 
 
-## Sprint Checkin (Sync)
+### Sprint Checkin (Sync)
 
 The sprint checkin is a quick sync-up (on IRC) to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a print checkin, leave your update + comments on IRC before the sync.
 
