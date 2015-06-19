@@ -29,3 +29,13 @@ Each person must answer (kanban style):
 - (looking at the sprint assignments) What has progressed?
 
 All answers will go on the issue.
+
+### Working Hours
+
+To maximize feedback during a sprint, we've picked a set of "working hours" during which we can overlap. The hours are:
+
+```
+16:00-19:00 UTC  daily or
+18:00-21:00 CEST daily or
+09:00-12:00 PDT  daily
+```
