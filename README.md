@@ -13,7 +13,7 @@ IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of wor
 If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
 
 - Sprint Duration: 1 week
-- Sprint Planning: Mondays at `19:15-20:00 UTC` via +hangout (link posted on IRC)
+- Sprint Planning: Mondays at `17:15-22:00 UTC` via +hangout (link posted on IRC)
 - Sprint Checkin: Daily at `19:15-19:20 UTC` on `#ipfs` IRC
 
 Each sprint will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
@@ -53,12 +53,12 @@ The schedule is fairly static:
 
 Time (PT - **UTC/Z** - GT) | Topic | +Hangout
 :------------------------: | :---: | :------:
-14:00PT **21:00Z** 23:00GT | infrastructure | [Video Room](https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia)
-14:30PT **21:30Z** 23:30GT | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
-15:00PT **22:00Z** 00:00GT | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
-15:30PT **22:30Z** 00:30GT | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
-16:00PT **23:00Z** 01:00GT | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
-16:30PT **23:30Z** 01:30GT | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
+12:00PT **19:00Z** 21:00GT | infrastructure | [Video Room](https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia)
+12:30PT **19:30Z** 21:30GT | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
+13:00PT **20:00Z** 22:00GT | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
+13:30PT **20:30Z** 22:30GT | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
+14:00PT **21:00Z** 23:00GT | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
+14:30PT **21:30Z** 23:30GT | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 
 Remaining to schedule:
 - IPFS Node App (Electron)
