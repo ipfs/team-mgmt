@@ -77,7 +77,7 @@ The sprint master should add a short backlog of relevant issues to take up.These
 
 ### Sprint Checkin (Sync)
 
-The sprint checkin is a quick sync-up (on IRC) to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a print checkin, leave your update + comments on IRC (or the issue?) before the sync happens.
+The sprint checkin is a quick sync-up (on IRC) to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a sprint checkin, leave your update + comments on IRC (or the issue?) before the sync happens.
 
 Each person must answer (kanban style):
 
