@@ -61,9 +61,9 @@ Time (PT - **UTC/Z** - GT) | Topic | +Hangout
 16:30PT **23:30Z** 01:30GT | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 
 Remaining to schedule:
-- IPFS Node App (Electron)
-- Apps on IPFS
-- Data Structures
+- IPFS Node App (Electron) -- [Video Room](https://plus.google.com/hangouts/_/gsnr4wzjkztmxho3st3ocoplb4a)
+- Apps on IPFS -- [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
+- Data Structures -- [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
 **Note: there is a proposal to move the entire Sprint Planning up by 2hrs to allow people in Germany to join it easier**
 
