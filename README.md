@@ -8,16 +8,72 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 
 ## Sprints
 
-IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. It adds a heartbeat to our development. We will seldom add or drop work mid-sprint, though exceptions may emerge. This means incoming PRs or new issues may not be addressed until the next sprint. We will try to make sure things don't get backlogged for long periods of time. 
+IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. It adds a heartbeat to our development. We will seldom add or drop work mid-sprint, though exceptions may emerge. This means incoming PRs or new issues may not be addressed until the next sprint. We will try to make sure things don't get backlogged for long periods of time.
 
 If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
 
 - Sprint Duration: 1 week
-- Sprint Discuss: Mondays at `19:15-20:00 UTC` via +hangout (link posted on IRC)
+- Sprint Planning: Mondays at `19:15-20:00 UTC` via +hangout (link posted on IRC)
 - Sprint Checkin: Daily at `19:15-19:20 UTC` on `#ipfs` IRC
 
 Each sprint will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
 
+### Sprint Planning
+
+Sprint Discuss is a set of semi-synchronous discussions with the following purposes:
+- **retrospect** on the previous sprint. Discuss what got done, what stalled, why, what could go better next time, etc.
+- **discuss** the next goals, problems, and solution approaches.
+- **identify** tasks to do for the next sprint. Try to spell them out as much as possible.
+- **allocate** work for the next sprint. Sign up to accomplish them.
+
+The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchronous, some of it is asynchronous. It has the following stages:
+
+#### Stage 1: Sprint Cap
+
+**How: This takes place semi-synchronously on IRC.** (This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
+
+The sprint master:
+- prepares the sprint's etherpad and posts it to github + IRC ahead of time.
+- begins Sprint Planning with a roll-call to ping people on IRC.
+- prompts everyone who participated in the previous sprint to update:
+
+Each participant gives an update on their assignment, what got done, what didn't, and discusses successes and failures. Participant, sprint master, and whoever is interested should discuss ways of improving task definition, allocation, and implementation to increase future successes and avoid failures.
+
+#### Stage 2: Sprint Discussions
+
+**How: This takes place synchronously on Google Hangouts.**
+
+Our sprints cover many different subject areas, that interest distinct but overlapping groups of people. Everyone is welcome to participate on all of them -- hence they do not overlap in time -- though they are geared towards the main people handling those areas.
+
+The sprint discussions give a high throughput (video call) environment to talk about status, next goals, problems, solution approcahes, and so on. They're mostly free form, but should endeavor to identify a set of tasks to do, even if those tasks won't all get done this sprint.
+
+##### Sprint Discussion Schedule
+
+The schedule is fairly static:
+
+Time (PT - **UTC/Z** - GT) | Topic | +Hangout
+:------------------------: | :---: | :------:
+14:00PT **21:00Z** 23:00GT | infrastructure | https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia
+14:30PT **21:30Z** 23:30GT | node-ipfs | https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma
+15:00PT **22:00Z** 00:00GT | go-ipfs | https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa
+15:30PT **22:30Z** 00:30GT | testing + ci | https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea
+16:00PT **23:00Z** 01:00GT | protocol + specs | https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa
+16:30PT **23:30Z** 01:30GT | bitswap ml | https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea
+
+Remaining to schedule:
+- IPFS Node App (Electron)
+- Apps on IPFS
+- Data Structures
+
+**Note: there is a proposal to move the entire Sprint Planning up by 2hrs to allow people in Germany to join it easier**
+
+#### Stage 3: Sprint Allocation
+
+How: Asynchronously, by **01:00Z**.
+
+Everyone signs up for tasks on the sprint etherpad asynchronously, after the relevant discussions happen. At the "end of the day", the etherpad is committed to an issue in this repository.
+
+The sprint master should add a short backlog of relevant issues to take up.These can be taken by anybody. If you decide to take it on, please "sign yourself up for it" (move it from the backlog section to be under your name).
 
 ### Sprint Checkin (Sync)
 
