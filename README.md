@@ -53,6 +53,7 @@ The schedule is fairly static:
 
 Time (PT - **UTC/Z** - GT) | Topic | +Hangout
 :------------------------: | :---: | :------:
+11:30PT **18:30Z** 20:30GT | Apps on IPFS, electron | [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
 12:00PT **19:00Z** 21:00GT | infrastructure | [Video Room](https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia)
 12:30PT **19:30Z** 21:30GT | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
 13:00PT **20:00Z** 22:00GT | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
@@ -60,9 +61,6 @@ Time (PT - **UTC/Z** - GT) | Topic | +Hangout
 14:00PT **21:00Z** 23:00GT | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
 14:30PT **21:30Z** 23:30GT | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 
-Remaining to schedule:
-- IPFS Node App (Electron) -- [Video Room](https://plus.google.com/hangouts/_/gsnr4wzjkztmxho3st3ocoplb4a)
-- Apps on IPFS -- [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
 - Data Structures -- [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
 #### Stage 3: Sprint Allocation
