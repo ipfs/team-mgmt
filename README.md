@@ -53,13 +53,13 @@ The schedule is fairly static:
 
 Time (PT - **UTC/Z** - GT) | Topic | +Hangout
 :------------------------: | :---: | :------:
-11:30PT **18:30Z** 20:30GT | Apps on IPFS, electron | [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
-12:00PT **19:00Z** 21:00GT | infrastructure | [Video Room](https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia)
-12:30PT **19:30Z** 21:30GT | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
-13:00PT **20:00Z** 22:00GT | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
-13:30PT **20:30Z** 22:30GT | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
-14:00PT **21:00Z** 23:00GT | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
-14:30PT **21:30Z** 23:30GT | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
+12:00PT **19:00Z** 21:00GT | Apps on IPFS, electron | [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
+12:30PT **19:30Z** 21:30GT | infrastructure | [Video Room](https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia)
+13:00PT **20:00Z** 22:00GT | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
+13:30PT **20:30Z** 22:30GT | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
+14:00PT **21:00Z** 23:00GT | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
+14:30PT **21:30Z** 23:30GT | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
+15:00PT **22:00Z** 00:00GT | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 
 - Data Structures -- [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
