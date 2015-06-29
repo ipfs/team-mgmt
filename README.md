@@ -65,8 +65,6 @@ Remaining to schedule:
 - Apps on IPFS -- [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
 - Data Structures -- [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
-**Note: there is a proposal to move the entire Sprint Planning up by 2hrs to allow people in Germany to join it easier**
-
 #### Stage 3: Sprint Allocation
 
 How: Asynchronously, by **01:00Z**.
