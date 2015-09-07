@@ -54,7 +54,7 @@ The schedule is fairly static:
 Time (PDT - **UTC/Z** - CEST) | Topic | +Hangout
 :------------------------: | :---: | :------:
 11:30PDT **18:30Z** 20:30CEST | Apps on IPFS, electron | [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
-12:00PDT **19:00Z** 21:00CEST | infrastructure | [Video Room](https://plus.google.com/hangouts/_/gq3ieylu6bufzbnovemvb2rraia)
+12:00PDT **19:00Z** 21:00CEST | infrastructure | [Video Room](https://plus.google.com/hangouts/_/g6irrqkylecjoo2k7e7wzkkkgua)
 12:30PDT **19:30Z** 21:30CEST | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
 13:00PDT **20:00Z** 22:00CEST | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
 13:30PDT **20:30Z** 22:30CEST | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
