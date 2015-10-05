@@ -13,7 +13,7 @@ IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of wor
 If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
 
 - Sprint Duration: 1 week
-- Sprint Checkin and Planning: Mondays at `17:15-22:00Z` via +hangout (link posted on IRC)
+- Sprint Checkin and Planning: Mondays at `17:00-22:00Z` via +hangout (link posted on IRC)
 
 Each sprint will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
 
@@ -28,6 +28,8 @@ Sprint Discuss is a set of semi-synchronous discussions with the following purpo
 The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchronous, some of it is asynchronous. It has the following stages:
 
 #### Stage 1: Sprint Cap
+
+##### Starts at {10:00 PT, 17:00 UTC, 19:00 CEST}
 
 **How: This takes place semi-synchronously on IRC.** (This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
 
