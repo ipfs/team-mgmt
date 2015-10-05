@@ -34,11 +34,14 @@ The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchr
 **How: This takes place semi-synchronously on IRC.** (This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
 
 The sprint master:
-- prepares the sprint's etherpad and posts it to github + IRC ahead of time.
-- begins Sprint Planning with a roll-call to ping people on IRC.
-- prompts everyone who participated in the previous sprint to update:
+- Prepares the sprint's etherpad and posts it to github + IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
+- Begins Sprint Planning with a roll-call to ping people on IRC. This list can be taken from the members of the previous sprint.
+- Prompts everyone who participated in the previous sprint to update on their work.
+- Closes up by making sure everyone who needs to has gone, and posts a link to the Etherpad again, opens the next issue for the coming sprint, and then pings reminders to people to add their items to the Etherpad over the course of the day so that a new issue can be copied over early on Tuesday morning.
 
 Each participant gives an update on their assignment, what got done, what didn't, and discusses successes and failures. Participant, sprint master, and whoever is interested should discuss ways of improving task definition, allocation, and implementation to increase future successes and avoid failures.
+
+If you are a partipicant, the normal way of showing assignments is to copy and paste your list from the previous sprint, with [x], [ ],  and [~] indicating items done, undone, or in progress, respectively. Be sure to copy and paste in small chunks, or IRC may kick you out for flooding the channel. Lines of 5 seems to work well.
 
 #### Stage 2: Sprint Discussions
 
@@ -74,7 +77,7 @@ The sprint master should add a short backlog of relevant issues to take up.These
 
 ### Sprint Checkin (Sync)
 
-The sprint checkin is a quick sync-up (on IRC) to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a sprint checkin, leave your update + comments on IRC (or the issue?) before the sync happens.
+The sprint checkin is a quick sync-up (on IRC) to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a sprint checkin, leave your update + comments on that Sprint's issue (not IRC, as it will get lost) before the sync happens.
 
 Each person must answer (kanban style):
 
@@ -90,5 +93,6 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 ```
 16:00-19:00 UTC  daily or
 18:00-21:00 CEST daily or
+12:00-15:00 EST daily or
 09:00-12:00 PDT  daily
 ```
