@@ -58,12 +58,13 @@ The schedule is fairly static:
 Time (PDT - **UTC/Z** - CET) | Topic | +Hangout
 :------------------------: | :---: | :------:
 11:30PDT **18:30Z** 19:30CET | Apps on IPFS, electron | [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
-12:00PDT **19:00Z** 20:00CET | infrastructure | [Video Room](https://plus.google.com/hangouts/_/g6irrqkylecjoo2k7e7wzkkkgua)
-12:30PDT **19:30Z** 20:30CET | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
-13:00PDT **20:00Z** 21:00CET | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
-13:30PDT **20:30Z** 21:30CET | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
-14:00PDT **21:00Z** 22:00CET | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
-14:30PDT **21:30Z** 22:30CET | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
+12:15PDT **19:15Z** 20:15CET | infrastructure | [Video Room](https://plus.google.com/hangouts/_/g6irrqkylecjoo2k7e7wzkkkgua)
+13:00PDT **20:00Z** 21:00CET | libp2p | [Video Room](https://plus.google.com/hangouts/_/ipfslibp2p7g6jntijoxshfe3m2)
+13:45PDT **20:45Z** 21:45CET | node-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
+14:30PDT **21:30Z** 22:30CET | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
+15:15PDT **22:15Z** 23:15CET | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
+16:00PDT **23:00Z** 00:00CET | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
+16:45PDT **23:45Z** 00:45CET | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 
 - Data Structures -- [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
