@@ -29,7 +29,7 @@ The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchr
 
 #### Stage 1: Sprint Cap
 
-> ##### Starts at {10:00 PT, 17:00 UTC, 18:00 CET}
+> ##### Starts at {10:00 PDT, 17:00 UTC, 18:00 CET}
 
 **How: This takes place semi-synchronously on IRC.** (This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
 
@@ -66,6 +66,8 @@ Time (PDT - **UTC/Z** - CET) | Topic | +Hangout
 14:30PDT **21:00Z** 22:30CET | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
 15:00PDT **21:30Z** 23:00CET | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 15:30PDT **22:00Z** 23:30CET | Data Structures | [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
+
+You can add these meeting times to your Calendar app by adding our [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York)
 
 #### Stage 3: Sprint Allocation
 
