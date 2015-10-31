@@ -65,7 +65,7 @@ Time (PDT - **UTC/Z** - CET) | Topic | +Hangout
 14:00PDT **20:30Z** 22:00CET | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
 14:30PDT **21:00Z** 22:30CET | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
 15:00PDT **21:30Z** 23:00CET | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
-15:30PDT **22:00Z** 23:30CET | Data Structures -- [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
+15:30PDT **22:00Z** 23:30CET | Data Structures | [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
 #### Stage 3: Sprint Allocation
 
