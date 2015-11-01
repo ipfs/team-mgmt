@@ -16,6 +16,7 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
   - [Stage 3: Sprint Allocation](#stage-3-sprint-allocation)
 - [Sprint Checkin (Sync)](#sprint-checkin-sync)
 - [Working Hours](#working-hours)
+- [Active Contributors](#active-contributors)
 
 #### About
 
@@ -109,3 +110,15 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 12:00-15:00 EST daily or
 09:00-12:00 PDT  daily
 ```
+
+### Active Contributors
+
+This is a list of contributors who are active each sprint, and who it is OK to ask to put their updates in the sprint issue. Only put your name here if you are OK with having the sprint master continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks - that is completely OK. This is to help the sprint master not feel bad about following up, mainly. This list is the single source of truth for this task: if you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community) is the appropriate place to add your name. 
+
+* [@diasdavid](https://github.com/diasdavid)
+* [@jbenet](https://github.com/jbenet)
+* [@lgierth](https://github.com/lgierth)
+* [@mappum](https://github.com/mappum)
+* [@RichardLitt](https://github.com/RichardLitt)
+* [@whyrusleeping](https://github.com/whyrusleeping)
+
