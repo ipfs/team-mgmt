@@ -8,6 +8,17 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 
 ## Sprints
 
+#### Table of Contents
+
+- [Sprint Planning](#sprint-planning)
+  - [Stage 1: Sprint Cap](#stage-1-sprint-cap)
+  - [Stage 2: Sprint Discussions](#stage-2-sprint-discussions)
+  - [Stage 3: Sprint Allocation](#stage-3-sprint-allocation)
+- [Sprint Checkin (Sync)](#sprint-checkin-sync)
+- [Working Hours](#working-hours)
+
+#### About
+
 IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. It adds a heartbeat to our development. We will seldom add or drop work mid-sprint, though exceptions may emerge. This means incoming PRs or new issues may not be addressed until the next sprint. We will try to make sure things don't get backlogged for long periods of time.
 
 If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
