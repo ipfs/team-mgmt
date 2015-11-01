@@ -8,6 +8,18 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 
 ## Sprints
 
+#### Table of Contents
+
+- [Sprint Planning](#sprint-planning)
+  - [Stage 1: Sprint Cap](#stage-1-sprint-cap)
+  - [Stage 2: Sprint Discussions](#stage-2-sprint-discussions)
+  - [Stage 3: Sprint Allocation](#stage-3-sprint-allocation)
+- [Sprint Checkin (Sync)](#sprint-checkin-sync)
+- [Working Hours](#working-hours)
+- [Active Contributors](#active-contributors)
+
+#### About
+
 IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. It adds a heartbeat to our development. We will seldom add or drop work mid-sprint, though exceptions may emerge. This means incoming PRs or new issues may not be addressed until the next sprint. We will try to make sure things don't get backlogged for long periods of time.
 
 If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
@@ -98,3 +110,15 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 12:00-15:00 EST daily or
 09:00-12:00 PDT  daily
 ```
+
+### Active Contributors
+
+This is a list of contributors who are active each sprint, and who it is OK to ask to put their updates in the sprint issue. Only put your name here if you are OK with having the sprint master continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks - that is completely OK. This is to help the sprint master not feel bad about following up, mainly. This list is the single source of truth for this task: if you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community) is the appropriate place to add your name. 
+
+* [@diasdavid](https://github.com/diasdavid)
+* [@jbenet](https://github.com/jbenet)
+* [@lgierth](https://github.com/lgierth)
+* [@mappum](https://github.com/mappum)
+* [@RichardLitt](https://github.com/RichardLitt)
+* [@whyrusleeping](https://github.com/whyrusleeping)
+
