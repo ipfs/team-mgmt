@@ -121,4 +121,5 @@ This is a list of contributors who are active each sprint, and who it is OK to a
 * [@mappum](https://github.com/mappum)
 * [@RichardLitt](https://github.com/RichardLitt)
 * [@whyrusleeping](https://github.com/whyrusleeping)
+* [@kyledrake](https://github.com/kyledrake)
 
