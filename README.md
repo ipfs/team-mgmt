@@ -41,7 +41,7 @@ The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchr
 
 #### Stage 1: Sprint Cap
 
-> ##### Starts at {10:00 PDT, 17:00 UTC, 18:00 CET}
+> ##### Starts at {9:00 PDT, 17:00 UTC, 18:00 CET}
 
 **How: This takes place semi-synchronously on IRC.** (This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
 
