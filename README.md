@@ -113,7 +113,7 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 
 ### Active Contributors
 
-This is a list of contributors who are active each sprint, and who it is OK to ask to put their updates in the sprint issue. Only put your name here if you are OK with having the sprint master continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks - that is completely OK. This is to help the sprint master not feel bad about following up, mainly. This list is the single source of truth for this task: if you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community) is the appropriate place to add your name. 
+This is a list of contributors who are active each sprint, and who agree that it's alright for the spring master to ask them to put their updates in the sprint issue. Only put your name here if you are OK with having the sprint master continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks. This list really only helps the sprint master not feel bad about following up, and is is the single source of truth for this task. If you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community#people) is the appropriate place to add your name.
 
 * [@diasdavid](https://github.com/diasdavid)
 * [@jbenet](https://github.com/jbenet)
