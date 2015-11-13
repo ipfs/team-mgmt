@@ -123,4 +123,5 @@ This is a list of contributors who are active each sprint, and who agree that it
 * [@whyrusleeping](//github.com/whyrusleeping)
 * [@kyledrake](//github.com/kyledrake)
 * [@VictorBjelkholm](//github.com/VictorBjelkholm)
+* [@dignifiedquire](//github.com/dignifiedquire)
 
