@@ -11,10 +11,13 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 #### Table of Contents
 
 - [Sprint Planning](#sprint-planning)
-  - [Stage 1: Sprint Cap](#stage-1-sprint-cap)
+  - [Stage 1: Sprint Sync](#stage-1-sprint-cap-sync)
+    - [The sprint master](#the-sprint-master)
   - [Stage 2: Sprint Discussions](#stage-2-sprint-discussions)
+    - [The discussion leads](#the-discussion-leads)
+    - [Sprint Discussion Schedule](#sprint-discussion-schedule)
   - [Stage 3: Sprint Allocation](#stage-3-sprint-allocation)
-- [Sprint Checkin (Sync)](#sprint-checkin-sync)
+    - [The GitHub sprint master](#the-github-sprint-master)
 - [Working Hours](#working-hours)
 - [Active Contributors](#active-contributors)
 
@@ -24,10 +27,7 @@ IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of wor
 
 If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
 
-- Sprint Duration: 1 week
-- Sprint Checkin and Planning: Mondays at `17:00-22:00Z` via +hangout (link posted on IRC)
-
-Each sprint will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
+Each sprint lasts one week, and will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
 
 ### Sprint Planning
 
@@ -39,29 +39,38 @@ Sprint Discuss is a set of semi-synchronous discussions with the following purpo
 
 The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchronous, some of it is asynchronous. It has the following stages:
 
-#### Stage 1: Sprint Cap
+#### Stage 1: Sprint Sync
 
-> ##### Starts at {9:00 PDT, 17:00 UTC, 18:00 CET}
+**When**: Monday at {9:00 PDT, 17:00 UTC, 18:00 CET}
 
-**How: This takes place semi-synchronously on IRC.** (This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
+**How**: This takes place semi-synchronously on the IRC channel #ipfs.
 
-The sprint master:
-- Prepares the sprint's etherpad and posts it to github + IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
+The sprint checkin is a quick sync-up to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a sprint checkin, leave your update + comments on that Sprint's issue (not IRC, as it will get lost) before the sync happens.
+
+Each participant gives an update on their assignment, what got done, what didn't, and discusses successes and failures. Participants, the sprint master, and whoever is interested should discuss ways of improving task definition, allocation, and implementation to increase future successes and avoid failures.
+
+If you are a partipicant, the normal way of showing assignments is to copy and paste your list from the previous sprint, with `[x]`, `[ ]`,  and `[~]` indicating items done, undone, or in progress, respectively. Be sure to copy and paste in small chunks, or IRC may kick you out for flooding the channel. Lines of 5 seems to work well.
+
+(This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
+
+##### The sprint master
+- Prepares the sprint's etherpad and posts it to GitHub and IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
 - Begins Sprint Planning with a roll-call to ping people on IRC. This list can be taken from the members of the previous sprint.
 - Prompts everyone who participated in the previous sprint to update on their work.
 - Closes up by making sure everyone who needs to has gone, and posts a link to the Etherpad again, opens the next issue for the coming sprint, and then pings reminders to people to add their items to the Etherpad over the course of the day so that a new issue can be copied over early on Tuesday morning.
 
-Each participant gives an update on their assignment, what got done, what didn't, and discusses successes and failures. Participant, sprint master, and whoever is interested should discuss ways of improving task definition, allocation, and implementation to increase future successes and avoid failures.
-
-If you are a partipicant, the normal way of showing assignments is to copy and paste your list from the previous sprint, with [x], [ ],  and [~] indicating items done, undone, or in progress, respectively. Be sure to copy and paste in small chunks, or IRC may kick you out for flooding the channel. Lines of 5 seems to work well.
-
 #### Stage 2: Sprint Discussions
 
-**How: This takes place synchronously on Google Hangouts.**
+**When:** See the list below.
+
+**How:** This takes place synchronously on Google Hangouts.
 
 Our sprints cover many different subject areas, that interest distinct but overlapping groups of people. Everyone is welcome to participate on all of them -- hence they do not overlap in time -- though they are geared towards the main people handling those areas.
 
 The sprint discussions give a high throughput (video call) environment to talk about status, next goals, problems, solution approcahes, and so on. They're mostly free form, but should endeavor to identify a set of tasks to do, even if those tasks won't all get done this sprint.
+
+##### The discussion leads
+Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into an Etherpad for their sprint. Afterwards, notes should go into the current sprint issue.
 
 ##### Sprint Discussion Schedule
 
@@ -79,26 +88,20 @@ Time (PDT - **UTC/Z** - CET) | Topic | +Hangout
 14:00PDT **22:00Z** 23:00CET | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
 14:30PDT **22:30Z** 23:30CET | Data Structures | [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
 
-You can add these meeting times to your Calendar app by adding our [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York)
+You can add these meeting times to your Calendar app by adding our [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
 
 #### Stage 3: Sprint Allocation
 
-How: Asynchronously, by **01:00Z**.
+**When**: Asynchronously, by {01:00Z}.
 
-Everyone signs up for tasks on the sprint etherpad asynchronously, after the relevant discussions happen. At the "end of the day", the etherpad is committed to an issue in this repository.
+Everyone signs up for tasks in the GitHub sprint issue by writing and commenting with their lists of task, after the relevant discussions happen. People should talk on IRC or in the GitHub issue about sharing tasks or about other people's lists; the task lists are mutable.
 
-The sprint master should add a short backlog of relevant issues to take up.These can be taken by anybody. If you decide to take it on, please "sign yourself up for it" (move it from the backlog section to be under your name).
+Tasks should be All tasks are assumed to be commitments, unless it is tagged (inline) with `hope:`. For example: `> - [ ] hope: merge IPLD into go-ipfs`. This should allow some breathing room.
 
-### Sprint Checkin (Sync)
+The sprint master should add a short backlog of relevant issues to take up. These can be taken by anybody. If you decide to take it on, please "sign yourself up for it" (move it from the backlog section to be under your name).
 
-The sprint checkin is a quick sync-up (on IRC) to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a sprint checkin, leave your update + comments on that Sprint's issue (not IRC, as it will get lost) before the sync happens.
-
-Each person must answer (kanban style):
-
-- What obstacles are impeding my progress?
-- (looking at the sprint assignments) What has progressed?
-
-All answers will go on the issue.
+##### The GitHub sprint master
+A GitHub sprint master should be responsible for the sprint process every week. This involves: making the new sprint issue, asking people to drop their updates in the old one, reminding people to drop their TODOs in the new one. This does not mean the IRC syncup, but rather the github setup and reminding people. This role should be different than the IRC sprint master, who basically moderates the Monday sync.
 
 ### Working Hours
 
