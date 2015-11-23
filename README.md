@@ -96,7 +96,7 @@ You can add these meeting times to your Calendar app by adding our [community ca
 
 Everyone signs up for tasks in the GitHub sprint issue by writing and commenting with their lists of task, after the relevant discussions happen. People should talk on IRC or in the GitHub issue about sharing tasks or about other people's lists; the task lists are mutable.
 
-Tasks should be All tasks are assumed to be commitments, unless it is tagged (inline) with `hope:`. For example: `> - [ ] hope: merge IPLD into go-ipfs`. This should allow some breathing room.
+All tasks are assumed to be commitments, unless it is tagged (inline) with `hope:`. For example: `> - [ ] hope: merge IPLD into go-ipfs`. This should allow some breathing room.
 
 The sprint master should add a short backlog of relevant issues to take up. These can be taken by anybody. If you decide to take it on, please "sign yourself up for it" (move it from the backlog section to be under your name).
 
