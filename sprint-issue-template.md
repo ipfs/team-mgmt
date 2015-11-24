@@ -29,4 +29,4 @@ Please add the Agenda to the Pad before the endeavour sprint starts.
 - Add yourself below, that way we only have people listed who are really in the sprint
 - Add links to issues down here. Only add things you can finish this sprint.
 
-### [<% name %>](@<% your_GitHub_handle %>)
+### @<% your_GitHub_handle %>
