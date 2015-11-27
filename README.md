@@ -76,19 +76,21 @@ Each discussion has a lead, and each lead is responsible for preparing for that 
 
 The schedule is fairly static:
 
-Time (PDT - **UTC/Z** - CET) | Topic | +Hangout
-:------------------------: | :---: | :------:
-10:30PDT **18:30Z** 19:30CET | Apps on IPFS | [Video Room](https://plus.google.com/hangouts/_/grdn26fpdroghn5wa56mhpxz34a)
-11:00PDT **19:00Z** 20:00CET | infrastructure | [Video Room](https://plus.google.com/hangouts/_/g6irrqkylecjoo2k7e7wzkkkgua)
-11:30PDT **19:30Z** 20:30CET | libp2p | [Video Room](https://plus.google.com/hangouts/_/ipfslibp2p7g6jntijoxshfe3m2)
-12:00PDT **20:00Z** 21:00CET | js-ipfs | [Video Room](https://plus.google.com/hangouts/_/gyafa4mpgz7g6jntijoxshfe3ma)
-12:30PDT **20:30Z** 21:30CET | go-ipfs | [Video Room](https://plus.google.com/hangouts/_/g4hc3dnpdvwsklyfd2sxhkwbgqa)
-13:00PDT **21:00Z** 22:00CET | testing + ci | [Video Room](https://plus.google.com/hangouts/_/gwn656w2cihn7lekdarfzhaquea)
-13:30PDT **21:30Z** 22:30CET | protocol + specs | [Video Room](https://plus.google.com/hangouts/_/gxvjk6v6xrc64hcs44phm4c2qaa)
-14:00PDT **22:00Z** 23:00CET | bitswap ml | [Video Room](https://plus.google.com/hangouts/_/grcpjefkp4fv4zqz3xe4ty3mbea)
-14:30PDT **22:30Z** 23:30CET | Data Structures | [Video Room](https://plus.google.com/hangouts/_/g7slan3ecrylra7robofp53p6ia)
+Time (PDT - **UTC/Z** - CET) | Topic
+:------------------------: | :---:
+10:30PDT **18:30Z** 19:30CET | Apps on IPFS
+11:00PDT **19:00Z** 20:00CET | infrastructure
+11:30PDT **19:30Z** 20:30CET | libp2p
+12:00PDT **20:00Z** 21:00CET | js-ipfs
+12:30PDT **20:30Z** 21:30CET | go-ipfs
+13:00PDT **21:00Z** 22:00CET | testing + ci
+13:30PDT **21:30Z** 22:30CET | protocol + specs
+14:00PDT **22:00Z** 23:00CET | bitswap ml
+14:30PDT **22:30Z** 23:30CET | Data Structures
 
 You can add these meeting times to your Calendar app by adding our [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
+
+The Hangouts are generated anew for each session. Sprint leaders should use [https://hangouts.google.com/start](https://hangouts.google.com/start) to make a new Hangout, and will drop the link in the IRC channel. 
 
 #### Stage 3: Sprint Allocation
 
