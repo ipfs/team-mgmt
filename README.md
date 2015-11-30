@@ -45,7 +45,9 @@ The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchr
 
 **How**: This takes place semi-synchronously on the IRC channel #ipfs.
 
-The sprint checkin is a quick sync-up to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. If you cannot make it to a sprint checkin, leave your update + comments on that Sprint's issue (not IRC, as it will get lost) before the sync happens.
+The sprint checkin is a quick sync-up to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. 
+
+Before the sync (ideally), put your updates for the previous week in the previous week's issue. That way, it is easy to see what was intended to get done, and what gone done. After the previous sprint is over, add your blank to dos to the new sprint issue. If you cannot make it to a sprint checkin, leave your update and comments on the previous Sprint's issue (not on IRC, as it will get lost) before the sync happens.
 
 Each participant gives an update on their assignment, what got done, what didn't, and discusses successes and failures. Participants, the sprint master, and whoever is interested should discuss ways of improving task definition, allocation, and implementation to increase future successes and avoid failures.
 
