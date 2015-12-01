@@ -122,13 +122,15 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 
 This is a list of contributors who are active each sprint, and who agree that it's alright for the spring master to ask them to put their updates in the sprint issue. Only put your name here if you are OK with having the sprint master continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks. This list really only helps the sprint master not feel bad about following up, and is is the single source of truth for this task. If you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community#people) is the appropriate place to add your name.
 
-* [@diasdavid](//github.com/diasdavid)
-* [@jbenet](//github.com/jbenet)
-* [@lgierth](//github.com/lgierth)
-* [@mappum](//github.com/mappum)
-* [@RichardLitt](//github.com/RichardLitt)
-* [@whyrusleeping](//github.com/whyrusleeping)
-* [@kyledrake](//github.com/kyledrake)
-* [@VictorBjelkholm](//github.com/VictorBjelkholm)
-* [@dignifiedquire](//github.com/dignifiedquire)
+Name | Github | Twitter | IRC
+:--: | :----: | :-: | :-----:
+David Dias | [@diasdavid](//github.com/diasdavid) | [@daviddias](//twitter.com/daviddias) | daviddias
+Friedel Ziegelmayer | [@dignifiedquire](//github.com/Dignifiedquire) | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
+Jeromy Johnson | [@whyrusleeping](//github.com/whyrusleeping) | [@whyrusleeping](//twitter.com/whyrusleeping) | whyrusleeping
+Juan Benet | [@jbenet](//github.com/jbenet) | [@juanbenet](//twitter.com/juanbenet) | jbenet
+Kyle Drake | [@KyleDrake](//github.com/kyledrake) | [@kyledrake](//twitter.com/kyledrake) | kyledrake
+Lars Gierth | [@lgierth](//github.com/lgierth) |  | lgierth
+Matt Bell | [@mappum](//github.com/mappum) | [@mappum](//twitter.com/mappum) | mappum
+Richard Littauer | [@RichardLitt](//github.com/RichardLitt) | [@richlitt](//twitter.com/richlitt) | richardlitt
+Victor Bjelkholm | [@VictorBjelkholm](//github.com/VictorBjelkholm) | [@victorbjelkholm](//twitter.com/victorbjelkholm) | victorbjelkholm
 
