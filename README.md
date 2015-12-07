@@ -76,19 +76,26 @@ Each discussion has a lead, and each lead is responsible for preparing for that 
 
 ##### Sprint Discussion Schedule
 
-The schedule is fairly static:
+There are a few hangouts scheduled regularly:
 
 Time (PDT - **UTC/Z** - CET) | Topic
-:------------------------: | :---:
+:--------------------------: | :---:
 10:30PDT **18:30Z** 19:30CET | Apps on IPFS
 11:00PDT **19:00Z** 20:00CET | infrastructure
 11:30PDT **19:30Z** 20:30CET | libp2p
 12:00PDT **20:00Z** 21:00CET | js-ipfs
 12:30PDT **20:30Z** 21:30CET | go-ipfs
-13:00PDT **21:00Z** 22:00CET | testing + ci
-13:30PDT **21:30Z** 22:30CET | protocol + specs
-14:00PDT **22:00Z** 23:00CET | bitswap ml
-14:30PDT **22:30Z** 23:30CET | Data Structures
+
+And a few that are scheduled as needed:
+
+
+Topic:           |
+:--------------: |
+Testing + CI     |
+Protocol + Specs |
+Bitswap          |
+Data Structures  | 
+
 
 You can add these meeting times to your Calendar app by adding our [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
 
