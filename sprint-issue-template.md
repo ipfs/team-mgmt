@@ -15,10 +15,6 @@ infrastructure    | Lars Gierth    |
 libp2p            | David Dias     |
 node-ipfs         | David Dias     |
 go-ipfs           | Jeromy Johnson |
-testing + ci      | Jeromy Johnson |
-protocol + specs  | Juan Benet     |
-bitswap ml        | Juan Benet     |
-Data Structures   | Juan Benet     |
 
 Please add the Agenda to the Pad before the endeavour sprint starts.
 
