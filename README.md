@@ -16,22 +16,23 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 
 - [Sprint Planning](#sprint-planning)
   - [Stage 1: Sprint Sync](#stage-1-sprint-cap-sync)
-    - [The sprint master](#the-sprint-master)
   - [Stage 2: Sprint Discussions](#stage-2-sprint-discussions)
-    - [The discussion leads](#the-discussion-leads)
     - [Sprint Discussion Schedule](#sprint-discussion-schedule)
   - [Stage 3: Sprint Allocation](#stage-3-sprint-allocation)
-    - [The GitHub sprint master](#the-github-sprint-master)
 - [Working Hours](#working-hours)
-- [Active Contributors](#active-contributors)
+- [Roles](#roles)
+  - [The sprint master](#the-sprint-master)
+  - [The discussion leads](#the-discussion-leads)
+  - [The sprint administrator](#the-github-administrator)
+  - [Active Contributors](#active-contributors)
 
 #### About
 
-IPFS is adopting a sprint cycle. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. It adds a heartbeat to our development. We will seldom add or drop work mid-sprint, though exceptions may emerge. This means incoming PRs or new issues may not be addressed until the next sprint. We will try to make sure things don't get backlogged for long periods of time.
+IPFS has a sprint cycle, a heartbeat to our development. Each sprint gives us a manageable amount of work per person, to be completed within the cycle. We seldom add or drop work mid-sprint, though exceptions do emerge. This means incoming PRs or new issues should not be addressed until the next sprint. We try to make sure things don't get backlogged for long periods of time.
 
-If you'd like to join a sprint, let `@jbenet` know how much time + and what you'd like to take on. It is recommended to take things off the backlog, and check in with the team at the daily "sprint checkin".
+If you'd like to join a sprint, let [@jbenet](//github.com/jbenet) know how much time and what you'd like to take on. It is recommended to take things off the backlog. Check in with the team about it at the weekly sync.
 
-Each sprint lasts one week, and will be synthesized into an issue in this repo, as described in https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints
+Each sprint lasts one week, and is synthesized into an issue in this repository. This process is based off of Zenhub's, described [here](https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints).
 
 ### Sprint Planning
 
@@ -49,21 +50,17 @@ The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchr
 
 **How**: This takes place semi-synchronously on the IRC channel #ipfs.
 
-The sprint checkin is a quick sync-up to fine tune the sprint. It helps the sprint master know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole. 
+The sprint checkin is a quick sync-up to fine tune the sprint. It helps the sprint master and the team know what's progressing, what's blocking people, and what adjustments need to be made. This sync is critical to ensure the success of the sprint as a whole.
 
-Before the sync (ideally), put your updates for the previous week in the previous week's issue. That way, it is easy to see what was intended to get done, and what gone done. After the previous sprint is over, add your blank to dos to the new sprint issue. If you cannot make it to a sprint checkin, leave your update and comments on the previous Sprint's issue (not on IRC, as it will get lost) before the sync happens.
+Before the sync (ideally), put your updates for the previous week in the previous week's issue. That way, it is easy to see what was intended to get done, and what gone done. After the previous sprint is over, add your blank To Dos to the new sprint issue. If you cannot make it to a sprint sync, leave your update and comments on the previous Sprint's issue (not on IRC, as it will get lost) before the sync happens.
 
 Each participant gives an update on their assignment, what got done, what didn't, and discusses successes and failures. Participants, the sprint master, and whoever is interested should discuss ways of improving task definition, allocation, and implementation to increase future successes and avoid failures.
 
 If you are a partipicant, the normal way of showing assignments is to copy and paste your list from the previous sprint, with `[x]`, `[ ]`,  and `[~]` indicating items done, undone, or in progress, respectively. Be sure to copy and paste in small chunks, or IRC may kick you out for flooding the channel. Lines of 5 seems to work well.
 
-(This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
+The first to update their lists on the sprint issue are the first to go, and so on. The administrator makes sure everyone knows who is up next.
 
-##### The sprint master
-- Prepares the sprint's etherpad and posts it to GitHub and IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
-- Begins Sprint Planning with a roll-call to ping people on IRC. This list can be taken from the members of the previous sprint.
-- Prompts everyone who participated in the previous sprint to update on their work.
-- Closes up by making sure everyone who needs to has gone, and posts a link to the Etherpad again, opens the next issue for the coming sprint, and then pings reminders to people to add their items to the Etherpad over the course of the day so that a new issue can be copied over early on Tuesday morning.
+(This used to happen over a Google Hangout, but it wasted a lot of time to keep >10 people synchronized while people gave individual updates that not everyone was interested in. IRC has been working ok.)
 
 #### Stage 2: Sprint Discussions
 
@@ -76,9 +73,6 @@ Our sprints cover many different subject areas, that interest distinct but overl
 The sprint discussions give a high throughput (video call) environment to talk about status, next goals, problems, solution approcahes, and so on. They're mostly free form, but should endeavor to identify a set of tasks to do, even if those tasks won't all get done this sprint.
 
 If you are interested in watching, but do not plan on participating, please use the stream link provided by the discussion lead and watch on YouTube. Some participants may be on low bandwidth connections, and quality is generally better with less participants.
-
-##### The discussion leads
-Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into an Etherpad for their sprint. Afterwards, notes should go into the current sprint issue.
 
 ##### Sprint Discussion Schedule
 
@@ -105,7 +99,7 @@ Data Structures  |
 
 You can add these meeting times to your Calendar app by adding our [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
 
-The Hangouts are generated anew for each session. Sprint leaders should use [https://hangouts.google.com/start](https://hangouts.google.com/start) to make a new Hangout, and will drop the link in the IRC channel. 
+The Hangouts are generated anew for each session. The admin should use the [hangouts guide](hangouts.md) to set these up before the session.
 
 #### Stage 3: Sprint Allocation
 
@@ -115,10 +109,7 @@ Everyone signs up for tasks in the GitHub sprint issue by writing and commenting
 
 All tasks are assumed to be commitments, unless it is tagged (inline) with `hope:`. For example: `> - [ ] hope: merge IPLD into go-ipfs`. This should allow some breathing room.
 
-The sprint master should add a short backlog of relevant issues to take up. These can be taken by anybody. If you decide to take it on, please "sign yourself up for it" (move it from the backlog section to be under your name).
-
-##### The GitHub sprint master
-A GitHub sprint master should be responsible for the sprint process every week. This involves: making the new sprint issue, asking people to drop their updates in the old one, reminding people to drop their TODOs in the new one. This does not mean the IRC syncup, but rather the github setup and reminding people. This role should be different than the IRC sprint master, who basically moderates the Monday sync.
+The sprint master should add a short backlog of relevant issues to take up. These can be taken by anybody. If you decide to take it on, please "sign yourself up for it" by adding it to your To Do list in your own comment.
 
 ### Working Hours
 
@@ -131,9 +122,41 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 09:00-12:00 PDT  daily
 ```
 
-### Active Contributors
+### Roles
 
-This is a list of contributors who are active each sprint, and who agree that it's alright for the spring master to ask them to put their updates in the sprint issue. Only put your name here if you are OK with having the sprint master continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks. This list really only helps the sprint master not feel bad about following up, and is is the single source of truth for this task. If you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community#people) is the appropriate place to add your name.
+#### The Sprint Master
+
+Ideally, there should be a sprint master who knows every participant's tasks and projects intimately, helps moderate work loads, checks in when a task has been taking long than expected, sets the sprint goals, and adds any urgent or incoming business to the sprint. Realistically, this is done by the discussion leads and the team as a whole. The sprint administrator was created to minimize the sprint master's admin, and to help the discussion leads.
+
+##### The Discussion Leads
+
+Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into an Etherpad for their sprint; the admin should have already filled out the Etherpad with the template, and linked to your Etherpad in the sprint issue. After the discussions, the lead should add the notes directly into the current sprint issue.
+
+#### Sprint Administrator
+
+The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is responsible for the sprint process every week.
+
+** GitHub tasks**
+
+- Opens a new issue for the sprint on GitHub, and posts a link to it on IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
+- Opens an etherpad for each discussion and copies in the [sprint-issue-template](sprint-issue-template.md) to each etherpad, making sure that the etherpad URL matches the discussion link in the new sprint issue.
+- Pings each of the discussion leads to remind them to prepare for their talks the next day, preferably by writing an agenda
+- Asks people to drop their updates in the old sprint issue before the sync
+- Reminds people to drop their TODOs in the new sprint issue after the discussions.
+
+** Sync tasks**
+
+- Begins each sprint sync with a roll-call by pinging active contributors (listed below) on IRC.
+- Prompts everyone who participated in the previous sprint to update on their work. The best way to choose who goes first is to go off of a first-post-first-sync method, where all participants add their updates to the old PM issue, and the first to do so generally syncs first in the IRC channel.
+- Closes up by making sure everyone who needs to has gone.
+
+** Discussion tasks**
+
+- Sets up the videos and moderates them, using the process outlined in [hangouts.md](hangouts.md).
+
+#### Active Contributors
+
+This is a list of contributors who are active each sprint, and who agree that it's alright for the administrator to ask them to put their updates in the sprint issue. Only put your name here if you are OK with having the admin continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks. This list really only helps the admin not feel bad about following up, and is is the single source of truth for this task. If you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community#people) is the appropriate place to add your name.
 
 Name | Github | Twitter | IRC
 :--: | :----: | :-: | :-----:
