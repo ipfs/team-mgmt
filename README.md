@@ -71,6 +71,8 @@ Our sprints cover many different subject areas, that interest distinct but overl
 
 The sprint discussions give a high throughput (video call) environment to talk about status, next goals, problems, solution approcahes, and so on. They're mostly free form, but should endeavor to identify a set of tasks to do, even if those tasks won't all get done this sprint.
 
+If you are interested in watching, but do not plan on participating, please use the stream link provided by the discussion lead and watch on YouTube. Some participants may be on low bandwidth connections, and quality is generally better with less participants.
+
 ##### The discussion leads
 Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into an Etherpad for their sprint. Afterwards, notes should go into the current sprint issue.
 
