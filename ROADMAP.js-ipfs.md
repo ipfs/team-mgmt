@@ -25,7 +25,13 @@ note: libp2p, which is the network stack of IPFS, has its own ROADMAP and should
 #### v0.3.0
 
 - [ ] update js-ipld to respect the latest on IPLD spec
+- [ ] ipfs daemon (get a daemon running)
+- [ ] http-api
+  - (ipfs core) repo commands
+  - (ipfs core) block commands
+  - (ipfs core) refs commands
 
+note: list of ipfs core - https://public.etherpad-mozilla.org/p/dec-7-api
 
 #### extra (that are part of IPFS, but not priority)
 
