@@ -11,21 +11,29 @@ note: libp2p, which is the network stack of IPFS, has its own ROADMAP and should
 
 > main goal: Working version with a js-ipfs delegated node
 
-- [ ] writable gateway
-- [ ] ipfs node
-- [ ] ipfs init / id (keygen)
+- [ ] Have a set of writable gateways, to be our delegated node
 - [ ] js-ipfs-repo https://github.com/ipfs/js-ipfs-repo
-- [ ] ipfs version
+- [ ] `$ jsipfs daemon`
+- [ ] `$ jsipfs init`
+- [ ] `$ jsipfs id`
+- [ ] `$ jsipfs version`
 
 #### v0.2.0
 
-- [ ] js-dag-store (IPLD store on top ipfs-repo)
+- [ ] js-merkledag-store (IPLD store on top ipfs-repo)
   - [ ] js-ipfs-blocks
 - from core commands - https://github.com/ipfs/api/blob/master/level1.md#ipfs-core
-  - [ ] ipfs repo {init, stat, config get, config put}
-  - [ ] ipfs refs local
-  - [ ] ipfs block {get, put, stat}
-- [ ] ipfs files cat (ipfs cat today)
+  - [ ] `jsipfs config`
+    - get
+    - put
+    - set
+  - [ ] `jsipfs stat`
+  - [ ] `jsipfs refs local`
+  - [ ] `jsipfs block`
+    - get
+    - put
+    - stat
+- [ ] `jsipfs files cat` (ipfs cat today)
 
 #### v0.3.0
 
