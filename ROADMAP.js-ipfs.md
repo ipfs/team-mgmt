@@ -12,24 +12,35 @@ note: libp2p, which is the network stack of IPFS, has its own ROADMAP and should
 > main goal: Working version with a js-ipfs delegated node
 
 - [ ] writable gateway
+- [ ] ipfs node
+- [ ] ipfs init / id (keygen)
+- [ ] js-ipfs-repo https://github.com/ipfs/js-ipfs-repo
+- [ ] ipfs version
 
 #### v0.2.0
 
-- [ ] js-ipfs-repo
 - [ ] js-dag-store (IPLD store on top ipfs-repo)
-- [ ] importer (what converts a file into a MerkleDAG)
-  - importer interface
-  - fixed size chunks
-- [ ] DagStore
+  - [ ] js-ipfs-blocks
+- from core commands - https://github.com/ipfs/api/blob/master/level1.md#ipfs-core
+  - [ ] ipfs repo {init, stat, config get, config put}
+  - [ ] ipfs refs local
+  - [ ] ipfs block {get, put, stat}
+- [ ] ipfs files cat (ipfs cat today)
 
 #### v0.3.0
 
 - [ ] update js-ipld to respect the latest on IPLD spec
+- [ ] importer (what converts a file into a MerkleDAG)
+  - importer interface
+  - fixed size chunks
 - [ ] ipfs daemon (get a daemon running)
 - [ ] http-api
   - (ipfs core) repo commands
   - (ipfs core) block commands
   - (ipfs core) refs commands
+- of the core commands https://github.com/ipfs/api/blob/master/level1.md#ipfs-core -- need:
+  - [ ] ipfs node {id, start, stop} (daemon, really)
+  - [ ] ipfs pin {add, rm} (this is not easy)
 
 note: list of ipfs core - https://public.etherpad-mozilla.org/p/dec-7-api
 
