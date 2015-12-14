@@ -31,8 +31,11 @@ after recording though.
 * Greet everyone, announce the name of the sync and the agenda as the first
   action of after the broadcast went live.
 * Run through the sync...
-* As a last action say thanks to everyone, and good bye to all listeners
-  then click the "Stop broadcast" button.
+* As a last action:
+  * say thanks to everyone,
+  * announce the next sync, if there is one
+  * say good bye to everyone,
+  * then click the "Stop broadcast" button.
 
 ## Make videos private
 
