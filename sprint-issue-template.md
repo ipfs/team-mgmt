@@ -1,4 +1,4 @@
-# Sprint <% date %>
+# Sprint __Date__
 
 ## Sprint Goals
 
