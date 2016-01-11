@@ -168,3 +168,4 @@ Kyle Drake | [@KyleDrake](//github.com/kyledrake) | [@kyledrake](//twitter.com/k
 Lars Gierth | [@lgierth](//github.com/lgierth) |  | lgierth
 Matt Bell | [@mappum](//github.com/mappum) | [@mappum](//twitter.com/mappum) | mappum
 Richard Littauer | [@RichardLitt](//github.com/RichardLitt) | [@richlitt](//twitter.com/richlitt) | richardlitt
+Stephen Whitmore | [@noffle](//github.com/noffle) | [@noffle](//twitter.com/noffle) | noffle
