@@ -10,6 +10,7 @@ Please take notes in a separate pad, if you can, and link it here.
 
 Endeavour         | Lead           | Time (PDT - **UTC/Z** - CET) | Pad
 :---------------: | :------------: | :--------------------------: | :----:
+sync              | Rich Littauer  | 9:00pDT **17:00Z** 18:00CET  | IRC: #ipfs on Freenode
 apps on ipfs      | Juan Benet     | 10:30PDT **18:30Z** 19:30CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-apps-on-ipfs
 infrastructure    | Lars Gierth    | 11:00PDT **19:00Z** 20:00CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-infrastructure
 libp2p            | David Dias     | 11:30PDT **19:30Z** 20:30CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-libp2p
