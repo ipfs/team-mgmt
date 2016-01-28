@@ -161,11 +161,11 @@ This is a list of contributors who are active each sprint, and who agree that it
 GitHub | Name | Twitter | IRC
 :--: | :----: | :-: | :-----:
 [@diasdavid](//github.com/diasdavid) | David Dias | [@daviddias](//twitter.com/daviddias) | daviddias
-[@dignifiedquire](//github.com/Dignifiedquire) | Friedel Ziegelmayer | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
-[@whyrusleeping](//github.com/whyrusleeping) | Jeromy Johnson | [@whyrusleeping](//twitter.com/whyrusleeping) | whyrusleeping
+[@dignifiedquire](//github.com/dignifiedquire) | Friedel Ziegelmayer | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
 [@jbenet](//github.com/jbenet) | Juan Benet | [@juanbenet](//twitter.com/juanbenet) | jbenet
 [@KyleDrake](//github.com/kyledrake) | Kyle Drake | [@kyledrake](//twitter.com/kyledrake) | kyledrake
 [@lgierth](//github.com/lgierth) | Lars Gierth |  | lgierth
 [@mappum](//github.com/mappum) | Matt Bell | [@mappum](//twitter.com/mappum) | mappum
-[@RichardLitt](//github.com/RichardLitt) | Richard Littauer | [@richlitt](//twitter.com/richlitt) | richardlitt
 [@noffle](//github.com/noffle) | Stephen Whitmore | [@noffle](//twitter.com/noffle) | noffle
+[@RichardLitt](//github.com/RichardLitt) | Richard Littauer | [@richlitt](//twitter.com/richlitt) | richardlitt
+[@whyrusleeping](//github.com/whyrusleeping) | Jeromy Johnson | [@whyrusleeping](//twitter.com/whyrusleeping) | whyrusleeping
