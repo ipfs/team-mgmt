@@ -158,14 +158,14 @@ The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is 
 
 This is a list of contributors who are active each sprint, and who agree that it's alright for the administrator to ask them to put their updates in the sprint issue. Only put your name here if you are OK with having the admin continually badger you to put your TODOs down. Some active contributors may wish to not do this, so that they don't feel pressure to complete tasks. This list really only helps the admin not feel bad about following up, and is is the single source of truth for this task. If you want to be known as a contributor but not be reminded weekly, [this list](https://github.com/ipfs/community#people) is the appropriate place to add your name.
 
-Name | Github | Twitter | IRC
+GitHub | Name | Twitter | IRC
 :--: | :----: | :-: | :-----:
-David Dias | [@diasdavid](//github.com/diasdavid) | [@daviddias](//twitter.com/daviddias) | daviddias
-Friedel Ziegelmayer | [@dignifiedquire](//github.com/Dignifiedquire) | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
-Jeromy Johnson | [@whyrusleeping](//github.com/whyrusleeping) | [@whyrusleeping](//twitter.com/whyrusleeping) | whyrusleeping
-Juan Benet | [@jbenet](//github.com/jbenet) | [@juanbenet](//twitter.com/juanbenet) | jbenet
-Kyle Drake | [@KyleDrake](//github.com/kyledrake) | [@kyledrake](//twitter.com/kyledrake) | kyledrake
-Lars Gierth | [@lgierth](//github.com/lgierth) |  | lgierth
-Matt Bell | [@mappum](//github.com/mappum) | [@mappum](//twitter.com/mappum) | mappum
-Richard Littauer | [@RichardLitt](//github.com/RichardLitt) | [@richlitt](//twitter.com/richlitt) | richardlitt
-Stephen Whitmore | [@noffle](//github.com/noffle) | [@noffle](//twitter.com/noffle) | noffle
+[@diasdavid](//github.com/diasdavid) | David Dias | [@daviddias](//twitter.com/daviddias) | daviddias
+[@dignifiedquire](//github.com/dignifiedquire) | Friedel Ziegelmayer | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
+[@jbenet](//github.com/jbenet) | Juan Benet | [@juanbenet](//twitter.com/juanbenet) | jbenet
+[@KyleDrake](//github.com/kyledrake) | Kyle Drake | [@kyledrake](//twitter.com/kyledrake) | kyledrake
+[@lgierth](//github.com/lgierth) | Lars Gierth |  | lgierth
+[@mappum](//github.com/mappum) | Matt Bell | [@mappum](//twitter.com/mappum) | mappum
+[@noffle](//github.com/noffle) | Stephen Whitmore | [@noffle](//twitter.com/noffle) | noffle
+[@RichardLitt](//github.com/RichardLitt) | Richard Littauer | [@richlitt](//twitter.com/richlitt) | richardlitt
+[@whyrusleeping](//github.com/whyrusleeping) | Jeromy Johnson | [@whyrusleeping](//twitter.com/whyrusleeping) | whyrusleeping
