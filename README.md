@@ -14,6 +14,7 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 
 #### Table of Contents
 
+- [If You Are New](#if-you-are-new)
 - [Sprint Planning](#sprint-planning)
   - [Stage 1: Sprint Sync](#stage-1-sprint-cap-sync)
   - [Stage 2: Sprint Discussions](#stage-2-sprint-discussions)
@@ -33,6 +34,15 @@ IPFS has a sprint cycle, a heartbeat to our development. Each sprint gives us a 
 If you'd like to join a sprint, let [@jbenet](//github.com/jbenet) know how much time and what you'd like to take on. It is recommended to take things off the backlog. Check in with the team about it at the weekly sync.
 
 Each sprint lasts one week, and is synthesized into an issue in this repository. This process is based off of Zenhub's, described [here](https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints).
+
+#### If You Are New
+
+Hi! Welcome to the really cool board where we figure out how we can best work together as a team to achieve awesome goals. There's a lot of information on this page. Here is all you really need to know if you want to join in:
+
+  - First, Monday is a big day for us. However, **the most important bit is the sync**. It only takes around an hour, and happens on IRC. It's where we tell the team what we're doing; if you contribute, it's a great place for you to mention what you've done, too.  
+  - **You do not need to go to all of the video hang outs.** They are long. Only go to ones you want to go to; also, we summarize them in the sprint issue afterwards, if you're short on time.  
+  - If you want to, telling us what you plan to do or what you've done each week in the sync is **super cool**. But no pressure!  
+  - If you have questions, ask [RichardLitt](//github.com/RichardLitt) on IRC, or email him. He'll help you out.  
 
 ### Sprint Planning
 
