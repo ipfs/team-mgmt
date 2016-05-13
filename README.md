@@ -56,7 +56,7 @@ The **Sprint Planning** meeting happens semi-synchronously. Some of it is synchr
 
 #### Stage 1: Sprint Sync
 
-**When**: Monday at {9:00 PDT, 17:00 UTC, 18:00 CET}
+**When**: Monday at {9:00 PDT, 16:00 UTC, 18:00 CEST}
 
 **How**: This takes place semi-synchronously on the IRC channel #ipfs.
 
@@ -88,13 +88,13 @@ If you are interested in watching, but do not plan on participating, please use 
 
 There are a few hangouts scheduled regularly:
 
-Time (PDT - **UTC/Z** - CET) | Topic
+Time (PDT - **UTC/Z** - CEST) | Topic
 :--------------------------: | :---:
-10:30PDT **18:30Z** 19:30CET | Apps on IPFS
-11:00PDT **19:00Z** 20:00CET | infrastructure
-11:30PDT **19:30Z** 20:30CET | libp2p
-12:00PDT **20:00Z** 21:00CET | js-ipfs
-12:30PDT **20:30Z** 21:30CET | go-ipfs
+10:30PDT **17:30Z** 19:30CEST | Apps on IPFS
+11:00PDT **18:00Z** 20:00CEST | infrastructure
+11:30PDT **18:30Z** 20:30CEST | libp2p
+12:00PDT **19:00Z** 21:00CEST | js-ipfs
+12:30PDT **19:30Z** 21:30CEST | go-ipfs
 
 And a few that are scheduled as needed:
 
@@ -126,10 +126,10 @@ The sprint master should add a short backlog of relevant issues to take up. Thes
 To maximize feedback during a sprint, we've picked a set of "working hours" during which we can overlap. The hours are:
 
 ```
-16:00-19:00 UTC  daily or
-17:00-20:00 CET daily or
+16:00-19:00 Z/UTC daily or
+18:00-21:00 CEST daily or
 12:00-15:00 EST daily or
-09:00-12:00 PDT  daily
+09:00-12:00 PDT daily
 ```
 
 ### Roles
