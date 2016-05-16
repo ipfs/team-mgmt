@@ -8,14 +8,14 @@
 
 Please take notes in a separate pad, if you can, and link it here.
 
-Endeavour         | Lead            | Time (PDT - **UTC/Z** - CET) | Pad
+Endeavour         | Lead            | Time (PDT - **UTC/Z** - CEST) | Pad
 :---------------: | :-------------: | :--------------------------: | :----:
-sync              | @RichardLitt    | 9:00PDT **17:00Z** 18:00CET  | IRC: #ipfs on Freenode
-apps on ipfs      | @dignifiedquire | 10:30PDT **18:30Z** 19:30CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-apps-on-ipfs
-infrastructure    | @lgierth        | 11:00PDT **19:00Z** 20:00CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-infrastructure
-libp2p            | @diasdavid      | 11:30PDT **19:30Z** 20:30CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-libp2p
-js-ipfs           | @diasdavid      | 12:00PDT **20:00Z** 21:00CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-js-ipfs
-go-ipfs           | @whyrusleeping  | 12:30PDT **20:30Z** 21:30CET | https://public.etherpad-mozilla.org/p/ipfs-__Date__-go-ipfs
+sync              | @RichardLitt    | 9:00PDT **16:00Z** 18:00CEST  | IRC: #ipfs on Freenode
+apps on ipfs      | @dignifiedquire | 10:30PDT **17:30Z** 19:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-apps-on-ipfs
+infrastructure    | @lgierth        | 11:00PDT **18:00Z** 20:00CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-infrastructure
+libp2p            | @diasdavid      | 11:30PDT **18:30Z** 20:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-libp2p
+js-ipfs           | @diasdavid      | 12:00PDT **19:00Z** 21:00CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-js-ipfs
+go-ipfs           | @whyrusleeping  | 12:30PDT **19:30Z** 21:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-go-ipfs
 
 Please add the Agenda to the Pad before the endeavour sprint starts.
 
