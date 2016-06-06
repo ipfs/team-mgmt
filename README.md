@@ -173,6 +173,7 @@ GitHub | Name | Twitter | IRC
 [@diasdavid](//github.com/diasdavid) | David Dias | [@daviddias](//twitter.com/daviddias) | daviddias
 [@dignifiedquire](//github.com/dignifiedquire) | Friedel Ziegelmayer | [@dignifiedquire](//twitter.com/dignifiedquire) | dignifiedquire
 [@jbenet](//github.com/jbenet) | Juan Benet | [@juanbenet](//twitter.com/juanbenet) | jbenet
+[@Kubuxu](//github.com/kubuxu/) | Jakub Sztandera | [@Kubuxu](//twitter.com/Kubuxu) | Kubuxu
 [@KyleDrake](//github.com/kyledrake) | Kyle Drake | [@kyledrake](//twitter.com/kyledrake) | kyledrake
 [@lgierth](//github.com/lgierth) | Lars Gierth |  | lgierth
 [@mappum](//github.com/mappum) | Matt Bell | [@mappum](//twitter.com/mappum) | mappum
