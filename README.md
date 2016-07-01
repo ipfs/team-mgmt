@@ -12,6 +12,10 @@ We are still tweaking how our sprints work, see https://github.com/ipfs/communit
 
 ## Sprints
 
+** THIS DOCUMENT IS CURRENTLY A WORK IN PROGRESS, AND NOT REFLECTIVE OF THE CURRENT SPRINT PROCESS. ** 
+
+Due to general changes in our process, this doc is no longer indicative of how we necessarily do things. It will be overhauled soon. If you are curious about the coming sprints, contact @RichardLitt.
+
 #### Table of Contents
 
 - [If You Are New](#if-you-are-new)
