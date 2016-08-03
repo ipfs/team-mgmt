@@ -63,6 +63,7 @@ A goal description includes the following:
   - Describe the type of this goal: is it a bug? a new feature? something else?
 - Status
   - What is the current status of this goal. Is it to-be-reviewed? In progress? Blocked? Done?
+- Dependencies (where applicable)
 - Priority (optional, priority can be defined in the backlog)
 - Any additional information that helps to reach this goal (optional)
 
@@ -101,9 +102,11 @@ The Roadmap Document contains the following information:
 - List of previous, recent milestones (< 6 months)
 - List of links to very old milestones (> 6 months)
 
-The roadmap can be a high-level overview of milestones and project's progress, so details suchs as list of goals per milestone can be omitted. However, if omitted, the roadmap should contain links to the detailed information.
+The roadmap can be a high-level overview of milestones and project's progress, so details suchs as list of goals per milestone can be omitted. However, if omitted, the roadmap must contain links to the detailed break down.
 
-TODO: a clear example
+Examples:
+- [js-ipfs roadmap](https://github.com/ipfs/js-ipfs/blob/master/ROADMAP.md#ipfs-javascript-implementation-roadmap)
+- [Orbit roadmap](https://github.com/haadcode/orbit/blob/master/ROADMAP.md#orbit---roadmap)
 
 ### Organization Roadmap
 An overview of all projects across the organization is tracked in organization's roadmap. This is similar to a project roadmap, but collects all milestones from all projects into one place.
