@@ -93,7 +93,7 @@ A backlog has the following information:
 - All goals of a project
 - Priority of goals in sorted order
 
-While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog list can be split in two: Backlog and Icebox. The icebox section lists goals that will probably not be worked on anytime soon whereas the backlog itself contains the items that are "approved". The split and maintenance of both lists are done the project lead.
+While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog list can be split in two: Backlog and Icebox. The icebox section lists goals that will probably not be worked on anytime soon, or are not ready to be worked on yet, whereas the backlog itself contains the goals that are ready or "approved". If split, together they are called "the backlog" and icebox is referenced only in its specific meaning. The split and maintenance of both lists are done the project lead.
 
 ### Milestones
 A milestone is a group of project's goals. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
