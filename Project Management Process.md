@@ -69,19 +69,13 @@ A goal description includes the following:
 TODO: a clear example
 
 ### Backlog
-TODO
+Backlog is the collection of all goals in a project. It should be as comprehensive as possible, including everything that needs to happen or should happen in a particular project. The backlog indicates priority by order: the items that have the highest priority are at the top of the list. The backlog is owned and maintained by the project lead. As part of daily work, the backlog gets updated and a general grooming should happen on weekly basis.
 
-What:
-- Collection of project's goals
-- List all goals, tasks, efforts, bugs, new features, etc. for the project.
-- Prioritize items top-to-bottom, items to be worked on next at the top.
-- Each item should signal its status, type and other important meta information.
+A backlog has the following information:
+- All goals of a project
+- Priority of goals in sorted order
 
-Who: Project Leads
-
-How often: Keep up to date on daily-basis
-
-Output: Backlog
+While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog list can be split in two: Backlog and Icebox. The icebox section lists goals that will probably not be worked on anytime soon whereas the backlog itself contains the items that are "approved". The split and maintenance of both lists are done the project lead.
 
 ### Milestones
 A milestone is a group of project's goals. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
