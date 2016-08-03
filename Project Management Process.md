@@ -2,24 +2,41 @@
 
 **Status: work in progress, not even a full draft yet**
 
-Answer these questions:
-- What steps are there
-- How often things are done
-- Who is responsible for what part
-- What are the expectations and outputs of each step
-- How information is displayed
-- How status is signaled
-- How information moves
-- Who does what and when
+## Introduction
+TODO: describe the purpose of this document
+
+## Table on Contents
+- [Projects](#projects)
+- [Roles](#roles)
+  - [Product Owners](#product-owners)
+  - [Project Leads](#project-leads)
+  - [Project Managers](#project-managers)
+- [Structure](#structure)
+  - [Overview](#overview)
+  - [Goals](#goals)
+  - [Backlog](#backlog)
+  - [Milestones](#milestones)
+  - [Project Roadmap](#project-roadmap)
+  - [Organization Roadmap](#organization-roadmap)
+- [Flow](#flow)
+  - [Quarterly Planning](#quarterly-planning)
+  - [Software Development Pipeline](#software-development-pipeline)
+- [Implementation](#implementation)
 
 ## Projects
 TODO
 
 ## Roles
 TODO
+
 ### Product Owners
+TODO
+
 ### Project Leads
+TODO
+
 ### Project Managers
+TODO
 
 ## Structure
 
