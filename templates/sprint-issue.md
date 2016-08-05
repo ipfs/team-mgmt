@@ -1,25 +1,14 @@
 # Sprint __Date__
 
-## Sprint Goals
+_For information about these calls and how they work, read [the ipfs/pm README](https://github.com/ipfs/pm)._
 
-## Sprint Discussions
-
-[Schedule](https://github.com/ipfs/pm#sprint-discussion-schedule)
-
-Please take notes in a separate pad, if you can, and link it here.
+[Calendar](TODO)
 
 Endeavour         | Lead            | Time (PDT - **UTC/Z** - CEST) | Pad
 :---------------: | :-------------: | :--------------------------: | :----:
-sync              | @RichardLitt    | 9:00PDT **16:00Z** 18:00CEST  | IRC: #ipfs on Freenode
-apps on ipfs      | @dignifiedquire | 10:30PDT **17:30Z** 19:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-apps-on-ipfs
-infrastructure    | @lgierth        | 11:00PDT **18:00Z** 20:00CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-infrastructure
-libp2p            | @diasdavid      | 11:30PDT **18:30Z** 20:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-libp2p
-js-ipfs           | @diasdavid      | 12:00PDT **19:00Z** 21:00CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-js-ipfs
-go-ipfs           | @whyrusleeping  | 12:30PDT **19:30Z** 21:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-go-ipfs
+All Hands Call   | @RichardLitt    | 9:00PDT **16:00Z** 18:00CEST  |
+js-ipfs                | @diasdavid       | 10:30PDT **17:30Z** 19:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-js-ipfs
+go-ipfs               | @whyrusleeping  | 11:00PDT **18:00Z** 20:00CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-go-ipfs
+-libp2p            | @diasdavid      | 11:30PDT **18:30Z** 20:30CEST | https://public.etherpad-mozilla.org/p/ipfs-__Date__-libp2p
 
-Please add the Agenda to the Pad before the endeavour sprint starts.
-
-## Sprint Deliverables
-
-- Add your tasks below in a comment, that way we only have people listed who are really in the sprint
-- Add links to issues down here. Only add things you can finish this sprint.
+Please add any agenda items you have to the pad before the project-specific sprint call starts.
