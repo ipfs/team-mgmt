@@ -9,7 +9,7 @@
 
 This is a repository for general IPFS project management.
 
-tl:dr; We have a **weekly, all-hands call**. The time and date is announced in [the issues](). Propose agenda items in the etherpad linked in that issue!
+tl:dr; We have a **weekly, all-hands call**. The time and date is announced in [the issues](https://github.com/ipfs/pm/issues). Propose agenda items in the etherpad linked in that issue!
 
 ## Table of Contents
 
