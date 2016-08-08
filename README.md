@@ -9,7 +9,7 @@
 
 This is a repository for general IPFS project management.
 
-**tl:dr:** We have a **weekly, all-hands call** that is usually on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call as comments on the issue!
+**tl:dr:** We have a **weekly, all-hands call** that is usually on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ We use a loose agile approach, breaking our work into weekly sprints. Here are s
 
   - Every Monday we  have our team sync calls. The most important call is the all-hands call; we try to keep this short, it has an agenda, and anyone (including you) can propose an agenda item for it.
   - We create a "sprint issue" for each sprint. That is where we put all the information about the week's calls. That's also where the notes from that week's calls accumulate.
-  - There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. Those sprint calls are where we discuss the work everyone will be doing on that project that week. The times for those calls are listed in that week's sprint issue.
+  - There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below. 
   - You do not have to follow all of the project-specific discusions. They can be very detailed. Only go to ones you want to go to. We post the notes (such as they are) in the sprint issue in this repository afterwards.
   - If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item my adding a comment on that week's sprint issue.
   - If you have questions, ask [RichardLitt](//github.com/RichardLitt) on IRC, or email him. He'll help you out.
