@@ -21,24 +21,28 @@ TODO: describe the purpose of this document
   - [Milestones](#milestones)
   - [Project Roadmap](#project-roadmap)
   - [Organization Roadmap](#organization-roadmap)
-- [Flow](#flow)
-  - [Quarterly Planning](#quarterly-planning)
-  - [Software Development Pipeline](#software-development-pipeline)
-    - [Kanban Pipeline](#kanban-pipeline)
-- [Implementation](#implementation)
+- [Workflow](#flow)
+  - [Pipelines](#pipelines)
+    - [Stages](#stages)
+    - [Flow](#flow)
+    - [Example](#example)
+- [Cadence](#cadence)
+  - [Weekly Updates](#weekly-updates)
+  - [Roadmap Updates](#roadmap-updates)
+- [Implementation Guideline](#implementation-guideline)
 
 ## TL;DR
 
 The IPFS project management process has the following **cadence**:
 
+Weekly Updates
+- once a week (2 weeks?)
+- discuss last week's progress
+- discuss the plans for next week
+
 Roadmap Updates
 - every 3 months
 - identify, discuss and plan the next steps for the organization as a whole
-
-"Sprint" Updates
-- once a week (2 weeks?)
-- discuss last week's progress
-- discuss plan for the next week
 
 The IPFS project management process breaks down to the following **units of work**:
 
@@ -60,15 +64,20 @@ Goals
 - may have parts or sub-goals
 - may have parts or sub-goals big enough to merit own Goals
 
-The IPFS project management process tracks the work with the following **tools**:
+The IPFS project management process uses the following **tools** to plan and track work:
 
 Roadmaps
-- attached to a project
-- has a list of milestones, ordered by completion time
+- are attached to a project
+- have a list of milestones, ordered by completion time
+
+Backlogs
+- are attached to a project
+- have a list of all goals for a project, ordered by priority
 
 Pipelines
-- are stages through which goals move, the steps between "not done" and "done"
-- guide the software development process
+- have a set of stages through which goals move (the steps between "not done" and "done")
+- show what has been completed, what's being worked on at the moment and what will be worked on next
+
 
 ## Projects
 TODO
@@ -97,23 +106,7 @@ Each discussion has a lead, and each lead is responsible for preparing for that 
 
 The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is responsible for the sprint process every week.
 
-** GitHub tasks**
-
-- Opens a new issue for the sprint on GitHub, and posts a link to it on IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
-- Opens an etherpad for each discussion and copies in the [sprint-issue-template](sprint-issue-template.md) to each etherpad, making sure that the etherpad URL matches the discussion link in the new sprint issue.
-- Pings each of the discussion leads to remind them to prepare for their talks the next day, preferably by writing an agenda
-- Asks people to drop their updates in the old sprint issue before the sync
-- Reminds people to drop their TODOs in the new sprint issue after the discussions.
-
-** Sync tasks**
-
-- Begins each sprint sync with a roll-call by pinging active contributors (listed below) on IRC.
-- Prompts everyone who participated in the previous sprint to update on their work. The best way to choose who goes first is to go off of a first-post-first-sync method, where all participants add their updates to the old PM issue, and the first to do so generally syncs first in the IRC channel.
-- Closes up by making sure everyone who needs to has gone.
-
-** Discussion tasks**
-
-- Sets up the videos and moderates them, using the process outlined in [hangouts.md](hangouts.md).
+***TODO: Link to a document with the specific tasks***
 
 ## Structure
 
@@ -222,22 +215,56 @@ The organization roadmap is owned by project management and project managers are
 
 TODO: a clear example
 
-## Flow
+## Workflow
 
-### Software Development Pipeline
-TODO
+### Pipelines
+The IPFS Project Management Process uses Pipelines to process goals a release. Pipelines are a simple way to describe and move Goals between the different stages in their lifecycle. 
 
-- From Backlog to Release
-    - Workflow steps
-    - Releasing new versions
-    - Keeping the backlog up to date
-- Keeping everyone updated
-    - Tracking status and current work
-    - Using a signaling board (Kanban)
-    - Working towards milestones
-    - "Sprint" meetings
+#### Stages
+Pipelines are sequential stages through which a Goal goes during its lifetime. The different stages are broken down per the workflow of each project. On high level the stages can be described as: `Not Done -──> In Progress ──> Done`. Different projects might have different stages in their development pipeline and it is up to the project lead to identify and define the stages her project uses.
 
-#### Roadmap updates
+***Proposal: Unify "Future Work", "Backlog" and "Done" stages for all projects, let project leads define stages of the "Development" phase.***
+
+#### Flow
+Goals move from pipeline's entry stage towards the completion stage and a Goal can be only in one stage at a time. Usually goals move one way, in sequential order, but sometimes goals can move back between the stages (eg. `In Progress ──> Review ──> In Progress`). Sometimes a goal can't progress due to something preventing it to move to the next stage. To ensure surfacing blockers, each pipeline should have a ***"Blocked"*** stage where blocked goals are moved as soon as they occur. 
+
+#### Example
+
+***An example pipeline could have the following stages:***
+
+```
+  ╭─────────────────────────────────── Pipeline ──────────────────────────────────────╮
+  │────── 1. ────│──── 2. ───│─── 3. ──│────── 4. ─────│─── 5. ───│──── 6. ───│── 7. ─│
+  │ Stages                                                                            │
+
+                                                ╭────────────╮
+──> Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Release ──> Done ──>
+         │             │          │             │            │ 
+         ╰─────────────╯          │             │            │
+                                  ╰───────── Blocked ────────╯
+    Phases
+  │───────── Backlog ────────│──────────── Development ───────────│──── Complete ─────│
+  ╰───────────────────────────────────────────────────────────────────────────────────╯
+```
+
+1. Future Work - the goal is identified and being fleshed out. It is not ready to be carried out at this moment. 
+2. Backlog - the goal is well defined but not planned to be carried out at this moment.
+3. Ready - the goal is planned to be carried out, waiting to be worked on.
+4. In Progress - the goal is actively being worked on, this moment.
+5. Review - the development of the goal is done, but a review needs to happen before it can be included in a release.
+6. Release - the goal is waiting to be inckuded in a an official release.
+7. Done - the goal is completed. No further action is necessary.
+
+* Blocked - the goal cannot proceed as something is preventing it to move down the pipeline.
+
+## Cadence
+
+To review and discuss progress of each project and the organization as a whole, we hold weekly update meetings and quarterly roadmap update meetings.
+
+### Weekly updates
+TODO: describe our weekly process. don't call it a "Sprint" anymore(?)
+
+### Roadmap updates
 TODO
 
 What:
@@ -252,39 +279,7 @@ Output: Organization Roadmap (responsible: PM)
 
 This could be also a constant process instead of doing all that work tied to quarterly event. If the work was constant, we could still have an update event to go through the updated/new roadmap(s).
 
-#### Weekly updates
-TODO: describe our weekly process. don't call it a "Sprint" anymore(?)
-
-#### Kanban Pipeline
-
-##### Stages
-The Kanban pipeline is divided into sequential stages. Goals move from pipeline's entry stage towards the completion stage. 
-
-If at any point the goal is bloecked and can't be worked on, the goal moves to the "Blocked" stage.
-
-1. Future Work - the goal is identified and being fleshed out. It is not ready to be carried out at this 
-2. Backlog - the goal is well defined and ready to be carried out, but not being actively worked on.
-3. In Progress - the goal is actively being worked on, this moment.
-4. Blocked - the goal cannot proceed as another goal must be Done first.
-5. Done - the goal is completed. No further action is necessary.
-
-An example pipeline could look something like this:
-
-```
-╭────────────────────────────────────────── Pipeline ────────────────────────────────────╮
-  Stages                                                                                       
-
-──> Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Done ──> Released ──>
-         │             │          │             │            │ 
-         ╰─────────────╯          │             │            │
-                                  ╰───────── Blocked ────────╯
-  Phases
-│────────── Backlog ─────────│──────────── Development ────────────│────── Release ──────│
-
-╰────────────────────────────────────────── Pipeline ────────────────────────────────────╯
-```
-
-## Implementation
+## Implementation Guidelines
 TODO
 
 - automation
