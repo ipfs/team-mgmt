@@ -271,14 +271,17 @@ If at any point the goal is bloecked and can't be worked on, the goal moves to t
 An example pipeline could look something like this:
 
 ```
-Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Done ──> Released
-     │             │          │             │             │ 
-     ╰─────────────╯          │             │             │
-                              ╰───────── Blocked ─────────╯
+╭────────────────────────────────────────── Pipeline ────────────────────────────────────╮
+  Stages                                                                                       
 
-│──────── Backlog ───────│──────────── Development ───────────│────── Release ─────│
-  
-╰────────────────────────────────────── Pipelines ─────────────────────────────────╯
+──> Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Done ──> Released ──>
+         │             │          │             │            │ 
+         ╰─────────────╯          │             │            │
+                                  ╰───────── Blocked ────────╯
+  Phases
+│────────── Backlog ─────────│──────────── Development ────────────│────── Release ──────│
+
+╰────────────────────────────────────────── Pipeline ────────────────────────────────────╯
 ```
 
 ## Implementation
