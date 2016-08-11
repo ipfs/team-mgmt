@@ -5,7 +5,10 @@
 ## Introduction
 TODO: describe the purpose of this document
 
+- this is an opt-in process, nobody in the community is *required* to use this process
+
 ## Table on Contents
+- [TL;DR](#tldr)
 - [Projects](#projects)
 - [Roles](#roles)
   - [Product Owners](#product-owners)
@@ -21,7 +24,51 @@ TODO: describe the purpose of this document
 - [Flow](#flow)
   - [Quarterly Planning](#quarterly-planning)
   - [Software Development Pipeline](#software-development-pipeline)
+    - [Kanban Pipeline](#kanban-pipeline)
 - [Implementation](#implementation)
+
+## TL;DR
+
+The IPFS project management process has the following **cadence**:
+
+Roadmap Updates
+- every 3 months
+- identify, discuss and plan the next steps for the organization as a whole
+
+"Sprint" Updates
+- once a week (2 weeks?)
+- discuss last week's progress
+- discuss plan for the next week
+
+The IPFS project management process breaks down to the following **units of work**:
+
+Projects 
+- may contain other projects
+- have a project leader who "roadmaps" (decides what are goals and milestones, and when they should happen)
+- have a roadmap (list of milestones and goals)
+- have a backlog (list of goals)
+
+Milestones 
+- measurable unit of progress
+- contains a list of goals, ordered by priority
+- usually but not always sequentially ordered
+- may have a deadline
+
+Goals
+- an individual actionable unit of work
+- may have other Goals as dependencies
+- may have parts or sub-goals
+- may have parts or sub-goals big enough to merit own Goals
+
+The IPFS project management process tracks the work with the following **tools**:
+
+Roadmaps
+- attached to a project
+- has a list of milestones, ordered by completion time
+
+Pipelines
+- are mechanisms to move goals from "not done" to "done"
+- guide the software development process
 
 ## Projects
 TODO
@@ -29,14 +76,44 @@ TODO
 ## Roles
 TODO
 
-### Product Owners
+#### Project Leads
 TODO
 
-### Project Leads
+#### Product Owners
 TODO
 
-### Project Managers
+#### Project Managers
 TODO
+
+#### The Sprint Master
+
+Ideally, there should be a sprint master who knows every participant's tasks and projects intimately, helps moderate work loads, checks in when a task has been taking long than expected, sets the sprint goals, and adds any urgent or incoming business to the sprint. Realistically, this is done by the discussion leads and the team as a whole. The sprint administrator was created to minimize the sprint master's admin, and to help the discussion leads.
+
+#### The Discussion Leads
+
+Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into an Etherpad for their sprint; the admin should have already filled out the Etherpad with the template, and linked to your Etherpad in the sprint issue. After the discussions, the lead should add the notes directly into the current sprint issue.
+
+#### Sprint Administrator
+
+The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is responsible for the sprint process every week.
+
+** GitHub tasks**
+
+- Opens a new issue for the sprint on GitHub, and posts a link to it on IRC ahead of time. To open an Etherpad, go to https://etherpad-mozilla.org.
+- Opens an etherpad for each discussion and copies in the [sprint-issue-template](sprint-issue-template.md) to each etherpad, making sure that the etherpad URL matches the discussion link in the new sprint issue.
+- Pings each of the discussion leads to remind them to prepare for their talks the next day, preferably by writing an agenda
+- Asks people to drop their updates in the old sprint issue before the sync
+- Reminds people to drop their TODOs in the new sprint issue after the discussions.
+
+** Sync tasks**
+
+- Begins each sprint sync with a roll-call by pinging active contributors (listed below) on IRC.
+- Prompts everyone who participated in the previous sprint to update on their work. The best way to choose who goes first is to go off of a first-post-first-sync method, where all participants add their updates to the old PM issue, and the first to do so generally syncs first in the IRC channel.
+- Closes up by making sure everyone who needs to has gone.
+
+** Discussion tasks**
+
+- Sets up the videos and moderates them, using the process outlined in [hangouts.md](hangouts.md).
 
 ## Structure
 
@@ -73,15 +150,16 @@ A goal description includes the following:
   - Describes what the goal is on high level
   - Example 1: "Reduce the size of the go-ipfs executable"
   - Example 2: "js-ipfs should have API Documentation"
-  - TODO: what is a good name for a goal?
 - Description
-  - What the problem is and how this goal solves it
-- Type
+  - What the problem is and how to achieve this goal
+  - Should tell you how you will know that the problem has been solved or the goal has been achieved
   - Describe the type of this goal: is it a bug? a new feature? something else?
 - Status
-  - What is the current status of this goal. Is it to-be-reviewed? In progress? Blocked? Done?
+  - The status should signal the goal's status towards completion
+  - What is the current state of this goal? Is it to-be-reviewed? In progress? Blocked? Done?
+  - A goal can be in only one state at a time
 - Dependencies (where applicable)
-- Priority (optional, priority can be defined in the backlog)
+  - Links to other goals that must happen before or concurrently with this one
 - Any additional information that helps to reach this goal (optional)
 
 TODO: a clear example
@@ -93,19 +171,26 @@ A backlog has the following information:
 - All goals of a project
 - Priority of goals in sorted order
 
-While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog list can be split in two: Backlog and Icebox. The icebox section lists goals that will probably not be worked on anytime soon, or are not ready to be worked on yet, whereas the backlog itself contains the goals that are ready or "approved". If split, together they are called "the backlog" and icebox is referenced only in its specific meaning. The split and maintenance of both lists are done the project lead.
+While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog list can be split in two: ***Backlog*** and ***Future Work***. The future work section lists goals that will probably not be worked on anytime soon, or are not ready to be worked on yet, whereas the ready section contains the goals that are ready to be worked on or "approved". If split, together they are called "the backlog" while *Future Work* is referenced only in its specific meaning. The split and maintenance of both lists are done by the project lead.
 
 ### Milestones
-A milestone is a group of project's goals. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
+A milestone is batch of goals that together achieve a significant improvement to the product or project. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
 
 A milestone has the following information:
 - Name
-  - TODO: describe what is a good name, give an example
-- Due date
+  - Example 1: "Release go-ipfs v0.5.0"
+  - Example 2: "Working prototype of Pubsub implementation in go-ipfs"
+  - Example 3.1: "go-ipfs and js-ipfs implementations can interoperate"
+  - Example 3.2: "go-ipfs and js-ipfs clients use the same network"
+- Description
 - List of goals attached to it
 - Progress indicator
+- Deadline (where applicable)
+- List of dependencies and related material (where applicable)
 
 The Project Lead keeps current milestones up to date on weekly-basis. New milestones should be generated and old milestones updated before the quarterly planning meeting. Prepare new milestones in good time before quarterly planning.
+
+Milestones help make Roadmaps achievable, and they give the team and users a clear sense of progress. There's no hard and fast way to decide what a Milestone's boundaries are. It is up to the project leader to select what Goals constitute a Milestone and what Milestones constitute a Roadmap. Sometimes it will be clear how to break down a Roadmap into manageable pieces. Sometimes it will be clear which goals to bundle in a Milestone. The important thing is to make manageable groups (not too big) that provide a significant enough sense of progress through the Roadmap.
 
 TODO: a clear example
 
@@ -114,12 +199,12 @@ The milestones are tracked in project's roadmap. The project lead owns the roadm
 
 The Roadmap Document contains the following information:
 - List of current milestones
-  - Ordered by expected due date, next upcoming milestone at the top
+  - Sequentally ordered, eg. by expected due date (where applicable)
+  - Next upcoming milestone at the top
 - Current status of the project, ie. milestone progress
-- List of previous, recent milestones (< 6 months)
-- List of links to very old milestones (> 6 months)
+- List of previous milestones
 
-The roadmap can be a high-level overview of milestones and project's progress, so details suchs as list of goals per milestone can be omitted. However, if omitted, the roadmap must contain links to the detailed break down.
+The roadmap can be a high-level overview of milestones and project's progress, so details such as list of goals per milestone can be omitted. However, if omitted, the roadmap must contain links to the detailed break down.
 
 Examples:
 - [js-ipfs roadmap](https://github.com/ipfs/js-ipfs/blob/master/ROADMAP.md#ipfs-javascript-implementation-roadmap)
@@ -139,18 +224,6 @@ TODO: a clear example
 
 ## Flow
 
-### Quarterly Planning
-TODO
-
-What:
-- Identify project’s / company’s needs and main efforts.
-- Commit to efforts and goals.
-- Produce a high level overview of a roadmap.
-
-Who: Product Owners, Project Leads, Project Managers
-How often: Every 3 months
-Output: Organization Roadmap (responsible: PM)
-
 ### Software Development Pipeline
 TODO
 
@@ -164,5 +237,48 @@ TODO
     - Working towards milestones
     - "Sprint" meetings
 
+#### Roadmap updates
+TODO
+
+What:
+- Event to update and plan the organization's / project's roadmaps.
+- Identify projects' / organizations' needs and main efforts.
+- Commit to efforts and goals.
+- Produce a high level overview of a roadmap.
+
+Who: Product Owners, Project Leads, Project Managers
+How often: Every 3 months
+Output: Organization Roadmap (responsible: PM)
+
+This could be also a constant process instead of doing all that work tied to quarterly event. If the work was constant, we could still have an update event to go through the updated/new roadmap(s).
+
+#### Weekly updates
+TODO: describe our weekly process. don't call it a "Sprint" anymore(?)
+
+#### Kanban Pipeline
+
+##### Stages
+The Kanban pipeline is divided into sequential stages. Goals move from pipeline's entry stage towards the completion stage. 
+
+If at any point the goal is bloecked and can't be worked on, the goal moves to the "Blocked" stage.
+
+1. Future Work - the goal is identified and being fleshed out. It is not ready to be carried out at this 
+2. Backlog - the goal is well defined and ready to be carried out, but not being actively worked on.
+3. In Progress - the goal is actively being worked on, this moment.
+4. Blocked - the goal cannot proceed as another goal must be Done first.
+5. Done - the goal is completed. No further action is necessary.
+
+```
+Future Work ──> Backlog ──> In Progress ──> Done
+                   │             │   
+                   │             │
+                   └───────── Blocked
+```
+
 ## Implementation
 TODO
+
+- automation
+  - Generating milestone documentation: https://github.com/ipfs/pm/pull/131#discussion_r73778673
+- github
+- waffle
