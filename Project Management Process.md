@@ -272,11 +272,13 @@ An example pipeline could look something like this:
 
 ```
 Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Done ──> Released
-                              │             │             │ 
-                              │             │             │
+     │             │          │             │             │ 
+     ╰─────────────╯          │             │             │
                               ╰───────── Blocked ─────────╯
 
-│──────── Backlog ───────│──────────── Development ───────────│────── Archive ─────│
+│──────── Backlog ───────│──────────── Development ───────────│────── Release ─────│
+  
+╰────────────────────────────────────── Pipelines ─────────────────────────────────╯
 ```
 
 ## Implementation
