@@ -67,7 +67,7 @@ Roadmaps
 - has a list of milestones, ordered by completion time
 
 Pipelines
-- are mechanisms to move goals from "not done" to "done"
+- are stages through which goals move, the steps between "not done" and "done"
 - guide the software development process
 
 ## Projects
@@ -268,11 +268,15 @@ If at any point the goal is bloecked and can't be worked on, the goal moves to t
 4. Blocked - the goal cannot proceed as another goal must be Done first.
 5. Done - the goal is completed. No further action is necessary.
 
+An example pipeline could look something like this:
+
 ```
-Future Work ──> Backlog ──> In Progress ──> Done
-                   │             │   
-                   │             │
-                   └───────── Blocked
+Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Done ──> Released
+                              │             │             │ 
+                              │             │             │
+                              ╰───────── Blocked ─────────╯
+
+│──────── Backlog ───────│──────────── Development ───────────│────── Archive ─────│
 ```
 
 ## Implementation
