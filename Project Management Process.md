@@ -26,7 +26,6 @@ TODO: describe the purpose of this document
     - [Stages](#stages)
     - [Flow](#flow)
     - [Example](#example)
-- [Cadence](#cadence)
   - [Weekly Updates](#weekly-updates)
   - [Roadmap Updates](#roadmap-updates)
 - [Implementation Guideline](#implementation-guideline)
@@ -44,7 +43,7 @@ Roadmap Updates
 - every 3 months
 - identify, discuss and plan the next steps for the organization as a whole
 
-The IPFS project management process breaks down to the following **units of work**:
+The IPFS project management process defines the following **units of work**:
 
 Projects 
 - may contain other projects
@@ -64,7 +63,7 @@ Goals
 - may have parts or sub-goals
 - may have parts or sub-goals big enough to merit own Goals
 
-The IPFS project management process uses the following **tools** to plan and track work:
+The IPFS project management process, planning and tracking work is done with the following **tools**:
 
 Roadmaps
 - are attached to a project
@@ -111,7 +110,7 @@ The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is 
 ## Structure
 
 ### Overview
-The project information across the organization is tracked with the structure described in this chapter. At the highest level, we have an Organization Roadmap, which lists all projects and their milestones. Each project contains a set of milestone and milestones contain one or more goals. Goals are the basic unit of work and they describe everything from bugs and new features to general tasks. Goals are collected and tracked in a Backlog.
+The project information across the organization is tracked with the structure described in this section. At the highest level, we have an Organization Roadmap, which lists all projects and their milestones. Each project contains a set of milestone and milestones contain one or more goals. Goals are the basic unit of work and they describe everything from bugs and new features to general tasks. Goals are collected and tracked in a Backlog.
 
 ```
 Organization        |   Project 1           Project 2
@@ -218,10 +217,10 @@ TODO: a clear example
 ## Workflow
 
 ### Pipelines
-The IPFS Project Management Process uses Pipelines to process goals a release. Pipelines are a simple way to describe and move Goals between the different stages in their lifecycle. 
+The IPFS Project Management Process uses Pipelines to process goals towards a release. Pipelines are a simple way to describe the workflow of a project and move Goals between the different stages in their lifecycle. 
 
 #### Stages
-Pipelines are sequential stages through which a Goal goes during its lifetime. The different stages are broken down per the workflow of each project. On high level the stages can be described as: `Not Done -──> In Progress ──> Done`. Different projects might have different stages in their development pipeline and it is up to the project lead to identify and define the stages her project uses.
+Pipelines are sequential stages through which a Goal goes during its lifetime. The different stages are broken down per the workflow of each project. On high level the stages can be described as: `Not Done ──> In Progress ──> Done`. Different projects might have different stages in their development pipeline and it is up to the project lead to identify and define the stages her project uses.
 
 ***Proposal: Unify "Future Work", "Backlog" and "Done" stages for all projects, let project leads define stages of the "Development" phase.***
 
@@ -257,14 +256,14 @@ Goals move from pipeline's entry stage towards the completion stage and a Goal c
 
 * Blocked - the goal cannot proceed as something is preventing it to move down the pipeline.
 
-## Cadence
-
-To review and discuss progress of each project and the organization as a whole, we hold weekly update meetings and quarterly roadmap update meetings.
-
 ### Weekly updates
+To review and discuss progress of each project and the organization as a whole, we hold weekly update meetings.
+
 TODO: describe our weekly process. don't call it a "Sprint" anymore(?)
 
 ### Roadmap updates
+To review and discuss progress of each project and the organization as a whole, we hold quarterly roadmap update meetings.
+
 TODO
 
 What:
