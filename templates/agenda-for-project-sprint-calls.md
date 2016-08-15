@@ -1,8 +1,11 @@
 ## __Endeavour__
 
 #### Lead: __Name__
+#### Notetaker: __Name__
 
 #### Participants
+
+- __Names__
 
 ## Agenda
 
