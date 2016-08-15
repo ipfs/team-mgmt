@@ -32,7 +32,7 @@ TODO: describe the purpose of this document
 
 ## TL;DR
 
-The IPFS project management process has the following **cadence**:
+**The IPFS project management process has the following cadence**:
 
 Weekly Updates
 - once a week (2 weeks?)
@@ -43,7 +43,7 @@ Roadmap Updates
 - every 3 months
 - identify, discuss and plan the next steps for the organization as a whole
 
-The IPFS project management process defines the following **units of work**:
+**The IPFS project management process defines the following units of work**:
 
 Projects 
 - may contain other projects
@@ -63,15 +63,15 @@ Goals
 - may have parts or sub-goals
 - may have parts or sub-goals big enough to merit own Goals
 
-The IPFS project management process, planning and tracking work is done with the following **tools**:
+**The IPFS project management process, planning and tracking work is done with the following tools**:
 
 Roadmaps
 - are attached to a project
-- have a list of milestones, ordered by completion time
+- have a list of milestones, ordered by estimated completion date or dependencies
 
 Backlogs
 - are attached to a project
-- have a list of all goals for a project, ordered by priority
+- have a list of all unfinished goals for a project, ordered by priority
 
 Pipelines
 - have a set of stages through which goals move (the steps between "not done" and "done")
@@ -86,12 +86,18 @@ TODO
 
 #### Project Leads
 TODO
+- the leaders and drivers of the projects
+- the goto person of a project, the one with all the details as well as the big picture
+- responsible of managing the plan and work for a project
+- one can own multiple projects
 
 #### Product Owners
 TODO
+- possibly drop this?
 
 #### Project Managers
 TODO
+- possibly drop this?
 
 #### The Sprint Master
 
@@ -113,7 +119,7 @@ The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is 
 The project information across the organization is tracked with the structure described in this section. At the highest level, we have an Organization Roadmap, which lists all projects and their milestones. Each project contains a set of milestone and milestones contain one or more goals. Goals are the basic unit of work and they describe everything from bugs and new features to general tasks. Goals are collected and tracked in a Backlog.
 
 ```
-Organization        |   Project 1           Project 2
+Organization        |   Project 1           Project 2          ...
                     |  
 Roadmap             |   Roadmap             Roadmap  
                     |  
@@ -124,15 +130,17 @@ Roadmap             |   Roadmap             Roadmap
     Milestone A     |     Milestone 2           Goal C
     Milestone B     |       Goal 4              Goal D
     Milestone C     |     Milestone 3      
-                    |       Goal 5      
+    ...             |       Goal 5      
+                    |
   Projects          |  
     Project 1       |   Backlog             Backlog
     Project 2       |     Goal 1              Goal A
-    Project 3       |     Goal 2              Goal B
+    ...             |     Goal 2              Goal B
                     |     Goal 3              Goal C
                     |     Goal 4              Goal D
                     |     Goal 5
 ```
+*Goals are collected in project's backlog. Milestones bundle goals together. A roadmap consists of milestones. Organization's roadmap collects al milestones from all projects together.*
 
 ### Goals
 At the heart of each project are the goals. They are the basic unit of work. Goals can be anything that ***adds value to a release***. This includes issues reported by users, feature requests, bugs, Pull-Requests, general tasks such as refactoring, documentation or research. Goals are collected, maintained and tracked in the backlog by the project lead.
@@ -162,11 +170,14 @@ Backlog is the collection of all goals in a project. It should be as comprehensi
 A backlog has the following information:
 - All goals of a project
 - Priority of goals in sorted order
+- Sections (optional)
 
-While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog list can be split in two: ***Backlog*** and ***Future Work***. The future work section lists goals that will probably not be worked on anytime soon, or are not ready to be worked on yet, whereas the ready section contains the goals that are ready to be worked on or "approved". If split, together they are called "the backlog" while *Future Work* is referenced only in its specific meaning. The split and maintenance of both lists are done by the project lead.
+While the backlog is usually one big list of goals, it may sometimes become convoluted. In this case, the backlog can contain sections: ***Future Work*** and ***Ready***. The future work section lists goals that will probably not be worked on anytime soon, or are not ready to be worked on yet, whereas the ready section contains the goals that are ready to be worked on or "approved". If sectioned, together they are called "the backlog" while *Future Work* and *Ready* are referenced only in their specific meaning to describe the intent inside the backlog. The sectioning is up to decision of the project lead.
+
+***TODO: decide if we want to limit sectioning to those two or is this something that the projects can decide for themselves?***
 
 ### Milestones
-A milestone is batch of goals that together achieve a significant improvement to the product or project. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
+A milestone is batch of goals that together achieve a significant, measurable improvement to the product or project. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
 
 A milestone has the following information:
 - Name
@@ -177,7 +188,7 @@ A milestone has the following information:
 - Description
 - List of goals attached to it
 - Progress indicator
-- Deadline (where applicable)
+- Estimated completion date (where applicable)
 - List of dependencies and related material (where applicable)
 
 The Project Lead keeps current milestones up to date on weekly-basis. New milestones should be generated and old milestones updated before the quarterly planning meeting. Prepare new milestones in good time before quarterly planning.
@@ -191,7 +202,7 @@ The milestones are tracked in project's roadmap. The project lead owns the roadm
 
 The Roadmap Document contains the following information:
 - List of current milestones
-  - Sequentally ordered, eg. by expected due date (where applicable)
+  - Sequentally ordered, eg. by expected due date or dependency on other milestones (where applicable)
   - Next upcoming milestone at the top
 - Current status of the project, ie. milestone progress
 - List of previous milestones
@@ -242,7 +253,7 @@ Goals move from pipeline's entry stage towards the completion stage and a Goal c
          ╰─────────────╯          │             │            │
                                   ╰───────── Blocked ────────╯
     Phases
-  │───────── Backlog ────────│──────────── Development ───────────│──── Complete ─────│
+  │───────── Backlog ────────│──────────── In Progress ───────────│──── Complete ─────│
   ╰───────────────────────────────────────────────────────────────────────────────────╯
 ```
 
