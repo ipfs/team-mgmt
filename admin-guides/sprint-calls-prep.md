@@ -1,7 +1,7 @@
 # Prep for Sprint Calls
 
 ## Who does this Prep
-
+The moderator for the upcoming week's sprint calls
 
 ## Steps to Take
 
