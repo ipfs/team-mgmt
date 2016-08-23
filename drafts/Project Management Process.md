@@ -3,9 +3,8 @@
 **Status: work in progress, not even a full draft yet**
 
 ## Introduction
-TODO: describe the purpose of this document
 
-- this is an opt-in process, nobody in the community is *required* to use this process
+The captains of each of the IPFS projects ([go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs), [IPLD](https://github.com/ipld), [orbit](https://github.com/haadcode/orbit), etc.) have agreed to use this model so that we can provide consistency across all of these closely related code bases, specs and products.
 
 ## Table on Contents
 - [TL;DR](#tldr)
