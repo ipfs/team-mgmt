@@ -55,7 +55,7 @@ Milestones
 - measurable unit of progress
 - contains a list of goals, ordered by priority
 - usually but not always sequentially ordered
-- may have a deadline
+- have either an estimated date of delivery or deadline
 
 Goals
 - an individual actionable unit of work
