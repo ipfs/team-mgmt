@@ -49,22 +49,22 @@ Roadmap Updates
 **The IPFS project management process defines the following units of work**:
 
 Projects 
-- may contain other projects
-- have a project leader who "roadmaps" (decides what are goals and milestones, and when they should happen)
-- have a roadmap (list of milestones and goals)
 - have a backlog (list of goals)
-
-Milestones 
-- measurable unit of progress
-- contains a list of goals, ordered by priority
-- usually but not always sequentially ordered
-- have either an estimated date of delivery or deadline
+- have a roadmap (list of milestones and goals)
+- have a project leader who maintains the project roadmap (goals and milestones, and when they should happen)
+- may contain other projects
 
 Goals
 - an individual actionable unit of work
 - may have other Goals as dependencies
 - may have parts or sub-goals
 - may have parts or sub-goals big enough to merit own Goals
+ 
+Milestones 
+- measurable unit of progress
+- contains a list of goals, ordered by priority
+- usually but not always sequentially ordered
+- have either an estimated date of delivery or deadline
 
 ### Structures
 **The IPFS project management process, planning and tracking work is done with the following structures**:
@@ -102,6 +102,10 @@ TODO
 #### Project Managers
 TODO
 - possibly drop this?
+- 
+
+#### Program Manager
+Maintains the Organizational Roadmap
 
 #### The Sprint Master
 
