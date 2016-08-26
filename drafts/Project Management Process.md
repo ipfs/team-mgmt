@@ -102,7 +102,6 @@ TODO
 #### Project Managers
 TODO
 - possibly drop this?
-- 
 
 #### Program Manager
 Maintains the Organizational Roadmap
