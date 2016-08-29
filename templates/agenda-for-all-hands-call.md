@@ -7,7 +7,9 @@
 
 
 ## Agenda
-1. Roll call by alphabetical order (moderator)
+_ensure notetaker is present before you begin_  
+
+1. Roll call - see [timezone-based roll call](../admin-guides/timezone-rollcall.md) guide
 1. Call for additional agenda items (moderator)
 1. Moderator/notetaker for next time:
  * Moderator: TBD
