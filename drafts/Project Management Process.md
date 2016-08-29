@@ -48,19 +48,19 @@ Roadmap Updates
 ### Units of Work
 **The IPFS project management process defines the following units of work**:
 
-Projects 
+📚 Projects 
 - have a backlog (list of goals)
 - have a roadmap (list of milestones and goals)
 - have a project leader who maintains the project roadmap (goals and milestones, and when they should happen)
 - may contain other projects
 
-Goals
+📄 Goals
 - an individual actionable unit of work
 - may have other Goals as dependencies
 - may have parts or sub-goals
 - may have parts or sub-goals big enough to merit own Goals
  
-Milestones 
+📘 Milestones 
 - measurable unit of progress
 - contains a list of goals, ordered by priority
 - usually but not always sequentially ordered
@@ -82,7 +82,7 @@ Pipelines
 - show what has been completed, what's being worked on at the moment and what will be worked on next
 
 
-## Projects
+## 📚 Projects
 TODO
 
 ## Roles
@@ -149,7 +149,7 @@ Roadmap             |   Roadmap             Roadmap
 ```
 *Goals are collected in project's backlog. Milestones bundle goals together. A roadmap consists of milestones. Organization's roadmap collects al milestones from all projects together.*
 
-### Goals
+### 📄 Goals
 At the heart of each project are the goals. They are the basic unit of work. Goals can be anything that ***adds value to a release***. This includes issues reported by users, feature requests, bugs, Pull-Requests, general tasks such as refactoring, documentation or research. Goals are collected, maintained and tracked in the backlog by the project lead.
 
 A goal description includes the following:
@@ -183,7 +183,7 @@ While the backlog is usually one big list of goals, it may sometimes become conv
 
 ***TODO: decide if we want to limit sectioning to those two or is this something that the projects can decide for themselves?***
 
-### Milestones
+### 📘 Milestones
 A milestone is batch of goals that together achieve a significant, measurable improvement to the product or project. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
 
 A milestone has the following information:
