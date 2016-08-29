@@ -3,18 +3,19 @@
 **Status: work in progress, not even a full draft yet**
 
 ## Introduction
-TODO: describe the purpose of this document
 
-- this is an opt-in process, nobody in the community is *required* to use this process
+The captains of each of the IPFS projects ([go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs), [IPLD](https://github.com/ipld), [orbit](https://github.com/haadcode/orbit), etc.) have agreed to use this model so that we can provide consistency across all of these closely related code bases, specs and products.
+
+This _model_ (terms, roles, patterns) is intentionally separated from the _mechanics_ of project management process so that people have room to vary the mechanics based on their needs or habits.  For example, in most of our projects _goals_ will be tracked as github issues but we intentionally used the word "goals" instead of "issues" in this document because we want to be clear that we’re emphasizing the _conceptual model_ as our point of consistency across IPFS projects while allowing people to vary the mechanics they use to express that information. Likewise, this model specifies that all projects have _milestones_ but does not require everyone to use Github milestones because that specific mechanism is well suited to some projects but not others -- you're agreeing to have milestones, but it's up to you to decide how to track them.
 
 ## Table on Contents
-- [TL;DR](#tldr)
+- [Overview: Cadence, Units of Work and Structures](#overview-cadence-units-of-work-and-structures)
 - [Projects](#projects)
 - [Roles](#roles)
   - [Product Owners](#product-owners)
   - [Project Leads](#project-leads)
   - [Project Managers](#project-managers)
-- [Structure](#structure)
+- [How it Fits Together](#how-it-fits-together)
   - [Overview](#overview)
   - [Goals](#goals)
   - [Backlog](#backlog)
@@ -30,8 +31,9 @@ TODO: describe the purpose of this document
   - [Roadmap Updates](#roadmap-updates)
 - [Implementation Guideline](#implementation-guideline)
 
-## TL;DR
+## Overview: Cadence, Units of Work and Structures
 
+### Updates
 **The IPFS project management process has the following cadence**:
 
 Weekly Updates
@@ -43,27 +45,29 @@ Roadmap Updates
 - every 3 months
 - identify, discuss and plan the next steps for the organization as a whole
 
+### Units of Work
 **The IPFS project management process defines the following units of work**:
 
-Projects 
-- may contain other projects
-- have a project leader who "roadmaps" (decides what are goals and milestones, and when they should happen)
-- have a roadmap (list of milestones and goals)
+📚 Projects 
 - have a backlog (list of goals)
+- have a roadmap (list of milestones and goals)
+- have a project leader who maintains the project roadmap (goals and milestones, and when they should happen)
+- may contain other projects
 
-Milestones 
-- measurable unit of progress
-- contains a list of goals, ordered by priority
-- usually but not always sequentially ordered
-- may have a deadline
-
-Goals
+📄 Goals
 - an individual actionable unit of work
 - may have other Goals as dependencies
 - may have parts or sub-goals
 - may have parts or sub-goals big enough to merit own Goals
+ 
+📘 Milestones 
+- measurable unit of progress
+- contains a list of goals, ordered by priority
+- usually but not always sequentially ordered
+- have either an estimated date of delivery or deadline
 
-**The IPFS project management process, planning and tracking work is done with the following tools**:
+### Structures
+**The IPFS project management process, planning and tracking work is done with the following structures**:
 
 Roadmaps
 - are attached to a project
@@ -78,7 +82,7 @@ Pipelines
 - show what has been completed, what's being worked on at the moment and what will be worked on next
 
 
-## Projects
+## 📚 Projects
 TODO
 
 ## Roles
@@ -99,6 +103,9 @@ TODO
 TODO
 - possibly drop this?
 
+#### Program Manager
+Maintains the Organizational Roadmap
+
 #### The Sprint Master
 
 Ideally, there should be a sprint master who knows every participant's tasks and projects intimately, helps moderate work loads, checks in when a task has been taking long than expected, sets the sprint goals, and adds any urgent or incoming business to the sprint. Realistically, this is done by the discussion leads and the team as a whole. The sprint administrator was created to minimize the sprint master's admin, and to help the discussion leads.
@@ -113,7 +120,7 @@ The sprint administrator (normally [@RichardLitt](//github.com/RichardLitt)) is 
 
 ***TODO: Link to a document with the specific tasks***
 
-## Structure
+## How it Fits Together
 
 ### Overview
 The project information across the organization is tracked with the structure described in this section. At the highest level, we have an Organization Roadmap, which lists all projects and their milestones. Each project contains a set of milestone and milestones contain one or more goals. Goals are the basic unit of work and they describe everything from bugs and new features to general tasks. Goals are collected and tracked in a Backlog.
@@ -142,7 +149,7 @@ Roadmap             |   Roadmap             Roadmap
 ```
 *Goals are collected in project's backlog. Milestones bundle goals together. A roadmap consists of milestones. Organization's roadmap collects al milestones from all projects together.*
 
-### Goals
+### 📄 Goals
 At the heart of each project are the goals. They are the basic unit of work. Goals can be anything that ***adds value to a release***. This includes issues reported by users, feature requests, bugs, Pull-Requests, general tasks such as refactoring, documentation or research. Goals are collected, maintained and tracked in the backlog by the project lead.
 
 A goal description includes the following:
@@ -176,7 +183,7 @@ While the backlog is usually one big list of goals, it may sometimes become conv
 
 ***TODO: decide if we want to limit sectioning to those two or is this something that the projects can decide for themselves?***
 
-### Milestones
+### 📘 Milestones
 A milestone is batch of goals that together achieve a significant, measurable improvement to the product or project. Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
 
 A milestone has the following information:
