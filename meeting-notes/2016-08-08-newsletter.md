@@ -23,13 +23,9 @@ Notes: @lgierth
 
 - [x] @jbenet: Give @RichardLitt access to the historic log program
 - [ ] @RichardLitt: Go through the twitter logs again, making bullet points if necessary
-
     - Here, and elsewhere, err on the side of more content than less. It is OK to have long newsletters.
-
     - Add in the TBL article
-
     - Add in the IPFS paper
-
 - [ ] @RichardLitt Build an action plan for the missing months of content. This still needs to be covered, in some way. Splitting things into multiple newsletters is fine, if they are too long. 
 - [ ] @RichardLitt For the next newsletter, build a bullet point list first, and then ping @jbenet about it, to cut down on return time in review
 
