@@ -10,7 +10,7 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
 
 - [Overview](#overview)
 - [Artifacts](#artifacts)
-- [Flow](#flow)
+- [Worklow](#workflow)
 - [Roles](#roles)
 - [Cadence](#cadence)
 
@@ -28,7 +28,7 @@ In order to provide a clear view of the current state of work, every project has
 
 We also pull all of the Project Roadmaps together into a consolidated [**Organization Roadmap**](#organization-roadmap).  
 
-### The Flow
+### The Worklow
 
 The exact structure of our Pipelines vary project-by-project, but they all have some notion of a [**Backlog**](#backlog-in-progress-and-done), as well as notions of [**Ready**](#definition-of-ready), [**In Progress**](#backlog-in-progress-and-done), and [**Done**](#backlog-in-progress-and-done).
 
@@ -58,7 +58,9 @@ Every project has a Project Lead, a Project Roadmap and a Status Board.
 
 ### 📘 Milestones
 
-A **Milestone** is _a batch of goals that together achieve a significant, measurable improvement to the product or project._
+A **Milestone** _groups together  a set of goals that will achieve a significant, measurable improvement to the product or project._
+
+Milestones are the bridge between the context of the [Status Board](#status-boards), whose focus is the current state of work and the context of the [Roadmap](#roadmaps), whose focus is the projected timeline. Milestones gather together related Goals and associate them with either an Estimated Date of Delivery or a Deadline so that we can situate those Goals within the overall Roadmap.
 
 **Attributes of a Milestone:**
 - measurable unit of progress
@@ -93,10 +95,9 @@ At the heart of each project are the goals. They are the basic unit of work. A *
 **Attributes of a Goal:**
 - an individual actionable unit of work
 - may have other Goals as dependencies
-- may have parts or sub-goals
-- may have parts or sub-goals big enough to merit own Goals
+- may have parts or sub-tasks
 
-Goals are collected, maintained and tracked in the backlog by the project lead.
+Goals are collected, maintained and tracked in the pipeline by the project lead.
 
 A goal description includes the following:
 - Name / Summary
@@ -108,7 +109,7 @@ A goal description includes the following:
   - Should tell you how you will know that the problem has been solved or the goal has been achieved
   - Describe the type of this goal: is it a bug? a new feature? something else?
 - Status
-  - The status should signal the goal's status towards completion
+  - The status tells us which [stage](#pipelines-and-stages) the Goal has reached within the project's [workflow](#workflow).
   - What is the current state of this goal? Is it to-be-reviewed? In progress? Blocked? Done?
   - A goal can be in only one state at a time
 - Dependencies (where applicable)
@@ -137,7 +138,9 @@ The Roadmap Document contains the following information:
 
 The roadmap can be a high-level overview of milestones and project's progress, so details such as list of goals per milestone can be omitted. However, if omitted, the roadmap must contain links to the detailed break down.
 
-Examples:
+### Examples
+
+Some examples of Project Roadmaps:
 - [js-ipfs roadmap](https://github.com/ipfs/js-ipfs/blob/master/ROADMAP.md#ipfs-javascript-implementation-roadmap)
 - [Orbit roadmap](https://github.com/haadcode/orbit/blob/master/ROADMAP.md#orbit---roadmap)
 
@@ -164,55 +167,79 @@ The organization roadmap is owned by project management and project managers are
 
 TODO: a clear example
 
-## Flow
+## Workflow
 
-### Pipelines & Statuses
+### Pipelines & Stages
 
 **Pipelines** are a simple way to describe the workflow of a project and move Goals between the different stages in their lifecycle.
 
-Pipelines are sequential stages through which a Goal goes during its lifetime. We refer to a Goal's current stage in the pipeline as its **Status**
+Pipelines are sequential **Stages** through which a Goal goes during its lifetime. When we talk about a Goal's **status** we are usually referring to its _current stage in the pipeline_.
 
-Goals move from pipeline's entry stage towards the completion stage and a Goal can be only in one stage at a time. Usually goals move one way, in sequential order, but sometimes goals can move back between the stages (eg. `In Progress ──> Review ──> In Progress`). Sometimes a goal can't progress due to something preventing it to move to the next stage. To ensure surfacing blockers, each pipeline should have a ***"Blocked"*** stage where blocked goals are moved as soon as they occur.
+### General Flow
 
-### Backlog, In Progress and Done
+Goals move from pipeline's entry stage towards the completion stage and a Goal can be only in one stage at a time.
+The different stages or statuses within a Pipeline are broken down per the workflow of each project. On high level the stages always have a general flow: `Not Done ──> In Progress ──> Done`.
 
-The different stages or statuses within a Pipeline are broken down per the workflow of each project. On high level the stages can be described as: `Not Done ──> In Progress ──> Done`. Different projects might have different stages in their development pipeline and it is up to the project lead to identify and define the stages her project uses.
+ Usually goals move one way, in sequential order, but sometimes goals can move back between the stages (eg. `In Progress ──> Review ──> In Progress`). Sometimes a goal can't progress due to something preventing it to move to the next stage. To ensure surfacing blockers, each pipeline should have a ***"Blocked"*** stage where blocked goals are moved as soon as they occur.
 
-### Definition of Ready
+### Conventions about Pipeline Stages
 
-_TODO: Address Definition of Ready (see https://github.com/ipfs/pm/issues/169)_
+Project Leads are free to define their own pipeline and break it up into stages that suit their particular project. By convention we usually have stages called Backlog, Ready and Done. We also often have a stage called "Inbox".
 
+In order to minimize confusion, we try to be consistent about our usage of these terms.
 
-#### Example
+#### The Inbox
 
-*TODO: Update this to reflect discussion in https://github.com/ipfs/pm/issues/165*
+The "Inbox" status is where new Goals land in the pipeline. _When a Goal is in the **Inbox** that means the Project maintainers have not reviewed or categorized the Goal yet._
 
-***An example pipeline could have the following stages:***
+Not all projects have an Inbox. This stage is useful in the pipelines of projects that have large, active communities of users and contributors because it clearly distinguishes between "this has been reported but not reviewed yet" and "we've seen this but we're not planning to work on it yet".
+
+#### Definition of Backlog
+
+_When a Goal is in the **Backlog** that means it is not planned to be carried out at this moment._
+
+If a projects has both a Backlog and an Inbox, that means Goals in the Backlog are well defined but not planned to be carried out at this moment.  By contrast, some projects do not have an Inbox -- their Backlog includes Goals that have not been reviewed _and_ goals that have been reviewed but are not planned to be carried out yet.
+
+#### Definition of Ready
+
+_When a Goal is **Ready** that means the goal is planned to be carried out. It's waiting for someone to start working on it._
+
+Some teams will apply a stringent set of requirements for marking a Goal as "Ready". This usually revolves around requiring that Goals must be defined in a way that is _clear_, _testable_  and _feasible_ before you ask people to work on them.  
+
+This idea of applying a stringent _Definition of Ready_ gets a lot of attention in the context of Scrum Methodology. There are many useful articles discussing the Definition of Ready, such as these by [Roman Pichler](http://www.romanpichler.com/blog/the-definition-of-ready/), [Scrum Blog Inc.](https://www.scruminc.com/definition-of-ready/), [Innolution](http://www.innolution.com/blog/definition-of-ready) and [System Agility](https://systemagility.com/2011/05/17/definition-of-ready/)
+
+#### Definition of In Progress
+
+_When a Goal is **In Progress**, that means the goal is actively being worked on. Goals that are In Progress will almost always have one or more assignees._
+
+#### Definition of Done
+
+_When a Goal is **Done**, that means the Goal is completed. No further action is necessary._
+
+Note: Goals that have been rejected by the maintainers, for example features that the maintainers decided not to implement or bugs that they could not reproduce, might show up as "done" in a pipeline because no further action is necessary -- the Goal has been addressed.
+
+#### When Goals are Blocked
+
+_We say a Goal is **Blocked** when the goal cannot proceed because something is preventing it from moving down the pipeline._
+
+### Example
+
+This is the Pipeline/Workflow we use for the [go-ipfs](https://github.com/ipfs/go-ipfs) Project. It uses the conventions described above and adds a status for *refining*, which means that the goal has been reviewed by the maintainers but it is not ready to be worked on (ie. the description needs clarification, etc.).  
+
+You can see the go-ipfs pipeline in use as a waffle board at https://waffle.io/ipfs/go-ipfs
 
 ```
   ╭─────────────────────────────────── Pipeline ──────────────────────────────────────╮
   │────── 1. ────│──── 2. ───│─── 3. ──│────── 4. ─────│─── 5. ───│──── 6. ───│── 7. ─│
   │ Stages                                                                            │
 
-                                                ╭────────────╮
-──> Future Work ──> Backlog ──> Ready ──> In Progress ──> Review ──> Release ──> Done ──>
-         │             │          │             │            │
-         ╰─────────────╯          │             │            │
-                                  ╰───────── Blocked ────────╯
-    Phases
-  │───────── Backlog ────────│──────────── In Progress ───────────│──── Complete ─────│
+                                               ╭────────────╮
+     ──> Inbox ──> Refining ──> Backlog ──> Ready ──> In Progress ──> Done ──>
+                    │             │            │            │
+                    ╰─────────────╯            │            │
+                                            Blocked ────────╯
   ╰───────────────────────────────────────────────────────────────────────────────────╯
 ```
-
-1. Future Work - the goal is identified and being fleshed out. It is not ready to be carried out at this moment.
-2. Backlog - the goal is well defined but not planned to be carried out at this moment.
-3. Ready - the goal is planned to be carried out, waiting to be worked on.
-4. In Progress - the goal is actively being worked on, this moment.
-5. Review - the development of the goal is done, but a review needs to happen before it can be included in a release.
-6. Release - the goal is waiting to be inckuded in a an official release.
-7. Done - the goal is completed. No further action is necessary.
-
-* Blocked - the goal cannot proceed as something is preventing it to move down the pipeline.
 
 ## Roles
 
