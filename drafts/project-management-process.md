@@ -10,7 +10,7 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Overview: How it All Fits Together](#overview-how-it-all-fits-together)
 - [Artifacts](#artifacts)
  - [📚 Projects](#projects)
  - [📘 Milestones](#milestones)
@@ -33,11 +33,11 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
   - [Sprints](#sprints)
   - [Roadmap Updates](#roadmap-updates)
 
-## Overview
+## Overview: How it All Fits Together
 
 Read this overview to get a sense of how all these terms fit together as a functioning model. Each term appears as a link that you can follow to get a fuller definition of the term and an explanation of its use.
 
-### The Pieces/Artifacts
+### Overview of The Pieces/Artifacts
 
 We arrange our work into 📚 [**Projects**](#projects). Each project has a continuously-evolving set of 📄 [**Goals**](#goals) which are usually tracked as Github Issues.
 
@@ -47,11 +47,11 @@ In order to provide a clear view of the current state of work, every project has
 
 We also pull all of the Project Roadmaps together into a consolidated [**Organization Roadmap**](#organization-roadmap).  
 
-### The Worklow
+### Overview of The Workflow
 
-Each Project's maintaners are free to define their own [Pipeline](#pipelines-and-stages) to describe how that Project's Goals progress from inception to completion. To achieve some consistency across the projects, all Projects have some notion of a [**Backlog**](#definition-of-backlog), as well as notions of [**Ready**](#definition-of-ready), [**In Progress**](#definition-of-in-progress), and [**Done**](#definition-of-done). They also have a way of representing when a Goal is [**Blocked**](#when-goals-are-blocked)
+Each Project's maintaners are free to define their own [**Pipeline**](#pipelines--stages) to describe how that Project's Goals progress from inception to completion. To achieve some consistency across the projects, all Projects have some notion of a [**Backlog**](#definition-of-backlog), as well as notions of [**Ready**](#definition-of-ready), [**In Progress**](#definition-of-in-progress), and [**Done**](#definition-of-done). They also have a way of representing when a Goal is [**Blocked**](#when-goals-are-blocked)
 
-### The Roles
+### Overview of The Roles
 
 Each Project has a [**Project Lead**](#project-lead) who is responsible for the project's Roadmap and who tends to the Goals and Milestones.  The [**Program Manager**](#program-manager) is responsible for pulling all this information together into the Organization Roadmap.
 
@@ -59,7 +59,7 @@ We're playing with the roles of [**Product Owner**](#product-owner) and [**Proje
 
 A [**Sprint Administrator**](#sprint-administrator) maintains the pulse of weekly updates, calls, etc. and ensures that the records of these discussions are publicly available.
 
-### The Cadence
+### Overview of The Cadence
 
 We conduct public [**Weekly Updates**](#weekly-updates) where each Project's contributors and the Project Lead check in with the Roadmap, Milestones, Status Board, and relevant Goals.  These updates provide the basis for Weekly [**Sprints**](#sprints).
 
@@ -252,7 +252,7 @@ You can see the go-ipfs pipeline in use as a waffle board at https://waffle.io/i
 
 ```
 
-  ╭─────────────────────────────────── Pipeline ──────────────────────────────╮
+╭─────────────────────────────────── Pipeline ──────────────────────────────╮
 │────── 1. ────│──── 2. ───│─── 3. ──│────── 4. ─────│─── 5. ───│──── 6. ───│
 │ Stages                                                                    │
 
@@ -268,7 +268,7 @@ You can see the go-ipfs pipeline in use as a waffle board at https://waffle.io/i
 
 ### Project Lead
 
-The Project Lead maintains the Project Roadmap and is responsible for generating, updating and tracking the Milestones. To make sure the Roadmap is up to date, the Project Lead should go through the current Milestones on weekly basis.
+The **Project Lead** maintains the Project Roadmap and is responsible for generating, updating and tracking the Milestones. To make sure the Roadmap is up to date, the Project Lead should go through the current Milestones on weekly basis.
 
 ### Product Owner
 
@@ -278,7 +278,7 @@ A **Product Owner** is responsible for crafting the narrative around a Product -
 
 ### Project Manager
 
-_We're still working on defining this role. This is just a definition we're trying out._
+_We're still working on defining this role._
 
 TODO. See https://github.com/ipfs/pm/issues/164
 
