@@ -4,7 +4,9 @@
 
 The [Project Leads](#project-leads) of each of the IPFS projects ([go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs), [IPLD](https://github.com/ipld), [orbit](https://github.com/haadcode/orbit), etc.) have agreed to use this model so that we can provide consistency across all of these closely related code bases, specs and products.
 
-This _model_ (terms, roles, patterns) is intentionally separated from the _mechanics_ of project management process so that people have room to vary the mechanics based on their needs or habits.  For example, in most of our projects _goals_ will be tracked as github issues but we intentionally used the word "goals" instead of "issues" in this document because we want to be clear that we’re emphasizing the _conceptual model_ as our point of consistency across IPFS projects while allowing people to vary the mechanics they use to express that information. Likewise, this model specifies that all projects have _milestones_ but does not require everyone to use Github milestones because that specific mechanism is well suited to some projects but not others -- you're agreeing to have milestones, but it's up to you to decide how to track them.
+This _model_ (terms, roles, patterns) is intentionally separated from the _mechanics_ of project management process so that people have room to vary the mechanics based on their needs or habits.  For example, in most of our projects _Goals_ will be tracked as github issues but we intentionally used the word "Goals" instead of "Issues" in this document because we want to be clear that we’re emphasizing the _conceptual model_ as our point of consistency across IPFS projects while allowing people to vary the mechanics they use to express that information. Likewise, this model specifies that all projects have _Milestones_ but does not require everyone to use Github milestones because that specific mechanism is well suited to some projects but not others -- you're agreeing to have milestones, but it's up to you to decide how to track them.
+
+**This will always be a work in progress.** We constantly adapt, improve, and reimagine our work process in response to new information.  This document is meant to be a reference point and a way of recording concepts or conventions as they arise. If something is missing or inaccurate, please point it out. If we could be doing things in a better way, please speak up. _Pull Requests Welcome._
 
 ## Table of Contents
 
@@ -16,21 +18,21 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
 
 ## Overview
 
-Read this overview to get a sense of how all these terms fit together as a functioning model.
+Read this overview to get a sense of how all these terms fit together as a functioning model. Each term appears as a link that you can follow get a fuller definition of the term and an explanation of its use.
 
 ### The Pieces/Artifacts
 
-We arrange our work into [**Projects**](#projects). Each project has a continuously-evolving set of [**Goals**](#goals) which are usually tracked as Github Issues.
+We arrange our work into 📚 [**Projects**](#projects). Each project has a continuously-evolving set of 📄 [**Goals**](#goals) which are usually tracked as Github Issues.
 
-In order to provide a clear timeline for each project, we associate Goals with [**Milestones**](#milestones) which have either estimated dates of delivery or deadlines.  Those Milestones are collected into a [**Project Roadmap**](#project-roadmaps), which is where you go to answer questions about the trajectory, priorities, and timing of the project.
+In order to provide a clear timeline for each project, we associate Goals with 📘 [**Milestones**](#milestones) which have either estimated dates of delivery or deadlines.  Those Milestones are collected into a 🗺 [**Project Roadmap**](#project-roadmaps), which is where you go to answer questions about the trajectory, priorities, and timing of the project.
 
-In order to provide a clear view of the current state of work, every project has a [**Status Board**](#status-boards) which shows where the Project's Goals lie in the [**Pipeline**](#pipelines-&-statuses) or flow from inception through to being "done". This is where you go to answer questions about what is being worked on now, what is ready to be worked on, etc.
+In order to provide a clear view of the current state of work, every project has a 📊 [**Status Board**](#status-boards) which shows where the Project's Goals lie in the [**Pipeline**](#pipelines-&-statuses) or flow from inception through to completion. The Status Board is where you go to answer questions about what is being worked on now, what is ready to be worked on, etc.
 
 We also pull all of the Project Roadmaps together into a consolidated [**Organization Roadmap**](#organization-roadmap).  
 
 ### The Worklow
 
-The exact structure of our Pipelines vary project-by-project, but they all have some notion of a [**Backlog**](#backlog-in-progress-and-done), as well as notions of [**Ready**](#definition-of-ready), [**In Progress**](#backlog-in-progress-and-done), and [**Done**](#backlog-in-progress-and-done).
+Projects are free to define their own [Pipeline](#pipelines-and-stages) to describe how that the project's Goals progress from inception to completion but they all have some notion of a [**Backlog**](#definition-of-backlog), as well as notions of [**Ready**](#definition-of-ready), [**In Progress**](#definition-of-in-progress), and [**Done**](#definition-of-done). They also have a way of representing when a Goal is [**Blocked**](#when-goals-are-blocked)
 
 ### The Roles
 
@@ -38,39 +40,37 @@ Each Project has a [**Project Lead**](#project-lead) who is responsible for the 
 
 We're playing with the roles of [**Product Owner**](#product-owner) and [**Project Manager**](#project-manager) but have not found a stable definition for those roles.
 
-A [**Sprint Administrator**](#sprint-administrator) maintains weekly the pulse of updates, calls, etc.
+A [**Sprint Administrator**](#sprint-administrator) maintains the pulse of weekly updates, calls, etc. and ensures that the records of these discussions are publicly available.
 
 ### The Cadence
 
 We conduct public [**Weekly Updates**](#weekly-updates) where each project's contributors and Project Lead check in with the Roadmap, Milestones, Status Board, and relevant Goals.  These updates provide the basis for Weekly [**Sprints**](#sprints).
 
-On a quarterly basis (roughly every 3 months) we conduct [**Roadmap Updates**](#roadmap-updates) where we review the past quarter's Milestones and schedule Milestones for the coming months.
+On a quarterly basis (roughly every 3 months) we conduct [**Roadmap Updates**](#roadmap-updates) where we review the past quarter's Milestones and establish a schedule for the Milestones that will occur in the coming months.
 
 ## Artifacts
 
 ### 📚 Projects
 
-_TODO: WTF is a Project?_
+_TODO: WTF is a Project? is a Project defined by its audience?_
 
 A **Project** is...
+
+_We **do not** use a one-to-one mapping between Projects and code bases._ Projects frequently include multiple code bases stored in multiple git repositories and they often have a unifying code base that ties them all together.
 
 Every project has a Project Lead, a Project Roadmap and a Status Board.
 
 ### 📘 Milestones
 
-A **Milestone** _groups together  a set of goals that will achieve a significant, measurable improvement to the product or project._
+A **Milestone** _groups together a set of goals that will achieve a significant, measurable improvement to the product or project._
 
-Milestones are the bridge between the context of the [Status Board](#status-boards), whose focus is the current state of work and the context of the [Roadmap](#roadmaps), whose focus is the projected timeline. Milestones gather together related Goals and associate them with either an Estimated Date of Delivery or a Deadline so that we can situate those Goals within the overall Roadmap.
+Milestones are the bridge between the [Status Board](#status-boards) and the [Roadmap](#roadmaps). The Roadmap focuses on the projected timeline while the the Status Board focuses on the current state of work in the Pipeline. Those contexts are each views onto the same pile of Goals. Milestones bridge these two contexts by gathering together related Goals and associating them with either an Estimated Date of Delivery or a Deadline so that we can situate those Goals within the Roadmap's timeline.
+
+A Milestone is completed when all goals associated with it have been completed.
 
 **Attributes of a Milestone:**
-- measurable unit of progress
-- contains a list of goals, ordered by priority
-- usually but not always sequentially ordered
-- have either an estimated date of delivery or deadline
 
-Each project has a set of milestones. A milestone is completed when all goals associated with it have been completed. Milestones are tracked in the project roadmap by the project lead.
-
-A milestone has the following information:
+A Milestone has the following information:
 - Name
   - Example 1: "Release go-ipfs v0.5.0"
   - Example 2: "Working prototype of Pubsub implementation in go-ipfs"
@@ -82,7 +82,7 @@ A milestone has the following information:
 - Estimated completion date (where applicable)
 - List of dependencies and related material (where applicable)
 
-The Project Lead keeps current milestones up to date on weekly-basis. New milestones should be generated and old milestones updated before the quarterly planning meeting. Prepare new milestones in good time before quarterly planning.
+The Project Lead keeps current Milestones up to date on a weekly-basis. New Milestones should be generated and old Milestones should be updated before the quarterly Roadmap Update.
 
 Milestones help make Roadmaps achievable, and they give the team and users a clear sense of progress. There's no hard and fast way to decide what a Milestone's boundaries are. It is up to the project leader to select what Goals constitute a Milestone and what Milestones constitute a Roadmap. Sometimes it will be clear how to break down a Roadmap into manageable pieces. Sometimes it will be clear which goals to bundle in a Milestone. The important thing is to make manageable groups (not too big) that provide a significant enough sense of progress through the Roadmap.
 
@@ -90,20 +90,17 @@ TODO: a clear example
 
 ### 📄 Goals
 
-At the heart of each project are the goals. They are the basic unit of work. A **Goal** can be _anything that adds value to a release_. This includes issues reported by users, feature requests, bugs, Pull-Requests, general tasks such as refactoring, documentation or research.
+At the heart of each Project are the Goals. They are the basic unit of work. A **Goal** is _an individual actionable unit of work that adds value to a release_. This includes issues reported by users, feature requests, bugs, Pull-Requests, general tasks such as refactoring, documentation or research. Goals may have parts or sub-tasks and they may have other Goals as dependencies.
+
+All of a Project's contributors work together to define, refine, collect, maintain and track Goals in the Pipeline but responsibility for this maintenance ultimately falls to the Project Lead and the Project Manager.
 
 **Attributes of a Goal:**
-- an individual actionable unit of work
-- may have other Goals as dependencies
-- may have parts or sub-tasks
 
-Goals are collected, maintained and tracked in the pipeline by the project lead.
-
-A goal description includes the following:
+A Goal description includes the following:
 - Name / Summary
   - Describes what the goal is on high level
-  - Example 1: "Reduce the size of the go-ipfs executable"
-  - Example 2: "js-ipfs should have API Documentation"
+  - Example 1: "Reduce the size of the go-ipfs executable by 30%"
+  - Example 2: "API Documentation for js-ipfs includes all public API methods"
 - Description
   - What the problem is and how to achieve this goal
   - Should tell you how you will know that the problem has been solved or the goal has been achieved
@@ -127,7 +124,6 @@ A **Project Roadmap** lists a Project's Milestones and Goals according to the Mi
 * When are things likely to be done?
 
 **Attributes of a Project Roadmap**:
-- have a list of milestones, ordered by estimated completion date or dependencies
 
 The Roadmap Document contains the following information:
 - List of current milestones
@@ -136,7 +132,7 @@ The Roadmap Document contains the following information:
 - Current status of the project, ie. milestone progress
 - List of previous milestones
 
-The roadmap can be a high-level overview of milestones and project's progress, so details such as list of goals per milestone can be omitted. However, if omitted, the roadmap must contain links to the detailed break down.
+The Roadmap can optionally be rendered as a high-level overview of a Project's Milestones, omitting the list of specific Goals within those Milestones. However, if the Goals are omitted from the Roadmap, it must contain links to a detailed break down of the Goals.
 
 ### Examples
 
