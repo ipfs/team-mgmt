@@ -11,6 +11,7 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
 ## Table of Contents
 
 - [Overview: How it All Fits Together](#overview-how-it-all-fits-together)
+- [Methodology: Agile? Scrum? Kanban?](#methodology-agile-scrum-kanban)
 - [Artifacts](#artifacts)
  - [📚 Projects](#projects)
  - [📘 Milestones](#milestones)
@@ -23,6 +24,8 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
   - [General Flow](#general-flow)
   - [Conventions about Pipeline Stages](#conventions-about-pipeline-stages)
 - [Roles](#roles)
+ - [Contributor](#contributor)
+ - [Maintainer](#maintainer)
  - [Project Lead](#project-lead)
  - [Product Owner](#product-owner)
  - [Project Manager](#project-manager)
@@ -64,6 +67,19 @@ A [**Sprint Administrator**](#sprint-administrator) maintains the pulse of weekl
 We conduct public [**Weekly Updates**](#weekly-updates) where each Project's contributors and the Project Lead check in with the Roadmap, Milestones, Status Board, and relevant Goals.  These updates provide the basis for Weekly [**Sprints**](#sprints).
 
 On a quarterly basis (roughly every 3 months) we conduct [**Roadmap Updates**](#roadmap-updates) where we review the past quarter's Milestones and establish a schedule for the Milestones that will receive attention in the coming months.
+
+## Methodology: Agile? Scrum? Kanban?
+
+Agile methodology has evolved into a whole field of options -- Extreme Programming, Scrum, Kanban, etc. and there is a wealth of reference material on each approach. We like characteristics of each of these approaches, especially Scrum and Kanban, but we haven't formally adopted any one approach.  This is partially because we're a distributed team with many open source contributors spread across the world. Kanban and Scrum were initially designed for teams that are all in the same physical location, same timezone, and working for one employer.  That makes it hard (but not impossible) to apply these processes directly to our work.
+
+For now we just use a loose sense of Agile methodology. The "agile" habits we adhere to include:
+
+* Embrace change by arranging work into sprints
+* Track work as Goals on a Status Board
+* Rely heavily on Test Driven Development
+* Run Continuous Integration servers
+
+Over time, we will experiment with incorporating more elements of Kanban, Scrum and/or other approaches.
 
 ## Artifacts
 
@@ -265,6 +281,21 @@ You can see the go-ipfs pipeline in use as a waffle board at https://waffle.io/i
 ```
 
 ## Roles
+
+### Contributor
+
+TODO: *Define Contributor. See https://github.com/ipfs/pm/issues/182*
+
+In general, a **Contributor** is anyone who contributes Code, Designs, Documentation, Marketing Materials or other improvements to a Project.
+
+
+### Maintainer
+
+TODO: *Define Maintainer See https://github.com/ipfs/pm/issues/182*
+
+In general a **Maintainer** is someone who plays a more active role in governance, has additional decision making power, and has taken on responsibility for maintaining the health of the software.
+
+
 
 ### Project Lead
 
