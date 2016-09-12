@@ -212,17 +212,17 @@ TODO: a clear example
 
 ### Pipelines & Stages
 
-A Project's **Pipeline** is a sequential set of **Stages** that the Project's Goals move through during their lifecycle. When we talk about a Goal's **status** we are usually referring to its _current stage in the pipeline_.
+A Project's **Pipeline** is a sequence of **Stages** that the Project's Goals move through during their lifecycle. When we talk about a Goal's **status** we are usually referring to its _current stage in the pipeline_.
 
 ### General Flow
 
-Goals move from the Pipeline's entry stage towards the completion stage and each Goal can only be in one stage at a time. The different Stages within a Pipeline are broken down per the workflow of each project. On high level the stages always have a general flow: `Not Done ──> In Progress ──> Done`.
+Goals move from the Pipeline's entry stage towards the completion stage. Each Goal can only be in one stage at a time. On high level the stages always have a general flow: `Not Done ──> In Progress ──> Done`.
 
-Usually Goals move one way, in sequential order, but sometimes Goals can move back between the stages (eg. `In Progress ──> Review ──> In Progress`).
+Usually Goals move one way, in sequential order, but sometimes Goals can move back between the stages. For example, in a pipeline with a `Review` stage you might see Goals get moved backwards to `In Progress` if they fail review and need more work.
 
 ### Conventions about Pipeline Stages
 
-Project Leads are free to define their own Pipeline and break it up into stages that suit their particular Project. By convention we usually have stages called Backlog, Ready and Done. We also often have a stage called "Inbox".
+Project Leads are free to define their own Pipeline and break it up into Stages that suit their particular Project. By convention we usually have stages called Backlog, Ready and Done. We also often have a stage called "Inbox".
 
 In order to minimize confusion, we try to be consistent about our usage of these terms. Here are the recommended definitions for those stages:
 
@@ -232,15 +232,19 @@ The "Inbox" stage is where new Goals land in the pipeline. _When a Goal is in th
 
 Not all Projects have an Inbox. This stage is useful in the pipelines of Projects that have large, active communities of users and contributors because it clearly distinguishes between "this has been reported but not reviewed yet" and "we've seen this but we're not planning to work on it yet".
 
+If a project does not have an Inbox, new Goals and
+
 #### Definition of Backlog
 
-_When a Goal is in the **Backlog** that means it is not planned to be carried out yet._
+_When a Goal is in the **Backlog** that means it's technically ready to be worked on but the maintainers don't plan to work on it yet._
 
-Sometimes the Backlog includes both the "Inbox" and the Backlog. In that case, the Backlog includes Goals that have not been reviewed _and_ it includes Goals that have been reviewed but are not planned to be carried out yet.
+The most common use of the Backlog is to distinguish between the _Goals that will be worked on in future sprints_ and the Goals that are priorities for the current sprint.  Goals for the current sprint are in the "Ready" pile while the Backlog has all the Goals that probably won't be worked on in the current sprint. This means the Backlog includes Goals that are scheduled for future Milestones and Goals that have not been associated with a Milestone yet.
 
 #### Definition of Ready
 
-_When a Goal is **Ready** that means the Goal is planned to be carried out. It's waiting for someone to start working on it._
+_When a Goal is **Ready** that means the Goal is planned to be carried out soon. It's waiting for someone to start working on it._
+
+The most common use of the Ready stage is to show which Goals are priorities for the current sprint.
 
 Some teams will apply a stringent set of requirements for marking a Goal as "Ready". This usually revolves around requiring that Goals must be defined in a way that is _clear_, _testable_  and _feasible_ before they are considered "Ready" for someone to work on them.
 
