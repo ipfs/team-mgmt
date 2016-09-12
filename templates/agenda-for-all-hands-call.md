@@ -1,4 +1,4 @@
-# IPFS All Hands Call _enter date here_
+# IPFS All Hands Call <!-- enter date here -->
 
 **Moderator:**  
 **Notetaker:**  
@@ -7,10 +7,17 @@
 
 
 ## Agenda
-_ensure notetaker is present before you begin_  
 
-1. Roll call - see [timezone-based roll call](../admin-guides/timezone-rollcall.md) guide
-1. Call for additional agenda items (moderator)
-1. Moderator/notetaker for next time:
+<!-- Ensure notetaker is present before you begin -->
+
+- Roll call - see [timezone-based roll call](../admin-guides/timezone-rollcall.md) guide
+- Call for additional agenda items (moderator)
+
+
+<!-- Add items here -->
+
+
+- Demos
+- Moderator/notetaker for next time:
  * Moderator: TBD
  * Notetaker: TBD
