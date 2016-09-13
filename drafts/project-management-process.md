@@ -13,11 +13,11 @@ This _model_ (terms, roles, patterns) is intentionally separated from the _mecha
 - [Overview: How it All Fits Together](#overview-how-it-all-fits-together)
 - [Methodology: Agile? Scrum? Kanban?](#methodology-agile-scrum-kanban)
 - [Artifacts](#artifacts)
- - [📚 Projects](#projects)
- - [📘 Milestones](#milestones)
- - [📄 Goals](#goals)
- - [🗺 Project Roadmaps](#project-roadmaps)
- - [📊 Status Boards](#status-boards)
+ - [📚 Projects](#-projects)
+ - [📘 Milestones](#-milestones)
+ - [📄 Goals](#-goals)
+ - [🗺 Project Roadmaps](#-project-roadmaps)
+ - [📊 Status Boards](#-status-boards)
  - [Organization Roadmap](#organization-roadmap)
 - [Worklow](#workflow)
   - [Pipelines & Stages](#pipelines--stages)
@@ -42,11 +42,11 @@ Read this overview to get a sense of how all these terms fit together as a funct
 
 ### Overview of The Pieces/Artifacts
 
-We arrange our work into 📚 [**Projects**](#projects). Each project has a continuously-evolving set of 📄 [**Goals**](#goals) which are usually tracked as Github Issues.
+We arrange our work into 📚 [**Projects**](#-projects). Each project has a continuously-evolving set of 📄 [**Goals**](#-goals) which are usually tracked as Github Issues.
 
-In order to provide a clear timeline for each project, we associate Goals with 📘 [**Milestones**](#milestones) which have either estimated dates of delivery or deadlines.  Those Milestones are collected into a 🗺 [**Project Roadmap**](#project-roadmaps), which is where you go to answer questions about the trajectory, priorities, and timing of the project.
+In order to provide a clear timeline for each project, we associate Goals with 📘 [**Milestones**](#-milestones) which have either estimated dates of delivery or deadlines.  Those Milestones are collected into a 🗺 [**Project Roadmap**](#-project-roadmaps), which is where you go to answer questions about the trajectory, priorities, and timing of the project.
 
-In order to provide a clear view of the current state of work, every project has a 📊 [**Status Board**](#status-boards) which shows where the Project's Goals lie in the [**Pipeline**](#pipelines-&-statuses) or flow from inception through to completion. The Status Board is where you go to answer questions about what is being worked on now, what is ready to be worked on, etc.
+In order to provide a clear view of the current state of work, every project has a 📊 [**Status Board**](#-status-boards) which shows where the Project's Goals lie in the [**Pipeline**](#pipelines-&-statuses) or flow from inception through to completion. The Status Board is where you go to answer questions about what is being worked on now, what is ready to be worked on, etc.
 
 We also pull all of the Project Roadmaps together into a consolidated [**Organization Roadmap**](#organization-roadmap).  
 
@@ -124,7 +124,7 @@ TODO: a clear example
 
 A **Milestone** _groups together a set of goals that will achieve a significant, measurable improvement to the product or project._
 
-Milestones are the bridge between the [Status Board](#status-boards) and the [Roadmap](#roadmaps). The Roadmap focuses on the projected timeline while the the Status Board focuses on the current state of work in the Pipeline. Those contexts  each allow a different way of viewing the same pile of Goals. Milestones bridge these two contexts by gathering together related Goals and associating them with either an Estimated Date of Delivery or a Deadline so that we can situate those Goals within the Roadmap's timeline.
+Milestones are the bridge between the [Status Board](#-status-boards) and the [Roadmap](#-project-roadmaps). The Roadmap focuses on the projected timeline while the the Status Board focuses on the current state of work in the Pipeline. Those contexts  each allow a different way of viewing the same pile of Goals. Milestones bridge these two contexts by gathering together related Goals and associating them with either an Estimated Date of Delivery or a Deadline so that we can situate those Goals within the Roadmap's timeline.
 
 A Milestone is completed when all Goals associated with it have been completed.
 
