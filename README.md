@@ -28,7 +28,7 @@ We use a loose agile approach, breaking our work into weekly sprints. Here are s
 
   - Every Monday we  have our team sync calls. The most important call is the all-hands call; we try to keep this short, it has an agenda, and anyone (including you) can propose an agenda item for it.
   - We create a "sprint issue" for each sprint. That is where we put all the information about the week's calls. That's also where the notes from that week's calls accumulate.
-  - There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below. 
+  - There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below.
   - You do not have to follow all of the project-specific discusions. They can be very detailed. Only go to ones you want to go to. We post the notes (such as they are) in the sprint issue in this repository afterwards.
   - If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item my adding a comment on that week's sprint issue.
   - If you have questions, ask [RichardLitt](//github.com/RichardLitt) on IRC, or email him. He'll help you out.
@@ -69,6 +69,8 @@ The schedule for the sprint discussions for each week is on the corresponding ti
 You can add these meeting times to your Calendar app by the [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York) to your app.
 
 The Hangouts are generated anew for each session. The admin should use the [hangouts guide](hangouts.md) to set these up before the session.
+
+For all regular calls, we strive to always have the same times, unless there is a very good reason. The times are locked the Friday before the Monday sprint, to ensure that people know when the time will be. We will try not to change times on the day of the actual calls. In general, the rule is that the only adjustment that is okay to do on Monday is adding calls, but not moving around already announced ones.
 
 ## Contribute
 

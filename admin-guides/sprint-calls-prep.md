@@ -13,7 +13,7 @@ On Wednesday of the preceding week:
 - Set up the Etherpad links, so that people can start proposing agenda items for each call.
 
 By Friday of the preceding week:
-- Set up the call times for the following Monday, posted in the Sprint issue.
+- Set up the call times for the following Monday, posted in the Sprint issue. Lock down the times for the calls, so that people can expect them at set times on Monday.
 - Adjust the calendar times to match the Sprint issue.
 
 **Before the Call**
