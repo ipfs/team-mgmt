@@ -64,9 +64,7 @@ If you are interested in watching, but do not plan on participating, please use 
 
 The schedule for the sprint discussions for each week is on the corresponding ticket (aka "sprint issue") for that week's sprint. It's also in the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
 
-You can add these meeting times to your Calendar app by the [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York) to your app.
-
-The Hangouts are generated anew for each session. The admin should use the [hangouts guide](hangouts.md) to set these up before the session.
+We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube, and to have calls with more than ten users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
 For all regular calls, we strive to always have the same times, unless there is a very good reason. The times are locked the Friday before the Monday sprint, to ensure that people know when the time will be. We will try not to change times on the day of the actual calls. In general, the rule is that the only adjustment that is okay to do on Monday is adding calls, but not moving around already announced ones.
 
