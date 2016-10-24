@@ -4,7 +4,7 @@ _For information about these calls and how they work, read [the ipfs/pm README](
 
 [Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com)
 
-Zoom and Stream links will be updated directly before the calls. Links to them will also be dropped in IRC, at the start of each call.
+Zoom and Stream links will be updated directly before the calls. Links to them will also be dropped in IRC, at the start of each call. If the link below seems to link to this issue, the link has not been updated yet.
 
 Endeavour      | Lead            | Time (PDT - **UTC/Z** - CEST) | Zoom     | Stream     | Pad
 :------------: | :-------------: | :---------------------------: | :------: | :--------: | :----:
