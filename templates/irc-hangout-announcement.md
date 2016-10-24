@@ -2,6 +2,6 @@
 Topic: __topic__
 Sprint Issue: https://github.com/ipfs/pm/issues/__
 Etherpad Notes:
-Join Hangout:
-Stream:
+Join Call:
+Watch Stream:
 =============================================================================
