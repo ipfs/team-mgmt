@@ -1,0 +1,74 @@
+-   repositories:
+        - js-ipfs
+        - js-ipfs-api
+        - js-ipfs-block-service
+        - js-ipfs-repo
+        - js-ipfs-block
+        - js-ipfs-merkle-dag
+        - js-ipfs-unixfs
+        - js-ipfs-unixfs-engine
+        - js-ipfs-bitswap
+        - js-ipfsd-ctl
+        - js-ipfs-path
+        - js-ipfs-examples
+
+    milestones:
+    # Q3/2016
+    -   title: js-ipfs on the browser
+        state: open
+        description: |
+            This milestone's focus is to ship a version of js-ipfs that can be embed in browser applications, creating an IPFS node inside a browser web application.
+        due_on: 2016-08-30
+
+    -   title: Quality and correctness of the JavaScript Implementation
+        state: open
+        description: |
+            The focus of this milestone is quality of the JavaScript implementation so that users of the library can build their applications with confidence.
+        due_on: 2016-08-30
+    # Q4/2016
+    -   title: The InterPlanetary JavaScript
+        state: open
+        description: |
+          Settle in what will be the 'good parts' for us to use accross JS projects
+        due_on: 2016-10-17
+
+    -   title: interface-floodsub
+        state: open
+        description: |
+          Define an interface for floodsub, that can be implemented for js-ipfs and js-ipfs-api
+        due_on: 2016-10-17
+
+    -   title: Awesome IPLD - Enable js-ipfs to handle both merkledag protobufs and ipld cbor objects
+        state: open
+        description: |
+          Integration of IPLD (js-ipld and js-ipld-ipfs) into js-ipfs.
+        due_on: 2016-10-24
+
+    -   title: Async Crypto
+        state: open
+        description: |
+          Move away from bundling in node-forge and use the WebCrypto browser primitives directly
+        due_on: 2016-10-24
+
+    -   title: Bitswap Complete
+        state: open
+        description: |
+          Make js-ipfs-bitswap work at the same level go-ipfs-bitswap
+        due_on: 2016-10-31
+
+    -   title: js-ipfs and js-ipfs-api bundling
+        state: open
+        description: |
+          Make it work with any bundler, out of the box or provide proper documentation if not possible.
+        due_on: 2016-10-31
+
+    -   title: Documentation of all the modules
+        state: open
+        description: Document all js modules
+        due_on: 2016-11-21
+
+    -   title: Quick Start examples for js-ipfs and js-ipfs-api
+        state: open
+        description: |
+          Provide quick start examples for js-ipfs and js-ipfs-api
+        due_on: 2016-11-28
