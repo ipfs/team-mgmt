@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Project Management
 
@@ -16,11 +15,12 @@ This is a repository for general IPFS project management.
 - [How We Work](#how-we-work)
 - [Working Hours](#working-hours)
 - [Sprints (WIP)](#sprints-wip)
-  - [Sprint Planning](#sprint-planning)
-    - [Sprint Discussions](#sprint-discussions)
-      - [Schedule](#schedule)
+  - [Sprint Discussions](#sprint-discussions)
+  - [Schedule](#schedule)
+    - [Timezone: UTC](#timezone-utc)
 - [Contribute](#contribute)
 - [License](#license)
+
 
 ## How We Work
 
@@ -35,7 +35,7 @@ We use a loose agile approach, breaking our work into weekly sprints. Here are s
 
 ## Working Hours
 
-To maximize feedback during a sprint, we've picked a set of "working hours" during which we can overlap. The hours are:
+As the IPFS team is all over the world, we've picked a set of "working hours" during which we can overlap. The hours are:
 
 ```
 16:00-19:00 Z/UTC daily or
@@ -44,13 +44,11 @@ To maximize feedback during a sprint, we've picked a set of "working hours" duri
 09:00-12:00 PDT daily
 ```
 
-The committers aim to be available during these hours. Your mileage may vary. 
+We aim to be available during these hours. Your mileage may vary.
 
 ## Sprints (WIP)
 
-### Sprint Planning
-
-#### Sprint Discussions
+### Sprint Discussions
 
 **When:** See the list below.
 
@@ -62,15 +60,17 @@ The sprint discussions give a high throughput (video call) environment to talk a
 
 If you are interested in watching, but do not plan on participating, please use the stream link provided by the discussion lead and watch on YouTube. This is because video quality is generally better for everyone with less participants on the hangout.
 
-##### Schedule
+### Schedule
 
 The schedule for the sprint discussions for each week is on the corresponding ticket (aka "sprint issue") for that week's sprint. It's also in the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
 
-You can add these meeting times to your Calendar app by the [community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York) to your app.
-
-The Hangouts are generated anew for each session. The admin should use the [hangouts guide](hangouts.md) to set these up before the session.
+We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube, and to have calls with more than ten users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
 For all regular calls, we strive to always have the same times, unless there is a very good reason. The times are locked the Friday before the Monday sprint, to ensure that people know when the time will be. We will try not to change times on the day of the actual calls. In general, the rule is that the only adjustment that is okay to do on Monday is adding calls, but not moving around already announced ones.
+
+#### Timezone: UTC
+
+All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accomodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
 ## Contribute
 
