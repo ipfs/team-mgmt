@@ -14,24 +14,27 @@ This is a repository for general IPFS project management.
 
 - [How We Work](#how-we-work)
 - [Working Hours](#working-hours)
-- [Sprints (WIP)](#sprints-wip)
+- [Sprints](#sprints)
   - [Sprint Discussions](#sprint-discussions)
-  - [Schedule](#schedule)
+    - [All Hands Call](#all-hands-call)
+    - [Project-Specific Calls](#project-specific-calls)
+    - [Schedule](#schedule)
+    - [Zoom](#zoom)
+    - [Timing](#timing)
     - [Timezone: UTC](#timezone-utc)
 - [Contribute](#contribute)
 - [License](#license)
-
 
 ## How We Work
 
 We use a loose agile approach, breaking our work into weekly sprints. Here are some things that are good to know:
 
-  - Every Monday we  have our team sync calls. The most important call is the all-hands call; we try to keep this short, it has an agenda, and anyone (including you) can propose an agenda item for it.
-  - We create a "sprint issue" for each sprint. That is where we put all the information about the week's calls. That's also where the notes from that week's calls accumulate.
-  - There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below.
-  - You do not have to follow all of the project-specific discusions. They can be very detailed. Only go to ones you want to go to. We post the notes (such as they are) in the sprint issue in this repository afterwards.
-  - If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item my adding a comment on that week's sprint issue.
-  - If you have questions, ask [RichardLitt](//github.com/RichardLitt) on IRC, or email him. He'll help you out.
+- Every Monday we have our team sync calls. The most important call is the all-hands call; we try to keep this short, it has an agenda, and anyone (including you) can propose an agenda item for it.
+- We create a "sprint issue" for each sprint. That is where we put all the information about the week's calls. That's also where the notes from that week's calls accumulate.
+- There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below.
+- You do not have to follow all of the project-specific discusions. They can be very detailed. Only go to ones you want to go to. We post the notes (such as they are) in the sprint issue in this repository afterwards.
+- If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item my adding a comment on that week's sprint issue.
+- If you have questions, ask [RichardLitt](//github.com/RichardLitt) on IRC, or email him. He'll help you out.
 
 ## Working Hours
 
@@ -46,13 +49,13 @@ As the IPFS team is all over the world, we've picked a set of "working hours" du
 
 We aim to be available during these hours. Your mileage may vary.
 
-## Sprints (WIP)
+## Sprints
 
 ### Sprint Discussions
 
-**When:** See the list below.
+**When:** Every Monday.
 
-**How:** This takes place synchronously on Google Hangouts.
+**How:** This takes place synchronously using Zoom.
 
 Our sprints cover many different subject areas, that interest distinct but overlapping groups of people. Everyone is welcome to participate on all of them -- hence they do not overlap in time -- though they are geared towards the main people handling those areas.
 
@@ -60,11 +63,23 @@ The sprint discussions give a high throughput (video call) environment to talk a
 
 If you are interested in watching, but do not plan on participating, please use the stream link provided by the discussion lead and watch on YouTube. This is because video quality is generally better for everyone with less participants on the hangout.
 
-### Schedule
+#### All Hands Call
+
+We start every Monday Sprint with an All Hands call. This is a regular, reliable, short call Where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
+
+#### Project-Specific Calls
+
+Aftet the All Hands call, we break down into project-specific calls. These calls are not a time for lengthy announcements or in-depth discussions, but rather a place where we highlight issues that need discussion and where we go over milestones and our progress. We use them to discuss the tickets people are working on and to allow brief discussion of any relevant topics or blockers. If any topics require further discussion, we generally redirect it to either a follow-up call (ie. "Let's discuss this between the three of us immediately after the scrum."), IRC, or to GitHub issues.
+
+#### Schedule
 
 The schedule for the sprint discussions for each week is on the corresponding ticket (aka "sprint issue") for that week's sprint. It's also in the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
 
+#### Zoom
+
 We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube, and to have calls with more than ten users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
+
+#### Timing
 
 For all regular calls, we strive to always have the same times, unless there is a very good reason. The times are locked the Friday before the Monday sprint, to ensure that people know when the time will be. We will try not to change times on the day of the actual calls. In general, the rule is that the only adjustment that is okay to do on Monday is adding calls, but not moving around already announced ones.
 
