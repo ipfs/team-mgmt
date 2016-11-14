@@ -41,7 +41,7 @@ Haad went away... And he came back!
 
 ### Write-controlled feeds
 
-* Prototype for data structures for access control!
+* Prototype for access controlled data structures!
 * Not really ready but being worked on. 
 * find a better name than "write-controlled" (but this is not "Private")
 
