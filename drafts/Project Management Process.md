@@ -112,7 +112,7 @@ Ideally, there should be a sprint master who knows every participant's tasks and
 
 #### The Discussion Leads
 
-Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into an Etherpad for their sprint; the admin should have already filled out the Etherpad with the template, and linked to your Etherpad in the sprint issue. After the discussions, the lead should add the notes directly into the current sprint issue.
+Each discussion has a lead, and each lead is responsible for preparing for that talk before hand. There is a [sprint-issue-template](sprint-issue-template.md) available for discussion leads to add into a collaborative note pad for their sprint; the admin should have already filled out the pad with the template, and linked to your pad in the sprint issue. After the discussions, the lead should add the notes directly into the current sprint issue.
 
 #### Sprint Administrator
 

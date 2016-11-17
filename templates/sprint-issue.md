@@ -11,11 +11,11 @@ Zoom and Stream links will be updated directly before the calls. Links to them w
 
 Endeavour      | Lead            | Time (PST - **UTC/Z** - CET) | Pad
 :------------: | :-------------: | :-------------------------: | :----:
-All Hands Call | @flyingzumwalt  | 9:00PST **17:00Z** 18:00CET  | [notes](https://public.etherpad-mozilla.org/p/ipfs-__Date__-all-hands)
-go-ipfs        | @whyrusleeping  | 10:00PST **18:00Z** 19:00CET | [notes](https://public.etherpad-mozilla.org/p/ipfs-__Date__-go-ipfs)
-apps on IPFS   | @haadcode       | 10:30PST **18:30Z** 19:30CET | [notes](https://public.etherpad-mozilla.org/p/ipfs-__Date__-apps-on-ipfs)
-js-ipfs        | @diasdavid      | 11:00PST **19:00Z** 20:00CET | [notes](https://public.etherpad-mozilla.org/p/ipfs-__Date__-js-ipfs)
-libp2p         | @diasdavid      | 11:30PST **19:30Z** 20:30CET | [notes](https://public.etherpad-mozilla.org/p/ipfs-__Date__-libp2p)
-IPLD           | @nicola         | 12:00PST **20:00Z** 21:00CET | [notes](https://public.etherpad-mozilla.org/p/ipfs-__Date__-ipld)
+All Hands Call | @flyingzumwalt  | 9:00PST **17:00Z** 18:00CET  | [notes]()
+go-ipfs        | @whyrusleeping  | 10:00PST **18:00Z** 19:00CET | [notes]()
+apps on IPFS   | @haadcode       | 10:30PST **18:30Z** 19:30CET | [notes]()
+js-ipfs        | @diasdavid      | 11:00PST **19:00Z** 20:00CET | [notes]()
+libp2p         | @diasdavid      | 11:30PST **19:30Z** 20:30CET | [notes]()
+IPLD           | @nicola         | 12:00PST **20:00Z** 21:00CET | [notes]()
 
 Please add any agenda items you have to the pad before the project-specific sprint call starts.

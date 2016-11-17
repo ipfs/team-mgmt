@@ -10,7 +10,7 @@ The moderator for the upcoming week's sprint calls.
 
 On Wednesday of the preceding week:
 - Set up the sprint issue, using the [sprint issue template](https://github.com/ipfs/pm/blob/master/templates/sprint-issue.md), so people can start proposing agenda items.
-- Set up the Etherpad links, so that people can start proposing agenda items for each call.
+- Set up the notes links, so that people can start proposing agenda items for each call.
 
 By Friday of the preceding week:
 - Set up the call times for the following Monday, posted in the Sprint issue. Lock down the times for the calls, so that people can expect them at set times on Monday.
