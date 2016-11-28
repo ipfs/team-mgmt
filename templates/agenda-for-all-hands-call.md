@@ -10,7 +10,7 @@
 
 <!-- Ensure notetaker is present before you begin -->
 
-- Roll call - see [timezone-based roll call](../admin-guides/timezone-rollcall.md) guide
+- Roll call, by [timezone from east to west](../admin-guides/timezone-rollcall.md).
 - Call for additional agenda items (moderator)
 
 
@@ -21,3 +21,7 @@
 - Moderator/notetaker for next time:
  * Moderator: TBD
  * Notetaker: TBD
+
+<!-- After each call, it is the responsibility of the notetaker to save the last
+version of the notes in a file in ipfs/pm/meeting-notes, by opening a branch and
+submitting a PR. -->
