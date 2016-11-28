@@ -36,6 +36,8 @@ We use a loose agile approach, breaking our work into weekly sprints. Here are s
 - If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item my adding a comment on that week's sprint issue.
 - If you have questions, ask [RichardLitt](//github.com/RichardLitt) on IRC, or email him. He'll help you out.
 
+You can also find a list of `Distributed Teams` resources on tools, decision making, process, etc, that we have been gathering, reviewing, discussing and experimenting with at [distributed-teams folder](/distributed-teams).
+
 ## Working Hours
 
 As the IPFS team is all over the world, we've picked a set of "working hours" during which we can overlap. The hours are:
