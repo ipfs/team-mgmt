@@ -4,6 +4,8 @@
 
 The [Project Leads](#project-leads) of each of the IPFS projects ([go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs), [IPLD](https://github.com/ipld), [orbit](https://github.com/haadcode/orbit), etc.) have agreed to use this model so that we can provide consistency across all of these closely related code bases, specs and products.
 
+**This is not a governance document** -- it does not define _how_ we make decisions -- and it is **not an attempt to define a new project management methodology**. It's a reference point that allows us all to get on the same page and provides common, consistent language that we can use while we improve our processes.
+
 This _model_ (terms, roles, patterns) is intentionally separated from the _mechanics_ of project management process so that people have room to vary the mechanics based on their needs or habits.  For example, in most of our projects _Goals_ will be tracked as github issues but we intentionally used the word "Goals" instead of "Issues" in this document because we want to be clear that we’re emphasizing the _conceptual model_ as our point of consistency across IPFS projects while allowing people to vary the mechanics they use to express that information. Likewise, this model specifies that all projects have _Milestones_ but does not require everyone to use Github milestones because that specific mechanism is well suited to some projects but not others -- you're agreeing to have milestones, but it's up to you to decide how to track them.
 
 **This will always be a work in progress.** We constantly adapt, improve, and reimagine our work process in response to new information.  This document is meant to be a reference point and a way of recording concepts or conventions as they arise. If something is missing or inaccurate, please point it out. If we could be doing things in a better way, please speak up. _Pull Requests are Welcome._
@@ -74,9 +76,9 @@ Agile methodology has evolved into a whole field of options -- Extreme Programmi
 
 For now we just use a loose sense of Agile methodology. The "agile" habits we adhere to include:
 
-* Embrace change by arranging work into sprints
+* Embrace change, avoid Waterfall-ish behavior
 * Track work as Goals on a Status Board
-* Rely heavily on Test Driven Development
+* Emphasize good test coverage
 * Run Continuous Integration servers
 
 Over time, we will experiment with incorporating more elements of Kanban, Scrum and/or other approaches.
@@ -280,14 +282,14 @@ You can see the go-ipfs pipeline in use as a waffle board at https://waffle.io/i
 
 ### Contributor
 
-TODO: *Define Contributor. See https://github.com/ipfs/pm/issues/182*
+*We're still working on a better definiton of Contributor. See https://github.com/ipfs/pm/issues/182*
 
 In general, a **Contributor** is anyone who contributes Code, Designs, Documentation, Marketing Materials or other improvements to a Project.
 
 
 ### Maintainer
 
-TODO: *Define Maintainer See https://github.com/ipfs/pm/issues/182*
+*We're still working on a better definiton of Maintainer See https://github.com/ipfs/pm/issues/182*
 
 In general a **Maintainer** is someone who plays a more active role in governance, has additional decision making power, and has taken on responsibility for maintaining the health of the software.
 
