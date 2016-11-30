@@ -85,10 +85,6 @@ Over time, we will experiment with incorporating more elements of Kanban, Scrum 
 
 ### 📚 Projects
 
-_TODO: WTF is a Project? is a Project defined by its audience?_
-
-A **Project** is...
-
 _We **do not** use a one-to-one mapping between Projects and code bases._ Projects frequently include multiple code bases stored in multiple git repositories.
 
 Every project has a Project Lead, a Project Roadmap and a Status Board.
@@ -117,8 +113,6 @@ A Goal description includes the following:
 - Dependencies (where applicable)
   - Links to other goals that must happen before or concurrently with this one
 - Any additional information that helps to reach this goal (optional)
-
-TODO: a clear example
 
 ### 📘 Milestones
 
@@ -205,8 +199,6 @@ An **Organization Roadmap** is an overview of all projects across the organizati
 - List of links to old milestones
 
 The Program Manager is responsible for maintaining the Organization Roadmap. The Organization Roadmap is updated as part of the quarterly Roadmap Update when all of the Project Roadmaps are being updated.
-
-TODO: a clear example
 
 ## Workflow
 
@@ -299,23 +291,9 @@ TODO: *Define Maintainer See https://github.com/ipfs/pm/issues/182*
 
 In general a **Maintainer** is someone who plays a more active role in governance, has additional decision making power, and has taken on responsibility for maintaining the health of the software.
 
-
-
 ### Project Lead
 
 The **Project Lead** maintains the Project Roadmap and is responsible for generating, updating and tracking the Milestones. To make sure the Roadmap is up to date, the Project Lead should go through the current Milestones on weekly basis.
-
-### Product Owner
-
-_We're still working on defining this role. This is just a definition we're trying out._
-
-A **Product Owner** is responsible for crafting the narrative around a Product -- Who is using it, Why they're using it, and What is the experience of using the product. This narrative must continually evolve as the technology, the users, and their needs change over time.
-
-### Project Manager
-
-_We're still working on defining this role._
-
-TODO. See https://github.com/ipfs/pm/issues/164
 
 ### Program Manager
 
