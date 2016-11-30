@@ -13,9 +13,10 @@
 - Roll call, by [timezone from east to west](../admin-guides/timezone-rollcall.md).
 - Call for additional agenda items (moderator)
 
-
-<!-- Add items here -->
-
+<!-- Add items here
+  Use the format:
+  - Item (@your_name: @target_audience)
+-->
 
 - Demos
 - Moderator/notetaker for next time:
