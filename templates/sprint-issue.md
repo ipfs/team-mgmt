@@ -9,13 +9,20 @@ Zoom and Stream links will be updated directly before the calls. Links to them w
 **[Zoom link]()**
 **[Stream link]()**
 
-Endeavour      | Lead            | Time (PST - **UTC/Z** - CET) | Pad
-:------------: | :-------------: | :-------------------------: | :----:
-All Hands Call | @flyingzumwalt  | 9:00PST **17:00Z** 18:00CET  | [notes]()
-go-ipfs        | @whyrusleeping  | 10:00PST **18:00Z** 19:00CET | [notes]()
-apps on IPFS   | @haadcode       | 10:30PST **18:30Z** 19:30CET | [notes]()
-js-ipfs        | @diasdavid      | 11:00PST **19:00Z** 20:00CET | [notes]()
-libp2p         | @diasdavid      | 11:30PST **19:30Z** 20:30CET | [notes]()
-IPLD           | @nicola         | 12:00PST **20:00Z** 21:00CET | [notes]()
+### Monday
+
+Endeavour      | Time (PST - UTC - CET) | Pad
+:------------: | :--------------------: | :----:
+All Hands Call | 9:00 **17:00** 18:00   | [agenda and notes]()
+go-ipfs        | 10:00 **18:00** 19:00  | [agenda and notes]()
+Apps on IPFS   | 10:30 **18:30** 19:30  | [agenda and notes]()
+js-ipfs        | 11:00 **19:00** 20:00  | [agenda and notes]()
+libp2p         | 11:30 **19:30** 20:30  | [agenda and notes]()
+
+### Friday
+
+Endeavour      | Time (PST - UTC - CET) | Pad
+:------------: | :--------------------: | :----:
+IPLD           | 9:00 **17:00** 18:00   | [agenda and notes]()
 
 Please add any agenda items you have to the pad before the project-specific sprint call starts.
