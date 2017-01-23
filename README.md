@@ -89,6 +89,26 @@ For all regular calls, we strive to always have the same times, unless there is 
 
 All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accomodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
+#### Facilitators and Notetakers
+
+We rotate who facilitates and takes notes. Here is that list:
+
+- @diasdavid
+- @Dignifiedquire
+- @flyingzumwalt
+- @haadcode
+- @hsanjuan
+- @johnnycrunch
+- @keks
+- @kubuxu
+- @lgierth
+- @RichardLitt
+- @sidharder
+- @victorbjelkholm
+- @whyrusleeping
+
+If someone is the moderator one week, the next week they are the notetaker. The list goes down and then around the top. If anyone is unable to go to their meeting, the next person is chosen.
+
 ## Contribute
 
 Feel free to join in. All welcome. Open an [issue](https://github.com/ipfs/pm/issues)!
