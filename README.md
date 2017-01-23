@@ -93,9 +93,8 @@ All of our times are set according to the **UTC** timezone (or should be). This 
 
 We rotate who facilitates and takes notes. Here is that list:
 
-- @Dignifiedquire
-- @RichardLitt
 - @diasdavid
+- @Dignifiedquire
 - @flyingzumwalt
 - @haadcode
 - @hsanjuan
@@ -103,6 +102,8 @@ We rotate who facilitates and takes notes. Here is that list:
 - @keks
 - @kubuxu
 - @lgierth
+- @RichardLitt
+- @sidharder
 - @victorbjelkholm
 - @whyrusleeping
 
