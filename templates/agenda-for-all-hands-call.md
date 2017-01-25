@@ -18,9 +18,6 @@
 -->
 
 - Demos
-- Moderator/notetaker for next time:
- * Moderator: TBD
- * Notetaker: TBD
 
 <!-- After each call, it is the responsibility of the notetaker to save the last
 version of the notes in a file in ipfs/pm/meeting-notes, by opening a branch and
