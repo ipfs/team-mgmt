@@ -107,7 +107,7 @@ We rotate who facilitates and takes notes. Here is that list:
 - @victorbjelkholm
 - @whyrusleeping
 
-If someone is the moderator one week, the next week they are the notetaker. The list goes down and then around the top. If anyone is unable to go to their meeting, the next person is chosen.
+If someone is the notetaker one week, the next week they are the moderator. The list goes down and then around the top. If anyone is unable to go to their meeting, the next person is chosen.
 
 ## Contribute
 
