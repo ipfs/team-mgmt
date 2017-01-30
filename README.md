@@ -22,6 +22,8 @@ This is a repository for general IPFS project management.
     - [Zoom](#zoom)
     - [Timing](#timing)
     - [Timezone: UTC](#timezone-utc)
+    - [Facilitators and Notetakers](#facilitators-and-notetakers)
+    - [Notes](#notes)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -108,6 +110,10 @@ We rotate who facilitates and takes notes. Here is that list:
 - @whyrusleeping
 
 If someone is the notetaker one week, the next week they are the moderator. The list goes down and then around the top. If anyone is unable to go to their meeting, the next person is chosen.
+
+#### Notes
+
+We use [hackmd.io](https://hackmd.io) for taking notes. Our default setting for notes is 'Editable' - you may need to sign in with your GitHub account in order to edit a document. This ensures that we know who is setting in, without the significant overhead of making a different account somewhere else.
 
 ## Contribute
 
