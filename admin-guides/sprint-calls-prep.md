@@ -2,28 +2,24 @@
 
 ## Who does this Prep
 
-The moderator for the upcoming week's sprint calls.
+Ideally, the lead of each call, or a specific person.
 
 ## Steps to Take
 
 **Advanced preparation**
 
 On Wednesday of the preceding week:
-- Set up the sprint issue, using the [sprint issue template](https://github.com/ipfs/pm/blob/master/templates/sprint-issue.md), so people can start proposing agenda items.
-- Set up the notes links, so that people can start proposing agenda items for each call.
+- Make sure that [node-github-issue-bot](https://github.com/ipfs/node-github-issue-bot) has created the next sprint issue. It should use templates from here [](https://github.com/ipfs/node-github-issue-bot/tree/master/templates). If it breaks, look at [the README in ipfs/infrastructure](https://github.com/ipfs/infrastructure/tree/master/sprintbot).
+- Manually fill out the Notes link with [the templates](https://github.com/ipfs/pm/tree/master/templates). To not do this manually, follow [this issue](https://github.com/ipfs/node-github-issue-bot/issues/8).
 
 By Friday of the preceding week:
-- Set up the call times for the following Monday, posted in the Sprint issue. Lock down the times for the calls, so that people can expect them at set times on Monday.
-- Adjust the calendar times to match the Sprint issue.
+- Adjust the calendar times to match the Sprint issue. To not manually do this, follow [this issue](https://github.com/ipfs/node-github-issue-bot/issues/4).
 
 **Before the Call**
-1. Launch a Hangouts On Air, and share the links on IRC using the [irc-hangout-announcement](https://github.com/ipfs/pm/blob/master/templates/irc-hangout-announcement.md) template.
-1. Solicit IRC for agenda items.
-
-**During the Calls**
-1. Act as moderator/facilitator on the all-hands call
+1. Launch a Zoom call and share the URL with [@dignifiedquire](https://github.com/dignifiedquire) or [@kubuxu](https://github.com/Kubuxu).
+1. Announce the call in IRC using `sprinthelper: announce`. To do this, manually copy over the name of the call, the number of the issue, the notes URL, the zoom call URL, and the Stream URL (which should be gotten from dig or Kuba). To automate this, close [this issue](https://github.com/ipfs/sprint-helper/issues/17).
 
 **After the Call**
 
 1. Close the previous week's sprint issue.
-1. Follow up with discussion leads making sure they have PRed the notes to the ipfs/pm repo.
+1. Make sure that the Notetaker PRed the notes to `ipfs/pm/meeting_notes`.
