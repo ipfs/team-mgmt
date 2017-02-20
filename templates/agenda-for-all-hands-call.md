@@ -9,7 +9,7 @@
 ## Agenda
 
 <!-- Ensure notetaker is present before you begin -->
-
+- Start recording
 - Roll call, by [timezone from east to west](../admin-guides/timezone-rollcall.md).
 - Call for additional agenda items (moderator)
 
