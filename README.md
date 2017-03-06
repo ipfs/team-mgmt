@@ -103,7 +103,6 @@ We rotate who facilitates and takes notes. Here is that list:
 - @keks
 - @kubuxu
 - @lgierth
-- @RichardLitt
 - @sidharder
 - @victorbjelkholm
 - @whyrusleeping
