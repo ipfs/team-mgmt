@@ -98,7 +98,6 @@ We rotate who facilitates and takes notes. Here is that list:
 - @diasdavid
 - @Dignifiedquire
 - @flyingzumwalt
-- @haadcode
 - @hsanjuan
 - @johnnycrunch
 - @keks
