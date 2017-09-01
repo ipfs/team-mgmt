@@ -32,10 +32,11 @@ submitting a PR. -->
     * block: cid & raw data
     * nodes are blocks (go-ipld)
       * would like to add a method for unmarshal into a struct
-    * dag nodes
+    * `dagNode`
       * don't have consistent format?
-    * this need stems from go being statically typed
-      * go doesn't have json blobs (need to serialize structs before)
+        * No, they don't.
+      * for statically typed languages such as go, we'll want a consistent interface at this level.
+      * also, go doesn't have json "objects" so the "best" api for go will probably look different than the "best" api for javascript.
   * discussion:
     * context compared to js-ipld @diasdavid
       * requirements stemmed from web dev usability for ipfs
@@ -43,7 +44,10 @@ submitting a PR. -->
     * not convinced this is the best way forward (@diasdavid accurate?)
     * javascript does not have interfaces, which is why we have separate interface tests
       * that said, having consistent naming convention helps 
-    * go, block level doesn't understand ipld, node level does, but ... (@stebalien to fill out)
+    * in go, there are 2-3 levels:
+      * block level: data + CID, doesn't understand ipld
+      * node level: serialized but traversable data + CID, understands IPLD, immutable.
+      * object level: fully deserialized, no CID, mutable (doesn't exist in a generic form at the moment but this level will allow us to easily edit DAGs).
     * current implementation let's you generate the cid at will
     * @diasdavid unclear if this suggestion has to change the interface given what happens in js-ipld already. this might get very complex very quickly and make it error prone (?)
     * @kubuxu – this suggestion feels similar to the go-ipfs MFS (files API) mechanism
