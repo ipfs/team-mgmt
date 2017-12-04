@@ -64,7 +64,7 @@ Our sprints cover many different subject areas, that interest distinct but overl
 
 The sprint discussions give a high throughput (video call) environment to talk about status, next goals, problems, solution approcahes, and so on. They're mostly free form, but should endeavor to identify a set of tasks to do, even if those tasks won't all get done this sprint.
 
-If you are interested in watching, but do not plan on participating, please use the stream link provided by the discussion lead and watch on YouTube. This is because video quality is generally better for everyone with less participants on the hangout.
+If you are interested in participating, please join us on Zoom.
 
 #### All Hands Call
 
