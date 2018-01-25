@@ -1,9 +1,9 @@
 # IPFS All Hands Call <!-- enter date here -->
 
-**Moderator:**  
-**Notetaker:**  
-**Attendees** 
-* _attendee names..._  
+- **Moderator:**
+- **Notetaker:**
+- **Attendees:**
+  - _attendee names..._
 
 
 ## Agenda

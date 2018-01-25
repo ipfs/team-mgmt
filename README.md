@@ -1,29 +1,22 @@
-# pm
+# IPFS Project Management & Coordination
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 
-> Project Management
-
-This is a repository for general IPFS project management.
-
-**tl:dr:** We have a **weekly, all-hands call** that is usually on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
+**tl:dr:** We have a **weekly, all-hands call**on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
 
 ## Table of Contents
 
 - [How We Work](#how-we-work)
+- [Weekly All Hands](#weekly-all-hands)
+  - [Schedule](#schedule)
+  - [Zoom](#zoom)
+  - [Timing](#timing)
+  - [Timezone: UTC](#timezone-utc)
+  - [Facilitators and Notetakers](#facilitators-and-notetakers)
+  - [Notes](#notes)
 - [Working Hours](#working-hours)
-- [Sprints](#sprints)
-  - [Sprint Discussions](#sprint-discussions)
-    - [All Hands Call](#all-hands-call)
-    - [Project-Specific Calls](#project-specific-calls)
-    - [Schedule](#schedule)
-    - [Zoom](#zoom)
-    - [Timing](#timing)
-    - [Timezone: UTC](#timezone-utc)
-    - [Facilitators and Notetakers](#facilitators-and-notetakers)
-    - [Notes](#notes)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -39,40 +32,17 @@ We use a loose agile approach, breaking our work into weekly sprints. Here are s
 
 You can also find a list of `Distributed Teams` resources on tools, decision making, process, etc, that we have been gathering, reviewing, discussing and experimenting with at [distributed-teams folder](/distributed-teams).
 
-## Working Hours
+## Weekly All Hands
 
-As the IPFS team is all over the world, we've picked a set of "working hours" during which we can overlap. The hours are:
+- **When:** Every Monday, 5pm UTC.
+- **How:** This takes place synchronously using Zoom.
+- **Length:** 60 minutes.
 
-```
-16:00-19:00 Z/UTC daily or
-18:00-21:00 CEST daily or
-12:00-15:00 EST daily or
-09:00-12:00 PDT daily
-```
-
-We aim to be available during these hours. Your mileage may vary.
-
-## Sprints
-
-### Sprint Discussions
-
-**When:** Every Monday.
-
-**How:** This takes place synchronously using Zoom.
-
-Our sprints cover many different subject areas, that interest distinct but overlapping groups of people. Everyone is welcome to participate on all of them -- hence they do not overlap in time -- though they are geared towards the main people handling those areas.
-
-The sprint discussions give a high throughput (video call) environment to talk about status, next goals, problems, solution approcahes, and so on. They're mostly free form, but should endeavor to identify a set of tasks to do, even if those tasks won't all get done this sprint.
+We host an IPFS All Hands Call every Monday. This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
 
 If you are interested in participating, please join us on Zoom.
 
-#### All Hands Call
-
-We start every Monday Sprint with an All Hands call. This is a regular, reliable, short call Where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
-
-#### Project-Specific Calls
-
-Aftet the All Hands call, we break down into project-specific calls. These calls are not a time for lengthy announcements or in-depth discussions, but rather a place where we highlight issues that need discussion and where we go over milestones and our progress. We use them to discuss the tickets people are working on and to allow brief discussion of any relevant topics or blockers. If any topics require further discussion, we generally redirect it to either a follow-up call (ie. "Let's discuss this between the three of us immediately after the scrum."), IRC, or to GitHub issues.
+You can find recordings of the [previous IPFS All Hands on a Youtube playlist on the IPFS channel](https://www.youtube.com/watch?v=hmAniA6g9D0&list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
 
 #### Schedule
 
@@ -80,11 +50,7 @@ The schedule for the sprint discussions for each week is on the corresponding ti
 
 #### Zoom
 
-We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube, and to have calls with more than ten users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
-
-#### Timing
-
-For all regular calls, we strive to always have the same times, unless there is a very good reason. The times are locked the Friday before the Monday sprint, to ensure that people know when the time will be. We will try not to change times on the day of the actual calls. In general, the rule is that the only adjustment that is okay to do on Monday is adding calls, but not moving around already announced ones.
+We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
 #### Timezone: UTC
 
@@ -112,6 +78,19 @@ If someone is the notetaker one week, the next week they are the moderator. The 
 #### Notes
 
 We use [hackmd.io](https://hackmd.io) for taking notes. Our default setting for notes is 'Editable' - you may need to sign in with your GitHub account in order to edit a document. This ensures that we know who is setting in, without the significant overhead of making a different account somewhere else.
+
+## Working Hours
+
+As the IPFS team is all over the world, we've picked a set of "working hours" during which we can overlap. The hours are:
+
+```
+16:00-19:00 Z/UTC daily or
+18:00-21:00 CEST daily or
+12:00-15:00 EST daily or
+09:00-12:00 PDT daily
+```
+
+We aim to be available during these hours. Your mileage may vary.
 
 ## Contribute
 
