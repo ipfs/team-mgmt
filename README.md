@@ -44,6 +44,8 @@ If you are interested in participating, please join us on Zoom.
 
 You can find recordings of the [previous IPFS All Hands on a Youtube playlist on the IPFS channel](https://www.youtube.com/watch?v=hmAniA6g9D0&list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
 
+This calendar an other IPFS Community calls are tracked on the [IPFS Community Calendar](https://github.com/ipfs/community#calendar)
+
 #### Schedule
 
 The schedule for the sprint discussions for each week is on the corresponding ticket (aka "sprint issue") for that week's sprint. It's also in the [IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=America/New_York).
