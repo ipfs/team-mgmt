@@ -21,6 +21,7 @@ example:
 - A new release of js-ipfs is coming! (@diasdavid, 2 mins)
 - Demo: PeerPad (@pgte, 4 mins)
 
+The total sum should not exceed 25 mins (5 mins for questions buffer). Topics/Demos that do not get time should be postponed tracked so that a call can be scheduled to go over them.
 -->
 
 
