@@ -13,6 +13,7 @@
   - @vmx
   - @victor
   - @hacdias
+- **Recording:** https://www.youtube.com/watch?v=F0wEg6ZQB34
 
 ## Agenda
 
