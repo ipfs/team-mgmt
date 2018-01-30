@@ -4,6 +4,7 @@
 - **Notetaker:**
 - **Attendees:**
   - _attendee names..._
+- **Recording:** _add link to recording once it's online_
 
 ## Agenda
 
