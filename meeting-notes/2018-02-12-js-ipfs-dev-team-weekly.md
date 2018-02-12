@@ -68,10 +68,17 @@
 
 @rob
  - Done:
-   - had a convo with david about usecases (anything specific to mention here Rob?)
+   - had a convo with david about usecases
+     - New users for js-ipfs are more focused on “how do I build a distributed web app?” than many new users of go-ipfs
+     - Many web developers start here
+     - Most common early issues are around APIs and fetching or including remote scripts and content
+       - Common early question of “ok, so how do I use IPFS to send an XHR to my server” except you shouldn’t have a central server to send anything to in this context
+       - Also wanting to include third-party client libraries, which have similar assumptions and problems
  - Blocked:
+   - Nope
  - Next:
-	- continuing with reviwing docs
+   - Continuing with reviewing docs
+   - Hoping to post some summaries of research and notes this week for feedback and review
   
 @dryajov
  - Done:
