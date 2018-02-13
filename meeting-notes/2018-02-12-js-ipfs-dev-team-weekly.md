@@ -91,10 +91,13 @@
     
 ## Additional NOTES:
 
-- Jared - asked about webassembly use in ipfs/libp2p (Jared is this accurate? I had trouble following your convo with david)
-	- js-ipfs/js-libp2p is a complete implementation of both specifications
-  	- webasembly is used in specific cases
+Jared - asked about webassembly use in ipfs/libp2p?:
+  - js-ipfs/js-libp2p is a complete implementation of both specifications.
+  - webasembly is used in specific cases, primarily rust- language projects.
+  - go- language and other projects have complete implementation overlap with js- language, although each runtime platform has its own dis/advantages versus the others.
+  
 - daviddias - check the waffle boards for P0 and P1 and pick stuff to work on
+
 - rob - asked about node-trust, rundown and explanation of what it is
 	- this is a link to the project - https://github.com/mkg20001/libp2p-nodetrust
 - post ideas on Test Mesh https://github.com/MetaMask/mesh-testing/issues/2
