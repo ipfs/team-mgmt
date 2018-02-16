@@ -58,13 +58,12 @@
     
 @mkg20001
  - Done:
- 	- fixed webrtc-star
+ 	- fixed websocket-star
  - Blocked:
  	- PR for libp2p websockets-star rewrite review
-  	- diasdavid - might take a week or more to review
+  	- diasdavid - might take a week or more to rewrite js-libp2p, https://github.com/libp2p/js-libp2p/issues/159
  - Next:
-	- rewriting node-trust
-  
+	- rewriting nodetrust
 
 @rob
  - Done:
