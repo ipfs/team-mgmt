@@ -9,7 +9,7 @@
   - @victorbjelkholm
   - @jkrone
   - @Richard Schneider
-- **Recording:** 
+- **Recording:** https://youtu.be/MJyI0FI1cu4
 
 ## Agenda
 
