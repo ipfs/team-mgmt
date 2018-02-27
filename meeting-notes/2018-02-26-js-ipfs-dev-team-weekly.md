@@ -7,7 +7,7 @@
 	- @dryajov
 	- @hacdias
 	- _attendee names..._
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/gotCojdrl_4
 
 ## Agenda
 
