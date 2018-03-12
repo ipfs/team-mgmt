@@ -13,6 +13,9 @@
   - What have you accomplished since the last Weekly?
   - Were there any blockers? If so, which ones? Is it still blocked? Why?
   - What is the next important thing you should focus on?
+- Ask for general questions. Could be things like:
+  - I'm stuck with something, I don't know who to ask. What know who to ask?
+  - Who can help me with xyz?
 - Plan this week
   - Select issues to work on
 - Review remaining issues if there is time left
