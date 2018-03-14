@@ -8,8 +8,7 @@
   - @jonkrone
   - @dryajov
   - @zcstarr
-- **Recording:** https://ipfs.io/ipfs/QmdZ1UXtUWuBirybDSuVtxXaZDAi1A1e1KNLyVgcBXtebd
-
+- **Recording:** https://www.youtube.com/watch?v=uxs8P5xMdbs
 ## Agenda
 
 - Ask everyone to put their name into the list of attendees
