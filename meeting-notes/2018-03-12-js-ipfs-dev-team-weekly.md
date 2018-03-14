@@ -9,7 +9,7 @@
   - @dryajov
   - @jonkrone
   - @zcstarr
-- **Recording:** _add link to recording once it's online_
+- **Recording:** _https://youtu.be/bAAzUct17ic
 
 ## Agenda
 
