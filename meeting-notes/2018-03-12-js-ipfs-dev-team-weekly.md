@@ -34,7 +34,7 @@
 
 @vmx
  - Done:
-   - Created https://github.com/ipfs/brows	er-process-platform/
+   - Created https://github.com/ipfs/browser-process-platform/
    - Getting js-ipfs-api tests green
  - Blocked: N/A
  - Next:
