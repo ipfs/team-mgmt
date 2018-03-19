@@ -14,8 +14,9 @@
   - [Zoom](#zoom)
   - [Timing](#timing)
   - [Timezone: UTC](#timezone-utc)
-  - [Facilitators and Notetakers](#facilitators-and-notetakers)
-  - [Notes](#notes)
+  - [Moderators and Notetakers](#moderators-and-notetakers)
+    - [Moderators](#moderating)
+    - [Notes](#notes)
 - [Working Hours](#working-hours)
 - [Contribute](#contribute)
 - [License](#license)
@@ -58,26 +59,38 @@ We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream
 
 All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accomodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
-#### Facilitators and Notetakers
+#### Moderators and Notetakers
 
-We rotate who facilitates and takes notes. Here is that list:
+We ask for volunteers, one to moderate and another to take notes.
 
-- @dgrisham
-- @diasdavid
-- @Dignifiedquire
-- @flyingzumwalt
-- @hsanjuan
-- @johnnycrunch
-- @keks
-- @kubuxu
-- @lgierth
-- @sidharder
-- @victorbjelkholm
-- @whyrusleeping
+##### Moderating
 
-If someone is the notetaker one week, the next week they are the moderator. The list goes down and then around the top. If anyone is unable to go to their meeting, the next person is chosen.
+1. Record.
+   - Ask that someone records the call.
 
-#### Notes
+2. Welcome
+   - Welcome Attendees & state the date. ("Hello, and welcome to the IPFS all hands call for ...")
+
+3. Introductions
+   - Is there anyone new to the project or the call?
+   - This gives the Notetaker time to add Agenda & Demo Items.
+
+4. Agenda & Demo items.
+   - Announce the Item and presenter name.
+     - If an individual is presenting many items, switch it up and give them a breather.
+       - i.e. don't make one person talk for 3 straight bullet points ( unless they want to :] ).
+   - Prompt for questions at the end of each item.
+     - The Moderator or the Presenter may call on people with hands raised.
+
+5. Announcements
+   - For anything not covered in the Agenda or Demo items - Get your word out!
+
+6. Questions
+   - For anything not covered in the Agenda or Demo items - Ask away!
+
+7. Conclude the call & thank the Attendees ("This concludes the IPFS all hands call for ..., thanks everyone, see you next week!")
+
+##### Notes
 
 We use [hackmd.io](https://hackmd.io) for taking notes. Our default setting for notes is 'Editable' - you may need to sign in with your GitHub account in order to edit a document. This ensures that we know who is setting in, without the significant overhead of making a different account somewhere else.
 
