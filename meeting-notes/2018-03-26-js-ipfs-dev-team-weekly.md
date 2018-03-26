@@ -13,7 +13,7 @@
   - @victorbjelkholm
   - @achingbrain
   - @diasdavid
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/X8YF_M0cVsw
 
 ## Agenda
 
@@ -119,6 +119,6 @@
 
  - @diasdavid proposes having a daemon pool for the tests, so tests run faster
  - Please use the Waffle Board as intended. See the first meeting notes for more information on that
-   - Introducing a new label for being blocked
-   - "In progress" meansyou are actively working on an issue and are not blocked
-  - OKRs: @diasdavid will open an PR which will be used to discuss them
+   - Introducing a new label for being blocked: https://github.com/ipfs/wg-qa-testing-dx/issues/34
+   - "In progress" means you are actively working on an issue and are not blocked
+  - OKRs: @diasdavid will open an PR which will be used to discuss them: https://github.com/ipfs/js-ipfs/pull/1281
