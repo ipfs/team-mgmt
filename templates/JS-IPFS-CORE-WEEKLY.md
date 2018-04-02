@@ -23,9 +23,15 @@
 
 ## Notes
 
+### Week Update
+
 @name
  - Done:
  - Blocked:
  - Next:
+
+### Questions
+
+### Other notes
 
 <!-- After each call, the notetaker submits a PR to ipfs/pm to store the notes on the meeting-notes folder -->
