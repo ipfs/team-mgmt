@@ -14,7 +14,7 @@
   - @dryajov
   - @gpestana
   - @zcstarr
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/bACmpRWnIMQ
 
 ## Agenda
 
