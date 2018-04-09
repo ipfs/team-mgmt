@@ -16,7 +16,7 @@
   - @zcstarr
 
 
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/OfG8g4JB-EQ
 
 ## Agenda
 
