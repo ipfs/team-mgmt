@@ -41,7 +41,7 @@
   - Flow types + AEgir
   - IPLD spec
 - Blocked:
-  - IPLD spec PR review (link please?)
+  - IPLD spec PR review (all current open PRs at https://github.com/ipld/interface-ipld-format/pulls)
 - Next:
   - JS IPFS CLI for DAG API
   - Digging into Bitswap
