@@ -40,6 +40,10 @@
       {
         "name": "help wanted",
         "color": "0e8a16"
+      },
+      {
+        "name": "blocked",
+        "color": "b52ed1"
       }
     ]
   }

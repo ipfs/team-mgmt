@@ -12,7 +12,7 @@ const GH_TOKEN = process.env.GITHUB_AUTH_TOKEN
 
 const fetch = require('node-fetch')
 const fs = require('fs')
-const per_page = 100
+const perPage = 100
 const organizations = [
   'ipfs',
   'libp2p',
@@ -24,16 +24,16 @@ const organizations = [
 const fetchResults = (org, total = [], page = 1) => new Promise((resolve, reject) => {
   console.log(`total fetched so far for ${org}`, total.length)
   console.log('on page', page)
-  fetch(`https://api.github.com/orgs/${org}/repos?per_page=${per_page}&page=${page}`, {
+  fetch(`https://api.github.com/orgs/${org}/repos?per_page=${perPage}&page=${page}`, {
     headers: {
-      "Authorization": `Token ${GH_TOKEN}`
+      'Authorization': `Token ${GH_TOKEN}`
     }
   })
     .then(res => res.json())
     .then((res) => {
-      total = total.concat(res)
+      total = total.concat(res.filter(r => !r.archived))
       console.log('fetched', res.length)
-      if (res.length !== per_page) {
+      if (res.length !== perPage) {
         resolve(total)
       } else {
         fetchResults(org, total, page + 1).then(resolve)
@@ -47,7 +47,7 @@ let allRepos = []
 const done = () => {
   console.log('Total number of repositories', allRepos.length)
   const config = require('./config.json')
-  config[0].repositories = allRepos.map(r => r.full_name), null, 2
+  config[0].repositories = allRepos.map(r => r.full_name)
   fs.writeFileSync(
     './config.json',
     JSON.stringify(config, null, 2)
