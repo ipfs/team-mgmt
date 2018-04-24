@@ -35,7 +35,7 @@ You can also find a list of `Distributed Teams` resources on tools, decision mak
 
 ## Weekly All Hands
 
-- **When:** Every Monday, 5pm UTC.
+- **When:** Every Monday, see [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com)
 - **How:** This takes place synchronously using Zoom.
 - **Length:** 60 minutes.
 
