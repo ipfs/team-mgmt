@@ -37,7 +37,7 @@ You can also find a list of `Distributed Teams` resources on tools, decision mak
 
 - **When:** Every Monday, see [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com).
 - **How:** This takes place synchronously using Zoom.
-- **Length:** 60 minutes.
+- **Length:** 45 minutes.
 
 We host an IPFS All Hands Call every Monday. This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
 
