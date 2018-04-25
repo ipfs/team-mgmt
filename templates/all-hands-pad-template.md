@@ -3,7 +3,7 @@
 - **Moderator:** $MODERATOR
 - **Notetaker:** $NOTETAKER
 - **Attendees:**
-  - _attendee names..._
+- _attendee names..._
 
 ## Moderator checklist
 
