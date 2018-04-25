@@ -1,7 +1,7 @@
-# IPFS All Hands Call <enter date here>
+# IPFS All Hands Call $DATE
 
-- **Moderator:**
-- **Notetaker:**
+- **Moderator:** $MODERATOR
+- **Notetaker:** $NOTETAKER
 - **Attendees:**
   - _attendee names..._
 
