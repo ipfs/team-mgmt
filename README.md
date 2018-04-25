@@ -63,16 +63,7 @@ All of our times are set according to the **UTC** timezone (or should be). This 
 
 #### Moderators and Notetakers
 
-The [meeting creator bot](https://github.com/ipfs/node-github-issue-bot) rotates down this list weekly, assigning one person to moderate and another to take notes.
-- @dgrisham
-- @diasdavid	
-- @flyingzumwalt	
-- @hsanjuan	
-- @johnnycrunch	
-- @kubuxu	
-- @lgierth	
-- @victorbjelkholm	
-- @whyrusleeping
+The [sprint-helper](https://github.com/ipfs/sprint-helper) rotates down from the list in `templates/all-hands-facilitators.json`, assigning one person to moderate and another to take notes.
 
 ##### Moderating
 
