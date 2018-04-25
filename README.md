@@ -69,27 +69,21 @@ The [sprint-helper](https://github.com/ipfs/sprint-helper) rotates down from the
 
 1. Record.
    - Ask that someone records the call.
-
 2. Welcome
    - Welcome Attendees & state the date. ("Hello, and welcome to the IPFS all hands call for ...")
-
 3. Introductions
    - Is there anyone new to the project or the call?
    - This gives the Notetaker time to add Agenda & Demo Items.
-
 4. Agenda & Demo items.
    - Announce the Item and presenter name.
      - If an individual is presenting many items, switch it up and give them a breather.
        - i.e. don't make one person talk for 3 straight bullet points ( unless they want to :] ).
    - Prompt for questions at the end of each item.
      - The Moderator or the Presenter may call on people with hands raised.
-
 5. Announcements
    - For anything not covered in the Agenda or Demo items - Get your word out!
-
 6. Questions
    - For anything not covered in the Agenda or Demo items - Ask away!
-
 7. Conclude the call & thank the Attendees ("This concludes the IPFS all hands call for ..., thanks everyone, see you next week!")
 
 ##### Notes
