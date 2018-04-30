@@ -12,7 +12,7 @@
   - @victorbjelkholm
   - @mkg20001
   - @hugomrdias
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/LrN0kANthT4
 
 ## Agenda
 
