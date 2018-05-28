@@ -9,7 +9,7 @@
   - @achingbrain
   - @travisperson
   - @gar
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/CNAPR9HMjR4
 
 ## Agenda
 
