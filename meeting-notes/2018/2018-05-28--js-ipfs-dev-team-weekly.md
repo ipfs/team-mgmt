@@ -26,7 +26,6 @@
   - Select issues to work on
 - Review remaining issues if there is time left
 
-
 ## Notes
 
 @daviddias 
@@ -50,11 +49,7 @@
  
 @mkg20001
  - It would be useful to see more demos - even if it ends up beign similar to previous ones.
- - Discuss about more issues to work on!
-
-
-Gen
-
+ - Discuss with @diasdavid about more issues to work on!
 
 ### Week Update
 
