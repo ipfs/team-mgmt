@@ -10,7 +10,7 @@
   - @vmx
   - @travisperson
   - @gpestana
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/LV22is5xyd8
 
 ## Agenda
 
