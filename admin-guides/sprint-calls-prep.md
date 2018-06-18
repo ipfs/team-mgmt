@@ -15,13 +15,13 @@ On Wednesday of the preceding week:
 #### Before the Call
 
 1. Make sure agenda is posted beforehand in GitHub using the current format (see #647 for an example). Ideally, this should be a day or more early so people can add items before the meeting. (Also consider proposed changes in #636.)
-1. Post a notice just prior to and at the meeting time on IRC (#ipfs & #ipfs-dev), Twitter (@ipfsbot), & relevant channels.
+1. Post a notice just prior to and at the meeting time on IRC (#ipfs & #ipfs-dev) and Twitter (@ipfsbot).
 
 #### During the Call
 
-1. Be on Zoom promptly at the start time. You don’t need to moderate, but you have all the rights so you must be there to grant them.
+1. Be on Zoom promptly at the start time.
 1. Identify a notetaker. The bot that does this is down as of June 2018, but you can call for volunteers and nudge people who haven’t taken notes recently.
-1. Facilitate the call, keeping an eye on time & looking out for raised hands.
+1. Moderate the call: keep time and stack, and facilitate discussion as needed.
 
 #### After the Call
 
