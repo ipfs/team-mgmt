@@ -2,9 +2,9 @@
 
 ## Who is Responsible
 
-- Host stays the same for each month.
-- Last week of each month, identify a host for the following month.
-- If the host can't make it some week, they are responsible for delegating to someone and make sure they have permissions at least a day ahead.
+- The host stays the same for each month.
+- On the last week of each month, identify a host for the following month.
+- If the host can’t make it some week, they are responsible for delegating to someone and making sure they have permissions at least a day ahead.
 
 ## Host Responsibilities
 
@@ -13,23 +13,25 @@ On Wednesday of the preceding week:
 - Manually fill out the Notes link with [the templates](https://github.com/ipfs/pm/tree/master/templates). To not do this manually, follow [this issue](https://github.com/ipfs/node-github-issue-bot/issues/8).
 
 #### Before the Call
-1. Make sure agenda is posted beforehand in github (Under current format, ideally a day or more so people can add items before the meeting. Also consider proposed changes in #636.)
-1. Post a notice just prior to and at meeting time on IRC, Twitter, & relevant channels
+
+1. Make sure agenda is posted beforehand in GitHub using the current format (see #647 for an example). Ideally, this should be a day or more early so people can add items before the meeting. (Also consider proposed changes in #636.)
+1. Post a notice just prior to and at the meeting time on IRC (#ipfs & #ipfs-dev), Twitter (@ipfsbot), & relevant channels.
 
 #### During the Call
-1. Be there at the start time promptly. You don’t need to moderate, but you have all the rights so you must be there to grant them.
-1. Identify a notetaker. Bot is down as of June 2018, but host can call for volunteers and nudge people who haven't taken notes recently.
+
+1. Be on Zoom promptly at the start time. You don’t need to moderate, but you have all the rights so you must be there to grant them.
+1. Identify a notetaker. The bot that does this is down as of June 2018, but you can call for volunteers and nudge people who haven’t taken notes recently.
 1. Facilitate the call, keeping an eye on time & looking out for raised hands.
 
 #### After the Call
 
-1. Close the previous week's sprint issue.
-1. Uploading the recording to YouTube.
+1. Close the previous week’s sprint issue.
+1. Upload the recording to YouTube.
 1. Make sure that the Notetaker PRed the notes to `ipfs/pm/meeting_notes`.
 
 ## Permissions
 
-The 1Password "IPFS Calls" vault contains credentials for:
+The 1Password “IPFS Calls” vault contains credentials for:
 - Zoom to host & record call
 - YouTube to upload recordings
 - Twitter to announce meetings
