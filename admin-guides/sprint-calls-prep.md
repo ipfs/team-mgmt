@@ -37,4 +37,4 @@ The 1Password “IPFS Calls” vault contains credentials for:
 - YouTube to upload recordings
 - Twitter to announce meetings
 
-If you are hosting and need access, ping @flyingzumwalt or @mishmosh.
+If you are hosting and need access to the vault, ping @flyingzumwalt, @diasdavid, or @mishmosh.
