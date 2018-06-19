@@ -14,8 +14,9 @@ On Wednesday of the preceding week:
 
 #### Before the Call
 
-1. Make sure agenda is posted beforehand in GitHub using the current format (see #647 for an example). Ideally, this should be a day or more early so people can add items before the meeting. (Also consider proposed changes in #636.)
-1. Post a notice just prior to and at the meeting time on IRC (#ipfs & #ipfs-dev) and Twitter (@ipfsbot).
+1. Make sure the agenda is posted with the GitHub issue beforehand, using the current format (see [#647](https://github.com/ipfs/pm/issues/647) for an example). Ideally, this should be done a day or more in advance, so people can add items before the meeting begins. (Also consider proposed changes in [#636](https://github.com/ipfs/pm/issues/636).)
+1. A few minutes prior to the meeting's start time, post a notice on IRC (#ipfs & #ipfs-dev) and Twitter (@ipfsbot). A second notice should be sent out at the meeting's start time as well.  
+Something along the lines of "IPFS all-hands call is about to start (16UTC) \<link to github issue\>"
 
 #### During the Call
 
