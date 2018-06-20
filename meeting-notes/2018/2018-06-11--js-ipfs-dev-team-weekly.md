@@ -8,7 +8,7 @@
   - @vasco-santos
   - @hugomrdias
   - @gar
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/N6-rxdV3K9s
 
 ## Agenda
 
