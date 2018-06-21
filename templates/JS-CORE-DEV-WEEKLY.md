@@ -1,4 +1,4 @@
-# ⒿⓈ⚡️  js-ipfs Core Dev Team Weekly <enter date here>
+# ⚡️ⒿⓈ Core Dev Team Weekly Sync 🙌🏽 <enter date here>
 
 - **Lead:** David Dias (@diasdavid)
 - **Notetaker:**
