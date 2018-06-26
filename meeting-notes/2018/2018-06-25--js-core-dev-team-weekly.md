@@ -11,7 +11,7 @@
   - @vasco-santos
   - @gar
   - @vmx
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://www.youtube.com/watch?v=J9QwwVAztpQ
 
 ## Agenda
 
