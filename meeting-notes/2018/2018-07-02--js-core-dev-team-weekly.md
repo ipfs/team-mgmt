@@ -186,7 +186,19 @@
 @mkg20001
  - Done
     - aegir check if deps defined in source code are in package.json or if there are unused deps in package.json: https://github.com/ipfs/aegir/pull/241
-
+    
+@mikeal
+ - Done:
+    - unixfsv2 draft implementation https://github.com/mikeal/js-unixfsv2-draft
+    - complex graph builder (for gharchive) https://github.com/mikeal/ipld-complex-graph-builder
+    - https://github.com/mikeal/dag-cbor-sync
+    - https://github.com/mikeal/dag-cbor-links
+ - Next:
+    - talking to infra to find a good strategy for hosting gharchive data
+    - building a "shadow graph" to hold a stored map/reduce of large graphs for queries
+    - sourcing candidate for hiring Community Engineer
+    - building static deployment demo :)
+  
 @name
  - Done:
  - Blocked:
