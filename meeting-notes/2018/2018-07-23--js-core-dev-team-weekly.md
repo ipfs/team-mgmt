@@ -11,7 +11,7 @@
   - @hugomrdias
   - @achingbrain
 
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/nHp-u1jzRxY
 
 ## Agenda
 
