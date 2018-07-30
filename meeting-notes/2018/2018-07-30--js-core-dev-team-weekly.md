@@ -7,7 +7,7 @@
   - _@mkg20001_
   - _@victorbjelkholm_
   - _@achingbrain_
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://www.youtube.com/watch?v=9uUIP3qaGKY
 
 ## Agenda
 
