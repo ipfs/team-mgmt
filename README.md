@@ -29,7 +29,7 @@ We use a loose agile approach, breaking our work into weekly sprints. Here are s
 - We create a "sprint issue" for each sprint. That is where we put all the information about the week's calls. That's also where the notes from that week's calls accumulate.
 - There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below.
 - You do not have to follow all of the project-specific discusions. They can be very detailed. Only go to ones you want to go to. We post the notes (such as they are) in the sprint issue in this repository afterwards.
-- If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item my adding a comment on that week's sprint issue.
+- If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item by adding a comment on that week's sprint issue.
 
 You can also find a list of `Distributed Teams` resources on tools, decision making, process, etc, that we have been gathering, reviewing, discussing and experimenting with at [distributed-teams page](/DISTRIBUTED_TEAMS.md).
 
