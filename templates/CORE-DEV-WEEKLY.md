@@ -1,5 +1,5 @@
-/* Pick the correct title */
-# ⚡️ⒿⓈ Core Dev Team Weekly Sync 🙌🏽 <enter date here>
+<!-- Pick the correct title -->
+# ⚡️ⒿⓈ Core Dev Team Weekly Sync 🙌🏽 <enter date here> 
 # ⚡️Golang Core Dev Team Weekly Sync 🙌🏽 <enter date here>
 
 - **Lead:**
