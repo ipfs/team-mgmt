@@ -1,6 +1,8 @@
+/* Pick the correct title */
 # ⚡️ⒿⓈ Core Dev Team Weekly Sync 🙌🏽 <enter date here>
+# ⚡️Golang Core Dev Team Weekly Sync 🙌🏽 <enter date here>
 
-- **Lead:** David Dias (@diasdavid)
+- **Lead:**
 - **Notetaker:**
 - **Attendees:**
   - _attendee names..._
