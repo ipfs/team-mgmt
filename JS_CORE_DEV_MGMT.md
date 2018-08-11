@@ -17,7 +17,7 @@ In the Waffle board, we have 4 columns:
 - **In Progress** - Issues that someone is already tackling. Contributors should focus on a few things rather than many at once.
 - **Done** - Issues are automatically moved here when the issue is closed or the PR merged.
 
-We track work for the JavaScript implementation of the IPFS protocol in 3 separate waffle boards:
+We track work for the JavaScript implementation of IPFS, libp2p and IPLD in 3 separate waffle boards:
 
 - [js-ipfs](http://waffle.io/ipfs/js-ipfs)
 - [js-libp2p](http://waffle.io/libp2p/js-libp2p)
