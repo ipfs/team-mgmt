@@ -19,9 +19,9 @@ In the Waffle board, we have 4 columns:
 
 We track work for the Golang implementation of IPFS, libp2p and IPLD in 3 separate waffle boards:
 
-- [js-ipfs](http://waffle.io/ipfs/go-ipfs)
-- [js-libp2p](http://waffle.io/libp2p/go-libp2p)
-- [js-ipld](http://waffle.io/ipld/go-ipld)
+- [go-ipfs](http://waffle.io/ipfs/go-ipfs)
+- [go-libp2p](http://waffle.io/libp2p/go-libp2p)
+- [go-ipld](http://waffle.io/ipld/go-ipld)
 
 ## Issue labels and how to use filters
 
