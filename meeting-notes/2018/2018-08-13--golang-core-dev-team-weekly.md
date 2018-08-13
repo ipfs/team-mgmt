@@ -4,7 +4,7 @@
 - **Notetaker:** @keks
 - **Attendees:**
   - _attendee names..._
-- **Recording:** _add link to recording once it's online_
+- **Recording:** Recording is currently private to the Go Core Dev Team.
 
 ## Agenda
 
