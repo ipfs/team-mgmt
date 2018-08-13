@@ -130,14 +130,20 @@
 
 @djdv
  - Done:
-    - Windows mount foundations (WinFSP, cgo-fuse)
-    - Read only support seems to work
+    - Windows `ipfs mount` foundations (WinFSP, cgo-fuse)
+    - Read only`mount` support for /ipfs, /ipns, and /local(MFS)
  - Blocked:
-    - Necessary for `mount` to compile on other platforms without cgo https://github.com/golang/go/issues/18296
+    - https://github.com/golang/go/issues/18296
+      - Prevents use from building on non-Windows without cgo
+      - Having mutliple implimentations for the same subcommand seems non-ideal
  - Next:
-   - impliment writable support for mount
-   - Speak with David :^)
-   - Finish other Windows related issues and move on to other tasks
+   - Schedule to speak with David :^)
+   - Impliment writable support for `ipfs mount`
+   - Finish remaining Windows tagged `go-ipfs` issues, allowing me to switch focus to:
+     - Other tasks (discuss with the team where we're lacking and see if I can fill)
+     - Other platforms (BSD, Solaris, Haiku, Plan9, et al.)
+     - Other Archs (arm, ppc, z/OS, pdp11, etc.)
+     - Whatever seems important
  
 @hsanjuan
 - Done:
