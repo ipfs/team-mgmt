@@ -90,6 +90,15 @@
   - nothing go related :)
 - next
   - a few code reviews where i was summoned
+  
+@schomatis (not attending)
+ - Done:
+   - Reviewed a few PRs
+   - Studied part of the `gx`/`gx-go` code and workflow, how can we
+     make the package manager more user friendly?
+ - Next:
+   - Start submitting some PRs in `gx`/`gx-go` with documentation
+
 
 @bigs
  - Done:
