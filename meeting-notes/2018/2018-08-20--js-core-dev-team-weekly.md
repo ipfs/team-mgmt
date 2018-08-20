@@ -106,7 +106,7 @@
     - Start looking at http-api-v2
 
 @mikeal
-  - Implemented DAGjson, solves some determinsm issues
+  - Implemented DAGjson (https://github.com/mikeal/dag-json), solves some determinsm issues
     - Feeds into an RFC I'm writing, should make its way there soon
   - Some issues in the ipfs/community repo that people may be interested in
     - A PR to create a project lifecycle
