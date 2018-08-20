@@ -8,7 +8,7 @@
   - @vmx
   - @mgoelzer
   - _attendee names..._
-- **Recording:** _add url here_
+- **Recording:** https://youtu.be/KZ5mMAdMmo0
 
 ## Agenda
 
@@ -126,6 +126,6 @@
   - The ipfs nodes are talking together already, so it works, it's really just a matter of what fun things you'll find along the way as we don't have interop tests currently running for each of the versions. Interop tests are in the pipeline to complete this quarterh , although they will probably be delayed.
 
 ### Other notes
-- Meeting ended ubruptly due to anothemer meeting being started that ended this one.
+- Meeting ended ubruptly due to another meeting being started that ended this one.
 
 <!-- After each call, the notetaker submits a PR to ipfs/pm to store the notes on the meeting-notes folder -->
