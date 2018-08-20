@@ -2,9 +2,15 @@
 
 - **Lead:** Dominic Della Valle
 - **Notetaker:** 
+  - @bigs
 - **Attendees:**
   - @mgoelzer
-  - 
+  - @keks
+  - @djdv
+  - @stebalian
+  - @kevina
+  - @hsanjuan
+  - @Magik6k
 - **Recording:** _add link to recording once it's online_
 
 ## Agenda
