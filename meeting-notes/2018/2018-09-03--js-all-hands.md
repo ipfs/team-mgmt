@@ -11,7 +11,7 @@
   
 (Note:  US Holiday + many other people away today)
   
-- **Recording:** (coming soon)
+- **Recording:** https://www.youtube.com/watch?v=XKKh9szP4Lg
 
 ## Agenda
 
