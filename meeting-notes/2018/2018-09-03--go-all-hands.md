@@ -1,12 +1,12 @@
 # 💫Golang Core Dev Team Weekly Sync 🙌🏽 September 3, 2018
 
 - **Lead:** Mike Goelzer
-- **Notetaker:** (someone please volunteer...)
+- **Notetaker:** Mike
 - **Attendees:**
   - @mgoelzer (leading in @diasdavid's absence)
   - @why
   - @warpfork
-- **Recording:** The Go Core Dev Recordings are private to the team
+- **Recording:** The Go Core Dev Recordings are private to the team. https://drive.google.com/file/d/1-qdOhN1vq12V1r4RCiQP_wqSDnM6Du77/view?usp=sharing
 
 ## Agenda
 
