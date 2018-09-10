@@ -9,7 +9,7 @@
   - @jacobheun
   - @vasco-santos
   - @vmx
-- **Recording:** TBA
+- **Recording:** https://youtu.be/KhsdFb_b8Yo
 
 ## Agenda
 
