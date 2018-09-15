@@ -1,4 +1,4 @@
-# Prep for Weekly Calls
+# Preparation for Weekly Calls
 
 ## Who is Responsible
 

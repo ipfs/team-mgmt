@@ -18,6 +18,7 @@
     - [Moderators](#moderating)
     - [Notes](#notes)
 - [Working Hours](#working-hours)
+- [Guides](#guides)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -102,6 +103,10 @@ As the IPFS team is all over the world, we've picked a set of "working hours" du
 ```
 
 We aim to be available during these hours. Your mileage may vary.
+
+## Guides
+
+You can find guides on how to host calls and more at the [Guides folder](./guides)
 
 ## Contribute
 
