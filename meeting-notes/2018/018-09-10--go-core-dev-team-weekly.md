@@ -5,7 +5,12 @@
 - **Attendees:**
     - @stebalien
     - @bigs
-    - 
+    - @raulk
+    - @keks
+    - @kevina
+    - @warpfork
+    - @Magik6k
+    - @schomatis
 - **Recording:**
 
 ## Agenda
