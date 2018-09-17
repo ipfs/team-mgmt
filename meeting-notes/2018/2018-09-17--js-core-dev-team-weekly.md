@@ -3,12 +3,13 @@
 - **Lead:** David Dias
 - **Notetaker:** @jacobheun
 - **Attendees:**
+  - @diasdavid
   - @vasco-santos
   - @jacobheun
   - @hugomrdias
   - @vmx
   - @alanshaw
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/9GjKChfbzNQ
 
 ## Agenda
 
