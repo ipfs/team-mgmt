@@ -1,4 +1,4 @@
-a# ⚡️ⒿⓈ Core Dev Team Weekly Sync 🙌🏽 August 27, 2018
+# ⚡️ⒿⓈ Core Dev Team Weekly Sync 🙌🏽 August 27, 2018
 
 - **Lead:** David Dias
 - **Notetaker:** Jacob Heun
