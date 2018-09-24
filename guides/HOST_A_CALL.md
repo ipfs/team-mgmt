@@ -3,7 +3,7 @@
 ## The Setup - Preparation for the Call
 
 - Make sure that the call is posted to Github before hand. Take inspiration from [#647](https://github.com/ipfs/pm/issues/647) as an example of issue for the IPFS All Hands, you can also find this template on the [Templates Folder](https://github.com/ipfs/pm/tree/master/templates).
-- Ideally, this should be done 4 days or more in advance, so people can add items before the meeting begins. 
+- Ideally, this should be done 4 days or more in advance, so people can add items before the meeting begins. At that time, also login to the appropriate zoom call and make sure you have permission to record and see the option to livestream (if not, email it@protocol.ai and/or ensure someone with record/livestream permission for your call can start the recording/livestream)
 - A few minutes prior to the meeting's start time:
   - Post a notice on IRC (#ipfs & #ipfs-dev) and Twitter (@ipfsbot).
   - A second notice should be sent out at the meeting's start time as well. Something along the lines of "IPFS all-hands call is about to start (16UTC) \<link to github issue\>"
@@ -18,7 +18,7 @@
 ## The Follow up - Right after the call finishes.
 
 - Close the previous week’s sprint issue.
-- Upload the recording to YouTube.
+- Upload the recording to YouTube or find the livestream recording, change the title, and add it to the appropriate playlist.
 - Ensure that the Notetaker handles the PR to add the notes to the [Meeting Notes folder](https://github.com/ipfs/pm/tree/master/meeting-notes)
 
 ## Specifics to each call
@@ -36,8 +36,13 @@
 
 **Permissions** - The 1Password “IPFS Calls” vault contains credentials for:
 - Zoom to host & record call
+  - Zoom #1 is used for the IPFS All Hands Call
+  - Zoom #2 is used for the JS Core Dev Weekly Sync
+  - Zoom #3 is used for the Golang Core Dev Weekly Sync 
 - YouTube to upload recordings
 - Twitter to announce meetings
+
+If you are a new moderator or need to add other hosts, you can get access to the 1Password folder by emailing it@protocol.ai
 
 ### Core Dev Calls
 
@@ -50,4 +55,10 @@ If you are hosting and need access to the vault, send an email to it@protocol.ai
 ## FAQ
 
 - **Do I need a special account to be the host?** No, all you need is to ask to be added to the list of hosts so that you have recording and livestreaming capabilities. Do this by asking one of the current hosts or sending an email to it@protocol.ai
-- **Why don't we use Zoom Webinars?** We tried, it doesn't work, see why at https://github.com/ipfs/pm/issues/571
+- **Who currently has delegated hosting ability per call (and can therefore can record/livestream if needed)?** 
+  - IPFS All Hands Call: david@protocol.ai, matt@protocol.ai, erik@carbonfive.com, victor@protocol.ai, molly@protocol.ai
+  - JS Core Dev Weekly Sync: jake@andyet.net, alan.shaw@protocol.ai, david@protocol.ai, molly@protocol.ai
+  - Golang Core Dev Weekly Sync: dd@protocol.ai, david@protocol.ai, erik@carbonfive.com, molly@protocol.ai
+
+  Anyone with access to the 1pass can add new delegated hosts to calls by signing into the zoom web interface as Zoom #1, #2, or #3.
+- **Why don't we use Zoom Webinars?** See our decision thread at https://github.com/ipfs/pm/issues/571. Instead, we have enabled and use the 3rd party livestreaming capability to stream to YouTube at https://www.youtube.com/c/IPFS-dweb/live. Hosts will find this option next to "record" in the "..." options at the bottom of a call. A Zoom account needs to explicitly enable the "livestreaming" capability (in meeting settings) and set up the handshake between a specific meeting and a YouTube channel to livestream to (at the bottom of the meeting details page through the link that says "configure").
