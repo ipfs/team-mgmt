@@ -1,5 +1,8 @@
 # Host a Call
 
+### [IPFS Call Moderating Video Tutorial](https://drive.google.com/file/d/14glOxDfJTa1hyWso8vyhnoGjbZc1s2LL/view)
+This video tutorial describes how to add new moderators to a call, how to configure livestreaming and recording for an existing call, how to create a new call with livestreaming capabilities, and how to work with the IPFS YouTube account to configure videos and bless other managers. I recommend 1.5x speed!
+
 ## The Setup - Preparation for the Call
 
 - Make sure that the call is posted to Github before hand. Take inspiration from [#647](https://github.com/ipfs/pm/issues/647) as an example of issue for the IPFS All Hands, you can also find this template on the [Templates Folder](https://github.com/ipfs/pm/tree/master/templates).
