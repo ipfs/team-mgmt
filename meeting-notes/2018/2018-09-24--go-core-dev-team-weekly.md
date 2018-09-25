@@ -9,6 +9,7 @@
   - @momack2
   - @michaelavila
   - @warpfork
+  - @kevina
 - **Recording:** _add link to recording once it's online_
 
 ## Agenda
@@ -183,6 +184,14 @@
  - Next:
    - Why has some perf things on my queue...
      - It would be really cool to do some working groups on this at the labweek coming up! Dream: some scripts for gather perf info that are standard enough for us to use when filing reports to each other.
+
+@schomatis
+ - Done:
+   - Reviewed some PRs from new contributors.
+ - In-progress:
+   - Review MFS code.
+ - Next:
+   - Propose a new MFS interface (https://github.com/ipfs/go-mfs/issues/3).
 
 
 ### Questions
