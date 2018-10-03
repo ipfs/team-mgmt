@@ -7,7 +7,7 @@
   - _attendee names..._
   - momack2
   - bigs
- - michaelavila
+  - michaelavila
   - kevina
   - Steven
   - Mikael
@@ -35,7 +35,7 @@
  - Erik: working on grooming the waffle board
  - Hannah: questions about the sharded directory tests - test data itself not setup for the new implementation. Need Steven/Jeromy to double check that the implementation is correct and the tests are wrong
  - Kevin: need review on outstanding PRs, in particular the cid subcommand 
- - 
+ - All: Synchronously walked through https://github.com/ipfs/go-ipfs/pull/5474 to rephrase OKRs, add owners, and set priorities
  
 
 ### Week Update
