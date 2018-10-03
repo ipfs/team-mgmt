@@ -2,7 +2,7 @@
 
 - **Lead:** Erik Ingenito
 - **Notetaker:**
-  - momack2ck2
+  - momack2
 - **Attendees:**
   - _attendee names..._
   - momack2
