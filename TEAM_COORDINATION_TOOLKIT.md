@@ -48,7 +48,7 @@ Contains the information about features and capabilities for a specific product 
 
 Not every product requires a Product Roadmap. It depends on its activity, size, and potential duplication with a Working Group Roadmap.
 
-## Focus Area Roadmap
+### Focus Area Roadmap
 
 Contains the information about features and capabilities that users with a particular use case are especially interested in (for example “Mobile”, “Offline”, or “Large Datasets”). 
 
