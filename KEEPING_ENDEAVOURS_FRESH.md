@@ -1,8 +1,8 @@
 
 Guide: Keeping Endeavors Fresh
-==== 
+==============================
 
-At the beginning of 2017 we identified [over 25 endeavors that had become stale](https://github.com/ipfs/ipfs/blob/781614b51f9abc9fa831dc2843c1775dbb55907d/ROADMAP.md#stale-endeavors). All of these stale endeavors were suffering from neglect. Some of them desperately needed to be revived, some needed just a bit of attention, and others needed to be set free.
+At the beginning of 2017 we identified [over 25 endeavors that had become stale](https://github.com/ipfs/ipfs/blob/master/ENDEAVOURS_INDEX.md). All of these stale endeavors were suffering from neglect. Some of them desperately needed to be revived, some needed just a bit of attention, and others needed to be set free.
 We (the ipfs maintainers) put our heads together to identify _why_ endeavors go stale (Diagnosis) and what actions we can take to keep them fresh or set them free (Remedies). Here's what we came up with:
 
 ## Diagnosis
