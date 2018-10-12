@@ -53,7 +53,8 @@ Not every product requires a Product Roadmap. It depends on its activity, size, 
 Contains the information about features and capabilities that users with a particular use case are especially interested in (for example “Mobile”, “Offline”, or “Large Datasets”). 
 
 We don’t have many of these yet, but as we spin up working groups related to a specific user need these will emerge to track capabilities unlocked by many products or other working groups toward that specific user need.
-IPFS Project planning & setting of yearly priorities
+
+## IPFS Project planning & setting of yearly priorities
 Every year, the IPFS Project Roadmap is revised and the yearly priorities are set based on where we are in the overall roadmap and what we need to accomplish this year. This enables the Working Groups to understand what are the most important milestones for the IPFS org this year and devise their own Roadmaps to match what they need to accomplish to enable those milestones for the IPFS Project.
 
 It is a bidirectional conversation that gives autonomy to Working Groups to plan as they see fit, but that at the same time creates a shared understanding of the main targets for the Org.
