@@ -1,12 +1,15 @@
 # Roadmap How-to and Format
+
 How to write a really clear roadmap, the goal to achieve with the roadmap, the optimal format, and examples of this being done well across the project/industry.
 
 ### References
+
 - IPFS Team Coordination Toolkit 
 - On writing product roadmaps
 - Filecoin Project Roadmap
 
 ## Process
+
 **What:** Take as input a Vision doc and a list of Requirements, and output a path and rough schedule to achieve that Vision by completing the Requirements in a series of milestones.
 
 TODO: Insert roadmap image here
