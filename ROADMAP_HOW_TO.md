@@ -12,7 +12,7 @@ How to write a really clear roadmap, the goal to achieve with the roadmap, the o
 
 **What:** Take as input a Vision doc and a list of Requirements, and output a path and rough schedule to achieve that Vision by completing the Requirements in a series of milestones.
 
-TODO: Insert roadmap image here
+![Roadmap Components image](https://github.com/ipfs/pm/blob/master/img/Roadmap%20Components.png)
 
 **How:** 
 - 👂🏼 Gather Ideas: Collect inputs and data from across your project. Ex. what do our stakeholders need? What does the data tell us about our project’s progress? What are our project’s objectives?
