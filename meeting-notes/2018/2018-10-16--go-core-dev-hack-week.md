@@ -86,8 +86,11 @@ Does a graph service always fuse graphsync when available?
 
 ## Spec PR
 AI: molly - merge go contributing guidelines and make accessible
+
 AI: warpfork - add a design doc proposal to some repo and explain why it should be there
+
 AI: molly - update ipfs/ipfs graph of where all the things are
+
 
 - a biweekly/monthly 45min meeting for spec review with the "needed reviewers" that would syncronously debate over a new spec proposal (already reviewed)
 - bit of what spec is available for review - everyone has to do the homework
