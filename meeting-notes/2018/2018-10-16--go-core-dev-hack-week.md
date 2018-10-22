@@ -132,6 +132,7 @@ AIs:
 - Oli: adding a nightly Jenkins CI interop
 - Vyzo: ask Jacob to look into IPTB for libp2p interop stuff
 
+Notes:
 - we should all be friends, not competing over our user's pain
 - current situation: there's an interop repo with some tests in it written in javascript (maybe not great for go developers to interact with them)
   - at time of release, js runs interop tests (don't know whether have interop at any time *before* release)
