@@ -265,7 +265,8 @@ AIs:
 
 # Wednesday Notes
 
-### Attendees: @stebalien @djdv @momack2 @magik6k @eingenito @warpfork @vyzo @hannahhoward @keks
+### Attendees
+@stebalien @djdv @momack2 @magik6k @eingenito @warpfork @vyzo @hannahhoward @keks
 
 ## Bitswap Improvements
 
@@ -286,8 +287,7 @@ Our initial goal is to introduce scoring of peers using DAG context awareness (l
 
 <media-tag src="/blob/43/439aa260acd0852384c7f131e8eb5fe1d910f055c8abfa2d" data-crypto-key="cryptpad:jCEeCDVUgz/1CWesoxcfvT3Jh+2qu8iiRC54xjda/SQ="></media-tag>
 <media-tag src="/blob/7e/7ebe253e7af8f131d61ef0385a4d59d08c04126b8ba88ce6" data-crypto-key="cryptpad:W4ab8pQuM8oq/OZr0fZ3COt2L+o1+BVJZiVysyfRg9Q="></media-tag>
-   
-     
+
 
 ## Decentralized Identities
 - What does it look like to have identity services on IPFS?
