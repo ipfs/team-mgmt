@@ -263,6 +263,29 @@ AIs:
 - we probably won't be able to use software off the shelf because we want to do some special case things (e.g. pass a file descriptor)
 - we need to version commands
 
+# Wednesday Notes
+
+### Attendees: @stebalien @djdv @momack2 @magik6k @eingenito @warpfork @vyzo @hannahhoward @keks
+
+## Bitswap Improvements
+
+#### Prediction Engine 
+We want to be able to introduce DAG context awareness, to more intelligently choose peers when doing bitswap (e.g. a peer that gave us the sibling of the currently desired block, is likely to provide  that block).
+
+There's already some acceptance of this concept as a preditctor service, driven by bitswap. But there's a more abmbitious refactor proposed now, that inverts that relationship and places this logic between the Dag Service and bitswap (or other exchanges, such as GraphSync).  
+This driver would expose 'ask for x' where 'x' would initially be a cid, and may subsequently be transformed into a GraphSync expression, which in turn may be reduced to simple bitswap requests 'ask peer x for []cid' (or (when implimented) a request to a dag fetch service 'ask peer x for graphsync_expr').
+
+There was a alternative/existing proposal that @diasdavid presented, which used a cascading mechanism for choosing the exchange; first graphsync if applicable and then fallthrough to bitswap. One disadvantage of this pointed out by @Kubuxu was that you would lose the ability to choose a low latency bitswap peer over a high latency graphsync peer (or related cases where high priority exchange-methods would exclude higher quality peers).
+
+**Refactor Path**
+
+Our initial goal is to introduce scoring of peers using DAG context awareness (latency, uptime, have we exchanged with them before, etc.). To do this we'll:
+
+- Split the current bitwap into peer management and the fetcher.
+- Introduce the DAG exchange that can manage peers and know about the DAG and what peers have provided to us historically.
+
+<media-tag src="/blob/43/439aa260acd0852384c7f131e8eb5fe1d910f055c8abfa2d" data-crypto-key="cryptpad:jCEeCDVUgz/1CWesoxcfvT3Jh+2qu8iiRC54xjda/SQ="></media-tag>
+<media-tag src="/blob/7e/7ebe253e7af8f131d61ef0385a4d59d08c04126b8ba88ce6" data-crypto-key="cryptpad:W4ab8pQuM8oq/OZr0fZ3COt2L+o1+BVJZiVysyfRg9Q="></media-tag>
    
      
 
