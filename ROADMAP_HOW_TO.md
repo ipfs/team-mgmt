@@ -55,4 +55,6 @@ Milestone 3 (ETA)
   - Expected impact / use cases / partners
 - Project / Feature / Capability 3
   - Expected impact / use cases 
+  
 
+## For editable templates and examples to riff off - see the [google doc](https://docs.google.com/document/d/1LFRr-Y618B47PB2e3BKBaK1FGaGm8Go49UQQVSPBhho/edit#heading=h.z9ch2a2nwvkr) 
