@@ -4,9 +4,10 @@ How to write a really clear roadmap, the goal to achieve with the roadmap, the o
 
 ### References
 
-- IPFS Team Coordination Toolkit 
-- On writing product roadmaps
-- Filecoin Project Roadmap
+- [IPFS Team Coordination Toolkit](https://github.com/ipfs/pm/blob/master/TEAM_COORDINATION_TOOLKIT.md) 
+- [On writing product roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c)
+- [Filecoin Project Roadmap](https://docs.google.com/document/d/1cgss-rifFO2iSJgnMmOsD_tPal40MUp1m7crTFQuVYQ/edit)
+- [Roadmap Examples and Templates](https://docs.google.com/document/d/1LFRr-Y618B47PB2e3BKBaK1FGaGm8Go49UQQVSPBhho/edit#)
 
 ## Process
 
