@@ -4,6 +4,16 @@
 - **Notetaker:**
 - **Attendees:**
   - _@momack2_
+  - @stebalien
+  - @michaelavila
+  - @travisperson
+  - @kevina
+  - @djdv
+  - @magik6k
+  - @bigs
+  - @aschmahmann 
+  - @hsanjuan
+  - @daviddias
 - **Recording:** _add link to recording once it's online_
 
 ## Agenda
