@@ -112,7 +112,7 @@
 
 @stebalien
  - Done:
-    - Fixed race in query events.
+    - Fixed race in query events (https://github.com/libp2p/go-libp2p-routing/pull/31)
     - Cut 0.4.18-rc1
     - Added a delay to calling FindProviders in bitswap.
     - Lots of testing of ipfs/go-bitswap#8
