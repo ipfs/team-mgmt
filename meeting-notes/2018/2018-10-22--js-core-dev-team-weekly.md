@@ -8,7 +8,7 @@
   - @victorbjelkholm
   - @hugomrdias
   - @vmx
-- **Recording:** TBC
+- **Recording:** https://youtu.be/wwJI_P7tH-4
 
 ## Agenda
 
