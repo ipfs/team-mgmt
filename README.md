@@ -11,6 +11,7 @@
 - [How We Work](#how-we-work)
 - [Teams](TEAM_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
+  - [OKR (Objectives & Key Results)](OKR)
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#weekly-all-hands)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
