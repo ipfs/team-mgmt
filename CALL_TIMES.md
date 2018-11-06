@@ -15,7 +15,7 @@ Occasionally, call times change; normally this is due to events where the main d
 
 ### Daylight Savings
 
-Daylight Savings happens twice a year. It is very annoying. 
+Daylight Savings happens twice a year. It is very annoying.
 
 When it happens, make sure to update the call times in the Call Issue carefully. Here are some time zones to keep in mind:
 
