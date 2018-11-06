@@ -1,97 +1,63 @@
-# IPFS Project Management & Coordination
+# IPFS Team Planning, Management & Coordination threads
 
-[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
-[![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
+[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](https://protocol.ai)
+[![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](https://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 
 **tl:dr:** We have a **weekly, all-hands call** on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
 
-## Table of Contents
+## Repo Index
 
 - [How We Work](#how-we-work)
-- [Weekly All Hands](#weekly-all-hands)
-  - [Schedule](#schedule)
+- [Teams](TEAM_STRUCTURES.md))
+- [Synchronous Time]()
+  - [Weekly All Hands](#weekly-all-hands)
+  - [Working Groups Weekly/BiWeekly Syncs]()
+  - [Working Hours](#working-hours)
+- [Asynchronous Time]()
+  - different teams manage themselves differently..
+- [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
+- [Tools](#tools)
   - [Zoom](#zoom)
-  - [Timing](#timing)
-  - [Timezone: UTC](#timezone-utc)
-  - [Moderators and Notetakers](#moderators-and-notetakers)
-    - [Moderators](#moderating)
-    - [Notes](#notes)
-- [Working Hours](#working-hours)
-- [Guides](#guides)
+  - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
+  - [How to create a Roadmap](ROADMAP_HOW_TO.md)
+- [Timezone: UTC](#timezone-utc)
 - [Contribute](#contribute)
 - [License](#license)
 
 ## How We Work
 
-We use a loose agile approach, breaking our work into weekly sprints. Here are some things that are good to know:
+We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Roadmapping and [OKRs](OKR)
 
-- Every Monday we have our team sync calls. The most important call is the all-hands call; we try to keep this short, it has an agenda, and anyone (including you) can propose an agenda item for it.
-- We create a "sprint issue" for each sprint. That is where we put all the information about the week's calls. That's also where the notes from that week's calls accumulate.
-- There are some project-specific sprint discussions after the all-hands call. You're welcome to go to those, too. For more info about these calls, read the [sprint discussions](#sprint-discussions) section below.
-- You do not have to follow all of the project-specific discussions. They can be very detailed. Only go to ones you want to go to. We post the notes (such as they are) in the sprint issue in this repository afterwards.
-- If you have a topic to discuss or have done work that you want to tell everyone about, propose the agenda item by adding a comment on that week's sprint issue.
+You can find a list of [`Distributed Teams` resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md), that we have been gathering, reviewing, discussing and experimenting.
 
-You can also find a list of `Distributed Teams` resources on tools, decision making, process, etc, that we have been gathering, reviewing, discussing and experimenting with at [distributed-teams page](/DISTRIBUTED_TEAMS.md).
+## Synchronous Time
 
-## Weekly All Hands
+### Weekly IPFS All Hands
 
-- **When:** Every Monday, see [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com).
-- **How:** This takes place synchronously using Zoom.
+- **When:** Every Monday, 5pm UTC. See [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com).
+- **How:** This takes place synchronously using [Zoom](#zoom).
 - **Length:** 30 minutes.
 
-We host an IPFS All Hands Call every Monday. This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
+This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
 
-If you are interested in participating, please join us on Zoom.
+If you are interested in participating, please join us on [Zoom](#zoom).
 
 You can find recordings of the [previous IPFS All Hands on a Youtube playlist on the IPFS channel](https://www.youtube.com/watch?v=hmAniA6g9D0&list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
 
 This calendar an other IPFS Community calls are tracked on the [IPFS Community Calendar](https://github.com/ipfs/community#calendar)
 
-#### Schedule
+If you are hosting a call for the first time or interested in learning how to do it, consult the [HOST_A_CALL](HOST_A_CALL.md) guide.
 
-The schedule for the sprint discussions for each week is on the corresponding ticket (aka "sprint issue") for that week's sprint. It's also in the [IPFS community calendar](https://github.com/ipfs/community#calendar).
+### Working Groups Weekly/BiWeekly Syncs
 
-#### Zoom
+- [`JS Core Dev`](https://github.com/ipfs/tm/issues/650)
+- [`Go Core Dev`](https://github.com/ipfs/tm/issues/674)
+- [`Dynamic Data & Capabilities`](https://github.com/ipfs/dynamic-data-and-capabilities/blob/master/README.md#bi-weekly-sync)
+- [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
+- [`IPLD BiWeekly`](https://github.com/ipfs/tm/issues/720)
 
-We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
-
-**Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tilling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
-
-#### Timezone: UTC
-
-All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
-
-#### Moderators and Notetakers
-
-The [sprint-helper](https://github.com/ipfs/sprint-helper) rotates down from the list in `templates/all-hands-facilitators.json`, assigning one person to moderate and another to take notes.
-
-##### Moderating
-
-1. Record.
-   - Ask that someone records the call.
-2. Welcome
-   - Welcome Attendees & state the date. ("Hello, and welcome to the IPFS all hands call for ...")
-3. Introductions
-   - Is there anyone new to the project or the call?
-   - This gives the Notetaker time to add Agenda & Demo Items.
-4. Agenda & Demo items.
-   - Announce the Item and presenter name.
-     - If an individual is presenting many items, switch it up and give them a breather.
-       - i.e. don't make one person talk for 3 straight bullet points ( unless they want to :] ).
-   - Prompt for questions at the end of each item.
-     - The Moderator or the Presenter may call on people with hands raised.
-5. Announcements
-   - For anything not covered in the Agenda or Demo items - Get your word out!
-6. Questions
-   - For anything not covered in the Agenda or Demo items - Ask away!
-7. Conclude the call & thank the Attendees ("This concludes the IPFS all hands call for ..., thanks everyone, see you next week!")
-
-##### Notes
-
-We use [hackmd.io](https://hackmd.io) for taking notes. Our default setting for notes is 'Editable' - you may need to sign in with your GitHub account in order to edit a document. This ensures that we know who is setting in, without the significant overhead of making a different account somewhere else.
-
-## Working Hours
+### Working Hours
 
 As the IPFS team is all over the world, we've picked a set of "working hours" during which we can overlap. The hours are:
 
@@ -104,9 +70,17 @@ As the IPFS team is all over the world, we've picked a set of "working hours" du
 
 We aim to be available during these hours. Your mileage may vary.
 
-## Guides
+## Tools
 
-You can find guides on how to host calls and more at the [Guides folder](./guides)
+### Zoom
+
+We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
+
+**Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tilling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
+
+## Timezone: `UTC`
+
+All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
 ## Contribute
 
