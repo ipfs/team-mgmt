@@ -9,7 +9,7 @@
 ## Repo Index
 
 - [How We Work](#how-we-work)
-- [Teams](TEAM_STRUCTURES.md))
+- [Teams](TEAM_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#weekly-all-hands)
