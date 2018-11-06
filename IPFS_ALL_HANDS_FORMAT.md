@@ -1,11 +1,10 @@
-### IPFS Hands on Meeting
+### IPFS All Hands Format
 
 ![](https://media.giphy.com/media/JFawGLFMCJNDi/giphy.gif)
 
-
 ## The Dream
 
-For the past couple of months, we have been discussing revamping the IPFS ALL HANDS meetings. If you want more context, please see issue https://github.com/ipfs/pm/issues/636. 
+For the past couple of months, we have been discussing revamping the IPFS ALL HANDS meetings. If you want more context, please see issue https://github.com/ipfs/pm/issues/636.
 
 We want the IPFS hands-on meeting act as a space where we can showcase all of our hard work and game changing projects.The IPFS meetings give viewers a taste of some of the problems we are tackling.
 
@@ -49,19 +48,19 @@ In total we will have a talk every Monday. The times for the talks are:
 If you have a talk you want to give, [sign up here](https://docs.google.com/spreadsheets/d/1XRB2QsPzCPLPOErKvDZfOKK3CMohI9t_QKNdztYMlK0/edit#gid=350755898) **or** please email me at portia @ protocol labs dot com.
 
  ![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1541176158/ipfs_crew_xzbhxr.png)
- 
- 
- 
+
+
+
  ### 🥁November Scheduled Talks🥁
- 
+
 
 
 
 | November 5th            | November 12th           | November 19th          | November 26th          |
 | ------------------------|------------------------|------------------------|-------------------------|
 | "Intro to Textile App" Sander Pick | TBD         |     TBD                |    TBD                  |
-| 
- 
- 
+|
+
+
 ### Looking forward to all of your talk proposals!
- 
+
