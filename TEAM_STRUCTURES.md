@@ -70,6 +70,7 @@ A byproduct of both of these team structures achieves another important goal: ma
 
 - **Coordination**: https://github.com/ipfs/project
 - **Captain**: [David Dias](https://github.com/diasdavid)
+- **Technical Manager**: same as the Captain
 
 The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
 
@@ -78,12 +79,14 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - Provide coaching to Working Groups to develop their own planning and goal-setting.
 - Facilitate communication and alignment accross the organization.
 - Research, develop and build new ways to help async teams coordinate at scale.
-- Recognize needs of the project and develop solutions to meet them. 
+- Recognize needs of the project and develop solutions to meet them.
 
 ### JavaScript IPFS implementation
 
 - **Coordination**: https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md
-- **Captain**: [David Dias](https://github.com/diasdavid/)
+- **Captain**: [Alan Shaw](https://github.com/alanshaw/)
+- **Technical Manager**: N/A
+
 
 Develop js-ipfs.
 
@@ -93,7 +96,8 @@ Develop js-ipfs.
 ### Golang IPFS implementation
 
 - **Coordination**: https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md
-- **Captain**: [Jeromy Johnson](https://github.com/whyrusleeping)
+- **Captain**: [Steven Allen](https://github.com/stebalien)
+- **Technical Manager**: [Erik Ingenito](https://github.com/eingenito)
 
 Develop go-ipfs.
 
@@ -104,6 +108,7 @@ Develop go-ipfs.
 
 - **Coordination**: https://github.com/ipfs/ipfs-gui
 - **Captain**: [Oli Evans](https://github.com/olizilla)
+- **Technical Manager**: same as the Captain
 
 Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
@@ -117,6 +122,7 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
 - **Coordination**: https://github.com/ipfs/ipfs-cluster
 - **Captain**: [Hector Sanjuan](https://github.com/hsanjuan)
+- **Technical Manager**: same as the Captain
 
 The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 
@@ -128,6 +134,7 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 
 - **Coordination**: http://github.com/ipfs/infrastructure
 - **Captain**: [Erin Fahy](https://github.com/eefahy)
+- **Technical Manager**: same as the Captain
 
 Tools and systems for the IPFS community.
 
@@ -138,10 +145,11 @@ Tools and systems for the IPFS community.
 - Monitor services and hosts used by the IPFS dev teams.
 - Provide wisdom to other users that want to host IPFS nodes.
 
-### Dev Team Enablement (QA, Testing, Support)
+### `PAUSED` Dev Team Enablement (QA, Testing, Support)
 
 - **Coordination**: https://github.com/ipfs/testing
-- **Captain**: [Victor Bjelkholm](https://github.com/VictorBjelkholm)
+- **Captain**: Ship is without a Captain
+- **Technical Manager**: N/A
 
 The QA, Testing and Dev Team Enablement Working Group focuses on building developer tools, CI, and automated maintenance tasks to improve the developer experience of the many IPFS (and related) projects.
 
@@ -157,6 +165,7 @@ The QA, Testing and Dev Team Enablement Working Group focuses on building develo
 
 - **Coordination**: https://github.com/ipfs/community
 - **Captain**: [Mikeal Rogers](https://github.com/mikeal)
+- **Technical Manager**: same as the Captain
 
 Community outreach working group. Coordinates the communities around events, blog posts
 documentation, automation and education.
@@ -180,6 +189,7 @@ documentation, automation and education.
 
 - **Coordination**: https://github.com/ipfs/in-web-browsers
 - **Captain**: [Marcin Rataj](https://github.com/lidel)
+- **Technical Manager**: same as the Captain
 
 The Integration with Web Browsers Working Group designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
 
@@ -197,6 +207,7 @@ The Integration with Web Browsers Working Group designs and implements browser i
 
 - **Coordination**: http://github.com/ipfs/dynamic-data-and-capabilities
 - **Captain**: [Pedro Teixeira](https://github.com/pgte)
+- **Technical Manager**: same as the Captain
 
 Research and development of building blocks that enable collaborative applications, providing solutions for security, identity, access control, concurrency, synchronization, offline, and near-real-time collaboration. This WG was born out of the results created by the [CRDT Research Group](http://github.com/ipfs/research-crdt).
 
@@ -210,6 +221,7 @@ Research and development of building blocks that enable collaborative applicatio
 
 - **Coordination**: https://github.com/ipfs/decentralized-data-stewardship
 - **Captain**: [Michelle Hertzfeld](https://github.com/meiqimichelle)
+- **Technical Manager**: same as the Captain
 
 User research, collaborations, and products that support holding data together on decentralized networks.
 
