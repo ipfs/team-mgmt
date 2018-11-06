@@ -37,7 +37,7 @@ You can find a list of [`Distributed Teams` resources on tools, decision making,
 As an organization that operates at a planetary scale with multiple people from different timezones and schedules, we value tremendously the benefits of Asynchronous Communication. The art of writting things down for future selfs or future contributors is one of the key reasons that enables [so many contributors](https://github.com/ipfs/contributors-hex-grid#big-grid) to participate in the large endeavour of Distributing the Web with the IPFS Project.
 
 Some golden recommendations:
-- Prefer to open a issue vs sending a DM
+- Prefer to open an issue vs. sending a DM
 - If you find documentation missing, treat it as a bug. Once you get your answer, contribute it so that it benefits others
 - Use synchronous time wisely (only if needed), convert any output into an artifact that can be used by others (avoid Tribal Knowledge)
 
