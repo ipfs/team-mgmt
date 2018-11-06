@@ -10,18 +10,17 @@
 
 - [How We Work](#how-we-work)
 - [Teams](TEAM_STRUCTURES.md))
-- [Synchronous Time]()
+- [Asynchronous Communitication](#asynchronous-communication)
+- [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#weekly-all-hands)
-  - [Working Groups Weekly/BiWeekly Syncs]()
+  - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
   - [Working Hours](#working-hours)
-- [Asynchronous Time]()
-  - different teams manage themselves differently..
-- [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
 - [Tools](#tools)
   - [Zoom](#zoom)
   - [Calendar](#calendar)
   - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
   - [How to create a Roadmap](ROADMAP_HOW_TO.md)
+  - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
 - [Timezone: UTC](#timezone-utc)
 - [Contribute](#contribute)
 - [License](#license)
@@ -32,7 +31,22 @@ We use a loose agile approach. We deliberately designed a Org wide process that 
 
 You can find a list of [`Distributed Teams` resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md), that we have been gathering, reviewing, discussing and experimenting.
 
-## Synchronous Time
+## Asynchronous Communication
+
+As an organization that operates at a planetary scale with multiple people from different timezones and schedules, we value tremendously the benefits of Asynchronous Communication. The art of writting things down for future selfs or future contributors is one of the key reasons that enables [so many contributors](https://github.com/ipfs/contributors-hex-grid#big-grid) to participate in the large endeavour of Distributing the Web with the IPFS Project.
+
+Some golden recommendations:
+- Prefer to open a issue vs sending a DM
+- If you find documentation missing, treat it as a bug. Once you get your answer, contribute it so that it benefits others
+- Use synchronous time wisely (only if needed), convert any output into an artifact that can be used by others (avoid Tribal Knowledge)
+
+A few of our teams have a structured (documented) way on how they track work that you can consult and take inspiration from:
+- [MGMT_JS_CORE_DEV](MGMT_JS_CORE_DEV.md)
+- [MGMT_GOLANG_CORE_DEV](MGMT_GOLANG_CORE_DEV.md)
+
+## Synchronous Communication
+
+Synchronous Communication is phenomenal to transfer memes rapidly, clarify any outstanding questions, deep dive into hard topics together, get to know each other better and develop trust. The main pain point with Synchronous Communication is that if you were not present, you might miss out on important information that is relevant to you and your project. To overcome this limitation, **a core competency of the IPFS Org a a whole is to be stellar at taking notes and creating artifacts that represent any decision/announcement made during those synchronous conversations**. The corollary being: if it ain't written down and broadcasted, it didn't happen.
 
 ### Weekly IPFS All Hands
 
