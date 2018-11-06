@@ -19,6 +19,7 @@
 - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
 - [Tools](#tools)
   - [Zoom](#zoom)
+  - [Calendar](#calendar)
   - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
   - [How to create a Roadmap](ROADMAP_HOW_TO.md)
 - [Timezone: UTC](#timezone-utc)
@@ -77,6 +78,10 @@ We aim to be available during these hours. Your mileage may vary.
 We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
 **Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tilling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
+
+### Calendar
+
+YOu can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
 
 ## Timezone: `UTC`
 
