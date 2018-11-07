@@ -96,7 +96,7 @@ We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream
 
 ### Calendar
 
-YOu can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
+You can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
 
 ## Timezone: `UTC`
 
