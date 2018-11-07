@@ -78,7 +78,8 @@ If you are hosting and need access to the vault, send an email to it@protocol.ai
 
 ## FAQ
 
-- **Do I need a special account to be the host?** No, all you need is to ask to be added to the list of hosts so that you have recording and livestreaming capabilities. Do this by asking one of the current hosts or sending an email to it@protocol.ai
+- **What do I do if the Livestream doesn't show up on the IPFS Youtube Channel?** It is important that the live stream privacy setting under "basic info" be set to "public", otherwise the livestream won't show up on the IPFS channel or on our link https://www.youtube.com/c/IPFS-dweb/live. If you see the livestream coming through the live dashboard but not on our channel, that's probably the issue. We still check the box to "Automatically make archive unlisted once the stream has ended" so that we can rename and update the recording after the call. 
+- **Do I need a special account to be the host?** No, all you need is to ask to have your personal email address added to the list of hosts so that you have recording and livestreaming capabilities. Do this by asking one of the current hosts or sending an email to it@protocol.ai
 - **Who currently has delegated hosting ability per call (and can therefore can record/livestream if needed)?**
   - IPFS All Hands Call: david@protocol.ai, matt@protocol.ai, erik@carbonfive.com, victor@protocol.ai, molly@protocol.ai
   - JS Core Dev Weekly Sync: jake@andyet.net, alan.shaw@protocol.ai, david@protocol.ai, molly@protocol.ai
