@@ -85,7 +85,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 
 - **Coordination**: https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md
 - **Captain**: [Alan Shaw](https://github.com/alanshaw/)
-- **Technical Manager**: N/A
+- **Technical Manager**: `To be confirmed`
 
 
 Develop js-ipfs.
