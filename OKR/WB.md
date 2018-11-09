@@ -8,7 +8,7 @@ More: https://github.com/ipfs/in-web-browsers
 
 ## 2018 Q4
 
-- [ipfs-gui 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=755202447)
+- [ipfs/in-web-browsers 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=755202447)
 - [Open Planning Thread](https://github.com/ipfs/in-web-browsers/issues/110)
 - [Previous Quarter Retrospective](https://docs.google.com/document/d/1RPoO_Ov1XmwjEP2JraPzn74DV5SnQjeV6skH0A4kirY/)
 
