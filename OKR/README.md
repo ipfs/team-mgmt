@@ -8,6 +8,6 @@ We use OKRs to plan 60% of our time during a Quarter. As creators and maintainer
 
 ## Q4 2018 Important Dates
 
-- Thursday, Nov 15th - OKRs Mid Quarter Scoring
-- Week of Dec 10th - OKRs End of Quarter Scoring + WG Retrospectives + Prepare 2019 Q1 OKRs
-- Week of Dec 17th - Presentations of Q4 OKRs results and 2019 Q1 OKRs to the org
+- Week of Nov 12 - OKRs Mid Quarter Scoring
+- Week of Dec 10 - OKRs End of Quarter Scoring + WG Retrospectives + Prepare 2019 Q1 OKRs
+- Week of Dec 17 - Presentations of Q4 OKRs results and 2019 Q1 OKRs to the org
