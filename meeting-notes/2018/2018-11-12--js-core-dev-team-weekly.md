@@ -9,7 +9,7 @@
   - @vmx
   - @E_lexy
   - @mikeal
-- **Recording:** TBC
+- **Recording:** https://youtu.be/zGRQAU1JKzw
 
 ## Agenda
 
