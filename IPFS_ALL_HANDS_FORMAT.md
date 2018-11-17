@@ -41,10 +41,6 @@ If you have a talk you want to give, [sign up here](https://docs.google.com/spre
  ![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1541176158/ipfs_crew_xzbhxr.png)
 
 
-
-
-
-
 ## List of Upcoming Talks  ⚡️📅 ⚡️
 ![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1542475278/ipfs_calendar_dyxtst.jpg)
 
@@ -53,8 +49,7 @@ If you have a talk you want to give, [sign up here](https://docs.google.com/spre
 _[Sign up here if you would like to speak!](https://docs.google.com/spreadsheets/d/1XRB2QsPzCPLPOErKvDZfOKK3CMohI9t_QKNdztYMlK0/edit#gid=350755898)_
 
 
-
-### While you're here check out some of our past talks 
+## While you're here check out some of our past talks! 
 
 [IPFS ALL Hands Call November 12, 2018](https://youtu.be/0fT9HC2Crqw)
 
