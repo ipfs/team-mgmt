@@ -12,6 +12,7 @@
 - [Teams](TEAM_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
   - [OKR (Objectives & Key Results)](OKR)
+  - [Repo Activity](#repo-activity)
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#weekly-all-hands)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
@@ -45,6 +46,16 @@ Some golden recommendations:
 A few of our teams have a structured (documented) way on how they track work that you can consult and take inspiration from:
 - [MGMT_JS_CORE_DEV](MGMT_JS_CORE_DEV.md)
 - [MGMT_GOLANG_CORE_DEV](MGMT_GOLANG_CORE_DEV.md)
+
+### OKRs
+
+Learn how the [IPFS Org uses OKRs to track quarterly process here](https://github.com/ipfs/team-mgmt/tree/master/OKR#objectives--key-results).
+
+### Repo Activity
+
+[![Throughput Graph](https://graphs.waffle.io/ipfs/ipfs/throughput.svg)](https://waffle.io/ipfs/ipfs/metrics/throughput)
+
+Processing all the IPFS activity can be a daunting task, there is simply too much happening (which is great!). To make it simpler (and bareable), we recommend trying [Octobox](https://octobox.io/).
 
 ## Synchronous Communication
 
