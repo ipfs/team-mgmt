@@ -15,6 +15,7 @@
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#weekly-all-hands)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
+  - [IRC](#IRC)
   - [Working Hours](#working-hours)
 - [Tools](#tools)
   - [Zoom](#zoom)
@@ -67,11 +68,29 @@ If you are hosting a call for the first time or interested in learning how to do
 
 ### Working Groups Weekly/BiWeekly Syncs
 
-- [`JS Core Dev`](https://github.com/ipfs/tm/issues/650)
-- [`Go Core Dev`](https://github.com/ipfs/tm/issues/674)
+- [`JS Core Dev`](https://github.com/ipfs/team-mgmt/issues/650)
+- [`Go Core Dev`](https://github.com/ipfs/team-mgmt/issues/674)
 - [`Dynamic Data & Capabilities`](https://github.com/ipfs/dynamic-data-and-capabilities/blob/master/README.md#bi-weekly-sync)
 - [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
-- [`IPLD BiWeekly`](https://github.com/ipfs/tm/issues/720)
+- [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
+
+### IRC
+
+We hangout on IRC for lots of Dev Chat. You can find us on Freenode on the following channels:
+
+- #ipfs
+- #ipfs-dev
+- #ipfs-cluster
+- #ipfs-gui
+- #ipfs-in-web-browsers
+- #ipfs-project
+- #ipfs-infrastructure
+- #ipfs-pinbot
+- #gx
+- #libp2p
+- #ipld
+
+You can also access these channels through the [Matrix IRC Bridge](https://riot.im/app/#/group/+ipfs:matrix.org)
 
 ### Working Hours
 
