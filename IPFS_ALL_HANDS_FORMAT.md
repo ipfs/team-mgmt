@@ -35,9 +35,6 @@ In total we will have a talk every Monday. The times for the talks are:
 ---|
 9:00 **17:00** 18:00 |
 
-
-If you have a talk you want to give, [sign up here](https://docs.google.com/spreadsheets/d/1XRB2QsPzCPLPOErKvDZfOKK3CMohI9t_QKNdztYMlK0/edit#gid=350755898) **or** please email me at portia @ protocol dot ai.
-
  ![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1541176158/ipfs_crew_xzbhxr.png)
 
 
@@ -47,7 +44,7 @@ If you have a talk you want to give, [sign up here](https://docs.google.com/spre
 
 ## Steps to signing up and speaking
 
-1. Write a short blurb about your talk and a proposed date for your talk. Send it to portia @ protocol dot com. You should receive an update about the status of your talk within 24-48 hours.
+1. Write a short blurb about your talk and a proposed date for your talk. Send it to portia @ protocol dot ai. You should receive an update about the status of your talk within 24-48 hours.
 
 2. After your talk has been confirmed, prepare a slides for your talk. Your presentation should be approximately 15-20 minutes long.
 
@@ -71,10 +68,10 @@ If you have a talk you want to give, [sign up here](https://docs.google.com/spre
 
 ### If you're looking for more inspiration, check out some of our past talks! 
 
-[IPFS ALL Hands Call November 12, 2018](https://youtu.be/0fT9HC2Crqw?t=116)
+[_Mozilla and the Distributed Web_ by Irakli Gozalishvili November 12, 2018](https://youtu.be/0fT9HC2Crqw?t=116)
 
-[IPFS ALL Hands Call November 5, 2018](https://youtu.be/4gVUKbXT0cM?t=52)
+[_Distributed Web and for the Global South_ by Nico Pace November 5, 2018](https://youtu.be/4gVUKbXT0cM?t=52)
 
-[IPFS ALL Hands Call October 29, 2018](https://youtu.be/o1tUzgThZK0?t=18)
+[_Peer Pad Nano_ by Jim Pick October 29, 2018](https://youtu.be/o1tUzgThZK0?t=18)
 
 [IPFS ALL Hands Call October 22, 2018](https://youtu.be/iEagJfB8AvM?t=124)
