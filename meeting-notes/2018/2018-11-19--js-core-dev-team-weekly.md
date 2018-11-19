@@ -10,7 +10,7 @@
   - @achingbrain
   - @litzenberger
   - @travisperson
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/tAcLLCq33mM
 
 ## Agenda
 
