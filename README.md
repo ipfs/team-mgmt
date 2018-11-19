@@ -8,6 +8,7 @@
 
 ## Repo Index
 
+- [Related Projects](#related-projects)
 - [How We Work](#how-we-work)
 - [Teams](TEAM_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
@@ -27,6 +28,13 @@
 - [Timezone: UTC](#timezone-utc)
 - [Contribute](#contribute)
 - [License](#license)
+
+## Related Projects
+
+IPFS leverages several related projects which have their own planning:
+
+ - [IPLD](https://github.com/ipld/team-mgmt)
+ - [libp2p](https://github.com/libp2p/team-mgmt)
 
 ## How We Work
 
