@@ -13,21 +13,17 @@ We want the IPFS Weekly Update to act as a space where we can showcase all of ou
 
 The main purpose of the IPFS Weekly Update call is to highlight the most exciting work in the broader IPFS community and disseminate high-value knowledge to the many teams improving IPFS, building on top of it, or doing relevant research. You can use these weekly calls to:
 
-1. Attract skilled contributors to your project
-
-2. Motivate the community about adding support for a new feature
-
-3. Find new partners, capabilities, or challenges for your project to work on/with
-
-4. Practice speaking in front of a captivated audience
+- 1. Attract skilled contributors to your project
+- 2. Motivate the community about adding support for a new feature
+- 3. Find new partners, capabilities, or challenges for your project to work on/with
+- 4. Practice speaking in front of a captivated audience
 
 
 ## The format
 
 The 30-minute IPFS Weekly Update takes place weekly on Mondays at:
 
-9:00 PST |  **17:00 UTC
-** | 18:00  CET
+9:00 PST |  **17:00 UTC** | 18:00  CET
 
 Each week's call will feature one or more short talks from guest presenters, in one of the following formats:
 * One 15-minute talk (3x per month)
