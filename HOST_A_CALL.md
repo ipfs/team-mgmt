@@ -42,7 +42,6 @@ This video tutorial describes how to add new moderators to a call, how to config
   - Zoom #1 is used for the IPFS All Hands Call
   - Zoom #2 is used for the JS Core Dev Weekly Sync
   - Zoom #3 is used for the Golang Core Dev Weekly Sync
-  - IPLD Zoom is used for the IPLD Bi-Weekly Sync
 - YouTube to upload recordings
 - Twitter to announce meetings
 
@@ -74,7 +73,6 @@ If you are a new moderator or need to add other hosts, you can get access to the
 Tracked on their respective issues:
 - [JS Core Dev](https://github.com/ipfs/pm/issues/650)
 - [Go Core Dev](https://github.com/ipfs/pm/issues/674)
-- [IPLD](https://github.com/ipfs/team-mgmt/issues/720)
 
 If you are hosting and need access to the vault, send an email to it@protocol.ai.
 
