@@ -33,7 +33,7 @@
 
 _General discussions, decisions, etc._
 
--   Announcement from Molly: Remember to do your mid-Quarter OKR reviews (see email from David Dias)
+-   Announcement from Molly: Remember to do your mid-Quarter OKR reviews (see email from David Dias and check out issue https://github.com/ipfs/team-mgmt/issues/755)
 
   
 
