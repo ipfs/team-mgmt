@@ -15,7 +15,7 @@
   - [OKR (Objectives & Key Results)](OKR)
   - [Repo Activity](#repo-activity)
 - [Synchronous Communication](#synchronous-communication)
-  - [Weekly All Hands](#weekly-all-hands)
+  - [Weekly All Hands](#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
   - [IRC](#IRC)
   - [Working Hours](#working-hours)
