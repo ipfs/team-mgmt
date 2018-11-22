@@ -48,20 +48,20 @@ A few of our teams have a structured (documented) way on how they track work tha
 
 Synchronous Communication is phenomenal to transfer memes rapidly, clarify any outstanding questions, deep dive into hard topics together, get to know each other better and develop trust. The main pain point with Synchronous Communication is that if you were not present, you might miss out on important information that is relevant to you and your project. To overcome this limitation, **a core competency of the IPFS Org a a whole is to be stellar at taking notes and creating artifacts that represent any decision/announcement made during those synchronous conversations**. The corollary being: if it ain't written down and broadcasted, it didn't happen.
 
-### IPFS Weekly Update (formerly known as IPFS All Hands Call)
+### 🙌🏽 IPFS Weekly Call 📞 (formerly known as IPFS All Hands Call)
 
 - **When:** Every Monday, 5pm UTC. See [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com).
 - **How:** This takes place synchronously using [Zoom](#zoom).
 - **Length:** 30 minutes.
-- **Format:** [IPFS_WEEKLY_UPDATE_FORMAT](IPFS_WEEKLY_UPDATE_FORMAT.md)
+- **Format:** [IPFS_WEEKLY_CALL_FORMAT](IPFS_WEEKLY_CALL_FORMAT.md)
 
 This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
 
 If you are interested in participating, please join us on [Zoom](#zoom).
 
-You can find recordings of the [previous IPFS Weekly Update / IPFS All Hands calls on a Youtube playlist on the IPFS channel](https://www.youtube.com/watch?v=hmAniA6g9D0&list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
+You can find recordings of the on the [Youtube playlist, IPFS All Hands 🙌🏽 📞](https://www.youtube.com/watch?v=hmAniA6g9D0&list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
 
-This calendar an other IPFS Community calls are tracked on the [IPFS Community Calendar](https://github.com/ipfs/community#calendar)
+This call and other IPFS Community calls are tracked on the [IPFS Community Calendar](https://github.com/ipfs/community#calendar)
 
 If you are hosting a call for the first time or interested in learning how to do it, consult the [HOST_A_CALL](HOST_A_CALL.md) guide.
 
