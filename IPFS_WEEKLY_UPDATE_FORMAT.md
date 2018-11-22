@@ -1,23 +1,20 @@
-# IPFS Weekly Update Format
+# 🙌🏽 IPFS Weekly Call 📞 
 
-![](https://user-images.githubusercontent.com/157609/48067634-0b5f2780-e1d1-11e8-8b67-30d7aa20896b.gif)
+## Motivation
 
-## The dream
+For the past couple of months, we have been discussing revamping our Weekly Calls (formerly known as the IPFS All Hands ). If you want more context, please see this issue https://github.com/ipfs/pm/issues/636.
 
-For the past couple of months, we have been discussing revamping the IPFS Weekly Update meetings (formerly known as the IPFS All Hands Call). If you want more context, please see this issue https://github.com/ipfs/pm/issues/636.
-
-We want the IPFS Weekly Update to act as a space where we can showcase all of our hard work and game-changing projects. These meetings give viewers a taste of some of the problems we are tackling.
+We want the IPFS Weekly Call to act as a space where we can showcase all of our hard work and game-changing projects. These meetings give viewers a taste of some of the problems we are tackling.
 
 
 ## What's in it for you? 😺
 
-The main purpose of the IPFS Weekly Update call is to highlight the most exciting work in the broader IPFS community and disseminate high-value knowledge to the many teams improving IPFS, building on top of it, or doing relevant research. You can use these weekly calls to:
+The main purpose of the 🙌🏽 IPFS Weekly Call 📞  is to highlight the most exciting work in the broader IPFS community and disseminate high-value knowledge to the many teams improving IPFS, building on top of it, or doing relevant research. You can use these weekly calls to:
 
 - 1. Attract skilled contributors to your project
 - 2. Motivate the community about adding support for a new feature
 - 3. Find new partners, capabilities, or challenges for your project to work on/with
 - 4. Practice speaking in front of a captivated audience
-
 
 ## The format
 
@@ -29,12 +26,11 @@ Each week's call will feature one or more short talks from guest presenters, in 
 * One 15-minute talk (3x per month)
 * Three 5-minute lightning talks (1x per month)
 
- ![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1541176158/ipfs_crew_xzbhxr.png)
+![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1541176158/ipfs_crew_xzbhxr.png)
 
-## List of upcoming talks  ⚡️📅 ⚡️
+## List of upcoming talks  ⚡️📅⚡️
+
 [View the list of scheduled talks](https://docs.google.com/spreadsheets/d/1XRB2QsPzCPLPOErKvDZfOKK3CMohI9t_QKNdztYMlK0/edit#gid=350755898)
-![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1542475278/ipfs_calendar_dyxtst.jpg)
-
 
 ## Steps to signing up and speaking
 
@@ -47,14 +43,15 @@ Each week's call will feature one or more short talks from guest presenters, in 
 
 - Direct work with any of the IPFS APIs (i.e. [go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs)
 - Technologies that support IPFS, like [IPLD](https://github.com/ipld/js-ipld)
-- Applications that are built on top of IPFS, such as [Peer Star App](https://github.com/ipfs-shipyard/peer-star-app)
+- Applications that are built on top of IPFS, such as [Peer Pad](https://github.com/ipfs-shipyard/peer-pad)
 - Distributed applications where IPFS is part of the development stack, such as [OpenBazaar](https://openbazaar.org/blog/openbazaar-2018-roadmap/)
 - IPFS used to build alternative decentralized applications that [directly address societal problems](https://observer.com/2017/05/turkey-wikipedia-ipfs/))
-
 
 ### If you're looking for more inspiration, check out some of our past talks!
 
 - [_Mozilla and the Distributed Web_ by Irakli Gozalishvili](https://youtu.be/0fT9HC2Crqw?t=116) (November 12, 2018)
 - [_Distributed Web and for the Global South_ by Nico Pace](https://youtu.be/4gVUKbXT0cM?t=52) (November 5, 2018)
 - [_Peer Pad Nano_ by Jim Pick](https://youtu.be/o1tUzgThZK0?t=18) (October 29, 2018)
-- [IPFS All Hands Call](https://youtu.be/iEagJfB8AvM?t=124) (October 22, 2018)
+- [_nuWebUI_ by Alan Shaw](https://youtu.be/iEagJfB8AvM?t=124) (October 22, 2018)
+
+You can also check a [Youtube playlist with every IPFS Weekly ever!](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
