@@ -34,13 +34,15 @@ Each week's call will feature one or more short talks from guest presenters, in 
 
 ## Steps to signing up and speaking
 
-- 1. Write a short blurb about your talk and propose a date, consulting the [calendar of upcoming talks](https://docs.google.com/spreadsheets/d/1XRB2QsPzCPLPOErKvDZfOKK3CMohI9t_QKNdztYMlK0/edit#gid=350755898) to see what dates are available. Email your proposal to portia @ protocol dot ai and you should receive an update about the status of your talk within 24-48 hours.
-- 2. After your talk has been confirmed, prepare slides for your talk. (Depending on your content, you may also want to share a demo.) Your presentation should be approximately 15-20 minutes long, unless you're giving a 5-minute lightning talk.
-- 3. On the day of the talk you will be given a Zoom link. Sign on to Zoom and be prepared to speak after announcements.
-- 4. Two days after you've finished presenting, you'll receive a recording of the call via email. Feel free to help build awareness of IPFS and by sharing the video of your talk on social media!
+- 1. Write a short abstract about your talk and propose a date. Consulting the [calendar of upcoming talks](https://docs.google.com/spreadsheets/d/1XRB2QsPzCPLPOErKvDZfOKK3CMohI9t_QKNdztYMlK0/edit#gid=350755898) can give you a good idea of which dates are available.
+- 2. Send your abstract to `ipfs-weekly-call-rfp@ipfs.io`. Someone from the IPFS Community WG will follow up and give you an update about the status of your talk within 24-48 hours.
+- 3. After your talk has been confirmed, prepare slides for your talk. (Depending on your content, you may also want to share a demo.) Your presentation should be approximately 15-20 minutes long, unless you're giving a 5-minute lightning talk.
+- 4. On the day of the talk you will be given a Zoom link. Sign on to Zoom and be prepared to speak after announcements.
+- 5. Two days after you've finished presenting, you'll receive a recording of the call via email. Feel free to help build awareness of IPFS and by sharing the video of your talk with your friends, family and colleagues!
 
 ### Topics that we're looking for:
 
+- Anything DWeb, really.
 - Direct work with any of the IPFS APIs (i.e. [go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs)
 - Technologies that support IPFS, like [IPLD](https://github.com/ipld/js-ipld)
 - Applications that are built on top of IPFS, such as [Peer Pad](https://github.com/ipfs-shipyard/peer-pad)
