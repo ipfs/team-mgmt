@@ -8,7 +8,7 @@
     - @lidel
     - @alanshaw
     - @hacdias
-    - fsdiogo
+    - @fsdiogo
 
 ## Before the Sync
 
