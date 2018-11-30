@@ -164,7 +164,7 @@ documentation, automation and education.
 **Responsibilities include**:
 - Help community members organize meetups for their own communities.
 - Respond to requests for IPFS presence in conferences.
-- Managing the official social media channels.
+- Facilitate community content for social media channels.
 - Publish regular updates to the community (blog posts and newsletters).
 - Create Tutorials and Workshops to teach concepts about IPFS and the Distributed Web in ProtoSchool.
 - Ensure that public forums (discuss.ipfs.io, irc, github, etc) have adequate moderation and responsive support.
