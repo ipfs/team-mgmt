@@ -12,7 +12,6 @@
     - [IPFS GUI](#ipfs-gui)
     - [IPFS Cluster](#ipfs-cluster)
     - [IPFS Infrastructure](#ipfs-infrastructure)
-    - [Dev Team Enablement (QA, Testing, Support)](#qa-testing-and-dev-team-enablement)
   - [**Community**](#community)
   - **Efforts to Support Specific Uses:**
     - [Integration with Web Browsers](#integration-with-web-browsers)
@@ -86,11 +85,14 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
 
-
-Develop js-ipfs.
+Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
 **Responsibilities include**:
 - Create the browser implementation of the IPFS Protocol.
+- Create a great onboarding experience for new contributors.
+- Upgrade and build dev tools (i.e AEgir).
+- Define process and help achieve high quality sustainable open source modules.
+- Set the guidelines for writing, maintaining and managing the JS codebases, test suites, and contributions.
 
 ### Golang IPFS implementation
 
@@ -98,10 +100,13 @@ Develop js-ipfs.
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
 
-Develop go-ipfs.
+Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 
 **Responsibilities include**:
 - Create the server and reference implementation of the IPFS Protocol.
+- Create a great onboarding experience for new contributors.
+- Upgrade and build dev tools (i.e gx).
+- Set the guidelines for writing, maintaining and managing the Go codebases, test suites, and contributions.
 
 ### IPFS GUI
 
@@ -140,21 +145,8 @@ Tools and systems for the IPFS community.
 - Manage and maintain the IPFS pinning service, pinbot.
 - Monitor services and hosts used by the IPFS dev teams.
 - Provide wisdom to other users that want to host IPFS nodes.
-
-### `PAUSED` Dev Team Enablement (QA, Testing, Support)
-
-- **Coordination**: https://github.com/ipfs/testing
-- **Ship is without a Captain, TPM**
-
-The QA, Testing and Dev Team Enablement Working Group focuses on building developer tools, CI, and automated maintenance tasks to improve the developer experience of the many IPFS (and related) projects.
-
-**Responsibilities include**:
-- Enable developers to develop faster by reducing friction from dev.
-- Upgrade and build dev tools (i.e AEgir and gx).
-- Create a sound testing infrastructure for all the IPFS projects.
-- Set the guidelines for writing, maintaining and managing codebases, test suites, and contributions.
-- Define process and help achieve high quality sustainable open source modules.
-- Automating tasks for things such as: release cycle, ensuring code quality, activity reports.
+- Enable dev teams to run reliable, efficient tests and manage continuous deployment.
+- Configure automation for defined development policies like release cycles and code quality reporting.
 
 ### Community
 
