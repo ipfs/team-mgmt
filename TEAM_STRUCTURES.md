@@ -143,8 +143,8 @@ Tools and systems for the IPFS community.
 - Manage and maintain the IPFS pinning service, pinbot.
 - Monitor services and hosts used by the IPFS dev teams.
 - Provide wisdom to other users that want to host IPFS nodes.
-- Create a sound testing infrastructure for all the IPFS projects.
-- Automate tasks for things such as: release cycle, ensuring code quality, activity reports.
+- Enable dev teams to run reliable, efficient tests and manage continuous deployment.
+- Configure automation for defined development policies like release cycles and code quality reporting.
 
 ### Community
 
