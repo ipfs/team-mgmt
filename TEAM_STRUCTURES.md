@@ -17,6 +17,7 @@
     - [Integration with Web Browsers](#integration-with-web-browsers)
     - [Dynamic Data and Capabilities](#dynamic-data-and-capabilities)
     - [Decentralized Data Stewardship](#decentralized-data-stewardship)
+    - [Local Offline Collaboration](#local-offline-collaboration-locl)
 - [Existing **Research** Groups](#existing-research-groups)
 
 ## Description
@@ -214,6 +215,20 @@ User research, collaborations, and products that support holding data together o
 - Conduct [user research around managing large volumes of data](https://github.com/ipfs/user-research/tree/master/large-volumes) on IPFS
 - Support collaborations between IPFS and community members who need to manage large volumes of data
 - Research and prototype policy layers for just and inclusive data stewardship on decentralized networks
+
+### Local Offline Collaboration (Locl)
+
+- **Coordination**: https://github.com/ipfs/local-offline-collab
+- **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
+
+User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
+
+**Responsibilities include**:
+
+- Participate in communities like [Offline First](http://offlinefirst.org/)
+- Conduct user research around offline and local-first use cases, communities, and best practices
+- Support collaborations between IPFS and community members who are building tools for peer-to-peer sharing and collaboration in local/offline networks
+- Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
 
 ## Existing Research Groups
 
