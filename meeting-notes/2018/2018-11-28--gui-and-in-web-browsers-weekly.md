@@ -132,7 +132,7 @@
         - There should be some UI indication that something is happening behind the scenes
     - When that is resolved, we will swap Share link in Web UI to point at the Share App 
 - [Migration to CIDv1](https://github.com/ipfs/ipfs/issues/337): Adding data as CIDv0 and getting it by CIDv1
-    - interop tests now exist
+    - PR with interop tests: [ipfs/interop/pull/46](https://github.com/ipfs/interop/pull/46)
     -  already works with go-ipfs v0.4.18
     -  work in progress to add support in js-ipfs as well   \o/
     -  ["I love it when a plan comes together"](https://www.youtube.com/watch?v=NsUFBm1uENs)
