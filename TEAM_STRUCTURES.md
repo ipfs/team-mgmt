@@ -17,7 +17,7 @@
     - [Integration with Web Browsers](#integration-with-web-browsers)
     - [Dynamic Data and Capabilities](#dynamic-data-and-capabilities)
     - [Decentralized Data Stewardship](#decentralized-data-stewardship)
-    - [Local Offline Collaboration](#local-offline-collaboration-locl)
+    - [Local Offline Collaboration](#local-offline-collaboration-locol)
 - [Existing **Research** Groups](#existing-research-groups)
 
 ## Description
@@ -216,7 +216,7 @@ User research, collaborations, and products that support holding data together o
 - Support collaborations between IPFS and community members who need to manage large volumes of data
 - Research and prototype policy layers for just and inclusive data stewardship on decentralized networks
 
-### Local Offline Collaboration (Locl)
+### Local Offline Collaboration (Locol)
 
 - **Coordination**: https://github.com/ipfs/local-offline-collab
 - **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
