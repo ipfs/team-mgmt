@@ -1,4 +1,4 @@
----
+
 ## Standup meeting - 2018-10-30
 
 ### Updates since last time
@@ -78,6 +78,8 @@ This week:
 
 
 ---
+
+
 ## Standup meeting - 2018-10-23
 
 ### Updates since last time
