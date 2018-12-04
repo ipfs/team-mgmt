@@ -24,7 +24,7 @@
 
 _General discussions, decisions, etc._
 
--   Announcing event in Berlin tomorrow: Contribute to Open Source Project IPFS - Tuesday, December 4, 2018 6:30 PM to 9:00 PM - https&#x3A;//www.meetup.com/IPFS-Berlin/events/255970865
+-   Announcing event in Berlin tomorrow: Contribute to Open Source Project IPFS - Tuesday, December 4, 2018 6:30 PM to 9:00 PM - https://www.meetup.com/IPFS-Berlin/events/255970865
 
   
 **Demos**
