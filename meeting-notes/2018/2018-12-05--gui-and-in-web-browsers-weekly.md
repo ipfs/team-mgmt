@@ -126,5 +126,5 @@
 
 **Notes**
 
-- After [this discussion](https://github.com/ipfs-shipyard/ipfs-share-files/issues/) we reached consensus and we’re moving forward to using a websocket-star server as a centralised discovery server.
+- After [this discussion](https://github.com/ipfs-shipyard/ipfs-share-files/issues/63) we reached consensus and we’re moving forward to using a websocket-star server as a centralised discovery server.
 - Before releasing Share Files we must [reach out to other IPFS file sharing services](https://github.com/ipfs-shipyard/ipfs-share-files/issues/52), being as starting a direct conversation or opening issues in their repos. This should be collaborative and educational for both parties.
