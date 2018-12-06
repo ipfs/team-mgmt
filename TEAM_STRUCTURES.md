@@ -12,12 +12,13 @@
     - [IPFS GUI](#ipfs-gui)
     - [IPFS Cluster](#ipfs-cluster)
     - [IPFS Infrastructure](#ipfs-infrastructure)
-  - [**Community**](#community)
   - **Efforts to Support Specific Uses:**
     - [Integration with Web Browsers](#integration-with-web-browsers)
     - [Dynamic Data and Capabilities](#dynamic-data-and-capabilities)
     - [Decentralized Data Stewardship](#decentralized-data-stewardship)
     - [Local Offline Collaboration](#local-offline-collaboration-locol)
+  - [**Project**](#project)
+  - [**Community**](#community)
 - [Existing **Research** Groups](#existing-research-groups)
 
 ## Description
@@ -53,32 +54,19 @@ A byproduct of both of these team structures achieves another important goal: ma
 
 ## Existing Working Groups
 
-- **[Project](#project)**
 - **Development and Maintenance:**
   - [JavaScript Core Dev](#javascript-core-dev)
   - [Golang Core Dev](#golang-core-dev)
   - [IPFS GUI](#ipfs-gui)
+  - [IPFS Cluster](#ipfs-cluster)
   - [IPFS Infrastructure](#ipfs-infrastructure)
-  - [Dev Team Enablement (QA, Testing, Support)](#qa-testing-and-dev-team-enablement)
-- **[Community](#community)**
 - **Efforts to Support Specific Uses:**
   - [Integration with Web Browsers](#integration-with-web-browsers)
   - [Dynamic Data and Capabilities](#dynamic-data-and-capabilities)
-  - [IPFS Cluster](#ipfs-cluster)
-
-### Project
-
-- **Coordination**: https://github.com/ipfs/project
-- **[David Dias](https://github.com/diasdavid): Captain, TPM**
-
-The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
-
-**Responsibilities include**:
-- Maintain the IPFS Project Roadmap and Vision.
-- Provide coaching to Working Groups to develop their own planning and goal-setting.
-- Facilitate communication and alignment accross the organization.
-- Research, develop and build new ways to help async teams coordinate at scale.
-- Recognize needs of the project and develop solutions to meet them.
+  - [Decentralized Data Stewardship](#decentralized-data-stewardship)
+  - [Local Offline Collaboration](#local-offline-collaboration-locol)
+- [**Project**](#project)
+- [**Community**](#community)
 
 ### JavaScript IPFS implementation
 
@@ -149,29 +137,6 @@ Tools and systems for the IPFS community.
 - Enable dev teams to run reliable, efficient tests and manage continuous deployment.
 - Configure automation for defined development policies like release cycles and code quality reporting.
 
-### Community
-
-- **Coordination**: https://github.com/ipfs/community
-- **[Mikeal Rogers](https://github.com/mikeal): Captain, TPM**
-
-Community outreach working group. Coordinates the communities around events, blog posts
-documentation, automation and education.
-
-- Evangelism (Events, Social Media)
-- Editorial (Blogs, Documentation)
-- Education (ProtoSchool, Demos)
-- Automation (Probots, etc)
-
-**Responsibilities include**:
-- Help community members organize meetups for their own communities.
-- Respond to requests for IPFS presence in conferences.
-- Facilitate community content for social media channels.
-- Publish regular updates to the community (blog posts and newsletters).
-- Create Tutorials and Workshops to teach concepts about IPFS and the Distributed Web in ProtoSchool.
-- Ensure that public forums (discuss.ipfs.io, irc, github, etc) have adequate moderation and responsive support.
-- Ensure that the code of conduct is followed and provide appropriate support or response when violations occur.
-- Author and improve documention.
-
 ### Integration with Web Browsers
 
 - **Coordination**: https://github.com/ipfs/in-web-browsers
@@ -229,6 +194,43 @@ User research, collaborations, and features to make the knowledge and tools on t
 - Conduct user research around offline and local-first use cases, communities, and best practices
 - Support collaborations between IPFS and community members who are building tools for peer-to-peer sharing and collaboration in local/offline networks
 - Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
+
+### Project
+
+- **Coordination**: https://github.com/ipfs/project
+- **[David Dias](https://github.com/diasdavid): Captain, TPM**
+
+The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
+
+**Responsibilities include**:
+- Maintain the IPFS Project Roadmap and Vision.
+- Provide coaching to Working Groups to develop their own planning and goal-setting.
+- Facilitate communication and alignment accross the organization.
+- Research, develop and build new ways to help async teams coordinate at scale.
+- Recognize needs of the project and develop solutions to meet them.
+
+### Community
+
+- **Coordination**: https://github.com/ipfs/community
+- **[Mikeal Rogers](https://github.com/mikeal): Captain, TPM**
+
+Community outreach working group. Coordinates the communities around events, blog posts
+documentation, automation and education.
+
+- Evangelism (Events, Social Media)
+- Editorial (Blogs, Documentation)
+- Education (ProtoSchool, Demos)
+- Automation (Probots, etc)
+
+**Responsibilities include**:
+- Help community members organize meetups for their own communities.
+- Respond to requests for IPFS presence in conferences.
+- Facilitate community content for social media channels.
+- Publish regular updates to the community (blog posts and newsletters).
+- Create Tutorials and Workshops to teach concepts about IPFS and the Distributed Web in ProtoSchool.
+- Ensure that public forums (discuss.ipfs.io, irc, github, etc) have adequate moderation and responsive support.
+- Ensure that the code of conduct is followed and provide appropriate support or response when violations occur.
+- Author and improve documention.
 
 ## Existing Research Groups
 
