@@ -71,6 +71,7 @@ A byproduct of both of these team structures achieves another important goal: ma
 ### JavaScript IPFS implementation
 
 - **Coordination**: https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_JS_CORE.md
 - **Email Contact**: js-ipfs-wg@ipfs.io
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
@@ -88,6 +89,7 @@ Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 ### Golang IPFS implementation
 
 - **Coordination**: https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GO_CORE.md
 - **Email Contact**: go-ipfs-wg@ipfs.io
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
@@ -103,6 +105,7 @@ Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 ### IPFS GUI
 
 - **Coordination**: https://github.com/ipfs/ipfs-gui
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
 - **Email Contact**: gui-wg@ipfs.io
 - **[Oli Evans](https://github.com/olizilla): Captain, TPM**
 
@@ -117,6 +120,7 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 ### IPFS Cluster
 
 - **Coordination**: https://github.com/ipfs/ipfs-cluster
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
 - **Email Contact**: cluster-wg@ipfs.io
 - **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
 
@@ -129,6 +133,7 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 ### IPFS Infrastructure
 
 - **Coordination**: http://github.com/ipfs/infra
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INFRASTRUCTURE.md
 - **Email Contact**: infra-wg@ipfs.io
 - **[Erin Fahy](https://github.com/eefahy): Captain, TPM**
 
@@ -146,6 +151,7 @@ Tools and systems for the IPFS community.
 ### Integration with Web Browsers
 
 - **Coordination**: https://github.com/ipfs/in-web-browsers
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INTEGRATION_IN_WEB_BROWSERS.md
 - **Email Contact**: wb-wg@ipfs.io
 - **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
 
@@ -164,6 +170,7 @@ The Integration with Web Browsers Working Group designs and implements browser i
 ### Dynamic Data and Capabilities
 
 - **Coordination**: http://github.com/ipfs/dynamic-data-and-capabilities
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DYNAMIC_DATA_AND_CAPABILITIES.md
 - **Email Contact**: ddc-wg@ipfs.io
 - **[Pedro Teixeira](https://github.com/pgte): Captain, TPM**
 
@@ -178,6 +185,7 @@ Research and development of building blocks that enable collaborative applicatio
 ### Decentralized Data Stewardship
 
 - **Coordination**: https://github.com/ipfs/decentralized-data-stewardship
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DECENTRALIZED_DATA_STEWARDSHIP.md
 - **Email Contact**: dds-wg@ipfs.io
 - **[Michelle Hertzfeld](https://github.com/meiqimichelle): Captain, TPM**
 
@@ -193,6 +201,7 @@ User research, collaborations, and products that support holding data together o
 ### Local Offline Collaboration (Locol)
 
 - **Coordination**: https://github.com/ipfs/local-offline-collab
+- **Roadmap**: 
 - **Email Contact**: locol-wg@ipfs.io
 - **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
 
@@ -208,6 +217,7 @@ User research, collaborations, and features to make the knowledge and tools on t
 ### Project
 
 - **Coordination**: https://github.com/ipfs/project
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_PROJECT.md
 - **Email Contact**: project-wg@ipfs.io
 - **[David Dias](https://github.com/diasdavid): Captain, TPM**
 
@@ -223,6 +233,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 ### Community
 
 - **Coordination**: https://github.com/ipfs/community
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_COMMUNITY.md
 - **Email Contact**: community-wg@ipfs.io
 - **[Mikeal Rogers](https://github.com/mikeal): Captain, TPM**
 
