@@ -9,7 +9,7 @@ More: https://github.com/ipfs/in-web-browsers
 ## 2019 Q1
 
 - [ipfs/in-web-browsers 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/#gid=755202447)
-- [Open Planning Thread](https://github.com/ipfs/in-web-browsers/issues/136)
+- [Open Planning Thread](https://github.com/ipfs/team-mgmt/pull/804)
 - [Previous Quarter Retrospective](https://docs.google.com/document/d/1gWL9hJ3qsP_K2joVuORGBziQeCFBh8gbtIFMyT-9mqc/)
 
 
