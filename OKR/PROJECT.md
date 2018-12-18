@@ -10,7 +10,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 - **Support and guide the IPFSConf planning and Content Curation**
   - `PX` - @daviddias - The IPFSConf is scheduled, announced and there is a CFP published   
   - `PX` - @??? - Working Groups have their goals established for IPFSConf    
-- **The IPFS Working Groups feel supported and they have the information they need to make the best decisions **
+- **The IPFS Working Groups feel supported and they have the information they need to make the best decisions**
   - `PX` - @??? - Ship the first IPFS User Quarterly Report. It documents achievements and demos of new capabilities
   - `PX` - @??? - We gather, process and present metrics for the IPFS Project    
   - `PX` - @??? - We grow the Project WG to have a team capable of answering to all IPFS Working Group needs.
