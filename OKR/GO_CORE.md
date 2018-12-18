@@ -7,25 +7,33 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 ### Data transfer is fast and efficient
 * It takes less than 48 hours to transfer 1TB dataset over Fast Ethernet (100Mbps)
 * Bitswap refactor + improvements reduce number of duplicate blocks downloaded by 75%
- 
+* Transfers of sparsely provided data are roughly as efficient as fully provided content
+
 ### Adding and providing large data sets works efficiently
 * Create Provider Strategies system that is solely responsible for providing
-* Implement provider strategy such that a user can add (and provide) npm or tr-wikipedia without turning off providing and without significantly impacting finding content 
+* Implement provider strategy such that a user can add (and provide) npm or tr-wikipedia without turning off providing and without significantly impacting finding content
 
 ### Datastore works efficiently for large data sets
-* Final go/no-go decision on Badger (full design comparison vs other options + final decision)
+* Complete development of benchmarks to test speed and reliability across a wide range of datastore sizes 
+* A new datastore implementation, suitable for very large data volumes, is adopted as default in go-ipfs
  
 ### go-ipfs becomes a well maintained project
 * Every non-trivial PR is first reviewed by someone other than @Stebalien.
 * A work-tracking process is adopted that allows the team to easily track the highest priority unclaimed issues, see the status of in progress work, and know which PRs need review, easily. 
+
+### go-ipfs is easy to integrate 
+* A new flexible and performant RPC API is designed 
  
-### gx becomes a beloved tool by the Go Core Contributors Travis are you still working on this?
+### gx becomes a beloved tool by the Go Core Contributors
+// Topic under intense discussion!
+* Find a full-time developer for gx!
 * go-ipfs doesn't have checked-in gx paths
  
 ### Complete outstanding endeavours that are still high priorities from Q3
-* base32 is supported and enabled by default !
+* base32 is supported and enabled by default
+* CoreAPI refactor is completed
 
-## 2018 Q4
+## 2018 Q4certifi
 
 - [go-ipfs 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=1720716278)
 - [Open Planning Thread](https://github.com/ipfs/go-ipfs/pull/5474)
