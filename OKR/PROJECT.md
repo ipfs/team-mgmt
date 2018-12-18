@@ -17,11 +17,11 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
   - `PX` - @??? - Working group roadmaps are solidified, presented, and used to chart Q1 and Q2 planning
 - **The Working Groups are widely known in the IPFS Community and easy to get onboarded to**
   - `PX` - @??? - The Working Groups are listed on the IPFS Website (ref: ipfs/project#14)
-  - `PX` - @??? - We successfully improve the onboarding experience which translates to seeing 3+ new contributors engaged per Working Group until the end of the Quarter         
+  - `PX` - @??? - Improve the onboarding experience successfully, which translates to seeing 3+ new contributors engaged per Working Group until the end of the Quarter         
 - **The IPFS Projects have assigned maintainers, are well documented and users have good resources to rely on**
   - `PX` - @??? - Expand the Lead Maintainer Protocol to become the Maintainer Protocol for the entire organization
   - `PX` - @??? - Reboot the IPFS Specifications repo and create a coordinated effort to write and maintain the specifications
-  - `PX` - @??? - Convert our Contributing Guidelines and Team Management Tools and Practices into the InterPlanetary Community Handbook
+  - `PX` - @??? - Convert our Contributing Guidelines and Team Management Tools and Practices into the first edition of the InterPlanetary Community Handbook
   
 ## 2018 Q4
 
