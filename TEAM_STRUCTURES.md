@@ -7,8 +7,8 @@
   - [Expanded description](#expanded-description)
 - [Existing **Working** Groups](#existing-working-groups)
   - **Development and Maintenance:**
-    - [JavaScript Core Dev](#javascript-core-dev)
-    - [Golang Core Dev](#golang-core-dev)
+    - [JavaScript Core Dev](#javascript-ipfs-implementation)
+    - [Golang Core Dev](#golang-ipfs-implementation)
     - [IPFS GUI](#ipfs-gui)
     - [IPFS Cluster](#ipfs-cluster)
     - [IPFS Infrastructure](#ipfs-infrastructure)
@@ -55,8 +55,8 @@ A byproduct of both of these team structures achieves another important goal: ma
 ## Existing Working Groups
 
 - **Development and Maintenance:**
-  - [JavaScript Core Dev](#javascript-core-dev)
-  - [Golang Core Dev](#golang-core-dev)
+  - [JavaScript Core Dev](#javascript-ipfs-implementation)
+  - [Golang Core Dev](#golang-ipfs-implementation)
   - [IPFS GUI](#ipfs-gui)
   - [IPFS Cluster](#ipfs-cluster)
   - [IPFS Infrastructure](#ipfs-infrastructure)
@@ -75,7 +75,6 @@ A byproduct of both of these team structures achieves another important goal: ma
 - **Email Contact**: js-ipfs-wg@ipfs.io
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
-
 
 Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
