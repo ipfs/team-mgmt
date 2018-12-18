@@ -12,7 +12,8 @@
 - [How We Work](#how-we-work)
 - [Teams](TEAM_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
-  - [OKR (Objectives & Key Results)](OKR)
+  - [Project & Working Groups Roadmaps](#project--working-groups-roadmaps)
+  - [OKR (Objectives & Key Results)](#okrs)
   - [Repo Activity](#repo-activity)
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
@@ -33,8 +34,8 @@
 
 IPFS leverages several related projects which have their own planning:
 
- - [IPLD](https://github.com/ipld/team-mgmt)
- - [libp2p](https://github.com/libp2p/team-mgmt)
+- [IPLD](https://github.com/ipld/team-mgmt)
+- [libp2p](https://github.com/libp2p/team-mgmt)
 
 ## How We Work
 
@@ -55,9 +56,13 @@ A few of our teams have a structured (documented) way on how they track work tha
 - [MGMT_JS_CORE_DEV](MGMT_JS_CORE_DEV.md)
 - [MGMT_GOLANG_CORE_DEV](MGMT_GOLANG_CORE_DEV.md)
 
+### Project & Working Groups Roadmaps
+
+The IPFS Project & Working Groups Roadmaps serve as the north star for our quarterly planning process and org alignment. You can read these at https://github.com/ipfs/roadmap
+
 ### OKRs
 
-Learn how the [IPFS Org uses OKRs to track quarterly process here](https://github.com/ipfs/team-mgmt/tree/master/OKR#objectives--key-results).
+Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
 ### Repo Activity
 
