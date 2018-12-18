@@ -21,6 +21,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 - **The IPFS Projects have assigned maintainers, are well documented and users have good resources to rely on**
   - `PX` - @??? - Expand the Lead Maintainer Protocol to become the Maintainer Protocol for the entire organization
   - `PX` - @??? - Reboot the IPFS Specifications repo and create a coordinated effort to write and maintain the specifications
+  - `PX` - @??? - Convert our Contributing Guidelines and Team Management Tools and Practices into the InterPlanetary Community Handbook
   
 ## 2018 Q4
 
