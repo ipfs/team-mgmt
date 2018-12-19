@@ -34,7 +34,6 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 * go-ipfs developers are no longer adversly affected by gx
 
 ### Complete outstanding endeavours that are still high priorities
-* base32 is supported and enabled by default
 * New fuse mount implementation replaces the existing one
 * Add mutable methods (r+w) to the new mount implementation and get it building+tested on all supported platforms
 
