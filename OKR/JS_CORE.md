@@ -10,21 +10,18 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 * p0 - IPNS has a streaming API [@vasco-santos](https://github.com/vasco-santos)
 * p1 - IPNS supports `ttl`, `dhtt` and `dhtrc` parameters and republish configurations [@vasco-santos](https://github.com/vasco-santos)
 * p1 - A repo migration tool exists and JS IPFS can automatically upgrade older repos [@achingbrain](https://github.com/achingbrain)
+* p2 - Vital missing APIs are implemented i.e. `/dag/put`, `/dag/resolve`, `/repo/gc`, `/refs` and `/swarm/filters/*` [@achingbrain](https://github.com/achingbrain)
 
 ### Used in production
 
 * p0 - A JS IPFS daemon is one (or more!) of the IPFS gateway nodes [@alanshaw](https://github.com/alanshaw)
 * p2 - Perf benchmarking site is launched and 10 different benchmarking scenarios exist [@alanshaw](https://github.com/alanshaw)
+* p0 - IPFS is a transport for [npm/tink](https://github.com/npm/tink) [@achingbrain](https://github.com/achingbrain)
 
 ### Inviting for developers and contributors
 
 * p1 - Continuous deployment drives `js-ipfs-unixfs-*` and `js-ipfs-mfs` [@achingbrain](https://github.com/achingbrain)
 * p1 - Core APIs are refactored to use async await/iterators; at least half the repos in scope have a proposal/PR [@alanshaw](https://github.com/alanshaw)
-
-### Underpins the most popular package managers
-
-* p0 - IPFS is a transport for [npm/tink](https://github.com/npm/tink) [@achingbrain](https://github.com/achingbrain)
-* p2 - [Homebrew](https://brew.sh/) is available on IPFS [@achingbrain](https://github.com/achingbrain)
 
 ## 2018 Q4
 
