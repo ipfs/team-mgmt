@@ -15,7 +15,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
   - `PX` - @??? - We gather, process and present metrics for the IPFS Project    
   - `PX` - @??? - We grow the Project WG to have a team capable of answering to all IPFS Working Group needs.
   - `PX` - @??? - Working group roadmaps are solidified, presented, and used to chart Q1 and Q2 planning
-- **The Working Groups are widely known in the IPFS Community and easy to get onboarded to**
+- **The IPFS Community is supportive, responsive, and easy to get onboarded to**
   - `PX` - @??? - The Working Groups are listed on the IPFS Website (ref: ipfs/project#14)
   - `PX` - @??? - Improve the onboarding experience successfully, which translates to seeing 3+ new contributors engaged per Working Group until the end of the Quarter         
 - **The IPFS Projects have assigned maintainers, are well documented and users have good resources to rely on**
