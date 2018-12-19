@@ -6,11 +6,10 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 - **The IPFS Org gets a fully dedicated Package Managers Working Group**
   - `P0` - @daviddias - A Package Manager Working Group Roadmap is created
-  - `PX` - @??? - Onboard 2+ contributors to this Working Group       
+  - `P0` - @??? - Onboard 2+ contributors to this Working Group       
 - **Support and guide the IPFSConf planning and Content Curation**
   - `P0` - @daviddias - The IPFSConf is scheduled, announced and there is a CFP published.
-  - `PX` - @momack2 - Working Groups have their goals established for IPFSConf
-  - `PX` - @momack2 - The IPFS Org (Working Groups & Core Contributors) has a unified plan with goals for IPFSConf
+  - `P0` - @momack2 - The IPFS Org (Working Groups & Core Contributors) has a unified plan with goals for IPFSConf
 - **The IPFS Working Groups feel supported and they have the information they need to make the best decisions**
   - `P1` - @parkan - Ship the first IPFS User Quarterly Report. It documents achievements and demos of new capabilities
   - `P0` - @mikeal - We gather, process and present metrics for the IPFS Project    
