@@ -8,24 +8,23 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
   - `P0` - @daviddias - A Package Manager Working Group Roadmap is created
   - `PX` - @??? - Onboard 2+ contributors to this Working Group       
 - **Support and guide the IPFSConf planning and Content Curation**
-  - `PX` - @daviddias - The IPFSConf is scheduled, announced and there is a CFP published   
-  - `PX` - @??? - Working Groups have their goals established for IPFSConf    
+  - `P0` - @daviddias - The IPFSConf is scheduled, announced and there is a CFP published.
+  - `PX` - @??? - Working Groups have their goals established for IPFSConf
+  - `PX` - @??? - The IPFS Org (Working Groups & Core Contributors) has a unified plan with goals for IPFSConf
 - **The IPFS Working Groups feel supported and they have the information they need to make the best decisions**
   - `P1` - @parkan - Ship the first IPFS User Quarterly Report. It documents achievements and demos of new capabilities
-  - `PX` - @??? - We gather, process and present metrics for the IPFS Project    
-  - `PX` - @??? - We grow the Project WG to have a team capable of answering to all IPFS Working Group needs.
-  - `PX` - @??? - Working group roadmaps are solidified, presented, and used to chart Q1 and Q2 planning
+  - `P0` - @??? - We gather, process and present metrics for the IPFS Project    
+  - `P1` - @??? - Working group roadmaps are solidified, presented, and used to chart Q1 and Q2 planning
 - **The IPFS Community is supportive, responsive, and easy to get onboarded to**
   - `P1` - @daviddias - The Working Groups are listed on the IPFS Website (ref: ipfs/project#14)
-  - `PX` - @??? - Improve the onboarding experience successfully, which translates to seeing 3+ new contributors engaged per Working Group until the end of the Quarter   
+  - `P1` - @??? - Improve the onboarding experience successfully, which translates to seeing 3+ new contributors engaged per Working Group until the end of the Quarter   
   - `P1` - @parkan - Biweekly updates published to IPFS working groups highlighting patterns in top developer needs
   - `P2` - @parkan - Ship strategy document outlining tooling, pipeline, and management for collabs with the IPFS Project  
   - `P2` - @parkan - 10 collab engagements result in valuable output for the wider community (feature, blog post, collaborative meeting, bug fix, etc)  
   - `P0` - @parkan - There are zero dropped/mishandled collabs  
 - **The IPFS Projects have assigned maintainers, are well documented and users have good resources to rely on**
-  - `PX` - @??? - Expand the Lead Maintainer Protocol to become the Maintainer Protocol for the entire organization
-  - `PX` - @??? - Reboot the IPFS Specifications repo and create a coordinated effort to write and maintain the specifications
-  - `PX` - @??? - Convert our Contributing Guidelines and Team Management Tools and Practices into the first edition of the InterPlanetary Community Handbook
+  - `P0` - @daviddias - Reboot the IPFS Specifications repo and create a coordinated effort to write and maintain the specifications
+  - `P1` - @daviddias - Expand the Lead Maintainer Protocol to become the Maintainer Protocol for the entire organization
   
 ## 2018 Q4
 
