@@ -15,8 +15,9 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 ### Used in production
 
 * p0 - A JS IPFS daemon is one (or more!) of the IPFS gateway nodes [@alanshaw](https://github.com/alanshaw)
-* p2 - Perf benchmarking site is launched and 10 different benchmarking scenarios exist [@alanshaw](https://github.com/alanshaw)
 * p0 - IPFS is a transport for [npm/tink](https://github.com/npm/tink) [@achingbrain](https://github.com/achingbrain)
+* p2 - Perf benchmarking site is launched and 10 different benchmarking scenarios exist [@alanshaw](https://github.com/alanshaw)
+* p1 - JS IPFS can find (Peer Routing) any peer and dial to it (direct or relay) if the peer is online [@alanshaw](https://github.com/alanshaw)
 
 ### Inviting for developers and contributors
 
