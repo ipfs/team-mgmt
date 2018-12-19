@@ -12,6 +12,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 ### Adding and providing large data sets works efficiently
 * Create Provider Strategies system that is solely responsible for providing
 * Implement provider strategy such that a user can add (and provide) npm or tr-wikipedia without turning off providing and without significantly impacting finding content
+* Providing does not negatively impact go-ipfs's performance when fetching content.
 
 ### Datastore works efficiently for large data sets
 * Complete development of benchmarks to test speed and reliability across a wide range of datastore sizes 
@@ -19,19 +20,23 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
  
 ### go-ipfs becomes a well maintained project
 * Every non-trivial PR is first reviewed by someone other than @Stebalien.
-* A work-tracking process is adopted that allows the team to easily track the highest priority unclaimed issues, see the status of in progress work, and know which PRs need review, easily. 
+* A work-tracking process is adopted that allows the team to easily track the highest priority unclaimed issues, see the status of in progress work, and know which PRs need review, easily.
+* Every file with a non-trivial change gets fully documented. (!)
 
-### go-ipfs is easy to integrate 
-* A new flexible and performant RPC API is designed 
- 
-### gx becomes a beloved tool by the Go Core Contributors
-// Topic under intense discussion!
-* Find a full-time developer for gx!
-* go-ipfs doesn't have checked-in gx paths
- 
-### Complete outstanding endeavours that are still high priorities from Q3
+### go-ipfs is easy to integrate with
+* Extract CoreAPI interface from go-ipfs
+* Implement CoreAPI HTTP API
+* A new flexible and performant RPC API is designed
 * base32 is supported and enabled by default
-* CoreAPI refactor is completed
+* Refactored IPFS constructor
+ 
+### Optimize developer velocity
+* go-ipfs developers are no longer adversly affected by gx
+
+### Complete outstanding endeavours that are still high priorities
+* base32 is supported and enabled by default
+* New fuse mount implementation replaces the existing one
+* Add mutable methods (r+w) to the new mount implementation and get it building+tested on all supported platforms
 
 ## 2018 Q4certifi
 
