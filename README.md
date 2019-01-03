@@ -64,6 +64,32 @@ The IPFS Project & Working Groups Roadmaps serve as the north star for our quart
 
 Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
+### Kanban
+
+We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool. Here is a list of the Kanbans that are currently active:
+
+- __Working Groups__
+  - _Development and Maintenance_
+    - [JS Core](https://waffle.io/ipfs/js-ipfs)
+    - [Go Core](https://waffle.io/ipfs/go-ipfs)
+    - [GUI](https://waffle.io/ipfs/ipfs-gui)
+    - [Cluster](https://waffle.io/ipfs/ipfs-cluster)
+    - [Infrastructure](https://waffle.io/ipfs/infra)
+  - _Efforts to Support Specific Uses_
+    - [In Web Browsers](https://waffle.io/ipfs/in-web-browsers)
+    - [Dynamic Data & Capabilities](https://waffle.io/ipfs/dynamic-data-and-capabilities)
+    - Decentralized Data Stewardship (n/a)
+    - Local Offline Collaboration (n/a)
+  - Community (n/a)
+  - [Project](https://waffle.io/ipfs/project)
+- __Kanbans specific to Projects__
+  - [Identity Manager](https://waffle.io/ipfs-shipyard/pm-idm)
+  - [Discussify](https://waffle.io/ipfs-shipyard/pm-discussify)
+  - [Aegir](https://waffle.io/ipfs/aegir)
+  - [Archives](https://waffle.io/ipfs/archives)
+  - [IPFS Blog](https://waffle.io/ipfs/blog)
+- [Kanban with every repo](https://waffle.io/ipfs/ipfs) (caution, it takes a bit to load)
+
 ### Repo Activity
 
 [![Throughput Graph](https://graphs.waffle.io/ipfs/ipfs/throughput.svg)](https://waffle.io/ipfs/ipfs/metrics/throughput)
