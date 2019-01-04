@@ -24,6 +24,7 @@
   - [Working Hours](#working-hours)
   - [Timezone: UTC](#timezone-utc)
 - [Tools](#tools)
+  - [Lead Maintainer Protocol](LEAD_MAINTAINER_PROTOCOL.md)
   - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
   - [How to create a Roadmap](ROADMAP_HOW_TO.md)
   - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
@@ -63,7 +64,7 @@ Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
 ### Kanban
 
-We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool.
+We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool. You can read how we have adopted at [Kanban](KANBAN.md).
 
 Here is a list of the Kanbans that are currently active:
 
@@ -166,6 +167,7 @@ All of our times are set according to the **UTC** timezone (or should be). This 
 ## Tools
 
 Tools living in their own documents:
+- [Lead Maintainer Protocol](LEAD_MAINTAINER_PROTOCOL.md)
 - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
 - [How to create a Roadmap](ROADMAP_HOW_TO.md)
 - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
