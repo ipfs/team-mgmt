@@ -48,7 +48,7 @@ You might hear these terms "Working Group Roadmap", "Project Roadmap", "OKRs", "
 
 ![](img/ipfs-org-planning-one-picture.jpeg)
 
-If you are new around here, the best layer to get onboarded is to focus on the "Day to Day Operations", as they will lead you into meeting the Working Groups, known what is their top priorities for the week and identify more quickly places where you can contribute. Later, you can go through all the Quarter OKRs and Yearly Planning so that you understand fully the decisions you see being made.
+**If you are new around here, the best layer to get onboarded is to focus on the "Day to Day Operations", as they will lead you into meeting the Working Groups, known what is their top priorities for the week and identify more quickly places where you can contribute**. Later, you can go through all the Quarter OKRs and Yearly Planning so that you understand fully the decisions you see being made.
 
 You can also learn more about operating in a Distributed Teams at our [`Distributed Teams` Document, containing resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md). We have been gathering, reviewing, discussing and experimenting with many overtime and will continue to do so as we find new needs.
 
