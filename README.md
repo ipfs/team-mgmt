@@ -22,6 +22,7 @@
   - [Calendar](#calendar)
   - [IRC](#IRC)
   - [Working Hours](#working-hours)
+  - [Timezone: UTC](#timezone-utc)
 - [Tools](#tools)
   - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
   - [How to create a Roadmap](ROADMAP_HOW_TO.md)
@@ -127,10 +128,6 @@ If you are hosting a call for the first time or interested in learning how to do
 
 You can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
 
-## Timezone: `UTC`
-
-All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
-
 ### IRC
 
 We hangout on IRC for lots of Dev Chat. You can find us on Freenode on the following channels:
@@ -161,6 +158,10 @@ As the IPFS team is all over the world, we've picked a set of "working hours" du
 ```
 
 We aim to be available during these hours. Your mileage may vary.
+
+## Timezone: `UTC`
+
+All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
 ## Tools
 
