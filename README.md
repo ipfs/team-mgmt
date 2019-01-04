@@ -44,6 +44,10 @@ IPFS leverages several related projects which have their own planning:
 
 We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Roadmapping and [OKRs](OKR).
 
+In one picture, our Planning Processes and cadence look like the following:
+
+![](img/ipfs-org-planning-one-picture.jpeg)
+
 You can find a list of [`Distributed Teams` resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md), that we have been gathering, reviewing, discussing and experimenting.
 
 ## Teams
