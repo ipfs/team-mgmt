@@ -45,6 +45,10 @@ We use a loose agile approach. We deliberately designed a Org wide process that 
 
 You can find a list of [`Distributed Teams` resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md), that we have been gathering, reviewing, discussing and experimenting.
 
+## Teams
+
+Meet the current Working and Research Groups at the [TEAM_STRUCTURES](TEAM_STRUCTURES.md) document.
+
 ## Asynchronous Communication
 
 As an organization that operates at a planetary scale with multiple people from different timezones and schedules, we value tremendously the benefits of Asynchronous Communication. The art of writting things down for future selfs or future contributors is one of the key reasons that enables [so many contributors](https://github.com/ipfs/contributors-hex-grid#big-grid) to participate in the large endeavour of Distributing the Web with the IPFS Project.
