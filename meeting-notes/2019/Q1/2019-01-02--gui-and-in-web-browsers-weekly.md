@@ -8,6 +8,7 @@
     -   _@jimpick_
     -   _@olizilla_
     -   _@hacdias_
+    -   _@alanshaw_
 
   
 
@@ -74,6 +75,7 @@ _General discussions, decisions, etc._
     -   Holidays
 -   Blocked:
     -   JS IPFS 0.34 release blocked on stack overflow issues with latest libp2p
+        -   https://github.com/libp2p/js-libp2p-switch/issues/287
 -   Next:
     -   Cool stuff coming to a JS IPFS near you:
         -   Way smaller bundle is coming <https://github.com/ipfs/js-ipfs/pull/1795> minified+gzip >50% smaller!
