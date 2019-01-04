@@ -4,29 +4,29 @@
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](https://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 
-**tl:dr:** We have a **weekly, all-hands call** on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
+**tl:dr:** We have a **weekly call** on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
 
 ## Repo Index
 
 - [Related Projects](#related-projects)
-- [How We Work](#how-we-work)
+- [How We Work Together](#how-we-work-together)
 - [Teams](TEAM_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
   - [Project & Working Groups Roadmaps](#project--working-groups-roadmaps)
   - [OKR (Objectives & Key Results)](#okrs)
+  - [Kanban](#kanban)
   - [Repo Activity](#repo-activity)
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
+  - [Calendar](#calendar)
   - [IRC](#IRC)
   - [Working Hours](#working-hours)
 - [Tools](#tools)
-  - [Zoom](#zoom)
-  - [Calendar](#calendar)
   - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
   - [How to create a Roadmap](ROADMAP_HOW_TO.md)
   - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
-- [Timezone: UTC](#timezone-utc)
+  - [Zoom](#zoom)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -37,9 +37,9 @@ IPFS leverages several related projects which have their own planning:
 - [IPLD](https://github.com/ipld/team-mgmt)
 - [libp2p](https://github.com/libp2p/team-mgmt)
 
-## How We Work
+## How We Work Together
 
-We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Roadmapping and [OKRs](OKR)
+We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Roadmapping and [OKRs](OKR).
 
 You can find a list of [`Distributed Teams` resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md), that we have been gathering, reviewing, discussing and experimenting.
 
@@ -52,10 +52,6 @@ Some golden recommendations:
 - If you find documentation missing, treat it as a bug. Once you get your answer, contribute it so that it benefits others
 - Use synchronous time wisely (only if needed), convert any output into an artifact that can be used by others (avoid Tribal Knowledge)
 
-A few of our teams have a structured (documented) way on how they track work that you can consult and take inspiration from:
-- [MGMT_JS_CORE_DEV](MGMT_JS_CORE_DEV.md)
-- [MGMT_GOLANG_CORE_DEV](MGMT_GOLANG_CORE_DEV.md)
-
 ### Project & Working Groups Roadmaps
 
 The IPFS Project & Working Groups Roadmaps serve as the north star for our quarterly planning process and org alignment. You can read these at https://github.com/ipfs/roadmap
@@ -66,7 +62,9 @@ Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
 ### Kanban
 
-We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool. Here is a list of the Kanbans that are currently active:
+We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool.
+
+Here is a list of the Kanbans that are currently active:
 
 - __Working Groups__
   - _Development and Maintenance_
@@ -94,7 +92,7 @@ We use a Kanban style of tracking accross our multiple repos using the [Waffle B
 
 [![Throughput Graph](https://graphs.waffle.io/ipfs/ipfs/throughput.svg)](https://waffle.io/ipfs/ipfs/metrics/throughput)
 
-Processing all the IPFS activity can be a daunting task, there is simply too much happening (which is great!). To make it simpler (and bareable), we recommend trying [Octobox](https://octobox.io/).
+Processing all the IPFS activity can be a daunting task, there is simply too much happening (which is great!). To make it simpler (and bareable), we recommend trying using the Waffle Boards directly or [Octobox](https://octobox.io/).
 
 ## Synchronous Communication
 
@@ -124,6 +122,14 @@ If you are hosting a call for the first time or interested in learning how to do
 - [`Dynamic Data & Capabilities`](https://github.com/ipfs/dynamic-data-and-capabilities/blob/master/README.md#bi-weekly-sync)
 - [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
 - [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
+
+### Calendar
+
+You can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
+
+## Timezone: `UTC`
+
+All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
 ### IRC
 
@@ -158,19 +164,16 @@ We aim to be available during these hours. Your mileage may vary.
 
 ## Tools
 
+Tools living in their own documents:
+- [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
+- [How to create a Roadmap](ROADMAP_HOW_TO.md)
+- [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
+
 ### Zoom
 
 We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
 **Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tilling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
-
-### Calendar
-
-You can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
-
-## Timezone: `UTC`
-
-All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
 ## Contribute
 
