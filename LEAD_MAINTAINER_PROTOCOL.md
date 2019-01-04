@@ -2,7 +2,7 @@
 
 > This section is a formalization of the proposal and discussion around the [Module Lead Maintainers - Sharing the Responsibility over the IPFS module base](https://github.com/ipfs/pm/issues/600) proposal.
 
-**Currently, this Protocol is only being executed by the JS ecosystem of the IPFS Project.
+**Currently, this Protocol is only being executed by the JS ecosystem of the IPFS Project.**
 
 We have two types of leads in the JavaScript project ecosystems, the Tech Lead and the Module Lead Maintainer. A brief description of both roles is:
 
