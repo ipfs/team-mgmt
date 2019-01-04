@@ -23,8 +23,9 @@
   - [IRC](#IRC)
   - [Working Hours](#working-hours)
   - [Timezone: UTC](#timezone-utc)
-- [Tools](#tools)
+- [Tools & Tutorials](#tools--tutorials)
   - [Lead Maintainer Protocol](LEAD_MAINTAINER_PROTOCOL.md)
+  - [Host a Call](HOST_A_CALL.md)
   - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
   - [How to create a Roadmap](ROADMAP_HOW_TO.md)
   - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
@@ -168,10 +169,11 @@ We aim to be available during these hours. Your mileage may vary.
 
 All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
 
-## Tools
+## Tools & Tutorials
 
 Tools living in their own documents:
 - [Lead Maintainer Protocol](LEAD_MAINTAINER_PROTOCOL.md)
+- [Host a Call](HOST_A_CALL.md)
 - [Coordination Toolkit](TEAM_COORDINATION_TOOLKIT.md)
 - [How to create a Roadmap](ROADMAP_HOW_TO.md)
 - [Resources for Distributed Teams](DISTRIBUTED_TEAMS.md)
