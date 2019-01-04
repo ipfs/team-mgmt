@@ -42,13 +42,15 @@ IPFS leverages several related projects which have their own planning:
 
 ## How We Work Together
 
-We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Roadmapping and [OKRs](OKR).
+We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Project Wide Roadmapping and [OKRs](OKR).
 
-In one picture, our Planning Processes and cadence look like the following:
+You might hear these terms "Working Group Roadmap", "Project Roadmap", "OKRs", "Metrics" and so on be thrown around often. If you are puzzled in how these all fit together and what is the best resource to look at, we've created the following diagram to illustrate how all of these fit together for the IPFS org.
 
 ![](img/ipfs-org-planning-one-picture.jpeg)
 
-You can find a list of [`Distributed Teams` resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md), that we have been gathering, reviewing, discussing and experimenting.
+If you are new around here, the best layer to get onboarded is to focus on the "Day to Day Operations", as they will lead you into meeting the Working Groups, known what is their top priorities for the week and identify more quickly places where you can contribute. Later, you can go through all the Quarter OKRs and Yearly Planning so that you understand fully the decisions you see being made.
+
+You can also learn more about operating in a Distributed Teams at our [`Distributed Teams` Document, containing resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md). We have been gathering, reviewing, discussing and experimenting with many overtime and will continue to do so as we find new needs.
 
 ## Teams
 
