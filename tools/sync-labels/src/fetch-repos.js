@@ -12,8 +12,9 @@ const GH_TOKEN = process.env.GITHUB_AUTH_TOKEN
 
 const fetch = require('node-fetch')
 const fs = require('fs')
+const path = require('path')
 const perPage = 100
-const orgs = require('./orgs.json')
+const orgs = require('../orgs.json')
 
 const fetchResults = (org, total = [], page = 1) => new Promise((resolve, reject) => {
   console.log(`total fetched so far for ${org}`, total.length)
@@ -35,24 +36,23 @@ const fetchResults = (org, total = [], page = 1) => new Promise((resolve, reject
     }).catch(reject)
 })
 
-let current = 0
-let allRepos = []
-
-const done = () => {
+const writeRepos = function (allRepos) {
   console.log('Total number of repositories', allRepos.length)
   const repos = allRepos.map(r => r.full_name)
 
-  fs.writeFileSync('./repos.json', JSON.stringify(repos, null, 2)
-  )
+  fs.writeFileSync(path.resolve('out/repos.json'), JSON.stringify(repos, null, 2))
 }
+
+let current = 0
+let allRepos = []
 
 orgs.forEach((org) => {
   fetchResults(org).then((res) => {
     console.log(`total received from ${org}`, res.length)
     allRepos = allRepos.concat(res)
-    current = current + 1
+    current++
     if (current === orgs.length) {
-      done()
+      writeRepos(allRepos)
     }
   })
 })
