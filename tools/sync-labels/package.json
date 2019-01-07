@@ -1,19 +1,19 @@
 {
-  "name": "sync-tool-labels",
+  "name": "sync-labels",
   "version": "1.0.0",
-  "description": "Sync",
-  "main": "config.js",
+  "description": "Sync labels accross many orgs",
   "scripts": {
-    "start": "npm run generate-list && npm run set-labels",
-    "generate-list": "node generate-repository-list.js",
-    "set-labels": "github-sync-labels-milestones -t $GITHUB_AUTH_TOKEN -c config.json --verbose",
+    "start": "npm run fetch-repos && npm run create-config && npm run sync-labels",
+    "fetch-repos": "node ./src/fetch-repos.js",
+    "create-config": "node ./src/create-config.js",
+    "sync-labels": "github-sync-labels-milestones -t $GITHUB_AUTH_TOKEN -c out/config.json --verbose",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "github-sync-labels-milestones": "^0.3.1",
+    "github-sync-labels-milestones": "~0.3.1",
     "node-fetch": "^1.7.3"
   }
 }
