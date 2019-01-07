@@ -1,14 +1,7 @@
-## Tool for syncing labels
+# Tool for syncing labels
 
-Syncs:
 
-- libp2p
-- ipld
-- ipfs
-- multiformats
-- ipfs-shipyard
-
-# Usage
+## Usage
 
 - Have a (GitHub auth token setup)[https://github.com/settings/tokens/new] with
   `repo` access

@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "github-sync-labels-milestones": "^0.3.1",
+    "github-sync-labels-milestones": "~0.3.1",
     "node-fetch": "^1.7.3"
   }
 }
