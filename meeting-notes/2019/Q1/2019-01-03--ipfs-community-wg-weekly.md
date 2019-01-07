@@ -1,5 +1,7 @@
 # IPFS Community Working Group Weekly Sync 2019-01-03
 
+View the recording of this call at: https://youtu.be/RKl0oUTCEWI
+
 -   **Moderator:** @terichadbourne
 -   **Notetaker:** @pkafei
 -   **Attendees:**
