@@ -21,8 +21,10 @@
     -   _@terichadbourne_
     -   _@mgoelzer_
 
-  
-**Main Topic:**Actyx: A case study of how one company uses IPFS in their stack.
+**Video:**  
+https://youtu.be/9sWKOaBHHOM  
+
+**Main Topic:** Actyx: A case study of how one company uses IPFS in their stack.
 
 **Presenter:** Rüdiger Klaehn
 
