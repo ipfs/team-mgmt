@@ -91,7 +91,7 @@ Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GO_CORE.md
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
-- WG Repos Badge - Badge n/a yet
+- WG Repos Badge - [![](https://img.shields.io/badge/WG-GO%20CORE-%23375eab.svg?style=flat-square)](https://github.com/ipfs/go-ipfs)
 
 Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 
@@ -202,7 +202,8 @@ User research, collaborations, and products that support holding data together o
 - **Coordination**: https://github.com/ipfs/local-offline-collab
 - **Roadmap**: TBD
 - **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
+- WG Repos Badge - [![](https://img.shields.io/badge/WG-Locol-%2340e0d0.svg?style=flat-square)](https://github.com/ipfs/local-offline-collab)
+
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
 
