@@ -136,6 +136,8 @@
     - vacation!
     - email catch up
     - unblocking daemon progress
+      - discussing/approving restructing the daemon to better support autorelay [here](https://github.com/libp2p/go-libp2p-daemon/pull/46)
+      - first review of native binding and JNI support [here](https://github.com/libp2p/go-libp2p-daemon/pull/54)
   - Next:
     - testing framework & code review
    
