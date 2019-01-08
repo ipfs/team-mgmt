@@ -83,7 +83,7 @@
 - Next:
   - Merge remaining bundle size PRs
   - Add bundle size cmd to aegir
-  - Finish Error codes proposal
+  - Finish Error codes proposal [js-ipfs#1746](https://github.com/ipfs/js-ipfs/pull/1746)
 
 @mcollina
 - done:
