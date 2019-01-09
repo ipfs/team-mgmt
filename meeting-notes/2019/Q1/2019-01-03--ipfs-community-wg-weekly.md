@@ -55,8 +55,12 @@ View the recording of this call at: https://youtu.be/RKl0oUTCEWI
 -   Done:
     -   ProtoSchool lessons can take file uploads (see WIP PR at: https&#x3A;//github.com/ProtoSchool/protoschool.github.io/pull/111 )
 -   Next:
-    -   Metrics, Metrics, Metrics!@jimpick-   Done:
-    -   Peer Pad-   Next:
+    -   Metrics, Metrics, Metrics!
+    
+@jimpick
+-   Done:
+    -   Peer Pad
+-   Next:
     -   Working on getting Peer Pad into ProtoSchool (longer term goal)
 
   @NukeManDan
