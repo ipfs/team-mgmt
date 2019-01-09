@@ -35,7 +35,7 @@
 
 ## Related Projects
 
-IPFS leverages several related projects which have their own planning:
+IPFS leverages several related projects that each have their own planning:
 
 - [IPLD](https://github.com/ipld/team-mgmt)
 - [libp2p](https://github.com/libp2p/team-mgmt)
@@ -48,9 +48,9 @@ You might hear these terms "Working Group Roadmap", "Project Roadmap", "OKRs", "
 
 ![](img/ipfs-org-planning-one-picture.jpeg)
 
-**If you are new around here, the best layer to get onboarded is to focus on the "Day to Day Operations", as they will lead you into meeting the Working Groups, known what is their top priorities for the week and identify more quickly places where you can contribute**. Later, you can go through all the Quarter OKRs and Yearly Planning so that you understand fully the decisions you see being made.
+**If you are new around here, the best way to get onboarded is to focus on the "Day to Day Operations" as it will help you meet the Working Groups, understand what their top priorities for the week are, and identify more quickly places where you can contribute**. Later, you can go through all the Quarterly OKRs and Yearly Planning so that you understand fully the decisions you see being made.
 
-You can also learn more about operating in a Distributed Teams at our [`Distributed Teams` Document, containing resources on tools, decision making, process and more](DISTRIBUTED_TEAMS.md). We have been gathering, reviewing, discussing and experimenting with many overtime and will continue to do so as we find new needs.
+You can also learn more about operating in Distributed Teams at our ['Distributed Teams' Document](DISTRIBUTED_TEAMS.md), containing resources on tools, decision making, process and more. We have been gathering, reviewing, discussing and experimenting with many overtime and will continue to do so as we find new needs.
 
 ## Teams
 
@@ -61,13 +61,13 @@ Meet the current Working and Research Groups at the [TEAM_STRUCTURES](TEAM_STRUC
 As an organization that operates at a planetary scale with multiple people from different timezones and schedules, we value tremendously the benefits of Asynchronous Communication. The art of writting things down for future selfs or future contributors is one of the key reasons that enables [so many contributors](https://github.com/ipfs/contributors-hex-grid#big-grid) to participate in the large endeavour of Distributing the Web with the IPFS Project.
 
 Some golden recommendations:
-- Prefer to open an issue vs. sending a DM
+- Prefer opening an issue vs. sending a DM
 - If you find documentation missing, treat it as a bug. Once you get your answer, contribute it so that it benefits others
 - Use synchronous time wisely (only if needed), convert any output into an artifact that can be used by others (avoid Tribal Knowledge)
 
 ### Project & Working Groups Roadmaps
 
-The IPFS Project & Working Groups Roadmaps serve as the north star for our quarterly planning process and org alignment. You can read these at https://github.com/ipfs/roadmap
+The IPFS Project & Working Group Roadmaps serve as the north star for our quarterly planning process and org alignment. You can read these at https://github.com/ipfs/roadmap
 
 ### OKRs
 
@@ -75,7 +75,7 @@ Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
 ### Kanban
 
-We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool. You can read how we have adopted at [Kanban](KANBAN.md).
+We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool. You can read how we have adopted it at [Kanban](KANBAN.md).
 
 Here is a list of the Kanbans that are currently active:
 
@@ -109,7 +109,7 @@ Processing all the IPFS activity can be a daunting task, there is simply too muc
 
 ## Synchronous Communication
 
-Synchronous Communication is phenomenal to transfer memes rapidly, clarify any outstanding questions, deep dive into hard topics together, get to know each other better and develop trust. The main pain point with Synchronous Communication is that if you were not present, you might miss out on important information that is relevant to you and your project. To overcome this limitation, **a core competency of the IPFS Org a a whole is to be stellar at taking notes and creating artifacts that represent any decision/announcement made during those synchronous conversations**. The corollary being: if it ain't written down and broadcasted, it didn't happen.
+Synchronous Communication is phenomenal to transfer memes rapidly, clarify any outstanding questions, deep dive into hard topics together, get to know each other better and develop trust. The main pain point with Synchronous Communication is that if you were not present, you might miss out on important information that is relevant to you and your project. To overcome this limitation, **a core competency of the IPFS Org as a whole is to be stellar at taking notes and creating artifacts that represent any decision/announcement made during those synchronous conversations**. The corollary being: if it ain't written down and broadcasted, it didn't happen.
 
 ### 🙌🏽 IPFS Weekly Call 📞 (formerly known as IPFS All Hands Call)
 
