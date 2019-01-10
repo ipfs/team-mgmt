@@ -1,8 +1,8 @@
-/* Generates a list of repositories and puts it in .config.json
- *
- *  GITHUB_AUTH_TOKEN environment variable needs to be set to run this command
- *
- */
+/*
+Generates a list of repositories and puts it in .config.json
+
+GITHUB_AUTH_TOKEN environment variable needs to be set to run this command
+*/
 
 if (!process.env.GITHUB_AUTH_TOKEN) {
   console.log('Error: GITHUB_AUTH_TOKEN environment variable needs to be set to run this command')
@@ -12,14 +12,9 @@ const GH_TOKEN = process.env.GITHUB_AUTH_TOKEN
 
 const fetch = require('node-fetch')
 const fs = require('fs')
+const path = require('path')
 const perPage = 100
-const organizations = [
-  'ipfs',
-  'libp2p',
-  'ipld',
-  'multiformats',
-  'ipfs-shipyard'
-]
+const orgs = require('../orgs.json')
 
 const fetchResults = (org, total = [], page = 1) => new Promise((resolve, reject) => {
   console.log(`total fetched so far for ${org}`, total.length)
@@ -41,26 +36,23 @@ const fetchResults = (org, total = [], page = 1) => new Promise((resolve, reject
     }).catch(reject)
 })
 
+const writeRepos = function (allRepos) {
+  console.log('Total number of repositories', allRepos.length)
+  const repos = allRepos.map(r => r.full_name)
+
+  fs.writeFileSync(path.resolve('out/repos.json'), JSON.stringify(repos, null, 2))
+}
+
 let current = 0
 let allRepos = []
 
-const done = () => {
-  console.log('Total number of repositories', allRepos.length)
-  const config = require('./config.json')
-  config[0].repositories = allRepos.map(r => r.full_name)
-  fs.writeFileSync(
-    './config.json',
-    JSON.stringify(config, null, 2)
-  )
-}
-
-organizations.forEach((org) => {
+orgs.forEach((org) => {
   fetchResults(org).then((res) => {
     console.log(`total received from ${org}`, res.length)
     allRepos = allRepos.concat(res)
-    current = current + 1
-    if (current === organizations.length) {
-      done()
+    current++
+    if (current === orgs.length) {
+      writeRepos(allRepos)
     }
   })
 })
