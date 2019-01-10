@@ -6,7 +6,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 - **The IPFS Org gets a fully dedicated Package Managers Working Group**
   - `P0` - @daviddias - A Package Manager Working Group Roadmap is created
-  - `P1` - @??? - Onboard 2+ contributors to this Working Group       
+  - `P1` - @??? - Onboard 1+ contributors to Package Managers Working Group
 - **Support and guide the IPFSConf planning and Content Curation**
   - `P0` - @daviddias - The IPFSConf is scheduled, announced and there is a CFP running. The IPFSConf Org Team is supported by the IPFS org.
   - `P0` - @momack2 - The IPFS Org (Working Groups & Core Contributors) has a unified plan with goals for IPFSConf
@@ -18,7 +18,6 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
   - `P0` - @parkan - There are zero dropped/mishandled collabs  
   - `P1` - @parkan - Biweekly updates published to IPFS working groups highlighting patterns in top developer needs
   - `P1` - @daviddias - The Working Groups are listed on the IPFS Website (ref: ipfs/project#14)
-  - `P1` - @mikeal - Improve the onboarding experience successfully, which translates to seeing 3+ new contributors engaged per Working Group until the end of the Quarter 
   - `P2` - @parkan - Ship strategy document outlining tooling, pipeline, and management for collabs with the IPFS Project  
   - `P2` - @parkan - 10 collab engagements result in valuable output for the wider community (feature, blog post, collaborative meeting, bug fix, etc)  
 - **The IPFS Projects have assigned maintainers, are well documented and users have good resources to rely on**
