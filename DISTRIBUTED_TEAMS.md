@@ -8,6 +8,9 @@
 - Building compassionate communities in Tech
   - [PART I](https://www.youtube.com/watch?v=PSv7GIX-XQ0)
   - [PART II](https://vimeo.com/77289729)
+- Kanban
+  - [Agile Project Management with Kanban](https://www.youtube.com/watch?v=CD0y-aU1sXo)
+  - [Scrum vs Kanban - what’s the difference?](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
 
 ## Podcasts
 
