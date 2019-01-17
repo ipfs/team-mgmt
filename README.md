@@ -135,6 +135,7 @@ If you are hosting a call for the first time or interested in learning how to do
 - [`Dynamic Data & Capabilities`](https://github.com/ipfs/dynamic-data-and-capabilities/blob/master/README.md#bi-weekly-sync)
 - [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
 - [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
+- [`Community`](https://github.com/ipfs/community/issues/384)
 
 ### Calendar
 
