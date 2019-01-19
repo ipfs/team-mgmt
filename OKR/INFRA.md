@@ -4,7 +4,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 ## 2019 Q1
 
-- Planning in progress...
+- [IPFS Infra 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=729478084)
 
 ## 2018 Q4
 
