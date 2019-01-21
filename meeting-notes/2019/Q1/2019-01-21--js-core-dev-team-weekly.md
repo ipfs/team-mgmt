@@ -10,7 +10,7 @@
   - @chriscool
   - @mcollina
   - @achingbrain
-- **Recording:** TBC
+- **Recording:** https://youtu.be/5Ka4b5WG2BM
 
 ## Agenda
 
