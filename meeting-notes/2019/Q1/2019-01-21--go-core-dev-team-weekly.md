@@ -6,9 +6,13 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
 
 **Attendees:**
   - @alanshaw
-  - _attendee names..._
+  - @stebalien
+  - @momack2
+  - @eingenito
+  - @magik6k
+  - @warpfork
   
-**Recording:** _add link to recording once it's online_
+**Recording:** https://drive.google.com/drive/u/2/folders/1zQiUy1JV6aUCgr3HJzLDpePyEQKdLu8y
 
 
 ## Agenda
@@ -24,9 +28,6 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
 - Review other Questions/Notes
 
 ## Announcements
-
-_ex.: @catherder - [Something about OKRs ...]_
-
 
 - @stebalien/@bigs - Libp2p Team Week recap / notable updates
   - discussed gx - still some split about moving on. wrote a proxy for go mod that should give us most of what we care about with gx - uncovered some bugs with go mod
@@ -44,8 +45,6 @@ _ex.: @catherder - [Something about OKRs ...]_
   - Password can be distributed via mailing list - go-ipfs-wg@ipfs.io
 
 ## Blockers or Needs 
-
-_ex.: @gocoredev - [PR review needed ... ]_
 
 - @momack2 - inlining ed25519 keys issue affecting multiple downstream users - plan/timeline to deploy fix? What's the right place to track this effort?
 	- @stebalien - I need to file an issue. We're going to need to fix libp2p/specs#111 faster than I thought and introduce a migration to fix private/public keys.
@@ -109,26 +108,12 @@ Background: Blockchains and large trees with similar characteristics need ways t
 - Aiming for solid MVP by EOQ - need to fit this into Q1 roadmap
 - See meeting notes here: https://github.com/ipld/team-mgmt/pull/7
 
-#### [Your Initiative Here]
-Background: [Your summary here.]
-
-_@example - I moved this initiative forward by doing ..., and my next steps are ..._
-
-
 ## Cross-team updates
 
 #### IPLD <3 Schemas
 Background: Our goal is to make IPLD the obvious choice for data serialization and storage in the distributed web.  Now, we want to make it the obvious choice for basic (cross-language!) schemas and types, too.
 
 @warpfork - Summary: there's a fully-worked draft of a Schema system available now!  It's self describing -- a Schema schema! -- and available to read in either JSON or a terse DSL form (which are isomorphic).  If you're interested in reviewing this, drop into the IPLD meeting (right after this one) or ping me...
-
-
-#### [Your Initiative Here]
-Background: [Your summary here.]
-
-_@example - I moved this initiative forward by doing ..., and my next steps are ..._
-
-
 
 ## Wins / Celebrations
 
