@@ -116,7 +116,7 @@ Synchronous Communication is phenomenal to transfer memes rapidly, clarify any o
 - **When:** Every Monday, 5pm UTC. See [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com).
 - **How:** This takes place synchronously using [Zoom](#zoom).
 - **Length:** 30 minutes.
-- **Format:** [IPFS_WEEKLY_CALL_FORMAT](IPFS_WEEKLY_CALL_FORMAT.md)
+- **Format:** [IPFS_WEEKLY_CALL](IPFS_WEEKLY_CALL.md)
 
 This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
 
