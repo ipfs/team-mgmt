@@ -75,7 +75,7 @@ A byproduct of both of these team structures achieves another important goal: ma
 - **Working Group Mailing List**: js-ipfs-wg@ipfs.io
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
-- WG Repos Badge - [![](https://img.shields.io/badge/Working%20Group-JS%20CORE-%23ffd600.svg?style=flat-square)](https://github.com/ipfs/js-ipfs)
+- WG Repos Badge - [![](https://img.shields.io/badge/Working%20Group-JS%20CORE-%23f7df1e.svg?style=flat-square)](https://github.com/ipfs/js-ipfs)
 
 Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
