@@ -12,7 +12,7 @@
   - @mgoelzer
   - @achingbrain
   - @lidel
-- **Recording:** TBC
+- **Recording:** https://youtu.be/hRAdkNnAnuU
 
 ## Agenda
 
