@@ -2,7 +2,7 @@
 
 -   **Moderator:** @pkafei
 -   **Notetaker:** @alanshaw
--   **Attendees:** https://www.youtube.com/watch?v=NHIqSYXAu0M&t=385s
+-   **Attendees:** 
 
     -   _@alanshaw_
     -   _@pkafei_
@@ -27,7 +27,7 @@
 
 **Presenter:** Matt Ober
 
-**Video:**
+**Video:** https://www.youtube.com/watch?v=NHIqSYXAu0M&t=385s
 
 -   Background with Ethereum
 -   Allow Ethereum and web3 devs to post content on IPFS
