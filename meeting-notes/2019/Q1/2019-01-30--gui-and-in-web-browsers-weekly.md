@@ -9,6 +9,7 @@
     - _@alanshaw_
     - _@fsdiogo_
     - _@hugomrdias_
+    - _@hacdias_
 
 **Moderator checklist**
 
