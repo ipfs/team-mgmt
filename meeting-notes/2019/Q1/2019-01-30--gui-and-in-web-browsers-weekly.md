@@ -1,5 +1,6 @@
 # GUI & In Web Browsers Weekly Sync 2019-01-30
 
+- **Recording:** https://youtu.be/ywau3JGKO68 or https://ipfs.io/ipfs/bafybeifcuqrcfvl5lqhj5hopk556wmx23fhqcksyfxxjxk7snkndgeqaha/
 - **Moderator:** @lidel
 - **Notetaker:** @fsdiogo
 - **Attendees:**
@@ -121,7 +122,9 @@
 **Discussion Highlights**
 
 - @jimpick demoed js-ipfs in serverless
-- @alanshaw demoed iim (ipfs-install-manager)
+- @alanshaw demoed `iim` (ipfs-install-manager)
+  - https://twitter.com/_alanshaw/status/1090754167512145920
+  - related discussion: [js-ipfs#1563](https://github.com/ipfs/js-ipfs/issues/1563)
 
 **Action Items**
 
