@@ -8,6 +8,8 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 * It takes less than 48 hours to transfer 1TB dataset over Fast Ethernet (100Mbps)
 * Bitswap refactor + improvements reduce number of duplicate blocks downloaded by 75%
 * Transfers of sparsely provided data are roughly as efficient as fully provided content
+* Awesome go-ipfs benchmark test suite exists comparing ipfs performance and transfer size relative to bittorrent
+* Implement GraphSync to make accessing files in large directories log(n) faster
 
 ### Adding and providing large data sets works efficiently
 * Create Provider Strategies system that is solely responsible for providing
@@ -37,7 +39,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 * New fuse mount implementation replaces the existing one
 * Add mutable methods (r+w) to the new mount implementation and get it building+tested on all supported platforms
 
-## 2018 Q4certifi
+## 2018 Q4
 
 - [go-ipfs 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=1720716278)
 - [Open Planning Thread](https://github.com/ipfs/go-ipfs/pull/5474)
