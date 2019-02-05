@@ -17,7 +17,7 @@ A Repo Lead Maintainer is a contributor that has shown extraordinary ability to 
 With this structure, we expect to achieve the following goals:
 
 - Recognize extraordinary contributions and empower contributors to take an even more important role in the project.
-- Keep issues and information organized so that it can 
+- Keep issues and information organized.
 - Reduce PR review time and Time To Release.
 - Increase the overall quality of the project.
 - Help users know who to reach out to for help.
@@ -27,14 +27,14 @@ The current Lead Maintainers should be identified in a `Repo Lead Maintainer` se
 
 ```JavaScript
 {
-  repoLeadMaintainer: {
-    name: <Repo Lead Maintainer Name>,
-    email: <Repo Lead Maintainer Email Address>,
-    username: <Github Username>
-  }
-  workingGroup: {
-    name: <Name of the Working Group that owns this Repo>,
-    entryPoint: <Url to the coordination entry point for the Working Group>
+  "repoLeadMaintainer": {
+    "name": "<Repo Lead Maintainer Name>",
+    "email": "<Repo Lead Maintainer Email Address>",
+    "username": "<Github Username>"
+  },
+  "workingGroup": {
+    "name": "<Name of the Working Group that owns this Repo>",
+    "entryPoint": "<Url to the coordination entry point for the Working Group>"
   }
 }
 ```
@@ -60,13 +60,13 @@ Currently, there is no formal test or request form to do so. Repo Lead Maintaine
 
 **In practice:**
 
-- Create a lead-maintainer.json and update the README.md to have a `Repo Lead Maintainer` section.
+- Create a maintainer.json and update the README.md to have a `Repo Lead Maintainer` section.
 - Protect the master branch and only grant permissions for merge to the Lead Maintainer and respective Working Group members.
 - If a software project, grant publish permission to the Lead Maintainer and Tech Lead (or another Tech Lead if it’s the same person), only.
+- Ensure that the repo also has the Working Group respective badge on the README for easy one click jump to entrypoint.
 
 ## Repo Lead Maintainers for IPFS Repos
 
 ```
 TODO - Create table using package-table
 ```
-
