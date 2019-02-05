@@ -75,7 +75,7 @@ A byproduct of both of these team structures achieves another important goal: ma
 - **Working Group Mailing List**: js-ipfs-wg@ipfs.io
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
-- WG Repos Badge - [![](https://img.shields.io/badge/Working%20Group-JS%20CORE-%23f7df1e.svg?style=flat-square)](https://github.com/ipfs/js-ipfs)
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/js-core.svg)](https://github.com/ipfs/js-ipfs)
 
 Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
@@ -93,7 +93,7 @@ Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 - **Working Group Mailing List**: go-ipfs-wg@ipfs.io
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
-- WG Repos Badge - [![](https://img.shields.io/badge/Working%20Group-GO%20CORE-%23375eab.svg?style=flat-square)](https://github.com/ipfs/go-ipfs)
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/go-core.svg)](https://github.com/ipfs/go-ipfs)
 
 Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 
@@ -211,7 +211,7 @@ User research, collaborations, and products that support holding data together o
 - **Roadmap**: TBD
 - **Working Group Mailing List**: locol-wg@ipfs.io
 - **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
-- WG Repos Badge - [![](https://img.shields.io/badge/Working%20Group-Locol-%2340e0d0.svg?style=flat-square)](https://github.com/ipfs/local-offline-collab)
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/locol.svg)](https://github.com/ipfs/local-offline-collab)
 
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
@@ -229,7 +229,7 @@ User research, collaborations, and features to make the knowledge and tools on t
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_PROJECT.md
 - **Working Group Mailing List**: project-wg@ipfs.io
 - **[David Dias](https://github.com/daviddias): Captain, TPM**
-- WG Repos Badge - [![](https://img.shields.io/badge/Working%20Group-Project-%233399ff.svg?style=flat-square)](https://github.com/ipfs/project)
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/project.svg)](https://github.com/ipfs/project)
 
 The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
 
