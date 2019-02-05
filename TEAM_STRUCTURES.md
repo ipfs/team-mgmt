@@ -75,6 +75,7 @@ A byproduct of both of these team structures achieves another important goal: ma
 - **Working Group Mailing List**: js-ipfs-wg@ipfs.io
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/js-core.svg)](https://github.com/ipfs/js-ipfs)
 
 Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
@@ -92,6 +93,7 @@ Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 - **Working Group Mailing List**: go-ipfs-wg@ipfs.io
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/go-core.svg)](https://github.com/ipfs/go-ipfs)
 
 Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 
@@ -107,6 +109,7 @@ Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
 - **Working Group Mailing List**: gui-wg@ipfs.io
 - **[Oli Evans](https://github.com/olizilla): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
@@ -122,6 +125,7 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
 - **Working Group Mailing List**: cluster-wg@ipfs.io
 - **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 
@@ -135,6 +139,7 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INFRASTRUCTURE.md
 - **Working Group Mailing List**: infra-wg@ipfs.io
 - **[Erin Fahy](https://github.com/eefahy): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 Tools and systems for the IPFS community.
 
@@ -153,6 +158,7 @@ Tools and systems for the IPFS community.
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INTEGRATION_IN_WEB_BROWSERS.md
 - **Working Group Mailing List**: wb-wg@ipfs.io
 - **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 The Integration with Web Browsers Working Group designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
 
@@ -172,6 +178,7 @@ The Integration with Web Browsers Working Group designs and implements browser i
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DYNAMIC_DATA_AND_CAPABILITIES.md
 - **Working Group Mailing List**: ddc-wg@ipfs.io
 - **[Pedro Teixeira](https://github.com/pgte): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 Research and development of building blocks that enable collaborative applications, providing solutions for security, identity, access control, concurrency, synchronization, offline, and near-real-time collaboration. This WG was born out of the results created by the [CRDT Research Group](http://github.com/ipfs/research-crdt).
 
@@ -187,6 +194,7 @@ Research and development of building blocks that enable collaborative applicatio
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DECENTRALIZED_DATA_STEWARDSHIP.md
 - **Working Group Mailing List**: dds-wg@ipfs.io
 - **[Michelle Hertzfeld](https://github.com/meiqimichelle): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 User research, collaborations, and products that support holding data together on decentralized networks.
 
@@ -203,6 +211,8 @@ User research, collaborations, and products that support holding data together o
 - **Roadmap**: TBD
 - **Working Group Mailing List**: locol-wg@ipfs.io
 - **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/locol.svg)](https://github.com/ipfs/local-offline-collab)
+
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
 
@@ -218,7 +228,8 @@ User research, collaborations, and features to make the knowledge and tools on t
 - **Coordination**: https://github.com/ipfs/project
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_PROJECT.md
 - **Working Group Mailing List**: project-wg@ipfs.io
-- **[David Dias](https://github.com/diasdavid): Captain, TPM**
+- **[David Dias](https://github.com/daviddias): Captain, TPM**
+- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/project.svg)](https://github.com/ipfs/project)
 
 The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
 
@@ -235,6 +246,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_COMMUNITY.md
 - **Working Group Mailing List**: community-wg@ipfs.io
 - **[Mikeal Rogers](https://github.com/mikeal): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
 
 Community outreach working group. Coordinates the communities around events, blog posts
 documentation, automation and education.
