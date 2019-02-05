@@ -23,7 +23,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 - **The IPFS Projects have assigned maintainers, are well documented and users have good resources to rely on**
   - `P0` - @daviddias - Reboot the IPFS Specifications repo and create a coordinated effort to write and maintain the specifications
   - `P1` - @daviddias - Expand the Lead Maintainer Protocol to become the Maintainer Protocol for the entire organization
-  
+- `P1` - @momack2 - IPFS gets a Public and Structured Dev Grant Program
 ## 2018 Q4
 
 - [Project 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=1562851442)
