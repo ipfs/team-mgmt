@@ -124,8 +124,8 @@
 
 ### Other notes
  - FOSDEM excellent all around
- - @alanshow: ipfs install manager check it out! Also, if anyone wants to review the Hapi PR would be much appreciated.
- - @jacobhuen: decomissioning the star servers soon. libp2p daemon released!
+ - @alanshaw: ipfs install manager check it out! Also, if anyone wants to review the Hapi PR would be much appreciated.
+ - @jacobheun: decomissioning the star servers soon. libp2p daemon released!
  - @achingbrain: we have an apt-get transport within ipfs somewhere
  
 <!-- After each call, the notetaker submits a PR to ipfs/team-mgmt to store the notes on the meeting-notes folder -->
