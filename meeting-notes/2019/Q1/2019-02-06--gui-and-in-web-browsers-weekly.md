@@ -42,7 +42,7 @@ _General discussions, decisions, etc._
   
 
 
-@hacdias (**OOO**until the 14th, first person writing updates this week!)
+@hacdias (**OOO** until the 14th, first person writing updates this week!)
 
 -   Done:
     -   FOSDEM’19 was awesome!
@@ -51,7 +51,7 @@ _General discussions, decisions, etc._
         -   There were lots of issues and searching involved to make them work. For some background, we had a bug where the tests wouldn’t finish if a window had the node integrations disabled. We are enabling them only for testing purposes. I’ve filed an issue on spectron repository for that ([ISSUE](https://github.com/electron/spectron/issues/347))
         -   Also the tests only pass on Windows and macOS. I’ve added a note to the README saying that Linux support is experimental and that Desktop might not work on every desktop environment possible.
     -   Update “auto” update procedure ([PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/815))
-        -   It now shows a notifications when the update is available**and** downloaded. The user needs to click on it to update.
+        -   It now shows a notifications when the update is available **and** downloaded. The user needs to click on it to update.
         -   The error handling is also better and hopefully it won’t crash IPFS Desktop with network errors or any other update-related error.
     -   Add ‘Configuration File’ option to right click menu for easy access. ([PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/818))
     -   Added some FQAs to the readme ([PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/819))
