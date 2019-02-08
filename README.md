@@ -10,7 +10,7 @@
 
 - [Related Projects](#related-projects)
 - [How We Work Together](#how-we-work-together)
-- [Teams](TEAM_STRUCTURES.md)
+- [Teams, Roles & Structures](TEAMS_ROLES_STRUCTURES.md)
 - [Asynchronous Communitication](#asynchronous-communication)
   - [Project & Working Groups Roadmaps](#project--working-groups-roadmaps)
   - [OKR (Objectives & Key Results)](#okrs)
@@ -54,7 +54,7 @@ You can also learn more about operating in Distributed Teams at our ['Distribute
 
 ## Teams
 
-Meet the current Working and Research Groups at the [TEAM_STRUCTURES](TEAM_STRUCTURES.md) document.
+Meet the current Working and Research Groups at the [TEAMS_ROLES_STRUCTURES](TEAMS_ROLES_STRUCTURES.md) document.
 
 ## Asynchronous Communication
 
