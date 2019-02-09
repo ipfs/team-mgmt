@@ -41,6 +41,7 @@ This document presents the the existing teams that emerged and that led to the m
 
 - **Working Group** - A cohesive team with measurable goals for each quarter. A Working Group needs to have a Captain, a set of people commited to it, and entry point repo and Objectives & Key Results defined per Quarter.
 - **Research Group** - A set of people focused on exploring a specific vertical and output possible research surveys, tools, experiments, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups all together.
+- **Tiger Team** - A small, temporary group of people aimed at solving a specific problem or building a particular feature. A tiger team needs a DRI that drives the team's engagement and agenda, and a set of ad hoc communication channels to empower quick iteration amongst teammates.
 
 ### Expanded description
 
@@ -60,7 +61,15 @@ Some great examples from this structure are: research-pubsub which led to the im
 
 A Research Group doesn't require a Captain or OKRs to be formed and having individuals that subscribe to multiple Research Groups isn't considered harmful.
 
-A byproduct of both of these team structures achieves another important goal: making it easier for new users and contributors to subscribe to updates and get ramped up quickly to the current project focus.
+> A byproduct of both of these team structures achieves another important goal: making it easier for new users and contributors to subscribe to updates and get ramped up quickly to the current project focus.
+
+**Tiger Teams**
+
+Tiger teams are a small, temporary group of people usually formed to solve a specific problem or build a particularly complex feature. They frequently form when significant iteration/collaboration across team or project boundaries is required to achieve success. Once the objective is achieved, the tiger team dissolves back into their normal working groups.
+
+Some great examples that would likely benefit from a tiger team include: a scoped collaboration between infra, go-ipfs, and Libp2p on a specific issue; a complex and envolved feature on the intersection of IPFS and IPLD; or a specific time-sensitive project involving members of the community, gui, and js-ipfs working groups.
+
+A tiger team has a DRI (directly responsible individual) that drives the team's engagement and agenda. They are responsible for initiating communication channels and ensuring the group has a unified definition of success they drive toward efficiently. Tiger teams interface through a set of temporary ad hoc communication channels (such as an IRC channel, github project, mumble standup, weekly call, email list, slack etc) to empower quick iteration amongst teammates.
 
 ## Team Roles
 
@@ -100,10 +109,10 @@ This role is currently taken by [**David Dias**](https://github.com/daviddias/)
 Responsibilities include:
 - Lead the quarterly planning process (OKRs) and respective retrospectives
 - Lead PL IPFS Team and Project WG Meetings
-- Design and implement clever systems for team productivity and feedback.
-- Create support systems and help team members grow in their roles.
-- Ensure that teams rely on a uniform structure with respective customizations as needed.
-- Create and maintain the platform for Resource allocation across teams and projects.
+- Design and implement clever systems for team productivity and feedback
+- Create support systems and help team members grow in their roles
+- Ensure that teams rely on a uniform structure with respective customizations as needed
+- Create and maintain the platform for Resource allocation across teams and projects
 - Ensure that there is a steady communication flow between teams and individual contributors
 
 This role is currently taken by [**Molly Mackinlay**](https://github.com/momack2)
