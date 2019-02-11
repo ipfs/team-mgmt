@@ -9,7 +9,7 @@
   - @zcstarr
   - @lidel
   - @achingbrain
-- **Recording:** TBC
+- **Recording:** https://youtu.be/T1BHUbv5_xQ
 
 ## Agenda
 
