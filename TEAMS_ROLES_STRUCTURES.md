@@ -132,7 +132,7 @@ The Technical Project Manager (sometimes referenced as Project Manager, Program 
 
 The Technical Project Manager should also have a role on contributing to the projects the Working Group is tackling and have an understanding of the technical challenges and needs from the team.
 
-It happens that some working groups are ok with having the same person playing the Captain + Technical Project Manager role together, it works for when the Working Group is nascent or the team is small.
+Some working groups have the same person playing both the Captain and Technical Project Manager role. This should be limited to situations where the Working Group is nascent or the team is small.
 
 Responsibilities include:
 - Team Catalist. Team Productivity and Fun optimizer.
