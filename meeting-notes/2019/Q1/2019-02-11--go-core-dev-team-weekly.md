@@ -5,12 +5,20 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
 **Meeting Lead:** @eingenito
 
 **Attendees:**
-  - _attendee names..._
   - @hannahhoward
   - @jimpick
   - @aschmahmann
+  - @eingenito
+  - @michaelavila
+  - @stebalien
+  - @bigs
+  - @djdv
+  - @kubuxu
+  - @mgoelzer
+  - @magik6k
+  - @warpfork
   
-**Recording:** _add link to recording once it's online_
+**Recording:** [Recordings are available to the core team only](https://drive.google.com/drive/u/2/folders/1iyFnbY4RRsfIcS_b6M9wMEjbuZceSw9z)
 
 
 ## Agenda
@@ -24,12 +32,6 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
   - Summarize your progress
   - Summarize your next steps.
 - Review other Questions/Announcements/Notes
-
-## Announcements
-
-## Blockers or Needs 
-
-ex.: @gocoredev - Need feedback on PR
 
 ## Current IPFS Initiatives
 #### Datastore
@@ -128,12 +130,6 @@ Summary: Sync Graphs Quickly (without lots of requests) - https://github.com/ipl
 #### Process Improvements
 Summary: We're trying to get better working as a team.
 
-#### [Your Initiative Here]
-Summary: [Your summary here.]
-
-_@example - I moved this initiative forward by doing ..., and my next steps are ..._
-
-
 ## Cross-team updates
 
 #### Testbed
@@ -162,10 +158,6 @@ _@example - I moved this initiative forward by doing ..., and my next steps are 
 
 - This is what it does: https://github.com/ipfs/go-ipfs-config/blob/master/profile.go#L68-L85 (@Kubuxu)
 
-## Wins / Celebrations
-
-_@example - We merged this feature ..., it's great because ..., thanks to @awesome for helping!_
-
 ## Questions
 
 * Jenkins/Travis? (@eingenito)
@@ -175,4 +167,3 @@ Graphsync team is busy this week but will try to arrange some time to further di
 * Base32/CIDv1 (@eingenito)
 Most important next milestone is storing/fetching multihashes in the DHT in libp2p
 
-## Notes
