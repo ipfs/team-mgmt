@@ -2,6 +2,7 @@
 
 -   **Moderator:** @pkafei
 -   **Notetaker:** @terichadbourne
+    **Video:** https://youtu.be/pDmhpgrfASo
 -   **Attendees:**
 
     -   _attendee names…_
