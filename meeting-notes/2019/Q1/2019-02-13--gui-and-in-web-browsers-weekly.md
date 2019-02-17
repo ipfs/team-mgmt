@@ -13,6 +13,7 @@
     -   _@fsdiogo_
     -   _@hugomrdias_
     -   _@cwaring_
+    -   _@alanshaw_
 
 **Preflight checklist**
 
