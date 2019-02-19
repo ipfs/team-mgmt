@@ -4,6 +4,10 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 More: https://github.com/ipfs/ipfs-gui
 
+## 2019 Q1
+
+- [ipfs-gui 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit?ts=5c2f3d49#gid=1841105909)
+
 ## 2018 Q4
 
 - [ipfs-gui 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=1841105909)
@@ -19,8 +23,3 @@ More: https://github.com/ipfs/ipfs-gui
 ## 2018 Q2
 
 - IPFS GUI team was born from the IPFS in web browsers working group.
-
-
-
-
-
