@@ -33,7 +33,7 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
   - Summarize your next steps.
 - Review other Questions/Announcements/Notes
 
-## Current IPFS Initiatives
+## Current Go Core Initiatives
 #### Datastore
 Summary: We are investigating various IPFS datastore options with the goal of replacing the current default datastore with a faster, more scalable one: [Epic Issue](https://github.com/ipfs/go-ipfs/issues/4279)
 
