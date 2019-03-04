@@ -13,7 +13,7 @@
   - @terichadbourne
   - @achingbrain
   
-- **Recording:** TBC
+- **Recording:** https://youtu.be/eeUlgKYRzaE
 
 ## Agenda
 
@@ -42,7 +42,7 @@
   - Investigated go-bitswap issue [#68](https://github.com/ipfs/go-bitswap/issues/68)
   - Made a module for parallel mapping for async iterators https://github.com/alanshaw/paramap-it
 - Blocked:
-  - 0.35 release is blocked on 100% CPU issue (@vasco-santos investigating)
+  - ~~0.35 release is blocked on 100% CPU issue (@vasco-santos investigating)~~
 - Next:
   - Debugging for 100% CPU
   - Testing the DHT
