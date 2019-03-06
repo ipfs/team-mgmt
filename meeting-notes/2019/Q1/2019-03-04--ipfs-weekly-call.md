@@ -3,6 +3,7 @@
 -   **Moderator:** @pkafei
 -   **Notetaker:** @vmx
 -   **Video:** https://youtu.be/05HjYgG7KSk
+-   **Slides:** https://docs.google.com/presentation/d/1UIUXmjiVZnUTcL6eeSuGVBUk9aCpvJc-71v3q-Vf68A/edit?usp=sharing
 -   **Attendees:**
 
     -   @jaycarpenter
