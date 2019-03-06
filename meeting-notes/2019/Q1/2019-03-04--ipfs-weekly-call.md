@@ -13,7 +13,7 @@
     -   @alanshaw
     -   @prfnv
     -   @kk3wong
-    -   ….  
+    -   @terichadbourne
   
 **Moderator checklist**-   Ensure that there is a notetaker
 -   Start recording
@@ -31,7 +31,7 @@
 
     -   Tron a bit (it’s big in the news), but not much else.
 
--   @danshields: How well does IPFS work in regards to China’s firewall
+-   @NukeManDan: How well does IPFS work in regards to China’s firewall
 
     -   It is not a problem in Hong Kong because there isn’t a firewall
     -   In China you can’t mine Filecoin at home, it’s blocked
