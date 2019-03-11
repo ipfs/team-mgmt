@@ -1,6 +1,6 @@
 # Kanban - How work gets organized (a tl;dr;)
 
-The IPFS Org follows a Quarterly Planning schedule based on [OKRs](OKRs). Within each quarter, work gets tracked using Github and Kanban boards, using Waffle.io.
+The IPFS Org follows a Quarterly Planning schedule based on [OKRs](OKR). Within each quarter, work gets tracked using Github and Kanban boards, using Waffle.io.
 
 - Github is used for discussions and track current endeavours.
 - Waffle gives us a [Kanban](https://en.wikipedia.org/wiki/Kanban) view over the work at hand.
