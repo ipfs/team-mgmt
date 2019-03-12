@@ -173,7 +173,7 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 - **[Molly Mackinlay](https://github.com/daviddias): TPM / IPFS Project Coordinator**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/project.svg)](https://github.com/ipfs/project)
 
-The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
+The IPFS Project Working Group serves as the point of coordination for the IPFS Organization.
 
 **Responsibilities include**:
 - Maintain the IPFS Project Roadmap and Vision.
@@ -193,12 +193,11 @@ The IPFS Project Working Group Community serves as the point of coordination for
 Community outreach working group. Coordinates the communities around events, blog posts and education.
 
 - Editorial (Blogs, Documentation)
-- Education (ProtoSchool, Demos)
+- Education (Demos)
 
 **Responsibilities include**:
 - Respond to requests for IPFS presence in conferences.
 - Publish regular updates to the community (blog posts and newsletters).
-- Create Tutorials and Workshops to teach concepts about IPFS and the Distributed Web in ProtoSchool.
 - Ensure that public forums (discuss.ipfs.io, irc, github, etc) have adequate moderation and responsive support.
 - Ensure that the code of conduct is followed and provide appropriate support or response when violations occur.
 - Author and improve documention.
