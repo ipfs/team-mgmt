@@ -187,7 +187,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - WG Repos Badge - Badge n/a yet
 
 Community outreach working group. Coordinates the communities around events, blog posts
-documentation, automation and education.
+documentation, and education.
 
 - Editorial (Blogs, Documentation)
 - Education (ProtoSchool, Demos)
