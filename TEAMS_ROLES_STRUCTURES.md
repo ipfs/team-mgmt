@@ -176,10 +176,6 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
 
 **Responsibilities include**:
-- Maintain the IPFS Project Roadmap and Vision.
-- Provide coaching to Working Groups to develop their own planning and goal-setting.
-- Facilitate communication and alignment accross the organization.
-- Research, develop and build new ways to help async teams coordinate at scale.
 - Recognize needs of the project and develop solutions to meet them.
 
 #### Community
@@ -193,15 +189,11 @@ The IPFS Project Working Group Community serves as the point of coordination for
 Community outreach working group. Coordinates the communities around events, blog posts
 documentation, automation and education.
 
-- Evangelism (Events, Social Media)
 - Editorial (Blogs, Documentation)
 - Education (ProtoSchool, Demos)
-- Automation (Probots, etc)
 
 **Responsibilities include**:
-- Help community members organize meetups for their own communities.
 - Respond to requests for IPFS presence in conferences.
-- Facilitate community content for social media channels.
 - Publish regular updates to the community (blog posts and newsletters).
 - Create Tutorials and Workshops to teach concepts about IPFS and the Distributed Web in ProtoSchool.
 - Ensure that public forums (discuss.ipfs.io, irc, github, etc) have adequate moderation and responsive support.
