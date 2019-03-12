@@ -50,7 +50,7 @@ Notes:
 
     -   Uses a fork of IPFS network
 
-        -   Extends achingtime from 1 day to 1 week for offline support, etc.
+        -   Extends caching time from 1 day to 1 week for offline support, etc.
 
     -   Custom indexers built to crawl the network and provide search/caching
 
