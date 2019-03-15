@@ -13,6 +13,7 @@
     - @terichadbourne
     - @alanshaw
     - @cwaring
+    - Chris Anderson
 
 **Preflight checklist**
 
