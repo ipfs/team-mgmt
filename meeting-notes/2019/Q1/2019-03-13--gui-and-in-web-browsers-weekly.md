@@ -91,17 +91,18 @@ _General discussions, decisions, etc._
 
 @fsdiogo
 
--   Done:
-        -   Web UI help system
-            -   <https://github.com/ipfs-shipyard/ipfs-webui/pull/983>
-        -   Kickstarted a doc to discuss the help system
-            -   <https://docs.google.com/document/d/1FNqrzjnPcgcyD6OIrkihPbjXkQFIlkCmdd5T1GYqVpI/edit>
-        -   Update to CRA v2
-            -   <https://github.com/ipfs-shipyard/ipfs-webui/pull/987>
-        -   Update to Storybook v5
-            -   <https://github.com/ipfs-shipyard/ipfs-webui/pull/987>
-    -   Next:
-        -   I’ll be off Thursday and Friday
+- Done:
+    - Web UI help system
+        - <https://github.com/ipfs-shipyard/ipfs-webui/pull/983>
+    - Kickstarted a doc to discuss the help system
+        - <https://docs.google.com/document/d/1FNqrzjnPcgcyD6OIrkihPbjXkQFIlkCmdd5T1GYqVpI/edit>
+    - Update to CRA v2
+        - <https://github.com/ipfs-shipyard/ipfs-webui/pull/987>
+    - Update to Storybook v5
+        - <https://github.com/ipfs-shipyard/ipfs-webui/pull/987>
+- Next:
+    - I’ll be off Thursday and Friday
+
 
 @hugomrdias
 
