@@ -12,16 +12,13 @@
     -   @lidel
     -   @autonome
     -   @terichadbourne
-    -   @fsdiogo
-
-  
 
 
 **Preflight checklist**
 
--   Call for additional**agenda** items!
--   Ensure that there is a**notetaker**! (well… )
--   Start**recording**! :^)
+-   Call for additional **agenda** items!
+-   Ensure that there is a **notetaker**! (well…)
+-   Start **recording**! :^)
 
 
 **Agenda**
@@ -41,10 +38,10 @@ _General discussions, decisions, etc._
     -   (js-ipfs)
         -    [Refactor: decouple HTTP Server from cli/commands/daemon](https://github.com/ipfs/js-ipfs/pull/1950)
     -   (ipfs-companion)
-        -   Released some Betas:[v2.7.5.757](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.7.5.757),[v2.7.5.760](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.7.5.760) and[v2.7.5.762](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.7.5.762)
+        -   Released some Betas:[v2.7.5.757](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.7.5.757),[v2.7.5.760](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.7.5.760) and [v2.7.5.762](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.7.5.762)
     -   (ipfs-companion+Brave)
         -   [ Allow IPFS Companion Beta to have chrome.sockets.\*](https://github.com/brave/brave-core/pull/1988)
-        -   **[**Embedded js-ipfs with self-hosted HTTP API and Gateway!**](https://github.com/ipfs-shipyard/ipfs-companion/issues/664#issuecomment-474625852)**
+        -   **[Embedded js-ipfs with self-hosted HTTP API and Gateway!](https://github.com/ipfs-shipyard/ipfs-companion/issues/664#issuecomment-474625852)**
 -   Next:
     -   Release Stable companion
     -   Lisbon hacn’n’plan
