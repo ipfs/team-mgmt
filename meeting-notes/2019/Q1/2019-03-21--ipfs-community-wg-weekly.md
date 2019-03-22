@@ -1,6 +1,6 @@
 # IPFS Community Working Group Weekly Sync 2019-03-21
 
--   **Video Recording:** TBC
+-   **Video Recording:** https://youtu.be/mGClQ2vPMu0
 -   **Moderator:** @mikeal
 -   **Notetaker:** @terichadbourne & @olizilla
 -   **Attendees:**
