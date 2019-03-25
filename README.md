@@ -189,7 +189,7 @@ Tools living in their own documents:
 
 We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
-**Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tilling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
+**Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tiling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
 
 ## Contribute
 
