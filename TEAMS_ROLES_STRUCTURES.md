@@ -27,6 +27,7 @@
       - [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
       - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
       - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
+      - [**Package Managers**](#package-managers)
   - [**Research** Groups](#research-groups)
 
 ## Description
@@ -163,6 +164,7 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
   - [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
   - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
   - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
+  - [**Package Managers**](#package-managers)
 
 #### Project
 
@@ -362,6 +364,23 @@ User research, collaborations, and features to make the knowledge and tools on t
 - Conduct user research around offline and local-first use cases, communities, and best practices
 - Support collaborations between IPFS and community members who are building tools for peer-to-peer sharing and collaboration in local/offline networks
 - Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
+
+#### Package Managers
+
+- **Coordination**: https://github.com/ipfs/package-managers
+- **Roadmap**: TBD
+- **Working Group Mailing List**: TBD
+- **[Alex Potsides](https://github.com/achingbrain): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
+
+User research, collaborations, and products that enable adding IPFS support to package managers.
+
+**Responsibilities include**:
+
+- Participate in communities like [package.community](http://package.community/)
+- Conduct user research around package manager use cases, communities, and best practices
+- Support collaborations between IPFS and community members who are building, maintaining and using package managers
+- Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
 
 
 ### Research Groups

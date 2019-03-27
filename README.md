@@ -91,6 +91,8 @@ Here is a list of the Kanbans that are currently active:
     - [Dynamic Data & Capabilities](https://waffle.io/ipfs/dynamic-data-and-capabilities)
     - Decentralized Data Stewardship (n/a)
     - Local Offline Collaboration (n/a)
+    - [Package Managers](https://waffle.io/ipfs/package-managers)
+
   - Community (n/a)
   - [Project](https://waffle.io/ipfs/project)
 - __Kanbans specific to Projects__
@@ -136,6 +138,7 @@ If you are hosting a call for the first time or interested in learning how to do
 - [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
 - [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
 - [`Community`](https://github.com/ipfs/community/issues/384)
+- [`Package Management`](https://github.com/ipfs/package-managers/issues/1)
 
 ### Calendar
 
@@ -152,6 +155,7 @@ We hangout on IRC for lots of Dev Chat. You can find us on Freenode on the follo
 - #ipfs-in-web-browsers
 - #ipfs-project
 - #ipfs-infrastructure
+- #ipfs-package-managers
 - #ipfs-pinbot
 - #gx
 - #libp2p
