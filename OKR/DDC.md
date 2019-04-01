@@ -6,9 +6,8 @@ More: https://github.com/ipfs/dynamic-data-and-capabilities
 
 ## 2019 Q2
 
-- [DDC 2019 Q2 OKRs (wip)](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=412099511)
+- [DDC 2019 Q2 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=27675624)
 - [Brainstorming document](https://github.com/ipfs/dynamic-data-and-capabilities/issues/74)
-- Previous Quarter Retrospective (WIP)
 
 ## 2019 Q1
 
