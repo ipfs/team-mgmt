@@ -10,7 +10,7 @@
   - @dirkmc
   - @achingbrain
   - @terichadbourne
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/QJEciEcLuBI
 
 ## Agenda
 
