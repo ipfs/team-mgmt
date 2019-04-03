@@ -55,7 +55,7 @@ Each Working Group is free to experiment with setting their own pace, tracking w
 
 Each contributor shouldn't carry responsibilities accross multiple working groups. This is not forbidden by any means but it is greatly discouraged as it will prevent the contributor from achieving full focus.
 
-**Sepecial Interest Groups**
+**Special Interest Groups**
 
 Special Interest Groups are set of people focused on exploring a specific vertical or interconnection between projects. This is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical. 
 
