@@ -28,20 +28,21 @@
       - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
       - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
       - [**Package Managers**](#package-managers)
-  - [**Research** Groups](#research-groups)
+  - [**Special Interest** Groups](#special-interest-groups)
+  - [Tiger Teams](#tiger-teams)
 
 ## Description
 
-The IPFS Project is developed by multiple teams from multiple organizations and both intermittent and continuous invidividual contributors. A structure was developed (and continues to evolve) around Working & Research Groups, OKRs, and PM best practices that were designed to support the already large and growing group of people to coordinate among each other at a global scale.
+The IPFS Project is developed by multiple teams from multiple organizations and both intermittent and continuous invidividual contributors. A structure was developed (and continues to evolve) around Working & Special Interest Groups, OKRs, and PM best practices that were designed to support the already large and growing group of people to coordinate among each other at a global scale.
 
-This document presents the the existing teams that emerged and that led to the many of the sucesses within the IPFS project, their structure(namely: Working Groups & Research Groups) and a definition of roles existing in the IPFS org. At the end of this document, you will find pointers to Teams and Projects that have grown to become their own entities, namely: IPLD, libp2p and Multiformats.
+This document presents the the existing teams that emerged and that led to the many of the sucesses within the IPFS project, their structure(namely: Working Groups & Special Interest Groups) and a definition of roles existing in the IPFS org. At the end of this document, you will find pointers to Teams and Projects that have grown to become their own entities, namely: IPLD, libp2p and Multiformats.
 
 ## Team Structures
 
 ### One line definition
 
 - **Working Group** - A cohesive team with measurable goals for each quarter. A Working Group needs to have a Captain, a set of people commited to it, and entry point repo and Objectives & Key Results defined per Quarter.
-- **Research Group** - A set of people focused on exploring a specific vertical and output possible research surveys, tools, experiments, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups all together.
+- **Special Interest Group** - A set of people focused on exploring a specific vertical or interconnection between projects. A Special Interest Group is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical. 
 - **Tiger Team** - A small, temporary group of people aimed at solving a specific problem or building a particular feature. A tiger team needs a DRI that drives the team's engagement and agenda, and a set of ad hoc communication channels to empower quick iteration amongst teammates.
 
 ### Expanded description
@@ -54,13 +55,15 @@ Each Working Group is free to experiment with setting their own pace, tracking w
 
 Each contributor shouldn't carry responsibilities accross multiple working groups. This is not forbidden by any means but it is greatly discouraged as it will prevent the contributor from achieving full focus.
 
-**Research Groups**
+**Sepecial Interest Groups**
 
-A set of people focused on exploring a specific vertical and output possible research surveys, tools, experiments, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups all together.
+Special Interest Groups are set of people focused on exploring a specific vertical or interconnection between projects. This is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical. 
 
-Some great examples from this structure are: research-pubsub which led to the implementation of PubSub by the IPFS/libp2p teams; and research-crdt which lead to the creation of the Dynamic Data & Capabilities Working Group which todays tackles many of the challenges of building DApps on the distributed web.
+SIGs have many possible outputs including research surveys, tools, experiments, RFPs, talks, demos, guides, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups. They frequently gather a community of interest around their vertical which they convene on a regular cadence for meetings and discussion. 
 
-A Research Group doesn't require a Captain or OKRs to be formed and having individuals that subscribe to multiple Research Groups isn't considered harmful.
+Unlike a Working Group, a Special Interest Group doesn't require a Captain or OKRs to be formed and having individuals that subscribe to multiple SIGs (or both a Working Group and a SIG) isn't considered harmful.
+
+Some great examples of past SIGs are: research-pubsub which led to the implementation of PubSub by the IPFS/libp2p teams; and research-crdt which lead to the creation of the Dynamic Data & Capabilities Group.
 
 > A byproduct of both of these team structures achieves another important goal: making it easier for new users and contributors to subscribe to updates and get ramped up quickly to the current project focus.
 
@@ -383,15 +386,24 @@ User research, collaborations, and products that enable adding IPFS support to p
 - Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
 
 
-### Research Groups
+### Special Interest Groups
 
-The list of existing research groups is:
+The list of existing special interest groups is:
 - https://github.com/ipfs/research-CRDT
 - https://github.com/ipfs/research-blockchain-data
 - https://github.com/ipfs/research-bitswap
 - https://github.com/ipfs/research-p2p-video
 - https://github.com/libp2p/research-pubsub
 - https://github.com/libp2p/research-dht
+
+### Tiger Teams
+_Note: communication channels for tiger teams might be private to active contributors - feel free to request access with an explanation if you'd like to participate or ping the DRI directly on IRC/Slack)_
+
+The list of current tiger teams is:
+- [GraphSync Tiger Team](https://docs.google.com/document/d/18JFIF9rOsBA8OMdxMFVCoMugWf79ynanhSvfA42lHc8/edit#heading=h.8btdtvvsls2) (DRI: @momack2)
+  - Aiming to make go-ipfs and IPLD better support syncing deep graphs
+- [IPFS Gateway Tiger Team](https://docs.google.com/document/d/1VUfTNtW1Q4fTNpISyYaRp5QnbReizMpLvw5dp7e1eqs/edit#heading=h.qstqu9bvhqwz) (DRI: @scout)
+  - Diagnose and fix problems with the gateway
 
 ## Projects that have evolved into their own entities
 
