@@ -33,7 +33,7 @@ _General discussions, decisions, etc._
     -   [OKRs - 2019 Q2 Web Browsers WG: team-mgmt/pull/910](https://github.com/ipfs/team-mgmt/pull/910) 
     -   Meetings and discussions around ENS collaborations
     -   (i18n) [added support for pt-BR to existing projects](https://github.com/ipfs/i18n/issues/7) 
-    -   Started tracking Alt-Srv in <https://github.com/ipfs/in-web-browsers/issues/144> 
+    -   Started tracking `Alt-Svc` in <https://github.com/ipfs/in-web-browsers/issues/144> 
     -   [IPFS Companion v2.8.0 landed in Stable Channel](https://github.com/ipfs-shipyard/ipfs-companion/releases/tag/v2.8.0)
     -   \[Brave+chrome.sockets]: WIP [Embedded JS Gateway now produces valid streaming responses](https://github.com/ipfs-shipyard/ipfs-companion/issues/664#issuecomment-479535264)
 -   Next:
