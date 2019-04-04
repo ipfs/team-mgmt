@@ -372,7 +372,7 @@ User research, collaborations, and features to make the knowledge and tools on t
 
 - **Coordination**: https://github.com/ipfs/package-managers
 - **Roadmap**: TBD
-- **Working Group Mailing List**: TBD
+- **Working Group Mailing List**: package-managers-wg@ipfs.io
 - **[Alex Potsides](https://github.com/achingbrain): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
 
