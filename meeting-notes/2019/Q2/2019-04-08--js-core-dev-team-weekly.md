@@ -120,6 +120,24 @@
  - Next:
    - Submit upstream PRs
 
+- @dirkmc:
+  - Done:
+    - Some fixes to DHT [js-libp2p-kad-dht#95]
+    - Async / await endeavour
+      - PR for js-libp2p-tcp [js-libp2p-tcp#102]
+      - Thinking about how to model a nice interface to be able to cancel dials
+    - DHT Visualization tool:
+      - https://github.com/dirkmc/js-libp2p-kad-dht-viz
+  - Blocked:
+    - Async/await:
+      - multihashing-async PR is ready for release [js-multihashing-async#37]
+  - Next:
+    - Visualization tool:
+      - Fix bugs with recording
+      - New visualization: see how DHT path zooms in on a key and then out again
+    - interface-transport
+      - Incorporate dial cancel
+
 
 ### Questions
 
