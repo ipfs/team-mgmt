@@ -34,6 +34,13 @@
 
 ### Questions
 
+### Cross team updates
+
+@name (team/WG)
+- win 0
+- win 1
+- ...etc.
+
 ### Other notes
 
 <!-- After each call, the notetaker submits a PR to ipfs/pm to store the notes on the meeting-notes folder -->
