@@ -9,7 +9,7 @@
     -   @pkafei
     -   @ericronne
     -   @jessicaschilling
-    -   @jessicaschilling’s cat
+    -   Luna (@jessicaschilling’s cat)
     -   @fsdiogo
     -   @lidel
     -   @terichadbourne
