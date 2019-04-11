@@ -15,7 +15,6 @@
 - [Active Teams](#active-teams)
   - [**Working** Groups](#working-groups)
     - [**Project**](#project)
-    - [**Community**](#community)
     - `Development and Maintenance of the Protocol:`
       - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
       - [**Golang Core Dev**](#golang-ipfs-implementation)
@@ -155,7 +154,6 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 ### Working Groups
 
 - [**Project**](#project)
-- [**Community**](#community)
 - `Development and Maintenance of the Protocol:`
   - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
   - [**Golang Core Dev**](#golang-ipfs-implementation)
@@ -186,32 +184,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - Facilitate communication and alignment accross the organization.
 - Research, develop and build new ways to help async teams coordinate at scale.
 - Recognize needs of the project and develop solutions to meet them.
-
-#### Community
-
-- **Coordination**: https://github.com/ipfs/community
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_COMMUNITY.md
-- **Working Group Mailing List**: community-wg@ipfs.io
-- **[Mikeal Rogers](https://github.com/mikeal): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
-
-Community outreach working group. Coordinates the communities around events, blog posts
-documentation, automation and education.
-
-- Evangelism (Events, Social Media)
-- Editorial (Blogs, Documentation)
-- Education (ProtoSchool, Demos)
-- Automation (Probots, etc)
-
-**Responsibilities include**:
-- Help community members organize meetups for their own communities.
-- Respond to requests for IPFS presence in conferences.
-- Facilitate community content for social media channels.
-- Publish regular updates to the community (blog posts and newsletters).
-- Create Tutorials and Workshops to teach concepts about IPFS and the Distributed Web in ProtoSchool.
-- Ensure that public forums (discuss.ipfs.io, irc, github, etc) have adequate moderation and responsive support.
-- Ensure that the code of conduct is followed and provide appropriate support or response when violations occur.
-- Author and improve documention.
+- IPFS community development.
 
 #### JavaScript IPFS implementation
 
