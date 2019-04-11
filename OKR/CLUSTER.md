@@ -9,7 +9,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 The following items complete IPFS Cluster for default usage as a Pinset orchestration tool.
 
 * KR: Swagger API documentation for the REST API (Kishan) - P0
-* KR: Re-organizing and iterating on the current documentation/website (Mhz) - P0
+* KR: Re-organizing and iterating on the current documentation/website (Mhz, pkafei) - P0
 * KR: Generate 3 step-by-step guides for standard ways of using Cluster
   * KR: Guide on CLI tooling (Adrian) P0
   * KR: Guide on how IPFS and Cluster works (Mhz) P0
@@ -46,6 +46,7 @@ The following may not be for next quarters as realistically they will very likel
 ### O4. Cluster outreach
 
 * KR: Finish illustrations - P0 (Mhz)
+* KR: Cluster Starter App - P1 (pkafei)
 * KR: Workshop for IPFS Camp - P0 (Hsanjuan)
 * KR: Pinning service for IPFS Camp - P0 (Adrian)
 * KR: Talks on IPFS Cluster that we can take to conferences - P1 (Hsanjuan)
