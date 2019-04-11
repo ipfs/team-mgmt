@@ -41,7 +41,7 @@ This document presents the the existing teams that emerged and that led to the m
 ### One line definition
 
 - **Working Group** - A cohesive team with measurable goals for each quarter. A Working Group needs to have a Captain, a set of people commited to it, and entry point repo and Objectives & Key Results defined per Quarter.
-- **Special Interest Group** - A set of people focused on exploring a specific vertical or interconnection between projects. A Special Interest Group is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical. 
+- **Special Interest Group** - A set of people focused on exploring a specific vertical or interconnection between projects. A Special Interest Group is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical.
 - **Tiger Team** - A small, temporary group of people aimed at solving a specific problem or building a particular feature. A tiger team needs a DRI that drives the team's engagement and agenda, and a set of ad hoc communication channels to empower quick iteration amongst teammates.
 
 ### Expanded description
@@ -56,9 +56,9 @@ Each contributor shouldn't carry responsibilities accross multiple working group
 
 **Special Interest Groups**
 
-Special Interest Groups are set of people focused on exploring a specific vertical or interconnection between projects. This is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical. 
+Special Interest Groups are set of people focused on exploring a specific vertical or interconnection between projects. This is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical.
 
-SIGs have many possible outputs including research surveys, tools, experiments, RFPs, talks, demos, guides, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups. They frequently gather a community of interest around their vertical which they convene on a regular cadence for meetings and discussion. 
+SIGs have many possible outputs including research surveys, tools, experiments, RFPs, talks, demos, guides, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups. They frequently gather a community of interest around their vertical which they convene on a regular cadence for meetings and discussion.
 
 Unlike a Working Group, a Special Interest Group doesn't require a Captain or OKRs to be formed and having individuals that subscribe to multiple SIGs (or both a Working Group and a SIG) isn't considered harmful.
 
@@ -184,7 +184,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - Facilitate communication and alignment accross the organization.
 - Research, develop and build new ways to help async teams coordinate at scale.
 - Recognize needs of the project and develop solutions to meet them.
-- IPFS community development.
+- Support and develop the IPFS community.
 
 #### JavaScript IPFS implementation
 
