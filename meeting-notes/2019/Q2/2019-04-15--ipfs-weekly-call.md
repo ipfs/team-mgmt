@@ -2,7 +2,7 @@
 
 -   **Moderator:** @pkafei
 -   **Notetaker:** @jacobheun
--   **Video:** 
+-   **Video:** https://youtu.be/JFWi5yebR88
 -   **Attendees:**
     -   @alanshaw
     -   @prfnv
