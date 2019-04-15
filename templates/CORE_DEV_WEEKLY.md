@@ -43,4 +43,4 @@
 
 ### Other notes
 
-<!-- After each call, the notetaker submits a PR to ipfs/pm to store the notes on the meeting-notes folder -->
+<!-- After each call, the notetaker submits a PR to ipfs/team-mgmt to store the notes on the meeting-notes folder -->
