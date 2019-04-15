@@ -7,6 +7,7 @@
   - @jimpick
   - @vmx
   - @achingbrain
+  - @lidel
 - **Recording:** https://youtu.be/f4L2EsAY9VQ
 
 ## Agenda
@@ -26,13 +27,6 @@
 ## Notes
 
 ### Week Update
-
-@name
-- Done:
-- Blocked:
-- Next:
-
-
 
 @AuHau (not attending)
 - Done: First version of PR with the JS Repo Migration tool is up [here](https://github.com/AuHau/js-ipfs-repo-migrations/pull/1), feedback is welcomed!
@@ -142,7 +136,6 @@
   - async/await in unixfs importer/exporter
   - async/await in mfs
 
-
 @vmx
  - Done:
    - Moving js-ipld-dag-cbor, js-ipld-raw, js-ipld-ethereum to new IPLD Formats API (part of the async/await endevour): https://github.com/ipld/interface-ipld-format/pull/51 
@@ -155,11 +148,6 @@
 
 ### Cross team updates
 
-- @name (Team/WG)
-  - Update 0
-  - Update 1
-  - etc.
-
 - @jimpick (DDC WG)
   - IPNS Zoom Chat on Wednesday 4pm UTC - https://calendar.google.com/event?action=TEMPLATE&tmeid=MzkzcjVvMXQzcHY1bDlpdGVjNjJqa2RyZmkgcHJvdG9jb2wuYWlfN241N29zZzIyN3JvNW00MmM5N2E2OTViMDBAZw&tmsrc=protocol.ai_7n57osg227ro5m42c97a695b00%40group.calendar.google.com
 
@@ -169,6 +157,7 @@
 
 - @vasco-santos out on 19th (friday) - Public holiday in Portugal
 - @vmx out Wed or Thu (17/18th) and on Fri (19th) and Mon (22nd)
+- @alanshaw (+ other UK workers) out Friday and Monday - UK public holidays
 - https://discuss.libp2p.io - libp2p got a forum
 - perf improvements to IPLD going on in js-ipld-stack - https://github.com/ipld/js-ipld-stack/tree/master
 
