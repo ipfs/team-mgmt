@@ -1,6 +1,6 @@
 # GUI & In Web Browsers Weekly Sync 2019-04-17
 
--   Recording: (@lidel will add link here when ready)
+-   Recording: <https://youtu.be/KPIu5Q_Q76I> / [/ipfs/bafybeicamu4s7rkdow3irsfvtqzzlon5tbxhcduovxqe3ifdpogxo7zu34](https://ipfs.io/ipfs/bafybeicamu4s7rkdow3irsfvtqzzlon5tbxhcduovxqe3ifdpogxo7zu34/)
 -   Moderator: @lidel
 -   Notetaker: @dietrich
 -   Attendees:
@@ -10,25 +10,16 @@
     -   @dietrich
     -   @ericronne
     -   @jimpick
-    -   attendee names...
-
-**Preflight checklist**
-
--   Call for additional**agenda** items!
--   Ensure that there is a**notetaker**!
--   Start**recording**! :^)
 
 **Agenda**
 
 _General discussions, decisions, etc._
 
 -   Start with Team Updates and Demos
--   **_**_{ add your items below}_**_**
--   __@dietrich - You got your IPFS in my Filecoin!__
--   __@dietrich - Words, words, words:_[_https://ethercalc.org/pfn2sr40qogi_](https://ethercalc.org/pfn2sr40qogi)_
+-   _@dietrich - You got your IPFS in my Filecoin!_
+-   _@dietrich - Words, words, words:_[_https://ethercalc.org/pfn2sr40qogi_](https://ethercalc.org/pfn2sr40qogi)_
     -   _[_https://www.youtube.com/watch?v=raN4S2B4-vo_](https://www.youtube.com/watch?v=raN4S2B4-vo)_ __
-    -   __+ form by_@ericronne[_https://docs.google.com/forms/d/e/1FAIpQLSdEHpIdXYYLAoecc2rl2cSBGRI1SfzdhasM_rPjSKJRV7QxKQ/viewform_](https://docs.google.com/forms/d/e/1FAIpQLSdEHpIdXYYLAoecc2rl2cSBGRI1SfzdhasM_rPjSKJRV7QxKQ/viewform)_ __
--   (&lt;your_name&gt;, topic)
+    -   __+ form by_@ericronne[_https://docs.google.com/forms/d/e/1FAIpQLSdEHpIdXYYLAoecc2rl2cSBGRI1SfzdhasM_rPjSKJRV7QxKQ/viewform_](https://docs.google.com/forms/d/e/1FAIpQLSdEHpIdXYYLAoecc2rl2cSBGRI1SfzdhasM_rPjSKJRV7QxKQ/viewform)_ 
 
 **Team Updates**
 
