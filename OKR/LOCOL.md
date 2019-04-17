@@ -3,7 +3,11 @@
 We frame our ongoing work using a process based on quarterly Objectives and Key Results (OKRs). Objectives reflect outcomes that are challenging, but realistic. Results are tangible and measurable.
 
 ## 2019 Q2
-- In progress
+- Engage with wider Local/Offline-First communities
+  - [terichadbourne] Offline Camp planning is underway with 80% of attendees and sponsors booked
+  - [momack2] Form 3+ additional Local Offline Collab relationships through attendance at DTN and IPFS Camp
+  - [momack2] Create 1 demo, talk, or installation for IPFS Camp and future Q3 conferences
+  - [momack2] Increase IPFS Locol visibility and awareness with 1+ reference material (videos, posts, etc) with over 50 views
 
 ## 2019 Q1
 
