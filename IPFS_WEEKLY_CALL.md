@@ -15,7 +15,7 @@ The 30-minute IPFS Weekly Update takes place weekly on Mondays at:
 
 Each week's call will feature one or more short talks from guest presenters, in one of the following formats:
 - One 15-minute talk (3x per month)
-- Three 5-minute lightning talks (1x per month)
+- Show and tell with realtime signup for demos, feature intros, status updates, and questions (1x per month)
 
 <img src="https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1541176158/ipfs_crew_xzbhxr.png" width="400"/>
 
