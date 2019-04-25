@@ -81,16 +81,16 @@ _General discussions, decisions, etc._
         -   <https://github.com/hugomrdias/pull-to-stream/pull/1> 
     -   Fixed up file drop on empty dir in webui
         -   <https://github.com/ipfs-shipyard/ipfs-webui/pull/1020>
-    -   Fixed up contrast on buttons in webui (thanks to[@ericronne’s design review](https://github.com/ipfs-shipyard/ipfs-webui/issues/1004))
+    -   Fixed up contrast on buttons in webui (thanks to [@ericronne’s design review](https://github.com/ipfs-shipyard/ipfs-webui/issues/1004))
         -   <https://github.com/ipfs-shipyard/ipfs-webui/pull/1021> 
     -   Fixed up https&#x3A;//docs.ipfs.io site dev build process, and previews on PRs and cleared PR backlog
-        -     -<https://github.com/ipfs/docs/pull/163> 
-        -     -<https://github.com/ipfs/docs/pull/161> 
-        -     -<https://github.com/ipfs/docs/pull/160> 
-        -     -<https://github.com/ipfs/docs/pull/159> 
-        -     -<https://github.com/ipfs/docs/pull/158> 
-        -     -<https://github.com/ipfs/docs/pull/150> 
-        -     -<https://github.com/ipfs/docs/pull/149>
+        - <https://github.com/ipfs/docs/pull/163> 
+        - <https://github.com/ipfs/docs/pull/161> 
+        - <https://github.com/ipfs/docs/pull/160> 
+        - <https://github.com/ipfs/docs/pull/159> 
+        - <https://github.com/ipfs/docs/pull/158> 
+        - <https://github.com/ipfs/docs/pull/150> 
+        - <https://github.com/ipfs/docs/pull/149>
     -   Review “prompt to add ipfs to path” ipfs-desktop PR
         -   "prompt for path" https&#x3A;//github.com/ipfs-shipyard/ipfs-desktop/pull/906
 -   Blocked:
