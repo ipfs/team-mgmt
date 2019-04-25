@@ -13,18 +13,11 @@
     -   @cwaring
     -   @hugomrdias
     -   @lidel
-    -   attendee names...
-  
-**Preflight checklist**
--   Call for additional **agenda** items!
--   Ensure that there is a **notetaker**!
--   Start **recording**! :^)
+
   
 **Agenda**
 _General discussions, decisions, etc._
 -   Start with Team Updates and Demos
--   **_**_{ add your items below}_**_**
--   (&lt;your_name>, topic)
   
 **Team Updates**
   
@@ -71,7 +64,7 @@ _General discussions, decisions, etc._
         -   <https://github.com/ProtoSchool/protoschool.github.io/pull/199>
     -   Added UI logs to Blog tutorial
         -   <https://github.com/ProtoSchool/protoschool.github.io/pull/201>
-    -   Added \`View Solution\` to lessons
+    -   Added `View Solution` to lessons
         -   <https://github.com/ProtoSchool/protoschool.github.io/pull/202>
     -   \[WIP] Fixed Blog lesson 7 validation and solution
         -   <https://github.com/ProtoSchool/protoschool.github.io/pull/204>
@@ -91,19 +84,19 @@ _General discussions, decisions, etc._
     -   Fixed up contrast on buttons in webui (thanks to[@ericronne’s design review](https://github.com/ipfs-shipyard/ipfs-webui/issues/1004))
         -   <https://github.com/ipfs-shipyard/ipfs-webui/pull/1021> 
     -   Fixed up https&#x3A;//docs.ipfs.io site dev build process, and previews on PRs and cleared PR backlog
-        -     \-<https://github.com/ipfs/docs/pull/163> 
-        -     \-<https://github.com/ipfs/docs/pull/161> 
-        -     \-<https://github.com/ipfs/docs/pull/160> 
-        -     \-<https://github.com/ipfs/docs/pull/159> 
-        -     \-<https://github.com/ipfs/docs/pull/158> 
-        -     \-<https://github.com/ipfs/docs/pull/150> 
-        -     \-<https://github.com/ipfs/docs/pull/149>
+        -     -<https://github.com/ipfs/docs/pull/163> 
+        -     -<https://github.com/ipfs/docs/pull/161> 
+        -     -<https://github.com/ipfs/docs/pull/160> 
+        -     -<https://github.com/ipfs/docs/pull/159> 
+        -     -<https://github.com/ipfs/docs/pull/158> 
+        -     -<https://github.com/ipfs/docs/pull/150> 
+        -     -<https://github.com/ipfs/docs/pull/149>
     -   Review “prompt to add ipfs to path” ipfs-desktop PR
         -   "prompt for path" https&#x3A;//github.com/ipfs-shipyard/ipfs-desktop/pull/906
 -   Blocked:
     -   Minor - cid.ipfs.io CI/CD process PR can’t progress without infra
         -   <https://github.com/multiformats/cid-utils-website/pull/13/files>
-    -   https&#x3A;//research.filecoin.io site waiting on DNS PR merge ([see preview](https://filecoin-project.github.io/research-website/))
+    -   https://research.filecoin.io site waiting on DNS PR merge ([see preview](https://filecoin-project.github.io/research-website/))
         -   <https://github.com/protocol/infra/pull/466> 
         -   <https://github.com/filecoin-project/research-website/> 
   
@@ -111,7 +104,7 @@ _General discussions, decisions, etc._
     -   End-to-end tests for file upload in webui and desktop.
     -   Cut releases of IPFS Web UI and IPFS Desktop
         -   UI tweaks, File upload fixes, reduced bundle size and...
-        -   **add \`ipfs\`to PATH** 
+        -   **add `ipfs`to PATH** 
     -   First draft of “The lifecycle of data in Dweb” course for IPFS camp
   
   
@@ -185,7 +178,7 @@ _General discussions, decisions, etc._
         -   <https://github.com/ipfs/js-ipfs-http-client/pull/974>
     -   fix: dont drain source while drain in progress
         -   [https://github.com/hugomrdias/pull-to-stream/pull/1](https://github.com/hugomrdias/pull-to-stream/pull/1](https://github.com/hugomrdias/pull-to-stream/pull/1))
-        -   Fixes<https://github.com/ipfs/js-ipfs-http-client/issues/967>
+        -   Fixes <https://github.com/ipfs/js-ipfs-http-client/issues/967>
     -   Add support for File DOM api to http-client
 -   Blocked
     -   make ipfs name resolve recursive
