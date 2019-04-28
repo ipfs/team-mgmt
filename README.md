@@ -14,8 +14,7 @@
 - [Asynchronous Communitication](#asynchronous-communication)
   - [Project & Working Groups Roadmaps](#project--working-groups-roadmaps)
   - [OKR (Objectives & Key Results)](#okrs)
-  - [Kanban](#kanban)
-  - [Repo Activity](#repo-activity)
+  - [Tracking Repo Activity](#tracking-repo-activity)
 - [Synchronous Communication](#synchronous-communication)
   - [Weekly All Hands](#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
@@ -73,41 +72,9 @@ The IPFS Project & Working Group Roadmaps serve as the north star for our quarte
 
 Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
-### Kanban
+### Tracking Repo Activity
 
-We use a Kanban style of tracking accross our multiple repos using the [Waffle Board](https://waffle.io) tool. You can read how we have adopted it at [Kanban](KANBAN.md).
-
-Here is a list of the Kanbans that are currently active:
-
-- __Working Groups__
-  - _Development and Maintenance_
-    - [JS Core](https://waffle.io/ipfs/js-ipfs)
-    - [Go Core](https://waffle.io/ipfs/go-ipfs)
-    - [GUI](https://waffle.io/ipfs/ipfs-gui)
-    - [Cluster](https://waffle.io/ipfs/ipfs-cluster)
-    - [Infrastructure](https://waffle.io/ipfs/infra)
-  - _Efforts to Support Specific Uses_
-    - [In Web Browsers](https://waffle.io/ipfs/in-web-browsers)
-    - [Dynamic Data & Capabilities](https://waffle.io/ipfs/dynamic-data-and-capabilities)
-    - Decentralized Data Stewardship (n/a)
-    - Local Offline Collaboration (n/a)
-    - [Package Managers](https://waffle.io/ipfs/package-managers)
-
-  - Community (n/a)
-  - [Project](https://waffle.io/ipfs/project)
-- __Kanbans specific to Projects__
-  - [Identity Manager](https://waffle.io/ipfs-shipyard/pm-idm)
-  - [Discussify](https://waffle.io/ipfs-shipyard/pm-discussify)
-  - [Aegir](https://waffle.io/ipfs/aegir)
-  - [Archives](https://waffle.io/ipfs/archives)
-  - [IPFS Blog](https://waffle.io/ipfs/blog)
-- [Kanban with every repo](https://waffle.io/ipfs/ipfs) (caution, it takes a bit to load)
-
-### Repo Activity
-
-[![Throughput Graph](https://graphs.waffle.io/ipfs/ipfs/throughput.svg)](https://waffle.io/ipfs/ipfs/metrics/throughput)
-
-Processing all the IPFS activity can be a daunting task, there is simply too much happening (which is great!). To make it simpler (and bareable), we recommend trying using the Waffle Boards directly or [Octobox](https://octobox.io/).
+We recommend trying using [Octobox](https://octobox.io/) as a way to keep up to date with different issues, tags, notifications and so on accross Github.
 
 ## Synchronous Communication
 
