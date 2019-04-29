@@ -146,7 +146,7 @@ _General discussions, decisions, etc._
   
 @dietrich
 -   Previous
-    -   [Drafted slide for libp2p/IPFS business proposition for large network service and content providers](https://docs.google.com/presentation/d/1-H5pHGQp3VEOXOsvgzUKwiUa3Sav4nCgzLT_TS)
+    -   [Drafted slide for libp2p/IPFS business proposition for large network service and content providers](https://docs.google.com/presentation/d/1-H5pHGQp3VEOXOsvgzUKwiUa3Sav4nCgzLT_TSUd8yg/edit)
     -   Juanboarding meeting (props to Eric for the portmanteau)
     -   [Visualization of go-filecoin dependency graph](https://twitter.com/dietrich/status/1118677461682647040)
     -   Compiled report on which parts of IPFS are used by Filecoin for auditing purposes
