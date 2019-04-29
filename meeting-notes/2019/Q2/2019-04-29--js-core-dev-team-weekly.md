@@ -10,7 +10,7 @@
   - @jchris
   - @kumavis
   - @terichadbourne
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/bCHigS1c9Y8
 
 ## Agenda
 
@@ -141,13 +141,6 @@
   - Release interface-datastore with async/await (should unblock js-ipfs-repo async/await branch)
   - Release unixfs-importer, unixfs-exporter & ipfs-mfs async/await
 
-@name
- - Done:
- - Blocked:
- - Next:
-
-### Questions
-
 ### Cross team updates
 
 @olizilla
@@ -163,12 +156,3 @@
   - WIP PR: https://github.com/ProtoSchool/protoschool.github.io/pull/200
 - If you want to use ProtoSchool as your delivery method for part of an IPFS Camp course, please go ahead and open an issue to start discussing plans. https://github.com/ProtoSchool/protoschool.github.io/issues/new?assignees=&labels=new-tutorial&template=tutorial-proposal.md&title=New+Tutorial%3A+%5BProposed+title%5D
 - There's a ProtoSchool weekly call on Thursdays: https://github.com/ProtoSchool/organizing/issues/47
-
-@name (team/WG)
-- win 0
-- win 1
-- ...etc.
-
-### Other notes
-
-<!-- After each call, the notetaker submits a PR to ipfs/team-mgmt to store the notes on the meeting-notes folder -->
