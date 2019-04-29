@@ -4,8 +4,8 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 ## 2019 Q2
 
-- js-ipfs 2019 Q4 OKRs
-- Open Planning Thread
+- [js-ipfs 2019 Q4 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=274358435)
+- [Open Planning Thread](https://github.com/ipfs/team-mgmt/pull/927/files)
 - [Previous Quarter Retrospective](https://trello.com/b/vuNmdZTm/2019-q1-retro)
 
 ## 2019 Q1
