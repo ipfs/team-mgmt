@@ -185,6 +185,7 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 - **[David Dias](https://github.com/daviddias): Captain / IPFS Project Lead**
 - **[Molly Mackinlay](https://github.com/daviddias): TPM / IPFS Project Coordinator**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/project.svg)](https://github.com/ipfs/project)
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
 
 The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
 
@@ -203,6 +204,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/js-core.svg)](https://github.com/ipfs/js-ipfs)
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-js-core/members)**
 
 Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
@@ -221,6 +223,7 @@ Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/go-core.svg)](https://github.com/ipfs/go-ipfs)
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-go-core/members)**
 
 Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 
@@ -230,13 +233,14 @@ Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 - Upgrade and build dev tools (i.e gx).
 - Set the guidelines for writing, maintaining and managing the Go codebases, test suites, and contributions.
 
-#### IPFS GUI
+#### IPFS GUI/UX
 
 - **Coordination**: https://github.com/ipfs/ipfs-gui
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
 - **Working Group Mailing List**: gui-wg@ipfs.io
 - **[Oli Evans](https://github.com/olizilla): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
 
 Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
@@ -253,6 +257,7 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 - **Working Group Mailing List**: cluster-wg@ipfs.io
 - **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-ipfs-cluster)**
 
 The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 
@@ -267,6 +272,7 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 - **Working Group Mailing List**: infra-wg@ipfs.io
 - **[Erin Fahy](https://github.com/eefahy): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-infrastructure/members)**
 
 Tools and systems for the IPFS community.
 
@@ -286,6 +292,7 @@ Tools and systems for the IPFS community.
 - **Working Group Mailing List**: wb-wg@ipfs.io
 - **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-web-browsers/members)**
 
 The Integration with Web Browsers Working Group designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
 
@@ -299,7 +306,6 @@ The Integration with Web Browsers Working Group designs and implements browser i
 - Increase the adoption of the distributed web by making it easy for users to access it.
 - Define specifications for address schemes and advocate for those schemes to be adopted.
 
-
 ### Special Interest Groups
 
 **Active SIGs**
@@ -307,7 +313,6 @@ The Integration with Web Browsers Working Group designs and implements browser i
 - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
 - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
 - [**Package Managers**](#package-managers)
-
 
 #### Dynamic Data and Capabilities
 
