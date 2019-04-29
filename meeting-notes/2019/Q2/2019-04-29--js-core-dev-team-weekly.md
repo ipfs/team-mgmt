@@ -39,7 +39,7 @@
     - Worked on [`it-mplex`](https://github.com/alanshaw/it-mplex) (a JS implementation of mplex using async iterators)
         - Around 20% faster than `js-libp2p-mplex` (10% faster than `pull-mplex`)
         - Around 65% smaller (in lines of code - 250 vs 700)
-        - Click to enlarge:<a href="https://usercontent.irccloud-cdn.com/file/3BicxZiN/Screenshot%202019-04-27%20at%2014.40.28.png" target="_blank"><img src="https://usercontent.irccloud-cdn.com/file/3BicxZiN/Screenshot%202019-04-27%20at%2014.40.28.png" style="max-width:100%" /></a>
+        - Click to enlarge: <a href="https://usercontent.irccloud-cdn.com/file/3BicxZiN/Screenshot%202019-04-27%20at%2014.40.28.png" target="_blank"><img src="https://usercontent.irccloud-cdn.com/file/3BicxZiN/Screenshot%202019-04-27%20at%2014.40.28.png" style="max-width:100%" /></a>
     - Created `it-pushable` https://github.com/alanshaw/it-pushable
 - Blocked:
     - `n/a`
