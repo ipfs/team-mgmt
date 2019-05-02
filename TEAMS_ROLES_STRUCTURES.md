@@ -18,11 +18,11 @@
     - `Development and maintenance of the Protocol:`
       - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
       - [**Golang Core Dev**](#golang-ipfs-implementation)
+      - [**IPFS Infrastructure**](#ipfs-infrastructure)
     - `Efforts to simplify use of the Protocol:`
       - [**Integration with Web Browsers**](#integration-with-web-browsers)
       - [**IPFS GUI**](#ipfs-gui)
       - [**IPFS Cluster**](#ipfs-cluster)
-      - [**IPFS Infrastructure**](#ipfs-infrastructure)
   - [**Special Interest** Groups](#special-interest-groups)
       - [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
       - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
@@ -171,11 +171,11 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 - `Development and maintenance of the Protocol:`
   - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
   - [**Golang Core Dev**](#golang-ipfs-implementation)
+  - [**IPFS Infrastructure**](#ipfs-infrastructure)
 - `Efforts to simplify use of the Protocol:`
   - [**Integration with Web Browsers**](#integration-with-web-browsers)
   - [**IPFS GUI**](#ipfs-gui)
   - [**IPFS Cluster**](#ipfs-cluster)
-  - [**IPFS Infrastructure**](#ipfs-infrastructure)
 
 #### Project
 
@@ -233,38 +233,6 @@ Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 - Upgrade and build dev tools (i.e gx).
 - Set the guidelines for writing, maintaining and managing the Go codebases, test suites, and contributions.
 
-#### IPFS GUI/UX
-
-- **Coordination**: https://github.com/ipfs/ipfs-gui
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
-- **Working Group Mailing List**: gui-wg@ipfs.io
-- **[Oli Evans](https://github.com/olizilla): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
-
-Making IPFS GUIs simple, accessible, reusable, and beautiful.
-
-**Responsibilities include**:
-- Fight complexity at every step.
-- IPFS must be usable and comprehensible for everyone.
-- Publish and promote this work. Make doing the right thing the easiest thing.
-- Demonstrate the nature of the system with effortless, coherent, and compelling interfaces.
-
-#### IPFS Cluster
-
-- **Coordination**: https://github.com/ipfs/ipfs-cluster
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
-- **Working Group Mailing List**: cluster-wg@ipfs.io
-- **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-ipfs-cluster)**
-
-The IPFS Cluster Working Group is the team implementing IPFS Cluster.
-
-**Responsibilities include**:
-- Design and implement IPFS Cluster.
-- Provide knowledge and APIs that organizations with large data sets can use.
-
 #### IPFS Infrastructure
 
 - **Coordination**: http://github.com/ipfs/infra
@@ -305,6 +273,39 @@ The Integration with Web Browsers Working Group designs and implements browser i
 - Identify blockers and design constraints of each integration, figuring out new ways to go around those limitations.
 - Increase the adoption of the distributed web by making it easy for users to access it.
 - Define specifications for address schemes and advocate for those schemes to be adopted.
+
+#### IPFS GUI/UX
+
+- **Coordination**: https://github.com/ipfs/ipfs-gui
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
+- **Working Group Mailing List**: gui-wg@ipfs.io
+- **[Oli Evans](https://github.com/olizilla): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
+
+Making IPFS GUIs simple, accessible, reusable, and beautiful.
+
+**Responsibilities include**:
+- Fight complexity at every step.
+- IPFS must be usable and comprehensible for everyone.
+- Publish and promote this work. Make doing the right thing the easiest thing.
+- Demonstrate the nature of the system with effortless, coherent, and compelling interfaces.
+
+#### IPFS Cluster
+
+- **Coordination**: https://github.com/ipfs/ipfs-cluster
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
+- **Working Group Mailing List**: cluster-wg@ipfs.io
+- **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-ipfs-cluster)**
+
+The IPFS Cluster Working Group is the team implementing IPFS Cluster.
+
+**Responsibilities include**:
+- Design and implement IPFS Cluster.
+- Provide knowledge and APIs that organizations with large data sets can use.
+
 
 ### Special Interest Groups
 
