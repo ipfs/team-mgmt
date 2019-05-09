@@ -1,10 +1,16 @@
 # GUI & In Web Browsers Weekly Sync 2019-05-08
   
--   Recording: [bafybeichbxse6zcwxxapsokfdgmxa7jzwj7jjwcvegrn24gjkkh7pb4gfq](https://ipfs.io/ipfs/bafybeichbxse6zcwxxapsokfdgmxa7jzwj7jjwcvegrn24gjkkh7pb4gfq) or <https://youtu.be/GE0Zhi0PLs4>
+-   Recording: [bafybeifi66lzruzmlbev3xqas7fwjfptzcp7yycu6vxegycswptuuewhei](https://ipfs.io/ipfs/bafybeifi66lzruzmlbev3xqas7fwjfptzcp7yycu6vxegycswptuuewhei/) (mirror: <https://youtu.be/GE0Zhi0PLs4>)
 -   Moderator: @olizilla
 -   Notetaker: @autonome
 -   Attendees:
-    -   attendee names...
+    -   @autonome
+    -   @olizilla
+    -   @lidel
+    -   @fsdiogo
+    -   @terichadbourne
+    -   @hugomrdias
+    -   @cwaring
   
 **Agenda**
 _General discussions, decisions, etc._
