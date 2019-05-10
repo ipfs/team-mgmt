@@ -6,24 +6,16 @@
 
     -   _@alanshaw_
     -   _@jimpick_
-
-_@abhikchowdhury6_
-
-_@jonnycrunch_
-
-_@jaycarpenter_
-
-_@ChrisMatthieu_
-
-  
-
-
--   _@skybondsor_
--   _@aschmahmann_
--   _@kishansagathiya_
--   _@terceranexus6_
--   _@nukemandan_
--   _attendee names..._
+    -   _@abhikchowdhury6_
+    -   _@jonnycrunch_
+    -   _@jaycarpenter_
+    -   _@ChrisMatthieu_
+    -   _@skybondsor_
+    -   _@aschmahmann_
+    -   _@kishansagathiya_
+    -   _@terceranexus6_
+    -   _@nukemandan_
+    -   _attendee names..._
 
   
 
@@ -34,10 +26,8 @@ _@ChrisMatthieu_
 -   Start recording
 -   Call for additional agenda items
 
-  
 
-
-**Agenda**
+## Agenda
 
 **Topic:** The Decentralized Internet and Privacy
 
@@ -50,12 +40,10 @@ _@ChrisMatthieu_
 
 **A**: IPFS is a potential solution to help prevent losing stories from people in countries where the originals are removed, such as a computer being confiscated
 
-  
-
 
 **Demos**
 
-_@alanshaw - iim - IPFS Install Manager_[_https://github.com/alanshaw/iim_](https://github.com/alanshaw/iim)
+_@alanshaw - iim - IPFS Install Manager_ - [https://github.com/alanshaw/iim](https://github.com/alanshaw/iim)
 
 -   Not quite a package manager, but a way to manage the version and implementation (go, js) you have installed
 -   Requires nodejs, you can install via npm: \`npm i -g iim\`
@@ -69,8 +57,6 @@ _@alanshaw - iim - IPFS Install Manager_[_https://github.com/alanshaw/iim_](http
 -   It would be cool if you could use this with another language like python.
 
     -   If you can put it on npm you can use it. iim currently only uses npm for installation
-
-  
 
 
 **Q:** How do you verify the authenticity of the binary? Are you validating the signed binary from github?
