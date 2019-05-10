@@ -90,7 +90,7 @@ Here is a list of the Kanbans that are currently active:
     - [Cluster](https://waffle.io/ipfs/ipfs-cluster)
     - [Infrastructure](https://waffle.io/ipfs/infra)
 - __Kanbans specific to Projects__
-  - [Identity Manager](https://waffle.io/ipfs-shipyard/pm-idm)
+  - [Identity Manager](https://github.com/ipfs-shipyard/pm-idm/projects/1)
   - [Discussify](https://waffle.io/ipfs-shipyard/pm-discussify)
   - [Aegir](https://waffle.io/ipfs/aegir)
   - [Archives](https://waffle.io/ipfs/archives)
