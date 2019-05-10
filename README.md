@@ -124,16 +124,19 @@ This call and other IPFS Community calls are tracked on the [IPFS Community Cale
 
 If you are hosting a call for the first time or interested in learning how to do it, consult the [HOST_A_CALL](HOST_A_CALL.md) guide.
 
-### Working Groups Weekly/BiWeekly Syncs
+### Weekly/BiWeekly Syncs of Working Groups, Special Interest Groups, and Related Projects
 
 - [`JS Core Dev`](https://github.com/ipfs/team-mgmt/issues/650)
 - [`Go Core Dev`](https://github.com/ipfs/team-mgmt/issues/674)
 - [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
 - [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
+- [`Package Management`](https://github.com/ipfs/package-managers/issues/1)
+- [`ProtoSchool`](https://github.com/ProtoSchool/organizing/issues/47)
+- [`Local Offline Collaboration`](https://github.com/ipfs/local-offline-collab/issues?utf8=%E2%9C%93&q=is%3Aissue++label%3A%22%F0%9F%93%9E+Monthly+Call%22+)
 
 ### Calendar
 
-You can consult all IPFS related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
+You can consult all IPFS-related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
 
 ### IRC
 
