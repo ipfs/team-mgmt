@@ -13,6 +13,7 @@ More: https://github.com/ipfs/dynamic-data-and-capabilities
 ## 2019 Q1
 
 - [DDC 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=412099511)
+- [Planning Thread](https://github.com/ipfs/team-mgmt/pull/802)
 - [Previous Quarter Retrospective](https://github.com/ipfs/dynamic-data-and-capabilities/issues/60)
 
 ## 2018 Q4
