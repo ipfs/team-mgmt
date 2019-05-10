@@ -2,6 +2,12 @@
 
 We frame our ongoing work using a process based on quarterly Objectives and Key Results (OKRs). Objectives reflect outcomes that are challenging, but realistic. Results are tangible and measurable.
 
+## 2019 Q2
+- [go-ipfs 2019 Q2 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=1720716278)
+- [OKR Explanation video](https://www.youtube.com/watch?v=xv5xY-N-2G4&list=PLuhRWgmPaHtRUYCD_RyUw2ldU4lyoSXR1&index=3)
+- [Planning Thread](https://github.com/ipfs/team-mgmt/pull/903)
+- [Previous Quarter Retrospective](https://docs.google.com/document/d/14VplImHoUCVJdCMEMr-P9gatt0E1jDuj2ZOQgND_f7U/edit)
+
 ## 2019 Q1
 
 - [go-ipfs 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=1720716278)
