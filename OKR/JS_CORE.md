@@ -2,6 +2,18 @@
 
 We frame our ongoing work using a process based on quarterly Objectives and Key Results (OKRs). Objectives reflect outcomes that are challenging, but realistic. Results are tangible and measurable.
 
+## 2019 Q2
+
+- [js-ipfs 2019 Q4 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=274358435)
+- [Open Planning Thread](https://github.com/ipfs/team-mgmt/pull/927/files)
+- [Previous Quarter Retrospective](https://trello.com/b/vuNmdZTm/2019-q1-retro)
+
+## 2019 Q1
+
+- [js-ipfs 2019 Q4 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=274358435)
+- [Open Planning Thread](https://github.com/ipfs/team-mgmt/pull/799)
+- [Previous Quarter Retrospective](https://docs.google.com/document/d/1z6_eTW_8pI5VUj5UMq4K_Gpofofd7ENwzLdEBCuNULI/edit)
+
 ## 2018 Q4
 
 - [js-ipfs 2018 Q4 OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=274358435)

@@ -4,12 +4,17 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 More: https://github.com/ipfs/dynamic-data-and-capabilities
 
+## 2019 Q2
+
+- [DDC 2019 Q2 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=27675624)
+- [Explanation video](https://www.youtube.com/watch?v=6STqZMeJrvw&list=PLuhRWgmPaHtRUYCD_RyUw2ldU4lyoSXR1&index=6)
+- [Brainstorming document](https://github.com/ipfs/dynamic-data-and-capabilities/issues/74)
+
 ## 2019 Q1
 
 - [DDC 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=412099511)
 - [Planning Thread](https://github.com/ipfs/team-mgmt/pull/802)
-- [2019 DDC WG Roadmap](https://github.com/ipfs/roadmap/pull/9)
-- [Previous Quarter Retrospective](https://docs.google.com/document/d/1Zw7EHyCP2uamxOVHsVH3rRAnZOyBJczQ9CuvdOpnLO4/edit)
+- [Previous Quarter Retrospective](https://github.com/ipfs/dynamic-data-and-capabilities/issues/60)
 
 ## 2018 Q4
 
