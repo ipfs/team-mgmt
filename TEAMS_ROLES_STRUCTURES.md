@@ -9,32 +9,32 @@
 - [Team Roles](#team-roles)
   - [IPFS BDFL](#ipfs-bdfl)
   - [IPFS Project Lead](#ipfs-project-lead)
-  - [IPFS Project Coordinator](#ipfs-project-coordinator)
+  - [IPFS Project Co-Lead](#ipfs-project-co-lead)
   - [Working Group Captain](#working-group-captain)
-  - [Working Group Technical Project Manager](#working-group-technical-project-manager)
+  - [Working Group Technical Project Manager](#working-group-technical-project-manager-tpm)
 - [Active Teams](#active-teams)
   - [**Working** Groups](#working-groups)
     - [**Project**](#project)
-    - `Development and Maintenance of the Protocol:`
+    - `Development and maintenance of the Protocol:`
       - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
       - [**Golang Core Dev**](#golang-ipfs-implementation)
+      - [**IPFS Infrastructure**](#ipfs-infrastructure)
+    - `Efforts to simplify use of the Protocol:`
+      - [**Integration with Web Browsers**](#integration-with-web-browsers)
       - [**IPFS GUI**](#ipfs-gui)
       - [**IPFS Cluster**](#ipfs-cluster)
-      - [**IPFS Infrastructure**](#ipfs-infrastructure)
-    - `Efforts to Support Specific Uses:`
-      - [**Integration with Web Browsers**](#integration-with-web-browsers)
+  - [**Special Interest** Groups](#special-interest-groups)
       - [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
       - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
       - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
       - [**Package Managers**](#package-managers)
-  - [**Special Interest** Groups](#special-interest-groups)
   - [Tiger Teams](#tiger-teams)
 
 ## Description
 
 The IPFS Project is developed by multiple teams from multiple organizations and both intermittent and continuous invidividual contributors. A structure was developed (and continues to evolve) around Working & Special Interest Groups, OKRs, and PM best practices that were designed to support the already large and growing group of people to coordinate among each other at a global scale.
 
-This document presents the the existing teams that emerged and that led to the many of the sucesses within the IPFS project, their structure(namely: Working Groups & Special Interest Groups) and a definition of roles existing in the IPFS org. At the end of this document, you will find pointers to Teams and Projects that have grown to become their own entities, namely: IPLD, libp2p and Multiformats.
+This document presents the the existing teams that emerged and that led to the many of the sucesses within the IPFS project, their structure(namely: Working Groups & Special Interest Groups) and a definition of roles existing in the IPFS org. At the end of this document, you will find pointers to Teams and Projects that have grown to become their own entities, namely: [IPLD](http://ipld.io), [libp2p](https://libp2p.io) and [Multiformats](https://multiformats.io/).
 
 ## Team Structures
 
@@ -50,9 +50,15 @@ This document presents the the existing teams that emerged and that led to the m
 
 Working Groups are teams of people that are appointed to research, develop, and deploy work under the working groups' scope. This structure is designed to provide clarity and direction to the project, enabling individual contributors to focus their time and energy on the areas they are most interested.
 
-Each Working Group is free to experiment with setting their own pace, tracking work, and defining priorities. The only requirements are that the Working Group exposes its focus through OKRs to the rest of the org (common interface), that it assigns a Captain, creates an entry point repo and has at least 2 full time contributors dedicated to it.
+Each Working Group is free to experiment with setting their own pace and tracking work. The only requirements are that each Working Group: 
+- Derives its priorities from the Project level priorities
+- Exposes its focus through OKRs to the rest of the community (common interface)
+- Has a Captain & a Technical Project Manager assigned
+- Creates an entry point repo
+- Has at least 2 full time contributors dedicated to it.
 
-Each contributor shouldn't carry responsibilities accross multiple working groups. This is not forbidden by any means but it is greatly discouraged as it will prevent the contributor from achieving full focus.
+Each contributor shouldn't carry responsibilities across multiple working groups - instead spending at least 80% of their IPFS time focused on a specific working group. It is not *forbidden* by any means to split time, but it is greatly discouraged as it will prevent the contributor from achieving solid focus.
+
 
 **Special Interest Groups**
 
@@ -60,7 +66,7 @@ Special Interest Groups are set of people focused on exploring a specific vertic
 
 SIGs have many possible outputs including research surveys, tools, experiments, RFPs, talks, demos, guides, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups. They frequently gather a community of interest around their vertical which they convene on a regular cadence for meetings and discussion.
 
-Unlike a Working Group, a Special Interest Group doesn't require a Captain or OKRs to be formed and having individuals that subscribe to multiple SIGs (or both a Working Group and a SIG) isn't considered harmful.
+Unlike a Working Group, a Special Interest Group doesn't require a Captain or OKRs to be formed, and having individuals that subscribe to multiple SIGs (or both a Working Group and a SIG) isn't considered harmful.
 
 Some great examples of past SIGs are: research-pubsub which led to the implementation of PubSub by the IPFS/libp2p teams; and research-crdt which lead to the creation of the Dynamic Data & Capabilities Group.
 
@@ -76,17 +82,22 @@ A tiger team has a DRI (directly responsible individual) that drives the team's 
 
 ## Team Roles
 
-The individual contributors to the IPFS Project and Org often find themselves wearing many hats while performing their day to day tasks or on the projects they are focused on. We enable this by design to make the IPFS Org very permeable and empower each team to find its perfect balance for the challenges they are facing.
+The individual contributors to the IPFS Project and Org often find themselves wearing many hats while performing their day to day tasks in the projects they are focused on. We enable this _by design_ to make the IPFS Org very permeable and empower each team to find its perfect balance for the challenges they are facing.
+
 
 ### IPFS BDFL
 
 > Benevolent Dictator for Life
 
 Responsibilities include:
-- Lead the IPFS Project at a long term Scale
-- Represent the IPFS Project to the multitude of communities
+- Lead the IPFS Project at a long term time-scale (many years)
+- Represent the IPFS Project in key settings
 - Take responsibility in setting the direction of the project
-- Set the key priorities for the project
+- Set the key long-term priorities for the project (inform long term roadmap, OKRs)
+- Support Project Leads with issues that affect the project at a major scale
+- Ultimately responsible for the survival and functioning of the project
+- Ultimate backstop for decisions that Project Leads are not comfortable making
+- Shield Project Lead and team from external pressures
 
 This role is currently taken by [**Juan Benet**](https://github.com/jbenet), original creator of the IPFS Project.
 
@@ -95,53 +106,56 @@ This role is currently taken by [**Juan Benet**](https://github.com/jbenet), ori
 > Captain of the Captains. Analogous to the Captain/Tech Lead in each Working Group.
 
 Responsibilities include:
-- Identify unique opportunities for growth and deploying of the Protocol
-- Lead direction of the implementation of the protocol (e.g. get IPFS to 1.0.0)
-- Lead, write and review specs and documentation
-- Curate our participation in external events
-- Curate our major internal events (i.e. IPFS Conf, IPFS Camp & Dev Meetings)
-- Direct and participate in the design of technical aspects of the protocol
-- Align teams to build solutions for IPFS technical challenges
+- Identify unique opportunities for growth and deployment of the Protocol
+- Set the project-wide plan and priorities at quarterly and yearly scale (roadmap, OKRs)
+- Manages communication and execution of the plan to ensure progress happens efficiently
+- Ensure WG plans are aligned with project-wide priorities (inform their OKRs, Roadmaps, and relevant other plans)
+- Backstop for WG execution, impact, and escalated decision making (support captains, take part in key initiatives that require Project Lead support)
+- Approve protocol-level changes
 
 This role is currently taken by [**David Dias**](https://github.com/daviddias/)
 
-### IPFS Project Coordinator
+### IPFS Project Co-Lead
 
 > Master Overseer of Getting Things Done. Analogous to the Technical Project Manager / Project Manager in each Working Group.
 
 Responsibilities include:
-- Lead the quarterly planning process (OKRs) and respective retrospectives
-- Lead PL IPFS Team and Project WG Meetings
-- Design and implement clever systems for team productivity and feedback
-- Create support systems and help team members grow in their roles
-- Ensure that teams rely on a uniform structure with respective customizations as needed
+- Lead the yearly and quarterly planning process (OKRs) and respective retrospectives
+- Lead PL IPFS Team and Project WG 
+- Manage the PL<>IPFS Interface and shield team-members from PL pressures
+- Handle project-level communications (with PL and external stakeholders)
 - Create and maintain the platform for Resource allocation across teams and projects
-- Ensure that there is a steady communication flow between teams and individual contributors
+- Ensure that there is a steady communication flow between teams, individual contributors, and project leadership
 
 This role is currently taken by [**Molly Mackinlay**](https://github.com/momack2)
 
 ### Working Group Captain
 
-The Working Group Captain is a champion for the Product and/or Focus Area. They take the lead on writing or guiding the conversation specs, documentation and other artifacts to support the team. The Captain is also the gatekeeper of the Working Group Roadmap and accumlator of the Working Group Knowledge, guiding the group to made good decisions.
+The Working Group Captain is a champion for the Product and/or Focus Area. They take the lead on writing or guiding the conversation specs, documentation and other artifacts to support the team. The Captain is also the gatekeeper of the Working Group Roadmap and accumulator of the Working Group Knowledge, guiding the group to make good decisions and execute effectively.
 
 Responsibilities include:
 - A champion/tech lead for the focus area
-- Guide and Gatekeeper of the Working Group Roadmap
-- Decision disambiguator for the technical matters of the Working Group
+- Creator and communicator of the overall technical vision and direction for the WG
+- Owner and custodian of the WG Charter, Plan, and Impact
+- Sets WG quarterly OKRs and priorities, informed by project-level OKRs and roadmap
+- Facilitates execution of the plan by keeping tabs on progress, supporting group members as necessary, and ensuring progress is unblocked and on track
+- Final decision maker for the Working Group - making, delegating, or escalating decisions as necessary
+- Responsible for (or delegates) the project management work of the WG
+- High speed bridge for coordination with other Working Groups and Partners
+- See Good Tech Lead / Bad Tech Lead
 
 ### Working Group Technical Project Manager (TPM)
 
-The Technical Project Manager (sometimes referenced as Project Manager, Program Manager, and cat herder) is a team enabler. They own the Quarterly Planning process including OKRs and Retrospectives. They ensure that the coordination strategy the WG selected is well executed (weekly syncs, taking notes, communicating needs to other WGs).
+The Technical Project Manager (sometimes referenced as Project Manager, Program Manager, and cat herder) is a team enabler. They support the Quarterly Planning process including running the OKR process and Retrospectives. They ensure that the coordination strategy the WG selected is well executed (weekly syncs, taking notes, communicating needs to other WGs) and drives team success and impact.
 
-The Technical Project Manager should also have a role on contributing to the projects the Working Group is tackling and have an understanding of the technical challenges and needs from the team.
+The Technical Project Manager should also have a role in contributing to the projects the Working Group is tackling and have an understanding of the technical challenges and needs from the team.
 
 Some working groups have the same person playing both the Captain and Technical Project Manager role. This should be limited to situations where the Working Group is nascent or the team is small.
 
 Responsibilities include:
-- Team Catalist. Team Productivity and Fun optimizer.
+- Team Catalyst. Team productivity and fun optimizer.
 - Coordinator for the Working Group
-- Gatekeeper for OKRs
-- High speed bridge for coordination with other Working Groups and Partners
+- Ensure OKRs are set, prioritized, and tracked by the team
 
 ## Active Teams
 
@@ -149,23 +163,19 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 
 - `IPFS Project BDFL` - [**Juan Benet**](https://github.com/jbenet/)
 - `IPFS Project Lead` - [**David Dias**](https://github.com/daviddias/)
-- `IPFS Project Coordinator` - [**Molly Mackinlay**](https://github.com/momack2)
+- `IPFS Project Co-Lead` - [**Molly Mackinlay**](https://github.com/momack2)
 
 ### Working Groups
 
 - [**Project**](#project)
-- `Development and Maintenance of the Protocol:`
+- `Development and maintenance of the Protocol:`
   - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
   - [**Golang Core Dev**](#golang-ipfs-implementation)
+  - [**IPFS Infrastructure**](#ipfs-infrastructure)
+- `Efforts to simplify use of the Protocol:`
+  - [**Integration with Web Browsers**](#integration-with-web-browsers)
   - [**IPFS GUI**](#ipfs-gui)
   - [**IPFS Cluster**](#ipfs-cluster)
-  - [**IPFS Infrastructure**](#ipfs-infrastructure)
-- `Efforts to Support Specific Uses:`
-  - [**Integration with Web Browsers**](#integration-with-web-browsers)
-  - [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
-  - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
-  - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
-  - [**Package Managers**](#package-managers)
 
 #### Project
 
@@ -175,6 +185,7 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 - **[David Dias](https://github.com/daviddias): Captain / IPFS Project Lead**
 - **[Molly Mackinlay](https://github.com/daviddias): TPM / IPFS Project Coordinator**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/project.svg)](https://github.com/ipfs/project)
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
 
 The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
 
@@ -194,6 +205,7 @@ The IPFS Project Working Group Community serves as the point of coordination for
 - **[Alan Shaw](https://github.com/alanshaw/): Captain**
 - **`To be confirmed`: TPM**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/js-core.svg)](https://github.com/ipfs/js-ipfs)
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-js-core/members)**
 
 Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 
@@ -212,6 +224,7 @@ Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
 - **[Steven Allen](https://github.com/stebalien): Captain**
 - **[Erik Ingenito](https://github.com/eingenito): TPM**
 - WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/go-core.svg)](https://github.com/ipfs/go-ipfs)
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-go-core/members)**
 
 Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 
@@ -221,36 +234,6 @@ Develop the Golang implementation of the IPFS Protocol, go-ipfs.
 - Upgrade and build dev tools (i.e gx).
 - Set the guidelines for writing, maintaining and managing the Go codebases, test suites, and contributions.
 
-#### IPFS GUI
-
-- **Coordination**: https://github.com/ipfs/ipfs-gui
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
-- **Working Group Mailing List**: gui-wg@ipfs.io
-- **[Oli Evans](https://github.com/olizilla): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
-
-Making IPFS GUIs simple, accessible, reusable, and beautiful.
-
-**Responsibilities include**:
-- Fight complexity at every step.
-- IPFS must be usable and comprehensible for everyone.
-- Publish and promote this work. Make doing the right thing the easiest thing.
-- Demonstrate the nature of the system with effortless, coherent, and compelling interfaces.
-
-#### IPFS Cluster
-
-- **Coordination**: https://github.com/ipfs/ipfs-cluster
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
-- **Working Group Mailing List**: cluster-wg@ipfs.io
-- **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
-
-The IPFS Cluster Working Group is the team implementing IPFS Cluster.
-
-**Responsibilities include**:
-- Design and implement IPFS Cluster.
-- Provide knowledge and APIs that organizations with large data sets can use.
-
 #### IPFS Infrastructure
 
 - **Coordination**: http://github.com/ipfs/infra
@@ -258,6 +241,7 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 - **Working Group Mailing List**: infra-wg@ipfs.io
 - **[Erin Fahy](https://github.com/eefahy): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-infrastructure/members)**
 
 Tools and systems for the IPFS community.
 
@@ -277,6 +261,7 @@ Tools and systems for the IPFS community.
 - **Working Group Mailing List**: wb-wg@ipfs.io
 - **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
 - WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-web-browsers/members)**
 
 The Integration with Web Browsers Working Group designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
 
@@ -290,13 +275,52 @@ The Integration with Web Browsers Working Group designs and implements browser i
 - Increase the adoption of the distributed web by making it easy for users to access it.
 - Define specifications for address schemes and advocate for those schemes to be adopted.
 
+#### IPFS GUI/UX
+
+- **Coordination**: https://github.com/ipfs/ipfs-gui
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
+- **Working Group Mailing List**: gui-wg@ipfs.io
+- **[Oli Evans](https://github.com/olizilla): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
+
+Making IPFS GUIs simple, accessible, reusable, and beautiful.
+
+**Responsibilities include**:
+- Fight complexity at every step.
+- IPFS must be usable and comprehensible for everyone.
+- Publish and promote this work. Make doing the right thing the easiest thing.
+- Demonstrate the nature of the system with effortless, coherent, and compelling interfaces.
+
+#### IPFS Cluster
+
+- **Coordination**: https://github.com/ipfs/ipfs-cluster
+- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
+- **Working Group Mailing List**: cluster-wg@ipfs.io
+- **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
+- WG Repos Badge - Badge n/a yet
+- **[Github Team](https://github.com/orgs/ipfs/teams/wg-ipfs-cluster)**
+
+The IPFS Cluster Working Group is the team implementing IPFS Cluster.
+
+**Responsibilities include**:
+- Design and implement IPFS Cluster.
+- Provide knowledge and APIs that organizations with large data sets can use.
+
+
+### Special Interest Groups
+
+**Active SIGs**
+- [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
+- [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
+- [**Local Offline Collaboration**](#local-offline-collaboration-locol)
+- [**Package Managers**](#package-managers)
+
 #### Dynamic Data and Capabilities
 
 - **Coordination**: http://github.com/ipfs/dynamic-data-and-capabilities
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DYNAMIC_DATA_AND_CAPABILITIES.md
-- **Working Group Mailing List**: ddc-wg@ipfs.io
-- **[Pedro Teixeira](https://github.com/pgte): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
+- **SIG Mailing List**: ddc-wg@ipfs.io
 
 Research and development of building blocks that enable collaborative applications, providing solutions for security, identity, access control, concurrency, synchronization, offline, and near-real-time collaboration. This WG was born out of the results created by the [CRDT Research Group](http://github.com/ipfs/research-crdt).
 
@@ -310,9 +334,7 @@ Research and development of building blocks that enable collaborative applicatio
 
 - **Coordination**: https://github.com/ipfs/decentralized-data-stewardship
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DECENTRALIZED_DATA_STEWARDSHIP.md
-- **Working Group Mailing List**: dds-wg@ipfs.io
-- **[Michelle Hertzfeld](https://github.com/meiqimichelle): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
+- **SIG Mailing List**: dds-wg@ipfs.io
 
 User research, collaborations, and products that support holding data together on decentralized networks.
 
@@ -327,10 +349,7 @@ User research, collaborations, and products that support holding data together o
 
 - **Coordination**: https://github.com/ipfs/local-offline-collab
 - **Roadmap**: TBD
-- **Working Group Mailing List**: locol-wg@ipfs.io
-- **[Molly Mackinlay](https://github.com/momack2): Captain, TPM**
-- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/locol.svg)](https://github.com/ipfs/local-offline-collab)
-
+- **SIG Mailing List**: locol-wg@ipfs.io
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
 
@@ -345,9 +364,7 @@ User research, collaborations, and features to make the knowledge and tools on t
 
 - **Coordination**: https://github.com/ipfs/package-managers
 - **Roadmap**: TBD
-- **Working Group Mailing List**: package-managers-wg@ipfs.io
-- **[Alex Potsides](https://github.com/achingbrain): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
+- **SIG Mailing List**: package-managers-wg@ipfs.io
 
 User research, collaborations, and products that enable adding IPFS support to package managers.
 
@@ -358,10 +375,7 @@ User research, collaborations, and products that enable adding IPFS support to p
 - Support collaborations between IPFS and community members who are building, maintaining and using package managers
 - Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
 
-
-### Special Interest Groups
-
-The list of existing special interest groups is:
+The list of historical special interest groups is:
 - https://github.com/ipfs/research-CRDT
 - https://github.com/ipfs/research-blockchain-data
 - https://github.com/ipfs/research-bitswap

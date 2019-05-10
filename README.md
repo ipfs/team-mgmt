@@ -80,23 +80,17 @@ We use a Kanban style of tracking accross our multiple repos using the [Waffle B
 Here is a list of the Kanbans that are currently active:
 
 - __Working Groups__
+  - [Project](https://waffle.io/ipfs/project)
   - _Development and Maintenance_
     - [JS Core](https://waffle.io/ipfs/js-ipfs)
     - [Go Core](https://waffle.io/ipfs/go-ipfs)
+  - _Efforts to simplify use of the Protocol_
+    - [In Web Browsers](https://waffle.io/ipfs/in-web-browsers)  
     - [GUI](https://waffle.io/ipfs/ipfs-gui)
     - [Cluster](https://waffle.io/ipfs/ipfs-cluster)
     - [Infrastructure](https://waffle.io/ipfs/infra)
-  - _Efforts to Support Specific Uses_
-    - [In Web Browsers](https://waffle.io/ipfs/in-web-browsers)
-    - [Dynamic Data & Capabilities](https://waffle.io/ipfs/dynamic-data-and-capabilities)
-    - Decentralized Data Stewardship (n/a)
-    - Local Offline Collaboration (n/a)
-    - [Package Managers](https://waffle.io/ipfs/package-managers)
-
-  - Community (n/a)
-  - [Project](https://waffle.io/ipfs/project)
 - __Kanbans specific to Projects__
-  - [Identity Manager](https://waffle.io/ipfs-shipyard/pm-idm)
+  - [Identity Manager](https://github.com/ipfs-shipyard/pm-idm/projects/1)
   - [Discussify](https://waffle.io/ipfs-shipyard/pm-discussify)
   - [Aegir](https://waffle.io/ipfs/aegir)
   - [Archives](https://waffle.io/ipfs/archives)
@@ -134,7 +128,6 @@ If you are hosting a call for the first time or interested in learning how to do
 
 - [`JS Core Dev`](https://github.com/ipfs/team-mgmt/issues/650)
 - [`Go Core Dev`](https://github.com/ipfs/team-mgmt/issues/674)
-- [`Dynamic Data & Capabilities`](https://github.com/ipfs/dynamic-data-and-capabilities/blob/master/README.md#bi-weekly-sync)
 - [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
 - [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
 - [`Package Management`](https://github.com/ipfs/package-managers/issues/1)

@@ -6,6 +6,13 @@ Results are tangible and measurable.
 
 More: https://github.com/ipfs/in-web-browsers
 
+## 2019 Q2
+
+- [ipfs/in-web-browsers 2019 Q2 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/#gid=755202447) (WIP)
+- [Open Planning Thread](https://github.com/ipfs/team-mgmt/pull/910)
+- [Previous Quarter Retrospective](https://docs.google.com/document/d/111t2yY-3msflyoBCne4mkPjaZyuQeyjC7d4-oOK5czM/)
+
+
 ## 2019 Q1
 
 - [ipfs/in-web-browsers 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/#gid=755202447)
