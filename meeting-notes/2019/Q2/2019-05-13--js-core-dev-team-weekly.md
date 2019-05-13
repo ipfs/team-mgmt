@@ -10,7 +10,7 @@
   - @hugomrdias
   - @terichadbourne
   - @achingbrain
-- **Recording:** _add link to recording once it's online_
+- **Recording:** https://youtu.be/3rdJMS4chcY
 
 ## Agenda
 
