@@ -1,5 +1,6 @@
 # IPFS Weekly Call February 25th, 2019
 
+-   **Recording**: https://youtu.be/hDYPfzm9wGE
 -   **Moderator:** @pkafei
 -   **Notetaker:** @jimpick
 -   **Attendees:**
@@ -30,6 +31,7 @@ Topic: IPFS in Enterprise
 
 Notes:
 
+-   Presentation starts at [2:17](https://youtu.be/hDYPfzm9wGE?t=137)
 -   Blockchain Engineering at Microsoft Azure
 -   Building consortiums with large enterprise customers
 -   IPFS as part of the consortiums
