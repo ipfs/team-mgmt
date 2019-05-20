@@ -49,8 +49,6 @@ You might hear these terms "Working Group Roadmap", "Project Roadmap", "OKRs", "
   <img src="https://raw.githubusercontent.com/ipfs/team-mgmt/master/img/ipfs-org-planning-one-picture.jpeg" alt="IPFS planning in one picture" width="450" />
 </p>
 
-![](img/ipfs-org-planning-one-picture.jpeg)
-
 **If you are new around here, the best way to get onboarded is to focus on the "Day to Day Operations" as it will help you meet the Working Groups, understand what their top priorities for the week are, and identify more quickly places where you can contribute**. Later, you can go through all the Quarterly OKRs and Yearly Planning so that you understand fully the decisions you see being made.
 
 You can also learn more about operating in Distributed Teams at our ['Distributed Teams' Document](DISTRIBUTED_TEAMS.md), containing resources on tools, decision making, process and more. We have been gathering, reviewing, discussing and experimenting with many overtime and will continue to do so as we find new needs.
