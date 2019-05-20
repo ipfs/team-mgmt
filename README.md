@@ -19,7 +19,7 @@
   - [Weekly All Hands](#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
   - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
   - [Calendar](#calendar)
-  - [IRC](#IRC)
+  - [Chat](#chat)
   - [Working Hours](#working-hours)
   - [Timezone: UTC](#timezone-utc)
 - [Tools & Tutorials](#tools--tutorials)
@@ -111,7 +111,7 @@ If you are hosting a call for the first time or interested in learning how to do
 
 You can consult all IPFS-related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
 
-### IRC
+### Chat
 
 We hangout on IRC for lots of Dev Chat. You can find us on Freenode on the following channels:
 

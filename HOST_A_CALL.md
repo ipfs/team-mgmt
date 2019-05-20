@@ -1,7 +1,6 @@
 # Host a Call
 
-### [IPFS Call Moderating Video Tutorial](https://drive.google.com/file/d/14glOxDfJTa1hyWso8vyhnoGjbZc1s2LL/view)
-This video tutorial describes how to add new moderators to a call, how to configure livestreaming and recording for an existing call, how to create a new call with livestreaming capabilities, and how to work with the IPFS YouTube account to configure videos and bless other managers. I recommend 1.5x speed!
+[**IPFS Call Moderating Video Tutorial**](https://drive.google.com/file/d/14glOxDfJTa1hyWso8vyhnoGjbZc1s2LL/view). This video tutorial describes how to add new moderators to a call, how to configure livestreaming and recording for an existing call, how to create a new call with livestreaming capabilities, and how to work with the IPFS YouTube account to configure videos and bless other managers. I recommend 1.5x speed!
 
 ## The Setup - Preparation for the Call
 
@@ -76,9 +75,38 @@ Tracked on their respective issues:
 
 If you are hosting and need access to the vault, send an email to it@protocol.ai.
 
+## Other notes on calls
+
+### Rescheduling calls
+
+Occasionally, call times change; normally this is due to events where the main developers can't make the sync. When you change the times:
+
+- Announce one day before
+- Post in IRC the day before, and day of
+- Post in the old Call issue
+- Post in the new Call issue the new call times
+- Update the date for the new Call issue to reflect new starting point
+- Update the title of the old Call issue to reflect new ending point
+- Move the calendar times on the Community calendar
+- Notify all endeavor leads // core contributors by message
+
+### Daylight Savings
+
+Daylight Savings happens twice a year. It is very annoying.
+
+When it happens, make sure to update the call times in the Call Issue carefully. Here are some time zones to keep in mind:
+
+- Z / UTC: Doesn't change.
+- EST (Winter), EDT (Summer): New York
+- GMT (Winter), BST (Summer): London
+- CET (Winter), CEST (Summer): Berlin
+- PCT (Winter), PDT (Summer): San Francisco
+
+I mention these because invariably I would type "GMT to EST" to check the time zone, when I meant EDT. Know when they happen, and outsource as much of the time zone information as you can to webapps and tools.
+
 ## FAQ
 
-- **What do I do if the Livestream doesn't show up on the IPFS Youtube Channel?** It is important that the live stream privacy setting under "basic info" be set to "public", otherwise the livestream won't show up on the IPFS channel or on our link https://www.youtube.com/c/IPFS-dweb/live. If you see the livestream coming through the live dashboard but not on our channel, that's probably the issue. We still check the box to "Automatically make archive unlisted once the stream has ended" so that we can rename and update the recording after the call. 
+- **What do I do if the Livestream doesn't show up on the IPFS Youtube Channel?** It is important that the live stream privacy setting under "basic info" be set to "public", otherwise the livestream won't show up on the IPFS channel or on our link https://www.youtube.com/c/IPFS-dweb/live. If you see the livestream coming through the live dashboard but not on our channel, that's probably the issue. We still check the box to "Automatically make archive unlisted once the stream has ended" so that we can rename and update the recording after the call.
 - **Do I need a special account to be the host?** No, all you need is to ask to have your personal email address added to the list of hosts so that you have recording and livestreaming capabilities. Do this by asking one of the current hosts or sending an email to it@protocol.ai
 - **Who currently has delegated hosting ability per call (and can therefore can record/livestream if needed)?**
   - IPFS All Hands Call: david@protocol.ai, matt@protocol.ai, erik@carbonfive.com, victor@protocol.ai, molly@protocol.ai
