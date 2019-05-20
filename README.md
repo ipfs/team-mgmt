@@ -45,6 +45,10 @@ We use a loose agile approach. We deliberately designed a Org wide process that 
 
 You might hear these terms "Working Group Roadmap", "Project Roadmap", "OKRs", "Metrics" and so on be thrown around often. If you are puzzled in how these all fit together and what is the best resource to look at, we've created the following diagram to illustrate how all of these fit together for the IPFS org.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ipfs/team-mgmt/master/img/ipfs-org-planning-one-picture.jpeg" alt="IPFS planning in one picture" width="450" />
+</p>
+
 ![](img/ipfs-org-planning-one-picture.jpeg)
 
 **If you are new around here, the best way to get onboarded is to focus on the "Day to Day Operations" as it will help you meet the Working Groups, understand what their top priorities for the week are, and identify more quickly places where you can contribute**. Later, you can go through all the Quarterly OKRs and Yearly Planning so that you understand fully the decisions you see being made.
