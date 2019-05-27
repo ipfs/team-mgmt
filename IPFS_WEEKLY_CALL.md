@@ -70,6 +70,7 @@ In order to improve the qua
 - [ ] Announce the presentation again at least 30 minutes in advance on @ipfsbot twitter
 - [ ] After the call is done, recording is edited and uploaded, create a blog post for the blog.ipfs.io
 - [ ] Send the url of the post to the presenter.
+- [ ] Capture all the questions to ensure that the presenter can answer them async, in case we ran out of time.
 
 #### For the person recording and Live Streaming the call
 
