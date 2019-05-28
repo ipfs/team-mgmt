@@ -53,7 +53,7 @@ If you're looking for more inspiration, check out some of our past talks:
 
 #### For the presenter 
 
-In order to improve the qua
+In order to improve the quality of your talk:
 
 - [ ] Ensure that you will have a good Internet connection. Here are a few tips:
   - Avoid public spaces such as Coffee Shop Wifi 
