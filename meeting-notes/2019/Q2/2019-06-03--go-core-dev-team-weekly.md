@@ -5,7 +5,6 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
 **Meeting Lead:** @michaelavila
 
 **Attendees:**
-  - _attendee names..._
   - @jimpick
   
 **Recording:** https://drive.google.com/drive/u/0/folders/1oXD-x0_5pfsdoq9-iAe3LLgE4AZ_mmzP
