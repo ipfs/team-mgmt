@@ -8,7 +8,7 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
   - _attendee names..._
   - @jimpick
   
-**Recording:** _add link to recording once it's online_
+**Recording:** https://drive.google.com/drive/u/0/folders/1oXD-x0_5pfsdoq9-iAe3LLgE4AZ_mmzP
 
 ## Announcements
 
