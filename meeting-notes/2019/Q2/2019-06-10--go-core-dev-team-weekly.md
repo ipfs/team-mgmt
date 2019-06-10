@@ -4,7 +4,7 @@ Please note. There has been a  [meeting format change](https://github.com/ipfs/t
 
 **Meeting Lead:** @michaelavila
   
-**Recording:** _add link to recording once it's online_
+**Recording:** https://drive.google.com/drive/u/0/folders/1chG5Cy33cPjj3OBuhT6WiLuaZGzUrEB4
 
 ## Current IPFS Initiatives
 #### Datastore
