@@ -7,7 +7,7 @@
   - @alanshaw
   - @jacobheun
   - @dirkmc
-- **Recording:** TBC
+- **Recording:** https://youtu.be/gf4noYI2hbs
 
 ## Agenda
 
