@@ -4,6 +4,10 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 More: https://github.com/ipfs/ipfs-gui
 
+## 2019 Q2
+
+- [ipfs-gui 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=1841105909)
+
 ## 2019 Q1
 
 - [ipfs-gui 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit?ts=5c2f3d49#gid=1841105909)
