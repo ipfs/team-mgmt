@@ -6,7 +6,7 @@ More: https://github.com/ipfs/ipfs-gui
 
 ## 2019 Q2
 
-- [ipfs-gui 2019 Q1 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=1841105909)
+- [ipfs-gui 2019 Q2 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=1841105909)
 
 ## 2019 Q1
 
