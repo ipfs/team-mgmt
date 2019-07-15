@@ -14,20 +14,15 @@
   - [Working Group Technical Project Manager](#working-group-technical-project-manager-tpm)
 - [Active Teams](#active-teams)
   - [**Working** Groups](#working-groups)
-    - [**Project**](#project)
-    - `Development and maintenance of the Protocol:`
-      - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
-      - [**Golang Core Dev**](#golang-ipfs-implementation)
-      - [**IPFS Infrastructure**](#ipfs-infrastructure)
-    - `Efforts to simplify use of the Protocol:`
+    - [**Project Operations**](#project-operations)
+    - [**Testing Infra**](#testing-infra)
+    - [**IPFS as a Service**](#ipfs-as-a-service)
+    - [**Package Managers**](#package-managers)
+    - [**Docs & Developer UX**](#docs--developer-ux)
+  - [**Special Interest** Groups](#special-interest-groups)
       - [**Integration with Web Browsers**](#integration-with-web-browsers)
       - [**IPFS GUI**](#ipfs-gui)
       - [**IPFS Cluster**](#ipfs-cluster)
-  - [**Special Interest** Groups](#special-interest-groups)
-      - [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
-      - [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
-      - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
-      - [**Package Managers**](#package-managers)
   - [Tiger Teams](#tiger-teams)
 
 ## Description
@@ -108,26 +103,19 @@ This role is currently taken by [**Juan Benet**](https://github.com/jbenet), ori
 Responsibilities include:
 - Identify unique opportunities for growth and deployment of the Protocol
 - Set the project-wide plan and priorities at quarterly and yearly scale (roadmap, OKRs)
+- Handle project-level communications with stakeholders
 - Manages communication and execution of the plan to ensure progress happens efficiently
 - Ensure WG plans are aligned with project-wide priorities (inform their OKRs, Roadmaps, and relevant other plans)
 - Backstop for WG execution, impact, and escalated decision making (support captains, take part in key initiatives that require Project Lead support)
 - Approve protocol-level changes
 
-This role is currently taken by [**David Dias**](https://github.com/daviddias/)
+This role is currently taken by [**Molly Mackinlay**](https://github.com/momack2)
 
 ### IPFS Project Co-Lead
 
 > Master Overseer of Getting Things Done. Analogous to the Technical Project Manager / Project Manager in each Working Group.
 
-Responsibilities include:
-- Lead the yearly and quarterly planning process (OKRs) and respective retrospectives
-- Lead PL IPFS Team and Project WG 
-- Manage the PL<>IPFS Interface and shield team-members from PL pressures
-- Handle project-level communications (with PL and external stakeholders)
-- Create and maintain the platform for Resource allocation across teams and projects
-- Ensure that there is a steady communication flow between teams, individual contributors, and project leadership
-
-This role is currently taken by [**Molly Mackinlay**](https://github.com/momack2)
+This role is currently **OPEN**
 
 ### Working Group Captain
 
@@ -162,97 +150,93 @@ Responsibilities include:
 Here you can find the full list of active Teams inside the IPFS Org. In addition to the roles in each Team formation, we have as:
 
 - `IPFS Project BDFL` - [**Juan Benet**](https://github.com/jbenet/)
-- `IPFS Project Lead` - [**David Dias**](https://github.com/daviddias/)
-- `IPFS Project Co-Lead` - [**Molly Mackinlay**](https://github.com/momack2)
+- `IPFS Project Lead` -  [**Molly Mackinlay**](https://github.com/momack2)
+- `IPFS Project Co-Lead` - **AVAILABLE**
 
 ### Working Groups
 
-- [**Project**](#project)
-- `Development and maintenance of the Protocol:`
-  - [**JavaScript Core Dev**](#javascript-ipfs-implementation)
-  - [**Golang Core Dev**](#golang-ipfs-implementation)
-  - [**IPFS Infrastructure**](#ipfs-infrastructure)
-- `Efforts to simplify use of the Protocol:`
-  - [**Integration with Web Browsers**](#integration-with-web-browsers)
-  - [**IPFS GUI**](#ipfs-gui)
-  - [**IPFS Cluster**](#ipfs-cluster)
+- [**Project Operations**](#project-operations)
+- [**Testing Infra**](#testing-infra)
+- [**IPFS as a Service**](#ipfs-as-a-service)
+- [**Package Managers**](#package-managers)
+- [**Docs & Developer UX**](#docs--developer-ux)
 
-#### Project
+#### Project Operations
 
 - **Coordination**: https://github.com/ipfs/project
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_PROJECT.md
-- **Working Group Mailing List**: project-wg@ipfs.io
-- **[David Dias](https://github.com/daviddias): Captain / IPFS Project Lead**
-- **[Molly Mackinlay](https://github.com/daviddias): TPM / IPFS Project Coordinator**
-- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/project.svg)](https://github.com/ipfs/project)
+- **[Molly Mackinlay](https://github.com/momack2): TPM / IPFS Project Lead**
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
 
-The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
+The IPFS Project Working Group Community manages efficient execution of the core project
 
 **Responsibilities include**:
-- Maintain the IPFS Project Roadmap and Vision.
-- Provide coaching to Working Groups to develop their own planning and goal-setting.
-- Facilitate communication and alignment accross the organization.
-- Research, develop and build new ways to help async teams coordinate at scale.
-- Recognize needs of the project and develop solutions to meet them.
-- Support and develop the IPFS community.
+- Core Implementations (including [js-ipfs](https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md) and [go-ipfs]( https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md))
+- Communications 
+- Community 
+- Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
+- Maintenance 
+- Research
 
-#### JavaScript IPFS implementation
+#### Testing Infra
 
-- **Coordination**: https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_JS_CORE.md
-- **Working Group Mailing List**: js-ipfs-wg@ipfs.io
-- **[Alan Shaw](https://github.com/alanshaw/): Captain**
-- **`To be confirmed`: TPM**
-- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/js-core.svg)](https://github.com/ipfs/js-ipfs)
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-js-core/members)**
+- **Coordination**: TBD
+- **[Raul Kripalani](https://github.com/raulk): Captain**
+- **[Github Team](TBD)**
 
-Develop the JavaScript implementation of the IPFS Protocol, js-ipfs.
+The IPFS Testing Infra team builds testing tooling to validate scalability and reliability of the core IPFS implementations 
 
 **Responsibilities include**:
-- Create the browser implementation of the IPFS Protocol.
-- Create a great onboarding experience for new contributors.
-- Upgrade and build dev tools (i.e AEgir).
-- Define process and help achieve high quality sustainable open source modules.
-- Set the guidelines for writing, maintaining and managing the JS codebases, test suites, and contributions.
+- Build large-scale testing infrastructure
+- Create dashboards and CI hooks to make testing infra more useful/usable
+- Support core implementation developers in creating/running real world test scenarios
 
-#### Golang IPFS implementation
+#### IPFS as a Service
 
-- **Coordination**: https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GO_CORE.md
-- **Working Group Mailing List**: go-ipfs-wg@ipfs.io
-- **[Steven Allen](https://github.com/stebalien): Captain**
-- **[Erik Ingenito](https://github.com/eingenito): TPM**
-- WG Repos Badge - [![](https://github.com/ipfs/team-mgmt/blob/master/img/badges/go-core.svg)](https://github.com/ipfs/go-ipfs)
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-go-core/members)**
-
-Develop the Golang implementation of the IPFS Protocol, go-ipfs.
-
-**Responsibilities include**:
-- Create the server and reference implementation of the IPFS Protocol.
-- Create a great onboarding experience for new contributors.
-- Upgrade and build dev tools (i.e gx).
-- Set the guidelines for writing, maintaining and managing the Go codebases, test suites, and contributions.
-
-#### IPFS Infrastructure
-
-- **Coordination**: http://github.com/ipfs/infra
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INFRASTRUCTURE.md
-- **Working Group Mailing List**: infra-wg@ipfs.io
-- **[Erin Fahy](https://github.com/eefahy): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-infrastructure/members)**
+- **Coordination**: TBD
+- **[Hector Sanjuan](https://github.com/hsanjuan): Captain**
+- **[Github Team](TBD)**
 
 Tools and systems for the IPFS community.
 
 **Responsibilities include**:
-- Manage and maintain the IPFS HTTP Gateway.
-- Manage and maintain the IPFS Bootstrapper nodes.
-- Manage and maintain the IPFS pinning service, pinbot.
-- Monitor services and hosts used by the IPFS dev teams.
-- Provide wisdom to other users that want to host IPFS nodes.
-- Enable dev teams to run reliable, efficient tests and manage continuous deployment.
-- Configure automation for defined development policies like release cycles and code quality reporting.
+- Manage and maintain the IPFS HTTP Gateway
+- Manage and maintain the IPFS Bootstrapper nodes
+- Manage and maintain the IPFS pinning service, pinbot
+- Monitor services and hosts used by the IPFS dev teams
+- Provide wisdom to other users that want to host IPFS nodes
+
+#### Package Managers
+
+- **Coordination**: https://github.com/ipfs/package-managers
+- **[Andrew Nesbitt](https://github.com/andrew): Captain**
+- **[Github Team](TBD)**
+
+User research, collaborations, and products that enable adding IPFS support to package managers.
+
+**Responsibilities include**:
+
+- Participate in communities like [package.community](http://package.community/)
+- Conduct user research around package manager use cases, communities, and best practices
+- Support collaborations between IPFS and community members who are building, maintaining and using package managers
+- Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
+- Improve the core IPFS implementations to support package manager usage needs
+
+#### Docs & Developer UX
+
+- **Coordination**: https://github.com/ipfs/docs
+- **[Jessica Schilling](https://github.com/jessicaschilling): Captain**
+- **[Github Team](TBD)**
+
+IPFS has great developer UX and accurate, usable documentation/guides.
+
+**Responsibilities include**:
+
+- Support ProtoSchool to improve broader understanding of the dweb
+- Understand and support IPFS developer usability needs 
+- Evaluate and improve IPFS documentation accuracy, usability, and accessibility
+
+
+### Special Interest Groups
 
 #### Integration with Web Browsers
 
@@ -278,10 +262,6 @@ The Integration with Web Browsers Working Group designs and implements browser i
 #### IPFS GUI/UX
 
 - **Coordination**: https://github.com/ipfs/ipfs-gui
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_GUI.md
-- **Working Group Mailing List**: gui-wg@ipfs.io
-- **[Oli Evans](https://github.com/olizilla): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
 
 Making IPFS GUIs simple, accessible, reusable, and beautiful.
@@ -296,9 +276,6 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
 - **Coordination**: https://github.com/ipfs/ipfs-cluster
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
-- **Working Group Mailing List**: cluster-wg@ipfs.io
-- **[Hector Sanjuan](https://github.com/hsanjuan): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-ipfs-cluster)**
 
 The IPFS Cluster Working Group is the team implementing IPFS Cluster.
@@ -308,74 +285,10 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 - Provide knowledge and APIs that organizations with large data sets can use.
 
 
-### Special Interest Groups
-
-**Active SIGs**
-- [**Dynamic Data and Capabilities**](#dynamic-data-and-capabilities)
-- [**Decentralized Data Stewardship**](#decentralized-data-stewardship)
-- [**Local Offline Collaboration**](#local-offline-collaboration-locol)
-- [**Package Managers**](#package-managers)
-
-#### Dynamic Data and Capabilities
-
-- **Coordination**: http://github.com/ipfs/dynamic-data-and-capabilities
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DYNAMIC_DATA_AND_CAPABILITIES.md
-- **SIG Mailing List**: ddc-wg@ipfs.io
-
-Research and development of building blocks that enable collaborative applications, providing solutions for security, identity, access control, concurrency, synchronization, offline, and near-real-time collaboration. This WG was born out of the results created by the [CRDT Research Group](http://github.com/ipfs/research-crdt).
-
-**Responsibilities include**:
-
-- Research and implement CRDTs on top of IPFS, creating building blocks that can be used by other applications.
-- Research Cryptographic ACLs (Capabilities Systems) and create building blocks to implement them.
-- Apply this research and implementation to products like PeerPad, validating the solutions and defining new problems to be solved.
-
-#### Decentralized Data Stewardship
-
-- **Coordination**: https://github.com/ipfs/decentralized-data-stewardship
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_DECENTRALIZED_DATA_STEWARDSHIP.md
-- **SIG Mailing List**: dds-wg@ipfs.io
-
-User research, collaborations, and products that support holding data together on decentralized networks.
-
-**Responsibilities include**:
-
-- Participate in groups such as [Data Together](https://datatogether.org/)
-- Conduct [user research around managing large volumes of data](https://github.com/ipfs/user-research/tree/master/large-volumes) on IPFS
-- Support collaborations between IPFS and community members who need to manage large volumes of data
-- Research and prototype policy layers for just and inclusive data stewardship on decentralized networks
-
-#### Local Offline Collaboration (Locol)
-
-- **Coordination**: https://github.com/ipfs/local-offline-collab
-- **Roadmap**: TBD
-- **SIG Mailing List**: locol-wg@ipfs.io
-
-User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
-
-**Responsibilities include**:
-
-- Participate in communities like [Offline First](http://offlinefirst.org/)
-- Conduct user research around offline and local-first use cases, communities, and best practices
-- Support collaborations between IPFS and community members who are building tools for peer-to-peer sharing and collaboration in local/offline networks
-- Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
-
-#### Package Managers
-
-- **Coordination**: https://github.com/ipfs/package-managers
-- **Roadmap**: TBD
-- **SIG Mailing List**: package-managers-wg@ipfs.io
-
-User research, collaborations, and products that enable adding IPFS support to package managers.
-
-**Responsibilities include**:
-
-- Participate in communities like [package.community](http://package.community/)
-- Conduct user research around package manager use cases, communities, and best practices
-- Support collaborations between IPFS and community members who are building, maintaining and using package managers
-- Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
-
 The list of historical special interest groups is:
+- http://github.com/ipfs/dynamic-data-and-capabilities
+- https://github.com/ipfs/local-offline-collab
+- https://github.com/ipfs/decentralized-data-stewardship
 - https://github.com/ipfs/research-CRDT
 - https://github.com/ipfs/research-blockchain-data
 - https://github.com/ipfs/research-bitswap
