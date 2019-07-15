@@ -101,13 +101,11 @@ If you are hosting a call for the first time or interested in learning how to do
 
 ### Weekly/BiWeekly Syncs of Working Groups, Special Interest Groups, and Related Projects
 
-- [`JS Core Dev`](https://github.com/ipfs/team-mgmt/issues/650)
-- [`Go Core Dev`](https://github.com/ipfs/team-mgmt/issues/674)
-- [`Project WG`](https://github.com/ipfs/project#ipfs-project-working-group)
+- [`Core Implementations`](https://github.com/ipfs/team-mgmt/issues/992)
+- [`Project Operations`](https://github.com/ipfs/project#ipfs-project-working-group)
 - [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
 - [`Package Management`](https://github.com/ipfs/package-managers/issues/1)
 - [`ProtoSchool`](https://github.com/ProtoSchool/organizing/issues/47)
-- [`Local Offline Collaboration`](https://github.com/ipfs/local-offline-collab/issues?utf8=%E2%9C%93&q=is%3Aissue++label%3A%22%F0%9F%93%9E+Monthly+Call%22+)
 
 ### Calendar
 
