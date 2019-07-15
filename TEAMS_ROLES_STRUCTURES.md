@@ -209,7 +209,7 @@ Tools and systems for the IPFS community.
 
 - **Coordination**: https://github.com/ipfs/package-managers
 - **[Andrew Nesbitt](https://github.com/andrew): Captain**
-- **[Github Team](TBD)**
+- **[Github Team](https://github.com/orgs/ipfs/teams/package-managers/members)**
 
 User research, collaborations, and products that enable adding IPFS support to package managers.
 
