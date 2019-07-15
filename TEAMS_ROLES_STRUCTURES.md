@@ -163,7 +163,7 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 
 #### Project Operations
 
-- **Coordination**: https://github.com/ipfs/project
+- **Coordination**: https://github.com/ipfs/project-operations
 - **[Molly Mackinlay](https://github.com/momack2): TPM / IPFS Project Lead**
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
 
