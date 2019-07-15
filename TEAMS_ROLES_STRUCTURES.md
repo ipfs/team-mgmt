@@ -286,7 +286,7 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 
 
 The list of historical special interest groups is:
-- http://github.com/ipfs/dynamic-data-and-capabilities
+- https://github.com/ipfs/dynamic-data-and-capabilities
 - https://github.com/ipfs/local-offline-collab
 - https://github.com/ipfs/decentralized-data-stewardship
 - https://github.com/ipfs/research-CRDT
