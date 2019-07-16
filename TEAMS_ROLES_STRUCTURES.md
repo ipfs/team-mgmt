@@ -13,16 +13,17 @@
   - [Working Group Captain](#working-group-captain)
   - [Working Group Technical Project Manager](#working-group-technical-project-manager-tpm)
 - [Active Teams](#active-teams)
-  - [**Working** Groups](#working-groups)
+  - [**Working Groups**](#working-groups)
     - [**Project Operations**](#project-operations)
     - [**Testing Infra**](#testing-infra)
     - [**IPFS as a Service**](#ipfs-as-a-service)
     - [**Package Managers**](#package-managers)
     - [**Docs & Developer UX**](#docs--developer-ux)
-  - [**Special Interest** Groups](#special-interest-groups)
+  - [**Special Interest Groups**](#special-interest-groups)
       - [**Integration with Web Browsers**](#integration-with-web-browsers)
       - [**IPFS GUI**](#ipfs-gui)
       - [**IPFS Cluster**](#ipfs-cluster)
+      - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
   - [Tiger Teams](#tiger-teams)
 
 ## Description
@@ -45,7 +46,7 @@ This document presents the the existing teams that emerged and that led to the m
 
 Working Groups are teams of people that are appointed to research, develop, and deploy work under the working groups' scope. This structure is designed to provide clarity and direction to the project, enabling individual contributors to focus their time and energy on the areas they are most interested.
 
-Each Working Group is free to experiment with setting their own pace and tracking work. The only requirements are that each Working Group: 
+Each Working Group is free to experiment with setting their own pace and tracking work. The only requirements are that each Working Group:
 - Derives its priorities from the Project level priorities
 - Exposes its focus through OKRs to the rest of the community (common interface)
 - Has a Captain & a Technical Project Manager assigned
@@ -171,10 +172,10 @@ The IPFS Project Working Group Community manages efficient execution of the core
 
 **Responsibilities include**:
 - Core Implementations (including [js-ipfs](https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md) and [go-ipfs]( https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md))
-- Communications 
-- Community 
+- Communications
+- Community
 - Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
-- Maintenance 
+- Maintenance
 - Research
 
 #### Testing Infra
@@ -183,7 +184,7 @@ The IPFS Project Working Group Community manages efficient execution of the core
 - **[Raul Kripalani](https://github.com/raulk): Captain**
 - **[Github Team](TBD)**
 
-The IPFS Testing Infra team builds testing tooling to validate scalability and reliability of the core IPFS implementations 
+The IPFS Testing Infra team builds testing tooling to validate scalability and reliability of the core IPFS implementations
 
 **Responsibilities include**:
 - Build large-scale testing infrastructure
@@ -231,8 +232,8 @@ IPFS has great developer UX and accurate, usable documentation/guides.
 
 **Responsibilities include**:
 
-- Support ProtoSchool to improve broader understanding of the dweb
-- Understand and support IPFS developer usability needs 
+- Support [ProtoSchool](https://proto.school) to improve broader understanding of the dweb
+- Understand and support IPFS developer usability needs
 - Evaluate and improve IPFS documentation accuracy, usability, and accessibility
 
 
@@ -284,10 +285,24 @@ The IPFS Cluster Working Group is the team implementing IPFS Cluster.
 - Design and implement IPFS Cluster.
 - Provide knowledge and APIs that organizations with large data sets can use.
 
+#### Local Offline Collaboration (Locol)
+ - **Coordination**: https://github.com/ipfs/local-offline-collab
+ - **Roadmap**: TB
+ - **SIG Mailing List**: locol-wg@ipfs.io
+
+User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
+
+**Responsibilities include**:
+
+- Participate in communities like [Offline First](http://offlinefirst.org/)
+- Conduct user research around offline and local-first use cases, communities, and best practices
+- Support collaborations between IPFS and community members who are building tools for peer-to-peer sharing and collaboration in local/offline networks
+- Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
+
+
 
 The list of historical special interest groups is:
 - https://github.com/ipfs/dynamic-data-and-capabilities
-- https://github.com/ipfs/local-offline-collab
 - https://github.com/ipfs/decentralized-data-stewardship
 - https://github.com/ipfs/research-CRDT
 - https://github.com/ipfs/research-blockchain-data
