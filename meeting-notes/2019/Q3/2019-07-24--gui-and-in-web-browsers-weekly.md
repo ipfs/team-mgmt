@@ -3,7 +3,9 @@ GUI and In Web Browsers 2019-07-24
 
 A weekly discussion and show & tell around IPFS _GUIs_ and _Web Browsers_
 
-Details: https://github.com/ipfs/team-mgmt/issues/790
+Details: https://github.com/ipfs/team-mgmt/issues/790  
+Recording: [https://youtu.be/A_79fBX_xkw](https://youtu.be/A_79fBX_xkw?list=PLuhRWgmPaHtRIXVTy_ngBwvsXvWw10mR8) || [`/ipfs/bafybeiagjupenwsqqjno6556zlchptlfxez6x7w2kyy4lpuwtrkmmmpayq`](https://ipfs.io/ipfs/bafybeiagjupenwsqqjno6556zlchptlfxez6x7w2kyy4lpuwtrkmmmpayq)
+
 
 ## Agenda
 
