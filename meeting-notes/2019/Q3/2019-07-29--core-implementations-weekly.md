@@ -14,7 +14,8 @@
   - @mburns
   - @alanshaw
   
-- **Recording:**
+- **Recording:** https://youtu.be/KnUX0qEMoLo
+
 
 ## Agenda
 
