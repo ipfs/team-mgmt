@@ -9,7 +9,7 @@
   - @dirkmc
   - @hannahhoward
   - @jimpick
-- **Recording:**
+- **Recording:** https://youtu.be/mqnz0Sctb-E
 
 ## Agenda
 
