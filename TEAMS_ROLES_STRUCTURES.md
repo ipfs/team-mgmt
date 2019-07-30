@@ -167,7 +167,7 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 - **[Molly Mackinlay](https://github.com/momack2): TPM / IPFS Project Lead**
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
 
-The IPFS Project Working Group Community manages efficient execution of the core project
+Ship core go and js implementations with reliable rigor, systematize community communications and collaborations, and spin up IPFS research to meet future project needs.
 
 **Responsibilities include**:
 - Core Implementations (including [js-ipfs](https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md) and [go-ipfs]( https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md))
@@ -181,9 +181,8 @@ The IPFS Project Working Group Community manages efficient execution of the core
 
 - **Coordination**: TBD
 - **[Raul Kripalani](https://github.com/raulk): Captain**
-- **[Github Team](TBD)**
 
-The IPFS Testing Infra team builds testing tooling to validate scalability and reliability of the core IPFS implementations
+The IPFS Testing Infra team builds testing tooling to validate scalability and reliability of the core IPFS implementations, with easy onboarding for core developers to use in CI and one-off testing.
 
 **Responsibilities include**:
 - Build large-scale testing infrastructure
@@ -194,9 +193,8 @@ The IPFS Testing Infra team builds testing tooling to validate scalability and r
 
 - **Coordination**: TBD
 - **[Hector Sanjuan](https://github.com/hsanjuan): Captain**
-- **[Github Team](TBD)**
 
-Tools and systems for the IPFS community.
+Improve performance and stability of gateways and pinning, and provide public observability of services.
 
 **Responsibilities include**:
 - Manage and maintain the IPFS HTTP Gateway
@@ -211,7 +209,7 @@ Tools and systems for the IPFS community.
 - **[Andrew Nesbitt](https://github.com/andrew): Captain**
 - **[Github Team](https://github.com/orgs/ipfs/teams/package-managers/members)**
 
-User research, collaborations, and products that enable adding IPFS support to package managers.
+User research, collaborations, and performance improvements of import and update of large filesystems to support file-system-based package managers.
 
 **Responsibilities include**:
 
@@ -227,7 +225,7 @@ User research, collaborations, and products that enable adding IPFS support to p
 - **[Jessica Schilling](https://github.com/jessicaschilling): Captain**
 - **[Github Team](TBD)**
 
-IPFS has great developer UX and accurate, usable documentation/guides.
+Overhaul our documentation platform and content based on audits, research and community needs assessment to make IPFS more accessible to developer users.
 
 **Responsibilities include**:
 
