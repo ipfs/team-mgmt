@@ -21,8 +21,7 @@
     - [**Docs & Developer UX**](#docs--developer-ux)
   - [**Special Interest Groups**](#special-interest-groups)
       - [**Integration with Web Browsers**](#integration-with-web-browsers)
-      - [**IPFS GUI**](#ipfs-gui)
-      - [**IPFS Cluster**](#ipfs-cluster)
+      - [**IPFS GUI**](#ipfs-guiux)
       - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
   - [Tiger Teams](#tiger-teams)
 
@@ -273,17 +272,6 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 - Publish and promote this work. Make doing the right thing the easiest thing.
 - Demonstrate the nature of the system with effortless, coherent, and compelling interfaces.
 
-#### IPFS Cluster
-
-- **Coordination**: https://github.com/ipfs/ipfs-cluster
-- **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_CLUSTER.md
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-ipfs-cluster)**
-
-The IPFS Cluster Working Group is the team implementing IPFS Cluster.
-
-**Responsibilities include**:
-- Design and implement IPFS Cluster.
-- Provide knowledge and APIs that organizations with large data sets can use.
 
 #### Local Offline Collaboration (Locol)
  - **Coordination**: https://github.com/ipfs/local-offline-collab
@@ -300,7 +288,6 @@ User research, collaborations, and features to make the knowledge and tools on t
 - Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
 
 
-
 The list of historical special interest groups is:
 - https://github.com/ipfs/dynamic-data-and-capabilities
 - https://github.com/ipfs/decentralized-data-stewardship
@@ -315,6 +302,9 @@ The list of historical special interest groups is:
 _Note: communication channels for tiger teams might be private to active contributors - feel free to request access with an explanation if you'd like to participate or ping the DRI directly on IRC/Slack)_
 
 The list of current tiger teams is:
+- **N/A**
+
+The list of past tiger teams is:
 - [GraphSync Tiger Team](https://docs.google.com/document/d/18JFIF9rOsBA8OMdxMFVCoMugWf79ynanhSvfA42lHc8/edit#heading=h.8btdtvvsls2) (DRI: @momack2)
   - Aiming to make go-ipfs and IPLD better support syncing deep graphs
 - [IPFS Gateway Tiger Team](https://docs.google.com/document/d/1VUfTNtW1Q4fTNpISyYaRp5QnbReizMpLvw5dp7e1eqs/edit#heading=h.qstqu9bvhqwz) (DRI: @scout)
@@ -322,6 +312,9 @@ The list of current tiger teams is:
 
 ## Projects that have evolved into their own entities
 
+- [IPFS Cluster](https://github.com/ipfs/ipfs-cluster)
+  - [Roadmap](https://cluster.ipfs.io/roadmap/)
+  - [Captain](https://github.com/hsanjuan)
 - [libp2p](http://github.com/libp2p/libp2p)
   - [OKRs](https://docs.google.com/spreadsheets/d/1HTXfgR5FyPTFhsTkFPRThkeMvHvCgJOaAs7BSl_vQ_0/edit)
   - [PM/Captain](https://github.com/mgoelzer)
