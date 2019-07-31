@@ -16,6 +16,7 @@
   - @hannahhoward
   - @yusefnapora
   - @jimpick
+  - @stebalien
   
 - **Recording:** https://youtu.be/LklIcOZvzsM
 
