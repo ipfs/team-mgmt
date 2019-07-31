@@ -13,16 +13,16 @@
   - [Working Group Captain](#working-group-captain)
   - [Working Group Technical Project Manager](#working-group-technical-project-manager-tpm)
 - [Active Teams](#active-teams)
-  - [**Working Groups**](#working-groups)
-    - [**Project Operations**](#project-operations)
-    - [**Testing Infra**](#testing-infra)
-    - [**IPFS as a Service**](#ipfs-as-a-service)
-    - [**Package Managers**](#package-managers)
-    - [**Docs & Developer UX**](#docs--developer-ux)
-  - [**Special Interest Groups**](#special-interest-groups)
-      - [**Integration with Web Browsers**](#integration-with-web-browsers)
-      - [**IPFS GUI**](#ipfs-guiux)
-      - [**Local Offline Collaboration**](#local-offline-collaboration-locol)
+  - [Working Groups](#working-groups)
+    - [Project Operations](#project-operations)
+    - [Testing Infra](#testing-infra)
+    - [IPFS as a Service](#ipfs-as-a-service)
+    - [Package Managers](#package-managers)
+    - [Docs & Developer UX](#docs--developer-ux)
+  - [Special Interest Groups](#special-interest-groups)
+      - [Integration with Web Browsers](#integration-with-web-browsers)
+      - [IPFS GUI](#ipfs-guiux)
+      - [Local Offline Collaboration](#local-offline-collaboration-locol)
   - [Tiger Teams](#tiger-teams)
 
 ## Description
@@ -145,23 +145,30 @@ Responsibilities include:
 - Coordinator for the Working Group
 - Ensure OKRs are set, prioritized, and tracked by the team
 
-## Active Teams
+# Active Teams
 
-Here you can find the full list of active Teams inside the IPFS Org. In addition to the roles in each Team formation, we have as:
+Here you can find the full list of active Teams inside the IPFS Org. 
 
-- `IPFS Project BDFL` - [**Juan Benet**](https://github.com/jbenet/)
-- `IPFS Project Lead` -  [**Molly Mackinlay**](https://github.com/momack2)
-- `IPFS Project Co-Lead` - **AVAILABLE**
-
-### Working Groups
-
+**Working Groups**
 - [**Project Operations**](#project-operations)
 - [**Testing Infra**](#testing-infra)
 - [**IPFS as a Service**](#ipfs-as-a-service)
 - [**Package Managers**](#package-managers)
 - [**Docs & Developer UX**](#docs--developer-ux)
 
-#### Project Operations
+**Special Interest Groups**
+- [**Integration with Web Browsers**](#integration-with-web-browsers)
+- [**IPFS GUI**](#ipfs-guiux)
+- [**Local Offline Collaboration**](#local-offline-collaboration-locol)
+
+In addition to the roles in each Team formation, we have these project leads:
+- `IPFS Project BDFL` - [**Juan Benet**](https://github.com/jbenet/)
+- `IPFS Project Lead` -  [**Molly Mackinlay**](https://github.com/momack2)
+- `IPFS Project Co-Lead` - **AVAILABLE**
+
+## Working Groups
+
+### Project Operations
 
 - **Coordination**: https://github.com/ipfs/project-operations
 - **[Molly Mackinlay](https://github.com/momack2): TPM / IPFS Project Lead**
@@ -176,7 +183,7 @@ Ship core go and js implementations with reliable rigor, systematize community c
 - Maintenance of lower-priority systems/tools
 - Research
 
-#### Testing Infra
+### Testing Infra
 
 - **Coordination**: TBD
 - **[Raul Kripalani](https://github.com/raulk): Captain**
@@ -188,7 +195,7 @@ The IPFS Testing Infra team builds testing tooling to validate scalability and r
 - Create dashboards and CI hooks to make testing infra more useful/usable
 - Support core implementation developers in creating/running real world test scenarios
 
-#### IPFS as a Service
+### IPFS as a Service
 
 - **Coordination**: TBD
 - **[Hector Sanjuan](https://github.com/hsanjuan): Captain**
@@ -202,7 +209,7 @@ Improve performance and stability of gateways and pinning, and provide public ob
 - Monitor services and hosts used by the IPFS dev teams
 - Provide wisdom to other users that want to host IPFS nodes
 
-#### Package Managers
+### Package Managers
 
 - **Coordination**: https://github.com/ipfs/package-managers
 - **[Andrew Nesbitt](https://github.com/andrew): Captain**
@@ -218,7 +225,7 @@ User research, collaborations, and performance improvements of import and update
 - Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
 - Improve the core IPFS implementations to support package manager usage needs
 
-#### Docs & Developer UX
+### Docs & Developer UX
 
 - **Coordination**: https://github.com/ipfs/docs
 - **[Jessica Schilling](https://github.com/jessicaschilling): Captain**
@@ -233,9 +240,9 @@ Overhaul our documentation platform and content based on audits, research and co
 - Evaluate and improve IPFS documentation accuracy, usability, and accessibility
 
 
-### Special Interest Groups
+## Special Interest Groups
 
-#### Integration with Web Browsers
+### Integration with Web Browsers
 
 - **Coordination**: https://github.com/ipfs/in-web-browsers
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INTEGRATION_IN_WEB_BROWSERS.md
@@ -254,7 +261,7 @@ The Integration with Web Browsers Working Group designs and implements browser i
 - Increase the adoption of the distributed web by making it easy for users to access it.
 - Define specifications for address schemes and advocate for those schemes to be adopted.
 
-#### IPFS GUI/UX
+### IPFS GUI/UX
 
 - **Coordination**: https://github.com/ipfs/ipfs-gui
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
@@ -268,7 +275,7 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 - Demonstrate the nature of the system with effortless, coherent, and compelling interfaces.
 
 
-#### Local Offline Collaboration (Locol)
+### Local Offline Collaboration (Locol)
  - **Coordination**: https://github.com/ipfs/local-offline-collab
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
@@ -291,7 +298,7 @@ The list of historical special interest groups is:
 - https://github.com/libp2p/research-pubsub
 - https://github.com/libp2p/research-dht
 
-### Tiger Teams
+## Tiger Teams
 _Note: communication channels for tiger teams might be private to active contributors - feel free to request access with an explanation if you'd like to participate or ping the DRI directly on IRC/Slack)_
 
 The list of current tiger teams is:
