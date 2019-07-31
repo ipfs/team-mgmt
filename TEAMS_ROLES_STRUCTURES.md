@@ -115,7 +115,7 @@ This role is currently taken by [**Molly Mackinlay**](https://github.com/momack2
 
 > Master Overseer of Getting Things Done. Analogous to the Technical Project Manager / Project Manager in each Working Group.
 
-This role is currently **OPEN**
+This role is currently **AVAILABLE**
 
 ### Working Group Captain
 
@@ -170,11 +170,10 @@ Here you can find the full list of active Teams inside the IPFS Org. In addition
 Ship core go and js implementations with reliable rigor, systematize community communications and collaborations, and spin up IPFS research to meet future project needs.
 
 **Responsibilities include**:
-- Core Implementations (including [js-ipfs](https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md) and [go-ipfs]( https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md))
-- Communications
-- Community
+- Core Implementations (including [js-ipfs](https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md) and [go-ipfs](https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md))
+- Project communications and community support
 - Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
-- Maintenance
+- Maintenance of lower-priority systems/tools
 - Research
 
 #### Testing Infra
@@ -240,9 +239,7 @@ Overhaul our documentation platform and content based on audits, research and co
 
 - **Coordination**: https://github.com/ipfs/in-web-browsers
 - **Roadmap**: https://github.com/ipfs/roadmap/blob/master/WG_INTEGRATION_IN_WEB_BROWSERS.md
-- **Working Group Mailing List**: wb-wg@ipfs.io
 - **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
-- WG Repos Badge - Badge n/a yet
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-web-browsers/members)**
 
 The Integration with Web Browsers Working Group designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
@@ -273,8 +270,6 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
 #### Local Offline Collaboration (Locol)
  - **Coordination**: https://github.com/ipfs/local-offline-collab
- - **Roadmap**: TB
- - **SIG Mailing List**: locol-wg@ipfs.io
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
 
