@@ -4,55 +4,46 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 ## 2019 Q2
 
-### O1. Finish the base cluster use-case 
+|  **IPFS Cluster** | **Priority** | **Owner** | **Mid-Q Actual** | **Mid-Q Projection** | **End-Q** |
+| :---: | :---: | :---: | --- | --- | --- |
+|  **** | P0-P4 |  | **0.3** | **0.6** | **0.4** |
+|  **1 Finish the "base cluster" use-case** |  |  |  |  |  |
+|  Swagger API documentation for the REST API (Kishan) | **P0** | Kishan | 0.6 | 0.7 | 0.5 |
+|  Re-organizing and iterating on the current documentation/website (to include new product 'marketing') | **P0** | Mhz, pkafei |  | 0.8 |  |
+|  Generate 3 step-by-step guides for standard ways of using Cluster: |  |  |  |  |  |
+|  1. Guide on CLI tooling | P1 | Adrian | 0.0 | 0.4 | 0.0 |
+|  2. Guide on how IPFS and Cluster works | P1 | Mhz | 0.0 | 0.6 | 0 |
+|  3. TBD |  |  |  |  | 0 |
+|  Allocators/informers revamp | P1 | Adrian | 0.0 | 0.7 | 0 |
+|  js-cluster client | **P0** | Hector | 0.7 | 0.7 | 0.7 |
+|  Small issues grouped in https://github.com/ipfs/ipfs-cluster/milestone/20 | P1 | Kishan | 0.2 | 0.2 | 0.2 |
+|  Highlight issues in the repo that require technical design | P1 | Adrian | 0 | 0.7 | 0 |
+|   |  |  |  |  |  |
+|  **2 Release collaborative clusters** |  |  |  |  |  |
+|  Merge CRDT prototype and release | **P0** | Hector | 0.7 | 1 | 0.7 |
+|  CRDT-consensus layer becomes the default | P2 | Hector | 0.2 | 0.5 | 0.2 |
+|  Fine grained permissions for RPC API | **P0** | Hector | 0.8 | 0.8 | 0.8 |
+|  Fine grained permissions for REST API | P4 | Adrian | 0 | 0.3 | 0.3 |
+|  Separate identity and configuration | **P0** | Kishan | 1 | 1 | 1 |
+|  Follower cluster peer mode | P2 | Hector | 0.5 | 0.7 | 0.5 |
+|   |  |  |  |  |  |
+|  **3 Improve cluster scalability** |  |  |  |  |  |
+|  Make stateless pintracker the default: retake this, make it performant, ensure it works, deprecate mappintracker | P2 | Hector | 0 | 0 | 0 |
+|  *The following not likely to get done:* |  |  |  |  |  |
+|  Streaming for libp2p-gorpc: status, peers ls, pins ls... should use streaming RPC endpoints | P3 |  |  |  |  |
+|  Streaming API | P3 |  |  |  |  |
+|  IPTB + Cluster (blocked on CRDTs) | P3 |  | 0.1 | 0.2 |  |
+|  Sharding (blocked on IPFS) | **P0** |  |  |  |  |
+|   |  |  |  |  |  |
+|  **4 Cluster outreach** |  |  |  |  |  |
+|  Finish illustrations | **P0** | Mhz |  | 0.4 | 0.6 |
+|  Workshop for IPFS Camp | **P0** | Mhz | 0.5 | 1 | 1 |
+|  Pinning service for IPFS Camp | **P0** | Adrian | 0.6 | 1 | 0.6 |
+|  Talks on IPFS Cluster that we can take to conferences | P1 | Hector | 0.3 | 0.7 | 0.3 |
+|  Continous user feedback | P1 | Mhz |  | 0.1 | 0.1 |
+|  Choosing formal metrics | P1 | Mhz |  | 0 | 0 |
 
-The following items complete IPFS Cluster for default usage as a Pinset orchestration tool.
-
-* KR: Swagger API documentation for the REST API (Kishan) - P0
-* KR: Re-organizing and iterating on the current documentation/website (Mhz, pkafei) - P0
-* KR: Generate 3 step-by-step guides for standard ways of using Cluster
-  * KR: Guide on CLI tooling (Adrian) P0
-  * KR: Guide on how IPFS and Cluster works (Mhz) P0
-  * KR: TBD P2
-
-* KR: Allocators/informers revamp (Adrian) P1
-* KR: js-cluster client (Hsanjuan) - Hire someone - P0
-* KR: Small issues grouped in https://github.com/ipfs/ipfs-cluster/milestone/20 (Kishan - P0)
-* KR: Highlight issues in the repo that require technical design - (adrian) - P1
-
-
-### O2. Release collaborative clusters
-
-Collaborative unlock multiple individuals to collaborate pinning archives (like package repositories).
-
-* KR: Merge CRDT prototype and release - P0 (hsanjuan)
-* KR: CRDT-consensus layer becomes the default - P2 (hsanjuan) 
-* KR: Fine grained permissions for RPC API - P0 (Hsanjuan)
-* KR: Fine grained permissions for REST API - P1 (Adrian)
-* KR: Separate identity and configuration - P1 (Kishan)
-* KR: Follower cluster peer mode - P2 (hsanjuan)
-
-### O3. Improve cluster scalability 
-
-* KR: Make stateless pintracker the default: retake this, make it performant, ensure it works, deprecate mappintracker - P2 (Hsanjuan)
-
-The following may not be for next quarters as realistically they will very likely not get done:
-
-* KR: Streaming for libp2p-gorpc: all the things that request a collection of items (status, peers ls, pins ls) should use streaming RPC endpoints - P2
-* KR: Streaming API - P2
-* KR: IPTB + Cluster (blocked on CRDTs) - P2
-* KR: Sharding (blocked on IPFS) - P0 - VERY IMPORTANT FOR PACKAGE MANAGERS
-
-### O4. Cluster outreach
-
-* KR: Finish illustrations - P0 (Mhz)
-* KR: Cluster Starter App - P1 (pkafei)
-* KR: Workshop for IPFS Camp - P0 (Hsanjuan)
-* KR: Pinning service for IPFS Camp - P0 (Adrian)
-* KR: Talks on IPFS Cluster that we can take to conferences - P1 (Hsanjuan)
-* KR: Continous user feedback - P1 (Mhz)
-* KR: Choosing formal metrics - P1 (Mhz)
-
+- [IPFS Cluster 2019 Q2 OKRs](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=2055463539)
 
 ## 2019 Q1
 
