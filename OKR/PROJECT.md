@@ -4,6 +4,42 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 
 ## 2019 Q3
+|  **IPFS Project Operations** | **Priority** | **Owner** | **Mid-Q Actual** | **Mid-Q Projection** | **End-Q** | **Link** |
+| :---: | :---: | :---: | --- | --- | --- | :---: |
+|  **** | P0-P4 |  | **0.2** | **0.4** | **0.0** |  |
+|  **1 IPFS Implementations are shipping quality releases on a schedule (Alan, Steven)** |  |  |  |  |  |  |
+|  Ship a release policy and defined quality bar, and send 1+ go-ipfs release through all stages | **P0** | stebalien |  |  |  | [🌎](https://github.com/libp2p/go-libp2p/issues/677 "🌎") |
+|  [Core implementation testing gives us automated, extensive feedback on performance/reliability on a per PR and nightly basis (testing improvements)](https://docs.google.com/spreadsheets/d/1xyqyGUF-oe3x9ln88YonVeOMWWdknik74lVgL_3dBY8/edit#gid=0 "Core implementation testing gives us automated, extensive feedback on performance/reliability on a per PR and nightly basis (testing improvements)") | **P0** | stebalien |  |  |  | [🌎](https://docs.google.com/spreadsheets/d/1xyqyGUF-oe3x9ln88YonVeOMWWdknik74lVgL_3dBY8/edit#gid=0 "🌎") |
+|  Improve overall state of js-ipfs tests | **P0** | hugomrdias |  |  |  | [🌎](https://github.com/ipfs/js-ipfs/issues/2276 "🌎") |
+|  Collaborations & other WGs aren’t blocked on core implementation release schedule for feedback/iteration/launches | **P1** | alanshaw |  |  |  |  |
+|  Go and js implementations have systematized operation policies (eg issue triage, response time, etc), and a github bot to automate reminders | P1 | alanshaw |  |  |  |  |
+|  We have a documented engineering design review process and send 1+ protocol improvement through the process to gain early alignment | P1 | stebalien |  |  |  |  |
+|  Core implementation has improved API/CLI test coverage. | P1 | alanshaw |  |  |  |  |
+|  We have documented lead maintainers for all active go and js repos | P2 | stebalien |  |  |  |  |
+|   |  |  |  |  |  |  |
+|  **2 The IPFS Community is informed of relevant news in a timely manner (Molly, Dietrich)** |  |  |  |  |  |  |
+|  We proactively update the community about important news and project progress, shipping at least one post per month | **P0** | momack2 | 0.7 | 1 |  |  |
+|  We have a blog content plan and schedule, covering Camp content, important news, collaborations and recent event participation | P1 | autonome | 0.0 | 1 |  |  |
+|  We have a communications runbook for common and emergency situations | P1 | autonome | 0.0 | 1 |  |  |
+|  We define and start measuring a metric for tracking community support needs | P2 | autonome | 0 | 0.5 |  |  |
+|   |  |  |  |  |  |  |
+|  **3 Collaborations are systematized and prioritized (Dietrich, Arkadiy)** |  |  |  |  |  |  |
+|  Daily operations of collabs are supported by tooling and process that enables prioritization, metrics and manageable level of daily overhead | **P0** | parkan / autonome | 0.5 | 1 |  |  |
+|  Opportunities are classified, prioritized and serviced in a pipeline process | **P0** | parkan / autonome | 0.5 | 1 |  |  |
+|  IPNS over DNS production ready | **P0** | hugomrdias |  |  |  | [🌎](https://github.com/ipfs/js-ipfs/issues/2000 "🌎") |
+|  We have a single list of who is using IPFS and can use that information to make decisions | P1 | parkan / autonome | 0.5 | 1 |  |  |
+|  Opera is receiving the support they need for implementation | P1 | lidel / autonome |  |  |  |  |
+|  Brave users can share and discover data with JS-IPFS embedded node | P2 | lidel |  |  |  |  |
+|  ENS ships a mutable naming service using IPFS, improving the developer experience of pointing at IPFS/IPNS/IPLD content paths from smart contracts | P2 | lidel |  |  |  |  |
+|   |  |  |  |  |  |  |
+|  **4 Research is projecting the present into the future (David)** |  |  |  |  |  |  |
+|  IPFS & libp2p team’s get a Workshop (through Zoom) with a Survey on the state of the art around P2P | P1 | yiannis |  |  |  |  |
+|  Publish a report on the state of Research in IPFS & Libp2p | P1 | daviddias |  |  |  |  |
+|  Deliver an IPFS Workshop at ACM/ICN | P2 | daviddias / yiannis |  |  |  |  |
+|   |  |  |  |  |  |  |
+|  **5 Lower priority projects are clearly owned and maintained (Dietrich)** |  |  |  |  |  |  |
+|  IPFS Desktop and Web UI are tested and released with when there is a new release of go-ipfs, or in response to discovery of P0 bugs. | **P1** | autonome / hacdias |  |  |  |  |
+
 - [Project 2019 Q3 OKRs](https://docs.google.com/spreadsheets/d/1AiNUL7vK5Jp8aa839UaMaI_AlBU5r6Bor-A40179I2A/edit#gid=1562851442)
 - [Planning Thread](https://github.com/ipfs/team-mgmt/pull/997)
 
