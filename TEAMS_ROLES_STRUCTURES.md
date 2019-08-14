@@ -212,7 +212,7 @@ Improve performance and stability of gateways and pinning, and provide public ob
 ### Package Managers
 
 - **Coordination**: https://github.com/ipfs/package-managers
-- **[Andrew Nesbitt](https://github.com/andrew): Captain**
+- **[Steven Allen](https://github.com/stebalien) / [Michelle Hertzfeld](https://github.com/meiqimichelle): Captain**
 - **[Github Team](https://github.com/orgs/ipfs/teams/package-managers/members)**
 
 User research, collaborations, and performance improvements of import and update of large filesystems to support file-system-based package managers.
