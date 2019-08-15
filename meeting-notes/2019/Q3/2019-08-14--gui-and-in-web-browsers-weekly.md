@@ -39,6 +39,7 @@ Participants:
 - putting pause on new icons and co-hosting feature in ipfs-desktop 
 - co-hosting needs a shared UI and language Companion and Desktop: https://github.com/ipfs-shipyard/ipfs-desktop/issues/1034
 - discussion: js-ipfs as a viable alternative to go-ipfs? https://github.com/ipfs/js-ipfs/issues/1563
+  - Let's understand who is using js-ipfs!  https://github.com/ipfs/js-ipfs/issues/2359
 
 ## Async Updates
 
