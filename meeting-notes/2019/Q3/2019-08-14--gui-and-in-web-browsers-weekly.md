@@ -27,7 +27,7 @@ Participants:
     -  ["redirects"](https://github.com/ipfs-shipyard/ipfs-companion/issues/741)
     -  ["pinning"](https://github.com/ipfs-shipyard/ipfs-companion/issues/742)
 - Should go-ipfs and js-ipfs have webui check on release checklists instead of webui PRing against them?
-- PSA: ongoing discussion on `/tls/http` vs `/https`: https://github.com/multiformats/multicodec/pull/145#issuecomment-520485996
+- PSA: ongoing discussion on `/tls/http` vs `/https`: https://github.com/multiformats/multiaddr/issues/63#issuecomment-521535243
 - Icons: ship 0.9.0 macOS with new icons and windows/linux old icons (?) **or** wait
 - Do we have an issue tracking differences between js-ipfs and go-ipfs? (eg for server)
     
