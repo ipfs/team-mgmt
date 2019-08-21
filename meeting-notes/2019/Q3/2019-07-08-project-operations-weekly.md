@@ -1,6 +1,6 @@
 ## IPFS Project Operations Weekly Sync, July 8, 2019
 
-**Links or notes to review before the meeting**
+*Note to readers: Please add/edit/update these notes to improve them! Commit directly to master if you have permissions, or submit a PR if you do not.*
 
 * **Moderator:** Molly
 * **Notetaker:** @mhz + @autonome
