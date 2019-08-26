@@ -1,5 +1,7 @@
 ## Aug 26, 2019
 
+*Note to readers: Please add/edit/update these notes to improve them! Commit directly to master if you have permissions, or submit a PR if you do not.*
+
 **Moderator:** @arkadiy
 **Notetaker:** @autonome
 **Recording:** <https://youtu.be/oZ_1UcEWzpo>
