@@ -177,7 +177,7 @@ In addition to the roles in each Team formation, we have these project leads:
 Ship core go and js implementations with reliable rigor, systematize community communications and collaborations, and spin up IPFS research to meet future project needs.
 
 **Responsibilities include**:
-- Core Implementations (including [js-ipfs](https://github.com/ipfs/pm/blob/master/JS_CORE_DEV_MGMT.md) and [go-ipfs](https://github.com/ipfs/pm/blob/master/GOLANG_CORE_DEV_MGMT.md))
+- Core Implementations (including [js-ipfs](https://github.com/ipfs/js-ipfs) and [go-ipfs](https://github.com/ipfs/go-ipfs))
 - Project communications and community support
 - Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
 - Maintenance of lower-priority systems/tools
