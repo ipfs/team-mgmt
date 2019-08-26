@@ -229,7 +229,7 @@ User research, collaborations, and performance improvements of import and update
 
 - **Coordination**: https://github.com/ipfs/docs
 - **[Jessica Schilling](https://github.com/jessicaschilling): Captain**
-- **[Github Team](TBD)**
+- **[Github Team](https://github.com/orgs/ipfs/teams/docs/members)**
 
 Overhaul our documentation platform and content based on audits, research and community needs assessment to make IPFS more accessible to developer users.
 
