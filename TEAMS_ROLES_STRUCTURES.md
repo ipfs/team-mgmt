@@ -174,10 +174,10 @@ In addition to the roles in each Team formation, we have these project leads:
 - **[Molly Mackinlay](https://github.com/momack2): TPM / IPFS Project Lead**
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
 
-Ship core go and js implementations with reliable rigor, systematize community communications and collaborations, and spin up IPFS research to meet future project needs.
+Ensure core Go and JavaScript implementations ship with reliable rigor, systematize community communications and collaborations, and spin up IPFS research to meet future project needs.
 
 **Responsibilities include**:
-- Core Implementations (including [js-ipfs](https://github.com/ipfs/js-ipfs) and [go-ipfs](https://github.com/ipfs/go-ipfs))
+- Track progression of objectives and key results (OKRs) for core implementations (including [js-ipfs](https://github.com/ipfs/js-ipfs) and [go-ipfs](https://github.com/ipfs/go-ipfs))
 - Project communications and community support
 - Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
 - Maintenance of lower-priority systems/tools
