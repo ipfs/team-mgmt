@@ -43,7 +43,7 @@ This document presents the the existing teams that emerged and that led to the m
 
 **Working Groups**
 
-Working Groups are teams of people that are appointed to research, develop, and deploy work under the working groups' scope. This structure is designed to provide clarity and direction to the project, enabling individual contributors to focus their time and energy on the areas they are most interested.
+Working Groups are teams of people that are appointed to research, develop, and deploy work under the working groups' scope. This structure is designed to provide clarity and direction to the project, enabling individual contributors to focus their time and energy on the areas they are most interested in.
 
 Each Working Group is free to experiment with setting their own pace and tracking work. The only requirements are that each Working Group:
 - Derives its priorities from the Project level priorities
@@ -57,13 +57,13 @@ Each contributor shouldn't carry responsibilities across multiple working groups
 
 **Special Interest Groups**
 
-Special Interest Groups are set of people focused on exploring a specific vertical or interconnection between projects. This is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical.
+Special Interest Groups are sets of people focused on exploring a specific vertical or interconnection between projects. This is a super-set for both Research Groups focused on investigating a particular interest area, and more product-oriented groups focused on understanding and building tools for a specific vertical.
 
-SIGs have many possible outputs including research surveys, tools, experiments, RFPs, talks, demos, guides, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups. They frequently gather a community of interest around their vertical which they convene on a regular cadence for meetings and discussion.
+SIGs have many possible outputs including research surveys, tools, experiments, RFPs, talks, demos, guides, and other types of knowledge that can inform and help the work done by the Working Groups or spark the creation of new Working Groups. They frequently gather a community of interest around their vertical, which they convene on a regular cadence for meetings and discussion.
 
 Unlike a Working Group, a Special Interest Group doesn't require a Captain or OKRs to be formed, and having individuals that subscribe to multiple SIGs (or both a Working Group and a SIG) isn't considered harmful.
 
-Some great examples of past SIGs are: research-pubsub which led to the implementation of PubSub by the IPFS/libp2p teams; and research-crdt which lead to the creation of the Dynamic Data & Capabilities Group.
+Some great examples of past SIGs are: research-pubsub, which led to the implementation of PubSub by the IPFS/libp2p teams; and research-crdt, which lead to the creation of the Dynamic Data & Capabilities Group.
 
 > A byproduct of both of these team structures achieves another important goal: making it easier for new users and contributors to subscribe to updates and get ramped up quickly to the current project focus.
 
@@ -71,9 +71,9 @@ Some great examples of past SIGs are: research-pubsub which led to the implement
 
 Tiger teams are a small, temporary group of people usually formed to solve a specific problem or build a particularly complex feature. They frequently form when significant iteration/collaboration across team or project boundaries is required to achieve success. Once the objective is achieved, the tiger team dissolves back into their normal working groups.
 
-Some great examples that would likely benefit from a tiger team include: a scoped collaboration between infra, go-ipfs, and Libp2p on a specific issue; a complex and envolved feature on the intersection of IPFS and IPLD; or a specific time-sensitive project involving members of the community, gui, and js-ipfs working groups.
+Some great examples that would likely benefit from a tiger team include: a scoped collaboration between infra, go-ipfs, and Libp2p on a specific issue; a complex and involved feature on the intersection of IPFS and IPLD; or a specific time-sensitive project involving members of the community, gui, and js-ipfs working groups.
 
-A tiger team has a DRI (directly responsible individual) that drives the team's engagement and agenda. They are responsible for initiating communication channels and ensuring the group has a unified definition of success they drive toward efficiently. Tiger teams interface through a set of temporary ad hoc communication channels (such as an IRC channel, github project, mumble standup, weekly call, email list, slack etc) to empower quick iteration amongst teammates.
+A tiger team has a DRI (directly responsible individual) that drives the team's engagement and agenda. They are responsible for initiating communication channels and ensuring the group has a unified definition of success they drive toward efficiently. Tiger teams interface through a set of temporary ad hoc communication channels (such as an IRC channel, github project, mumble standup, weekly call, email list, slack etc) to encourage quick iteration amongst teammates.
 
 ## Team Roles
 
@@ -104,7 +104,7 @@ Responsibilities include:
 - Identify unique opportunities for growth and deployment of the Protocol
 - Set the project-wide plan and priorities at quarterly and yearly scale (roadmap, OKRs)
 - Handle project-level communications with stakeholders
-- Manages communication and execution of the plan to ensure progress happens efficiently
+- Manage communication and execution of the plan to ensure progress happens efficiently
 - Ensure WG plans are aligned with project-wide priorities (inform their OKRs, Roadmaps, and relevant other plans)
 - Backstop for WG execution, impact, and escalated decision making (support captains, take part in key initiatives that require Project Lead support)
 - Approve protocol-level changes
@@ -126,7 +126,7 @@ Responsibilities include:
 - Creator and communicator of the overall technical vision and direction for the WG
 - Owner and custodian of the WG Charter, Plan, and Impact
 - Sets WG quarterly OKRs and priorities, informed by project-level OKRs and roadmap
-- Facilitates execution of the plan by keeping tabs on progress, supporting group members as necessary, and ensuring progress is unblocked and on track
+- Facilitate the execution of the plan by keeping tabs on progress, supporting group members as necessary, and ensuring progress is unblocked and on track
 - Final decision maker for the Working Group - making, delegating, or escalating decisions as necessary
 - Responsible for (or delegates) the project management work of the WG
 - High speed bridge for coordination with other Working Groups and Partners
@@ -138,7 +138,7 @@ The Technical Project Manager (sometimes referenced as Project Manager, Program 
 
 The Technical Project Manager should also have a role in contributing to the projects the Working Group is tackling and have an understanding of the technical challenges and needs from the team.
 
-Some working groups have the same person playing both the Captain and Technical Project Manager role. This should be limited to situations where the Working Group is nascent or the team is small.
+Some working groups have the same person playing both the Captain and Technical Project Manager roles. This should be limited to situations where the Working Group is nascent or the team is small.
 
 Responsibilities include:
 - Team Catalyst. Team productivity and fun optimizer.
@@ -147,7 +147,7 @@ Responsibilities include:
 
 # Active Teams
 
-Here you can find the full list of active Teams inside the IPFS Org. 
+These are the active teams inside the IPFS Org. 
 
 **Working Groups**
 - [**Project Operations**](#project-operations)
@@ -215,7 +215,7 @@ Improve performance and stability of gateways and pinning, and provide public ob
 - **[Steven Allen](https://github.com/stebalien) / [Michelle Hertzfeld](https://github.com/meiqimichelle): Captain**
 - **[Github Team](https://github.com/orgs/ipfs/teams/package-managers/members)**
 
-User research, collaborations, and performance improvements of import and update of large filesystems to support file-system-based package managers.
+User research, collaborations, and performance improvements of import and update of large file systems to support file-system-based package managers.
 
 **Responsibilities include**:
 
