@@ -9,6 +9,8 @@
     - @lidel
     - @vasco-santos
     - @jimpick
+    - @autonome
+    - @hugomrdias
 - **Recording:** https://youtu.be/mrwv5UzLDjw
 
 ## Agenda
