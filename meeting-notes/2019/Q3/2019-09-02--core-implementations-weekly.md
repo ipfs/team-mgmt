@@ -212,3 +212,18 @@ https://github.com/ipfs/js-ipfs/pull/1994
     - Iterate on the started draft PRs for async migration
     - Create migration PR for `libp2p-floodsub`
     - get [ipfs/js-ipfs#2298](https://github.com/ipfs/js-ipfs/pull/2298) merged
+
+@hacdias
+
+- Done:
+    - (ipfs-desktop) fixed startup error on macOS on the newest beta caused by trying to modify a file within the installation path of the application itself, which is, in itself, a silly idea. [PR.](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1079)
+    - (ipfs-desktop & ipfs-webui) increased draggable area of the window so it's easier to move the window around on IPFS Desktop. [Web UI PR](https://github.com/ipfs-shipyard/ipfs-webui/pull/1138), [Desktop PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1071).
+    - (ipfs-desktop) fixed issue when releasing through Travis. There was a breaking change on Electron Builder which wasn't released as a major version. [PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1069).
+    - (ipfs-desktop) separated e2e from unit tests. [PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1070).
+    - (ipfs-desktop) refactored remaining code that used `require`s into `import`s. [PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1072).
+    - went through some IPFS Desktop and Awesome IPFS issues and PRs and reviewed them.
+- Blocked:
+    - (ipfs-desktop & ipfs-webui) add desktop-related analytics. [Desktop PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1068), [Web UI PR](https://github.com/ipfs-shipyard/ipfs-webui/pull/1136)
+- Next:
+    - Release Web UI 2.5.1... and Desktop 0.9.0...
+    - Start a draft on Awesome IPFS Policy: https://github.com/ipfs/awesome-ipfs/issues/150
