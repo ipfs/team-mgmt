@@ -1,10 +1,13 @@
-# IPFS Team Planning, Management & Coordination threads
+# IPFS Team Planning, Management & Coordination
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](https://protocol.ai)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](https://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 
-**tl:dr:** We have a **weekly call** on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
+## **tl;dr** 
+
+- **Join the call:** We have a weekly call on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue.
+- **Roadmap:** We shifted our focus in Q3 of 2019, remixing the IPFS working groups and forming ourselves into a set of new teams focused on our most high-priority challenges. Read a **summary of our 2019 Q3 plans** in this [blog post](https://blog.ipfs.io/2019-07-31-operation-task-force/); take a **deeper dive** into our 2019 goals and progress against those goals in our [Q3 OKR Review](https://docs.google.com/document/d/1zpF_OSeyxB9TFdMNLhHGvmUl8dKOzlXcBVt5qx5fSyU/edit#heading=h.f29cu3o0xwof); or **watch** a [presentation of the IPFS Q3 OKRs](https://youtu.be/YhZF4nboV8Y?t=528) on YouTube. 
 
 ## Repo Index
 
