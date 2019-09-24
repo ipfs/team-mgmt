@@ -5,7 +5,7 @@
 - **Attendees:**
   - @vasco-santos
   - @pedromiguelss
-- **Recording:**
+- **Recording:** https://youtu.be/zAWcxibUcPI (partial)
 
 ## Agenda
 
