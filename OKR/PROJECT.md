@@ -2,6 +2,25 @@
 
 We frame our ongoing work using a process based on quarterly Objectives and Key Results (OKRs). Objectives reflect outcomes that are challenging, but realistic. Results are tangible and measurable.
 
+## 2019 Q4
+- **O: IPFS Project prepared for 2020 growth** 
+  - Onboard 4+ new contributors with skills around Testing infra, Gateways support, go-ipfs swe, and docs content strategy
+  - 2020 planning identifies our next area of focus and starts building toward it
+  - Devise a strategy for 2020 community growth & support
+  - IPFS Research has plans or prototypes addressing 2+ important open research issues
+  - Complete js-ipfs async/await refactor
+  
+- **O: IPFS collaborations supported and broadcast**
+  - Brave and Opera ship & announce V1s of embedded IPFS support - and we communicate it effectively in coordinated PR announcements
+  - Launch lightweight external dev grants program to track inbound ideas and “microgrant” opportunities
+  - Communicate p2plab collab and bitswap improvements in shared blog post
+  - Refine collaborations pipeline process and prioritization with ecosystem research
+
+- **O: Level-up day-to-day operations**
+  - Support IPFS working groups by creating or finding 3+ team/wg-wide training or learning resources to help level up
+  - Desktop and WebUI have comprehensive automated testing for efficient maintenance as core IPFS tools
+  - Communications runbook augmented to cover all Q4 common / emergency situations
+
 
 ## 2019 Q3
 |  **IPFS Project Operations** | **Priority** | **Owner** | **Mid-Q Actual** | **Mid-Q Projection** | **End-Q** | ** Issue Link** |
