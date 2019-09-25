@@ -18,7 +18,8 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 
 - **O: Level-up day-to-day operations**
   - Support IPFS working groups by creating or finding 3+ team/wg-wide training or learning resources to help level up
-  - Desktop and WebUI have comprehensive automated testing for efficient maintenance as core IPFS tools
+  - Desktop, Companion and WebUI have comprehensive automated testing for efficient maintenance as core IPFS tools
+  - Increase developer productivity and improve quality and reliability of our test suites by making the tests faster and easier to run, create, debug and maintain
   - Communications runbook augmented to cover all Q4 common / emergency situations
 
 
