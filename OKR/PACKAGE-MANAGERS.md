@@ -133,13 +133,6 @@ These are some alternative initiatives that _could_ have addressed the KRs.
   * Con: Unlike mount, the files would need to live in IPFS and outside IPFS.
   * Con: To make this work without timestamps inside IPFS, we'd need the user to pass some kind of "add if modified since" date. That's pretty poor UX.
 
-#### Alternatives
-
-There are no alternatives. We:
-
-1. Will not ship a release until we've fixed the DHT.
-2. We need to ship a release this quarter.
-
 ### Objective: Engage with the package manager community to demonstrate how IPFS meets their needs.
 
 While simply working towards our goal to integrate IPFS and package managers will help drive improvements to the protocol and core implementations, the end goal is to actually _integrate_ IPFS and package managers. To that end, we can't stop at improving the core implementations; we need to demonstrate those improvements to the community.
@@ -215,6 +208,13 @@ Roadmap:
 ##### P0: Test Infra Hack Week
 
 If necessary, @stebalien, @raulk, and @daviddias (and possibly others) will meet up for a synchronous, distraction-free hack week some time between now and lab week to "ship the thing".
+
+#### Alternatives
+
+There are no alternatives. We:
+
+1. Will not ship a release until we've fixed the DHT.
+2. We need to ship a release this quarter.
 
 ## 2019 Q3
 
