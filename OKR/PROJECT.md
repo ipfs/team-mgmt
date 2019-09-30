@@ -5,7 +5,7 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 ## 2019 Q4
 - **O: IPFS Project prepared for 2020 growth** 
   - Onboard 4+ new contributors with skills around Testing infra, Gateways support, go-ipfs swe, and docs content strategy
-  - 2020 planning identifies our next area of focus and starts building toward it
+  - 2020 planning identifies our next area of focus and updates our roadmap by Nov 16
   - Devise a strategy for 2020 community growth & support
   - IPFS Research has plans or prototypes addressing 2+ important open research issues
   - Complete js-ipfs async/await refactor
