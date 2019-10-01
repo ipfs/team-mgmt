@@ -10,8 +10,6 @@ We frame our ongoing work using a process based on quarterly Objectives and Key 
 * Add: Package _maintainers_ won't touch IPFS if it takes several days to import the package repository.
 * Fetch: Package manager _users_ won't use IPFS to download their packages if it's slower and/or consumes significantly more bandwidth than HTTP.
 
-TODO: We could phrase this as something like "ipfs is a viable transport for package managers."
-
 #### Key Results
 
 By order of priority,
@@ -31,7 +29,7 @@ Finally, while we've been focusing on how to ensure IPFS meets the needs of pack
 **Not Included**
 
 * IPNS: To build a fully decentralized package manager, IPNS is a must. However, to get in the door with existing package managers, IPFS just needs to be a viable _transport_.
-* Performant GC: Package maintainers often keep old packages around (TODO: check this) so GC isn't all that important. Package manager _users_ can throw away their local repo when it grows too large (i.e., treat it like a cache).
+* Performant GC: Package maintainers often keep old packages around so GC isn't all that important. Package manager _users_ can throw away their local repo when it grows too large (i.e., treat it like a cache).
 * Pinning Usability (named pins, etc.): While a pain-point and embarrassing UX issue, pinning and pin management is not a show-stopper for package managers.
 
 ##### P0: Update (P0)
@@ -126,7 +124,7 @@ These are some alternative initiatives that _could_ have addressed the KRs.
   * Pro: Better deduplication.
   * Con: Out-of-band data can confuse users (it won't be replicated along with the files).
   * Con: We need to store some metadata (modes, etc.) anyways.
-  * Con: Some package managers expect files to have accurate timestamps (TODO: check this).
+  * Con: Package manager tooling expects accurate timestamps.
   * Meh: We're planning on storing metadata in directories, not files. Directories are likely to be unique.
 * Update: A special-purpose rsync tool: We could add a special-purpose `ipfs rsync` command to sync a directory in IPFS with a directory outside of IPFS.
   * Pro: Pretty simple to implement.
@@ -175,9 +173,10 @@ Ship a blog post about speeding up CI by using go-ipfs to distribute docker imag
 
 **Owner** @aschmahmann/@achingbrain
 
-Ship a demo of adding NPM to IPFS.
+Ship a demo of adding Guix to IPFS.
 
-TODO: I'd like to find a better way to demonstrate improved add performance.
+* Demos adding many small files. (guix doesn't tar?)
+* Demos unixfsv1.5 (metadata)
 
 ### Objective: IPFS ships a release.
 
