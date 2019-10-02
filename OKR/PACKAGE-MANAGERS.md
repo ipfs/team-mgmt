@@ -34,7 +34,7 @@ Finally, while we've been focusing on how to ensure IPFS meets the needs of pack
 
 ##### P0: Update
 
-IPFS can rsync a remote ubuntu mirror into an ipfs-based ubuntu mirror at a rate of 10MiB/s.
+IPFS can rsync a remote Ubuntu mirror into an ipfs-based ubuntu mirror at a rate of 10MiB/s.
 
 This will allow us to sync 60 hours worth of ubuntu changes in ~15 minutes. This is significantly _slower_ than the current add but is more complicated and may not optimize as well.
 
@@ -164,7 +164,7 @@ Ship a blog post about speeding up CI by using go-ipfs to distribute docker imag
 
 (docker _is_ a package manager, or close enough)
 
-##### Demo: Demonstrate performance improvements adding NPM to IPFS
+##### Demo: Demonstrate performance improvements adding Guix to IPFS
 
 **Owner** @aschmahmann/@achingbrain
 
