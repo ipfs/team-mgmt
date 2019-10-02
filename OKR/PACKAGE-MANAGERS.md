@@ -32,30 +32,25 @@ Finally, while we've been focusing on how to ensure IPFS meets the needs of pack
 * Performant GC: Package maintainers often keep old packages around so GC isn't all that important. Package manager _users_ can throw away their local repo when it grows too large (i.e., treat it like a cache).
 * Pinning Usability (named pins, etc.): While a pain-point and embarrassing UX issue, pinning and pin management is not a show-stopper for package managers.
 
-##### P0: Update (P0)
+##### P0: Update
 
-IPFS can quickly update a large package repository.
+IPFS can rsync a remote ubuntu mirror into an ipfs-based ubuntu mirror at a rate of 10MiB/s.
 
-TODO: "quickly" should be defined in terms of normal package update procedures used by package maintainers for some package manager. This could be:
+This will allow us to sync 60 hours worth of ubuntu changes in ~15 minutes. This is significantly _slower_ than the current add but is more complicated and may not optimize as well.
 
-* Updating from one snapshot to the next.
-* Mounting the repository locally and having the package maintenance tools operate on it directly.
+##### P1: Fetch Is Efficient
 
-##### P1: Fetch
+IPFS can download packages from a large package repository using at most 10% more downstream bandwidth.
 
-IPFS can quickly and efficiently fetch packages from a large package repository.
+##### P1: Fetch Is Fast
 
-TODO: define "quickly and efficiently" in terms of beating HTTP.
-
-TODO: consider breaking this into two KRs? In the past, we had one for efficiency and one for throughput.
+IPFS can max out a 1GiB link when downloading a large set of packages.
 
 ##### P2: Add
 
-IPFS can quickly add a large package repository.
+IPFS can add a large package repository (Ubuntu, 1TiB) in 3 hours on a hard drive.
 
-TODO: "quickly" should be defined in terms of adding some well-known package repo or test dataset.
-
-TODO: We may want to break this into "can quickly add a repository of large packages" and "can quickly add a large repository of small packages". Again, we need to look at known package repositories.
+That's about as fast as we're going to get on a hard drive. The goal is to bottleneck on the hard drive, not something else.
 
 #### Initiatives
 
