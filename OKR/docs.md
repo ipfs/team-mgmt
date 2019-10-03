@@ -7,7 +7,6 @@ More on the docs team and our work: https://github.com/ipfs/docs
 ## 2019 Q4
 
 - [ipfs-docs 2019 Q4 OKRs](https://docs.google.com/spreadsheets/d/1VeyiLvBdX_PrP394kU_lwkQZxfNwqMVX1f7K4ursSPM/edit#gid=1841105909) (final)
-- [Q4 OKR planning document](https://hackmd.io/0W3Yx-05QKyWad_uoqz32g?both) (please use [PR #1036](https://github.com/ipfs/team-mgmt/pull/1036) to add comments/input to proposed OKRs)
 
 ## 2019 Q3
 
