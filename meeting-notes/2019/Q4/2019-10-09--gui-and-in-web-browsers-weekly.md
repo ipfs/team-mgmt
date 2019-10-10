@@ -38,4 +38,4 @@ A weekly discussion and show & tell around IPFS GUIs and Web Browsers
 
 ## Team Updates
 
-> Details of past week's work is are published in notes of [IPFS Core Implementations Weekly Sync](https://github.com/ipfs/team-mgmt/issues/992)
+> Details of past week's work are published in the notes of [IPFS Core Implementations Weekly Sync](https://github.com/ipfs/team-mgmt/issues/992)
