@@ -228,3 +228,11 @@ Done:
   - Debugging session with lidel and Jacob about interop circuit relay browser tests to unblock [https://github.com/ipfs/interop/pull/86](https://github.com/ipfs/interop/pull/86)
   - [https://github.com/ipfs/js-ipfsd-ctl/pull/396](https://github.com/ipfs/js-ipfsd-ctl/pull/396) fix: support more ipfs options #396
   - Release ipfsd-ctl
+  
+  @hacdias
+  Done:
+    - `ipfs-webui`
+      - improved rendering of peers maps [#1247](https://github.com/ipfs-shipyard/ipfs-webui/pull/1247)
+      - removed the peer location cache because peers can move from place to place [#1244](https://github.com/ipfs-shipyard/ipfs-webui/pull/1244)
+  - `ipfs-desktop`: fix bug where we were installing `npm-ipfs` by default without the consent of the user [#1195](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1195)
+  - Cohosting SPEC: discussing how to separate 'lazy' from 'full' cohosting [#6](https://github.com/ipfs-shipyard/cohosting/issues/6), [#7](https://github.com/ipfs-shipyard/cohosting/pull/7)
