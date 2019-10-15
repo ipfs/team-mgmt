@@ -11,7 +11,7 @@
   - @hsanjuan
   - @daviddias
 
-- **Recording:** [Google Drive](https://drive.google.com/drive/u/3/folders/1xPO6Ei6In4hEoAnKZVnBRg3gCKsmls9z)
+- **Recording:** https://youtu.be/5xEemxxvTZk
 
 ## Agenda
 

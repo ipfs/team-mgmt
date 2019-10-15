@@ -9,7 +9,7 @@
   - @andrew
   - @name
 
-- **Recording:** [Google Drive](https://drive.google.com/drive/u/3/folders/1AOctcPhoQhAhxsBL3LNAbQCJ3UQi1Lv2)
+- **Recording:** https://youtu.be/L78Yu9Ne7hA
 
 ## Agenda
 
@@ -40,7 +40,7 @@
 @andrew
 - Done:
   - Added cors support to ipfs-npm-registry-mirror
-  - spiked out simple search UI for npm-on-ipfs: https://andrew.github.io/npm-ipfs/index.html 
+  - spiked out simple search UI for npm-on-ipfs: https://andrew.github.io/npm-ipfs/index.html
   - started writing up short-ish term roadmap thoughts https://docs.google.com/document/d/1-HtUiRpMzYq9to56ShCGyCr-NCZ6TR49Zl-b5HHJdm0/edit#heading=h.5zpzsg32y0bx
 - Blocked:
   - N/A
