@@ -61,6 +61,13 @@
     - will check in again next week to make those connections (Alex<>guix & Dom<>OpenSuse)
 - Next:
 
+@dirkmc
+- Done:
+  - improved bandwidth efficiency of proof-of-concept bitswap implementation
+    (reduce duplicate blocks)
+- Next:
+  - take advantage of block presence knowledge (HAVE / DONT_HAVE) to immediately
+    trigger broadcast instead of waiting for timeout
 
 @name
 - Done:
