@@ -69,6 +69,23 @@
   - take advantage of block presence knowledge (HAVE / DONT_HAVE) to immediately
     trigger broadcast instead of waiting for timeout
 
+@aschmahmann
+- Done:
+  - Pin Traversal fix https://github.com/ipfs/go-ipfs/pull/6705 (waiting for @stebalien for approval/merge)
+  - Pin Traversal tests https://github.com/ipfs/interface-go-ipfs-core/pull/47 (waiting for @stebalien for approval/merge)
+  - Pinning interop fix merged https://github.com/ipfs/go-ipfs/pull/6685
+  - Content routing via Discovery PR merged https://github.com/libp2p/go-libp2p-discovery/pull/27
+  - Discovery + PubSub discovery PRs updated waiting for review:
+     - PubSub: https://github.com/libp2p/go-libp2p-pubsub/pull/184
+     - Discovery: https://github.com/libp2p/go-libp2p-discovery/pull/26
+  - Testing/Go IPFS as a library tutorial helping: https://github.com/ipfs/go-ipfs/pull/6695
+- Blocked:
+  - The above PRs are blocked on review
+- Next/On-going:
+  - Helping @aarshkshah1992 with moving https://github.com/libp2p/go-libp2p-pubsub/pull/203 and https://github.com/libp2p/go-libp2p-pubsub/pull/208 along
+  - https://github.com/ipfs/go-ipfs/issues/6621
+  - Start digging into IPFS add performance issues
+
 @name
 - Done:
 - Blocked:
