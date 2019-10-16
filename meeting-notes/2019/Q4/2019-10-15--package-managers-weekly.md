@@ -7,7 +7,7 @@
 - **Attendees:**
   - @achingbrain
   - @djdv
-- **Recording:** TODO
+- **Recording:** https://youtu.be/zOPzQmP_mV4
 
 ## Agenda
 
