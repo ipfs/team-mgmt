@@ -12,7 +12,7 @@
   - @daviddias
   - @momack2
   - @warpfork
-- **Recording:** https://drive.google.com/drive/u/3/folders/14HQshg-RqCWb9i4txh8KG6CBLtmN9-TA
+- **Recording:** https://youtu.be/1y_8-LKSVw0
 
 ## Agenda
 
