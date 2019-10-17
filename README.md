@@ -109,6 +109,8 @@ If you are hosting a call for the first time or interested in learning how to do
 - [`Package Management`](https://github.com/ipfs/package-managers/issues/1)
 - [`ProtoSchool`](https://github.com/ProtoSchool/organizing/issues/47)
 - [`Local Offline Collaboration`](https://github.com/ipfs/local-offline-collab/issues?utf8=%E2%9C%93&q=is%3Aissue++label%3A%22%F0%9F%93%9E+Monthly+Call%22+)
+- [`Documentation & Developer UX`](https://docs.google.com/document/d/1EOD-pJi4GvRmGi9HHocgVV8uVHMFIZlyVgJDkvC3DQ4)
+
 
 ### Calendar
 
@@ -148,7 +150,7 @@ We aim to be available during these hours. Your mileage may vary.
 
 ## Timezone: `UTC`
 
-All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this..
+All of our times are set according to the **UTC** timezone (or should be). This is much easier than adjusting times manually to accommodate different time zones, for a distributed team. If our calendar's location is set to Reykjavík, Iceland, it is because Iceland is always on UTC time. It is recommended that you know your timezone's difference from UTC for ease of scheduling. Sites like http://everytimezone.com can help with this.
 
 ## Tools & Tutorials
 
