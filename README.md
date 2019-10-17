@@ -95,7 +95,7 @@ This is a regular and reliable call where everyone who's working on any reposito
 
 If you are interested in participating, please join us on [Zoom](#zoom).
 
-You can find recordings of the on the [Youtube playlist, IPFS All Hands 🙌🏽 📞](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
+You can find recordings of the meetings on the [Youtube playlist, IPFS All Hands 🙌🏽 📞](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
 
 This call and other IPFS Community calls are tracked on the [IPFS Community Calendar](https://github.com/ipfs/community#calendar)
 
