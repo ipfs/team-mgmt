@@ -78,7 +78,7 @@ Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
 
 ### Tracking Repo Activity
 
-We recommend trying using [Octobox](https://octobox.io/) as a way to keep up to date with different issues, tags, notifications and so on accross Github.
+We recommend trying using [Octobox](https://octobox.io/) as a way to keep up to date with different issues, tags, notifications and so on across Github.
 
 ## Synchronous Communication
 
@@ -173,7 +173,7 @@ Feel free to join in. All welcome. Open an [issue](https://github.com/ipfs/pm/is
 
 This repository and all of our sprint calls fall under the IPFS [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
 
-[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md)
 
 ## License
 
