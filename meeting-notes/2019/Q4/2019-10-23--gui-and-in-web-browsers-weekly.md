@@ -32,6 +32,9 @@ A weekly discussion and show & tell around IPFS GUIs and Web Browsers
   - webui test suite is custom (react-specific)
   - the rest of JS IPFS ecosystem uses [aegir](https://github.com/ipfs/aegir)
     -  we should try reusing aegir, it solved a lot of problems related to running tests in browsers and electron
+- Ask from Teri: do you know of resources that could help in learning non-MFS Files API (`add`, `cat`, `get` etc)?
+  Specifically, something other than `docs.ipfs.io` and [IPFS Camp Course](https://www.youtube.com/watch?v=Z5zNPwMDYGg)?
+  - Please drop references and suggestions in [PR with ProtoSchool tutorial](https://github.com/ProtoSchool/protoschool.github.io/pull/303)
 - Wikipedia, let's do some issue gardening
     - Need snapshot generation testing
       - first step is to update Turkish version (`tr.wikipedia-on-ipfs.org`)
