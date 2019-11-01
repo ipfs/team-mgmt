@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Create PR for ipfs/team-mgmt Meeting</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.11.1/css/tachyons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/ipfs-css@0.13.1/ipfs.css">
+  </head>
+  <body class="sans-serif bg-white black">
+    <header class='pv3 ph2 ph3-l bg-navy cf'>
+      <a href="https://ipfs.io/" title='ipfs.io'>
+        <img src="https://ipfs.io/images/ipfs-logo.svg" class='v-mid' style='height:50px' />
+      </a>
+      <h1 class='aqua fw2 montserrat dib ma0 pv2 ph1 v-mid fr f3 lh-copy'>ipfs/team-mgmt meeting PR creator</h1>
+    </header>
+    <form>
+      <li>
+        <ol>
+          <label for="name" class="f6 b db mb2">Meeting Name (will be lowercased)</label>
+          <input id="name" type="text"
+            placeholder="i-was-too-lazy-to-change-this"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol>
+          <label for="date" class="f6 b db mb2">Meeting date</label>
+          <input id="date" type="date" required
+            class="input-reset ba b--black-20 pa2 mb2 db">
+        </ol>
+        <ol>
+          <button type="submit"
+            class="f4 ba input-reset dim link pa2 mb2 pointer white bg-navy">
+            Create PR
+          </button>
+        </ol>
+        <ol class="mt4 charcoal-muted">
+          <small>( below fields are optional, better leave them alone )</small>
+        </ol>
+        <ol  class="charcoal-muted">
+          <label for="notes" class="f6 b db mb2">Notes URL</label>
+          <input id="notes" type="url"
+            placeholder="(leave empty to paste notes later)"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol  class="charcoal-muted">
+          <label for="destination" class="f6 b db mb2">File location</label>
+          <input id="destination" type="url"
+            placeholder="https://github.com/ipfs/team-mgmt/blob/master/meeting-notes/${year}/${quarter}/${date}--${name}.md"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol  class="charcoal-muted">
+          <label for="branch" class="f6 b db mb2">Branch name</label>
+          <input id="branch" type="text" placeholder="${name}-${date}"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70">
+        </ol>
+        <ol  class="charcoal-muted">
+          <label for="commit-message" class="f6 b db mb2">Commit message "${date}" contains the <em>Meeting Date</em>)</label>
+          <textarea id="commit-message" type="text" rows="5"
+            placeholder="Add notes for ${name} ${date}"
+            class="input-reset ba b--black-20 pa2 mb2 db w-70"></textarea>
+        </ol>
+      </li>
+    </form>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
