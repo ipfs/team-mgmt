@@ -209,7 +209,16 @@ Note: OOO 7th afternoon, 8th and 11th November
 - Blocked:
 - Next:
   - Testlab hack week.
- 
+  
+@hacdias:
+- Done:
+  - IPFS Desktop
+    - Re-add the feature of copying a shareable link to the clipboard when adding files to IPFS via drag'n'dropping files to the app icon ([PR](https://github.com/ipfs-shipyard/ipfs-desktop/pull/1221))
+  - IPFS Web UI
+      - Allow basic authentication to connect to the API just by passing a url of the form http(s)://user:pass@host:port ([PR](https://github.com/ipfs-shipyard/ipfs-redux-bundle/pull/28))
+      - Released 2.6.0 with peer's performance improvements and nearby + local network highlights ([release](https://github.com/ipfs-shipyard/ipfs-webui/issues/1085))
+  - Cohosting
+      - `ipfs-cohost` 2.0 released, matching the SPEC!
 
 @aschmahmann:
  - 
