@@ -229,13 +229,20 @@ Note: OOO 7th afternoon, 8th and 11th November
 - Next:
   - Help @pedromiguelss get ipfs/interop#86 across the line
 
-@aschmahmann:
- - 
-
-@name
+@pedrosantos
 - Done:
-  - What have you accomplished since the last Weekly?
-- Blocked:
-  - Were there any blockers? If so, which ones? Is it still blocked? Why?
+    - Merged `interface-ipfs-core` docs conversion to async await
+        - https://github.com/ipfs/interface-js-ipfs-core/pull/542
+    - Finished `interface-ipfs-core` tests conversion to async await
+        - https://github.com/ipfs/interface-js-ipfs-core/pull/547
+    - Started to implement requested changes on `interface-ipfs-core` PR
+        - https://github.com/ipfs/interface-js-ipfs-core/pull/547
+- Blocked: N/A
 - Next:
-  - What is the next important thing you should focus on
+    - Finish `interface-ipfs-core` code review changes and merge it
+        - https://github.com/ipfs/interface-js-ipfs-core/pull/547
+    - Merge second interop PR
+        - https://github.com/ipfs/interop/pull/87
+    - Add `—human` flag to `bitswap.stat` and `repo.stat`
+        - https://github.com/ipfs/js-ipfs/issues/1996
+        - https://github.com/ipfs/js-ipfs/issues/2057
