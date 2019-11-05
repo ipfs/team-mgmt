@@ -229,7 +229,7 @@ Note: OOO 7th afternoon, 8th and 11th November
 - Next:
   - Help @pedromiguelss get ipfs/interop#86 across the line
 
-@pedrosantos
+@pedromiguelss
 - Done:
     - Merged `interface-ipfs-core` docs conversion to async await
         - https://github.com/ipfs/interface-js-ipfs-core/pull/542
