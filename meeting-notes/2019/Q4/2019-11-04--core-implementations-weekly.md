@@ -220,6 +220,15 @@ Note: OOO 7th afternoon, 8th and 11th November
   - Cohosting
       - `ipfs-cohost` 2.0 released, matching the SPEC!
 
+@achingbrain:
+- Done:
+  - HTTP v1 Files spec: https://github.com/ipfs/specs/pull/224
+  - Reviewed https://github.com/ipfs/specs/pull/223
+- Blocked:
+  - N/a
+- Next:
+  - Help @pedromiguelss get ipfs/interop#86 across the line
+
 @aschmahmann:
  - 
 
