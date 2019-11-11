@@ -246,3 +246,16 @@ Note: OOO 7th afternoon, 8th and 11th November
     - Add `—human` flag to `bitswap.stat` and `repo.stat`
         - https://github.com/ipfs/js-ipfs/issues/1996
         - https://github.com/ipfs/js-ipfs/issues/2057
+
+@hacdias
+- Done:
+  - Cohosting
+    - `ipfs-cohost`: print pruned websites ([PR](https://github.com/ipfs-shipyard/ipfs-cohost/pull/12))
+    - Released 2.1.0 with the change above.
+    - We decided to put a brake on this endeavour until the end of the quarter so we can focus on testing and other OKRs.
+  - IPFS Web UI
+      - Allow basic auth protected APIs by inserting an API URL of the type `http(s)://user:pass@example.com:port`. Related PRs/issues:
+          - https://github.com/ipfs-shipyard/ipfs-redux-bundle/pull/28
+          - https://github.com/ipfs-shipyard/ipfs-redux-bundle/pull/36
+          - https://github.com/ipfs-shipyard/ipfs-webui/pull/1296
+          - https://github.com/ipfs-shipyard/ipfs-webui/issues/836
