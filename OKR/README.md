@@ -2,7 +2,14 @@
 
 The IPFS Working Groups use OKRs to communicate quarterly goals and measure progress in each objective. Most Working Groups do the planning of the OKRs in the open. In this folder, you can find the OKR docs which serve as anchors for the discussion every quarter.
 
-## Notes on OKR Planning
+### 2019 OKRs
+If you want to see all working group OKRs at a glance by quarter, you can look at the quarterly OKRs sheets:
+- [Q1 OKRs Sheet](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=1681757723)
+- [Q2 OKRs Sheet](https://docs.google.com/spreadsheets/d/1YSeyWqXh3ImanRrTkYQHHkCofiORn68bYqM_KTLBlsA/edit#gid=1681757723)
+- [Q3 OKRs Sheet](https://docs.google.com/spreadsheets/d/1AiNUL7vK5Jp8aa839UaMaI_AlBU5r6Bor-A40179I2A/edit#gid=1681757723)
+- [Q4 OKRs Sheet](https://docs.google.com/spreadsheets/d/1VeyiLvBdX_PrP394kU_lwkQZxfNwqMVX1f7K4ursSPM/edit#gid=1681757723)
+
+## Notes on OKRs Planning
 
 **We use OKRs to plan 60% of our time during a quarter**. As creators and maintainers of a very live and large open source project, we made the decision to acknowledge that there are just way too many unknowns (bugs, regressions, infrastructure, events) that we can't possibly plan for and therefore, we are very generous to ourselves into locking 40% of our time to do just that. Of course, this doesn't translate to _time wasted_ if there are actually no unknowns, what ends up happening is that IPFS contributors use the 40% to chase side-quests that can be valuable for the projects they are working on or for the ecosystem in general. We acknowledge and celebrate these side-quests in our end-of-quarter retrospectives.
 
