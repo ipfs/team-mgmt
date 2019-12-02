@@ -276,3 +276,12 @@ Is LevelDB in JS using sync or async writes? The Go one was bugged, is JS?
   - async iterables in `js-ipfs-http-client`
     - https://github.com/ipfs/js-ipfs-http-client/pull/1183
   - get unixfs v1.5 merged
+  
+@stebalien
+- Done:
+  - Merged some PRs
+  - Turkey
+- Next:
+  - Catch up from Thanksgiving.
+  - Finish reviewing the go-bitswap changes.
+  - Merge the async datastore changes.
