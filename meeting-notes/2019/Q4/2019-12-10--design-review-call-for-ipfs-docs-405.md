@@ -111,6 +111,8 @@ Our options at the moment are:
 - molly: we dont have to say ipfs is the right thing for everything. we've talked about upgrade paths for many things. going from static content to webapps, we can define the upgrade path there. we've done experiments, peerpad etc. gatsby & hugo focus more on the static end of things. For the docs of ipfs, it should be available over ipfs. you get the webui, you should get the docs to.
 - dietrich: yes: leave the existing defaults. give new users safer defaults.
 - hugo: not all our sites are ipfs. and some are broken.
+- teri: i think offline access is important but assume it's a very small percentage of users who would actually need to access docs over ipfs as opposed to simply offline after first online load via chris' pwa plan. would it be possible/acceptable to define some of the more advanced features of the docs site as web app (non-primary-use-case-for-ipfs) features that don't need to be available on ipfs but provide a less-fully-featured static version over ipfs?
+- molly: offering ipfs docs via ipfs is a hard requirement but it _might_ be okay to only offer a feature like search under certain circumstances
 - (we've run out of time, but commited to decisions that unblock us to move forward)
 
 # Decision
