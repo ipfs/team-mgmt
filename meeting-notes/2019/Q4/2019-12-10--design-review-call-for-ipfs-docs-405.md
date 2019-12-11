@@ -11,7 +11,7 @@ AKA _“Hosting Web Apps on IPFS”_ + _“IPFS Companion to stop breaking Origi
 - @daviddias
 - @olizilla
 - @lidel
-
+- @terichadbourne
 
 ## References
 
