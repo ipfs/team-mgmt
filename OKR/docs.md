@@ -11,7 +11,7 @@ More on the docs team and our work: https://github.com/ipfs/docs
 ## 2019 Q4
 
 - [ipfs-docs 2019 Q4 OKRs](https://docs.google.com/spreadsheets/d/1VeyiLvBdX_PrP394kU_lwkQZxfNwqMVX1f7K4ursSPM/edit#gid=1841105909) (final)
-- [2019 Q4 retrospective notes](https://hackmd.io/EaKrgUpWTemmdqTppgN8XQ) (WIP)
+- [2019 Q4 retrospective notes](https://hackmd.io/EaKrgUpWTemmdqTppgN8XQ) (final)
 
 ## 2019 Q3
 
