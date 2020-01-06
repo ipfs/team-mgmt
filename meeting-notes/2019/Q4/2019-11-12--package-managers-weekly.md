@@ -6,7 +6,7 @@
   - @adinshmahmann
   - @dirkmc
   - @mikeal
-- **Recording:** 
+- **Recording:** https://youtu.be/UGAmdDUj7Sg
 
 ## Agenda
 
