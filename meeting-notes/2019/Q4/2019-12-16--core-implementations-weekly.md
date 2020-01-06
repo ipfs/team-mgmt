@@ -261,3 +261,10 @@ DHT Provider record is blocked from being merged awaiting consensus on what type
   - Get UnixFSv1.5 merged
   - Pre-release js-ipfs 0.41
   
+@achingbrain
+- Done:
+  - UnixFSv1.5 interface tests https://github.com/ipfs/interface-js-ipfs-core/pull/572
+  - Detecting unfilled optional fields in protons
+- Next:
+  - Get UnixFSv1.5 merged
+  - Review async/await PRs
