@@ -6,7 +6,8 @@ More on the docs team and our work: https://github.com/ipfs/docs
 
 ## 2020 Q1
 
-- [Working document for formulating 2020 Q1 OKRs](https://hackmd.io/LaQbSAIcSn-wm-jBEDX3FA) (WIP)
+- [ipfs-docs 2020 Q1 OKRs](https://docs.google.com/spreadsheets/d/1vOSCIufWfU2CpG63rOTGVQ6tWNYcbnYvR2k_kN84jQU/edit#gid=1841105909) (WIP)
+- [Working document for formulating and discussing 2020 Q1 OKRs](https://hackmd.io/LaQbSAIcSn-wm-jBEDX3FA)
 
 ## 2019 Q4
 
