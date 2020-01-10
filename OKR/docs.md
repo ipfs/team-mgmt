@@ -1,12 +1,19 @@
-# IPFS Documentation & Developer UX team OKRs
+# IPFS Documentation OKRs
 
-We frame our ongoing work using a process based on quarterly Objectives and Key Results (OKRs). Objectives reflect outcomes that are challenging, but realistic. Results are tangible and measurable.
-
-More on the docs team and our work: https://github.com/ipfs/docs
+The IPFS Docs team designs, builds, and maintains the documentation for at developers building on IPFS. Find more on the docs team on the [`ipfs/docs` repository](https://github.com/ipfs/docs).
 
 ## 2020 Q1
 
-- [Working document for formulating 2020 Q1 OKRs](https://hackmd.io/LaQbSAIcSn-wm-jBEDX3FA) (WIP)
+Here's a summary of this team's objectives for the first three months of 2020:
+
+1. Launch the [beta IPFS documentation](https://docs-beta.ipfs.io/) site on the IPFS network.
+2. Improve documentation by:
+   1. Creating new content based on [existing issues](https://github.com/ipfs/docs/issues).
+   2. Improve and update existing pages.
+3. Resolve or address new GitHub issues created this quarter.
+4. Set up a community of writers and content creators.
+
+Checkout [this document](https://hackmd.io/LaQbSAIcSn-wm-jBEDX3FA) for more detail regarding this objectives.
 
 ## 2019 Q4
 
