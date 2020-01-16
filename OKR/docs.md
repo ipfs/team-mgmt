@@ -3,7 +3,6 @@
 The IPFS Docs team designs, builds, and maintains the documentation for at developers building on IPFS. Find more on the docs team on the [`ipfs/docs` repository](https://github.com/ipfs/docs).
 
 ## 2020 Q1
-
 Here's a summary of this team's objectives for the first three months of 2020:
 
 1. Launch the [beta IPFS documentation](https://docs-beta.ipfs.io/) site on the IPFS network.
@@ -13,7 +12,9 @@ Here's a summary of this team's objectives for the first three months of 2020:
 3. Resolve or address new GitHub issues created this quarter.
 4. Set up a community of writers and content creators.
 
-Checkout [this document](https://hackmd.io/LaQbSAIcSn-wm-jBEDX3FA) for more detail regarding this objectives.
+For more detail, check out these documents:
+- [ipfs-docs 2020 Q1 OKRs](https://docs.google.com/spreadsheets/d/1vOSCIufWfU2CpG63rOTGVQ6tWNYcbnYvR2k_kN84jQU/edit#gid=1841105909) (final)
+- [Working document for formulating and discussing 2020 Q1 OKRs](https://hackmd.io/LaQbSAIcSn-wm-jBEDX3FA)
 
 ## 2019 Q4
 
