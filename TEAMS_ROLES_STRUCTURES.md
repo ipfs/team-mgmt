@@ -17,7 +17,6 @@
     - [Project Operations](#project-operations)
     - [Testing Infra](#testing-infra)
     - [IPFS as a Service](#ipfs-as-a-service)
-    - [Package Managers](#package-managers)
     - [Docs & Developer UX](#docs--developer-ux)
   - [Special Interest Groups](#special-interest-groups)
       - [Integration with Web Browsers](#integration-with-web-browsers)
@@ -153,7 +152,6 @@ These are the active teams inside the IPFS Org.
 - [**Project Operations**](#project-operations)
 - [**Testing Infra**](#testing-infra)
 - [**IPFS as a Service**](#ipfs-as-a-service)
-- [**Package Managers**](#package-managers)
 - [**Docs & Developer UX**](#docs--developer-ux)
 
 **Special Interest Groups**
@@ -208,22 +206,6 @@ Improve performance and stability of gateways and pinning, and provide public ob
 - Manage and maintain the IPFS pinning service, pinbot
 - Monitor services and hosts used by the IPFS dev teams
 - Provide wisdom to other users that want to host IPFS nodes
-
-### Package Managers
-
-- **Coordination**: https://github.com/ipfs/package-managers
-- **[Steven Allen](https://github.com/stebalien) / [Michelle Hertzfeld](https://github.com/meiqimichelle): Captain**
-- **[Github Team](https://github.com/orgs/ipfs/teams/package-managers/members)**
-
-User research, collaborations, and performance improvements of import and update of large file systems to support file-system-based package managers.
-
-**Responsibilities include**:
-
-- Participate in communities like [package.community](http://package.community/)
-- Conduct user research around package manager use cases, communities, and best practices
-- Support collaborations between IPFS and community members who are building, maintaining and using package managers
-- Research and prototype adding IPFS support to package manager clients and mirroring registries onto IPFS
-- Improve the core IPFS implementations to support package manager usage needs
 
 ### Docs & Developer UX
 
