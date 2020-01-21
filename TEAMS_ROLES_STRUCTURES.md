@@ -210,7 +210,7 @@ Improve performance and stability of gateways and pinning, and provide public ob
 ### Docs & Developer UX
 
 - **Coordination**: https://github.com/ipfs/docs
-- **[Jessica Schilling](https://github.com/jessicaschilling): Captain**
+- **[Johnny Matthews](https://github.com/johnnymatthews): Captain**
 - **[Github Team](https://github.com/orgs/ipfs/teams/docs/members)**
 
 Overhaul our documentation platform and content based on audits, research and community needs assessment to make IPFS more accessible to developer users.
