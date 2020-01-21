@@ -14,14 +14,17 @@
   - [Working Group Technical Project Manager](#working-group-technical-project-manager-tpm)
 - [Active Teams](#active-teams)
   - [Working Groups](#working-groups)
-    - [Project Operations](#project-operations)
-    - [Testing Infra](#testing-infra)
-    - [IPFS as a Service](#ipfs-as-a-service)
-    - [Docs & Developer UX](#docs--developer-ux)
+    - [Project](#project)
+    - [Content Routing](#content-routing)
+    - [Testground](#testground)
+    - [Bifrost](#bifrost)
+    - [Ecosystem](#developer-experience)
   - [Special Interest Groups](#special-interest-groups)
-      - [Integration with Web Browsers](#integration-with-web-browsers)
-      - [IPFS GUI](#ipfs-guiux)
-      - [Local Offline Collaboration](#local-offline-collaboration-locol)
+    - [Collabs & Community](#collabs--community)
+    - [Developer Experience](#developer-experience)
+    - [Integration with Web Browsers](#integration-with-web-browsers)
+    - [IPFS GUI](#ipfs-guiux)
+    - [Local Offline Collaboration](#local-offline-collaboration-locol)
   - [Tiger Teams](#tiger-teams)
 
 ## Description
@@ -149,54 +152,68 @@ Responsibilities include:
 These are the active teams inside the IPFS Org. 
 
 **Working Groups**
-- [**Project Operations**](#project-operations)
-- [**Testing Infra**](#testing-infra)
-- [**IPFS as a Service**](#ipfs-as-a-service)
-- [**Docs & Developer UX**](#docs--developer-ux)
+- [Project](#project)
+- [Content Routing](#content-routing)
+- [Testground](#testground)
+- [Bifrost](#bifrost)
+- [Ecosystem](#developer-experience)
 
 **Special Interest Groups**
-- [**Integration with Web Browsers**](#integration-with-web-browsers)
-- [**IPFS GUI**](#ipfs-guiux)
-- [**Local Offline Collaboration**](#local-offline-collaboration-locol)
+- [Collabs & Community](#collabs--community)
+- [Developer Experience](#developer-experience)
+- [Integration with Web Browsers](#integration-with-web-browsers)
+- [IPFS GUI](#ipfs-guiux)
+- [Local Offline Collaboration](#local-offline-collaboration-locol)
 
 In addition to the roles in each Team formation, we have these project leads:
-- `IPFS Project BDFL` - [**Juan Benet**](https://github.com/jbenet/)
-- `IPFS Project Lead` -  [**Molly Mackinlay**](https://github.com/momack2)
+- `IPFS Project BDFL` - [Juan Benet](https://github.com/jbenet/)
+- `IPFS Project Lead` -  [Molly Mackinlay](https://github.com/momack2)
 - `IPFS Project Co-Lead` - **AVAILABLE**
 
 ## Working Groups
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQ0IEMEJpCM6wawOPDRCCOTqDNSvlKf-3WQE6ZEYqCipDdiaep41htmGfXsLH0tJwRWYNRvzEAdA5EV/pub?w=737&amp;h=419">
 
-### Project Operations
+### Project
 
-- **Coordination**: https://github.com/ipfs/project-operations
-- **[Molly Mackinlay](https://github.com/momack2): TPM / IPFS Project Lead**
-- **[Github Team](https://github.com/orgs/ipfs/teams/wg-project/members)**
+- **Coordination**: https://github.com/ipfs/team-mgmt
+- **[Molly Mackinlay](https://github.com/momack2): Captain**
 
-Ensure core Go and JavaScript implementations ship with reliable rigor, systematize community communications and collaborations, and spin up IPFS research to meet future project needs.
-
-**Responsibilities include**:
-- Track progression of objectives and key results (OKRs) for core implementations (including [js-ipfs](https://github.com/ipfs/js-ipfs) and [go-ipfs](https://github.com/ipfs/go-ipfs))
-- Project communications and community support
-- Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
-- Maintenance of lower-priority systems/tools
-- Research
-
-### Testing Infra
-
-- **Coordination**: TBD
-- **[Raul Kripalani](https://github.com/raulk): Captain**
-
-The IPFS Testing Infra team builds testing tooling to validate scalability and reliability of the core IPFS implementations, with easy onboarding for core developers to use in CI and one-off testing.
+The Project working group helps support team functioning, prioritization, and day-to-day operations.
 
 **Responsibilities include**:
-- Build large-scale testing infrastructure
+- Manage cross-coordination and problem-solving between working groups
+- Track progression of objectives and key results (OKRs) for the project
+- Organize team meet-ups and summits
+
+### Content Routing
+
+- **Coordination**: https://github.com/ipfs/go-libp2p
+- **[Steven Allen](https://github.com/stebalien): Captain**
+
+The Content Routing team focuses on making improvements to the core implementations (in IPFS and libp2p) such that all IPFS users can find and access content they care about in a distributed network of nodes.
+
+**Responsibilities include**:
+- Making changes to the go-libp2p DHT
+- Adding new features to providers or connection management subsystems
+- Testing and benchmarking existing performance on finding and connecting to nodes with the desired content
+
+### Testground
+
+- **Coordination**: https://github.com/ipfs/testground
+- **[Raul Kripalani](https://github.com/raulk): Architect**
+- **[David Dias](https://github.com/daviddias): TPM**
+
+The IPFS Testground team builds testing tooling to validate scalability and reliability of the core IPFS implementations, with easy onboarding for core developers to use in CI and one-off testing.
+
+**Responsibilities include**:
+- Build large-scale testing infrastructure to simulate and benchmark IPFS
 - Create dashboards and CI hooks to make testing infra more useful/usable
 - Support core implementation developers in creating/running real world test scenarios
 
-### IPFS as a Service
+### Bifrost
 
 - **Coordination**: TBD
-- **[Hector Sanjuan](https://github.com/hsanjuan): Captain**
+- **[Oli Evans](https://github.com/olizilla): Captain**
 
 Improve performance and stability of gateways and pinning, and provide public observability of services.
 
@@ -207,22 +224,44 @@ Improve performance and stability of gateways and pinning, and provide public ob
 - Monitor services and hosts used by the IPFS dev teams
 - Provide wisdom to other users that want to host IPFS nodes
 
-### Docs & Developer UX
+### Ecosystem
 
-- **Coordination**: https://github.com/ipfs/docs
-- **[Johnny Matthews](https://github.com/johnnymatthews): Captain**
-- **[Github Team](https://github.com/orgs/ipfs/teams/docs/members)**
+- **Coordination**: TBD
+- **[Dietrich Ayala](https://github.com/autonome): Captain, TPM**
 
-Overhaul our documentation platform and content based on audits, research and community needs assessment to make IPFS more accessible to developer users.
+Ensure community health and growth through collaborations, developer experience and platform availability. This group is the parent group for the [**Integration with Web Browsers**](#integration-with-web-browsers), [**Developer Experience**](#developer-experience), and [**Collabs & Community**](#collabs--community) Special Interest Groups (SIGs).
 
 **Responsibilities include**:
-
-- Support [ProtoSchool](https://proto.school) to improve broader understanding of the dweb
-- Understand and support IPFS developer usability needs
-- Evaluate and improve IPFS documentation accuracy, usability, and accessibility
+- Community and contributor enablement and support
+- Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
+- Maintenance of lower-priority systems/tools
 
 
 ## Special Interest Groups
+
+### Collabs & Community
+
+- **Coordination**: https://github.com/ipfs/community
+- **TBD: Captain, TPM**
+
+The Collabs and Community SIG supports IPFS users and grow new opportunities through research, collaborations and community engagement
+
+**Responsibilities include**:
+- Community communications channels
+- Collaborations with IPFS users and 
+- TBD
+
+### Developer Experience
+
+- **Coordination**: TBD
+- **TBD: Captain, TPM**
+
+The Developer Experience SIG supports the IPFS technical community through documentation, contributor experience, API ergonomics and tooling.
+
+**Responsibilities include**:
+- [IPFS Documentation](https://github.com/ipfs/docs) accuracy, usability, and accessibility.
+- Audits, research and assess community needs to make IPFS more accessible to developer users.
+- TBD
 
 ### Integration with Web Browsers
 
@@ -231,7 +270,7 @@ Overhaul our documentation platform and content based on audits, research and co
 - **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-web-browsers/members)**
 
-The Integration with Web Browsers Working Group designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
+The Integration with Web Browsers SIG designs and implements browser integrations, web extensions, service workers and any other strategy that contributes to IPFS being integrated with the web today.
 
 **Responsibilities include**:
 - Browser integrations (Firefox, Chrome, Brave and others).
@@ -270,7 +309,7 @@ User research, collaborations, and features to make the knowledge and tools on t
 - Research and prototype applications that utilize IPFS for local-first collaboration and resilient offline usage
 
 
-The list of historical special interest groups is:
+### The list of historical special interest groups is:
 - https://github.com/ipfs/dynamic-data-and-capabilities
 - https://github.com/ipfs/decentralized-data-stewardship
 - https://github.com/ipfs/research-CRDT
@@ -294,6 +333,7 @@ The list of past tiger teams is:
 
 ## Projects that have evolved into their own entities
 
+- [ProtoSchool](https://github.com/protoschool)
 - [IPFS Cluster](https://github.com/ipfs/ipfs-cluster)
   - [Roadmap](https://cluster.ipfs.io/roadmap/)
   - [Captain](https://github.com/hsanjuan)
