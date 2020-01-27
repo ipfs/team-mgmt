@@ -296,3 +296,17 @@ This is the backlog of initiatives that are either on-hold or low-priority.
   - Start handling go-ipfs community and users
   - Start discussions and help setting direction to the DevExp interest group
   
+@Stebalien
+- Done:
+  - go-ipfs 0.4.23 validation/testing
+  - paired with adin on DHT fixes
+  - continued to improve the content routing plan with raul
+  - improved k8s ip assignment in testground: https://github.com/ipfs/testground/pull/397
+  - refactored testground status handling: https://github.com/ipfs/testground/pull/406
+  - started work on storing assets/results in testground: https://github.com/ipfs/testground/issues/377
+  - reviews, unblocking, etc.
+- Next:
+  - ship go-ipfs 0.4.23
+  - review cid subdomain work
+  - continue to review bitswap patch (getting more critical as we've made significant progress testing it)
+  - continue to refine content routing plan
