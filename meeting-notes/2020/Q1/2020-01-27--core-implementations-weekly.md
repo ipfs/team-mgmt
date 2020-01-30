@@ -12,6 +12,7 @@
   - @momack2
   - @johnnymatthews
   - @nonsense
+  - @achingbrain
 - **Recording:** https://youtu.be/fS0JjLBg54M 
 
 ## Agenda
