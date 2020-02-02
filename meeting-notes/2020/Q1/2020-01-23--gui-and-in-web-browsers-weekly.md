@@ -11,7 +11,7 @@ A weekly discussion and show & tell around IPFS GUIs and Web Browsers
 - @autonome
 - @jacobheun
 - @andrewnesbitt
-- @peterrabbitson
+- @riba
 
 ## Recording
 
@@ -64,4 +64,3 @@ A weekly discussion and show & tell around IPFS GUIs and Web Browsers
 ## Highlights
 
 > Details of past week's work are published in notes of [IPFS Core Implementations Weekly Sync](https://github.com/ipfs/team-mgmt/issues/992)   
-
