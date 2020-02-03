@@ -189,13 +189,14 @@ The Project working group helps support team functioning, prioritization, and da
 
 - **Coordination**: https://github.com/ipfs/go-libp2p
 - **[Steven Allen](https://github.com/stebalien): Captain**
+- **[Jake Heun](https://github.com/jacobheun): TPM**
 
 The Content Routing team focuses on making improvements to the core implementations (in IPFS and libp2p) such that all IPFS users can find and access content they care about in a distributed network of nodes.
 
 **Responsibilities include**:
-- Making changes to the go-libp2p DHT
-- Adding new features to providers or connection management subsystems
-- Testing and benchmarking existing performance on finding and connecting to nodes with the desired content
+- Design and implement improvements to the go-libp2p DHT
+- Add new features to providers or connection management subsystems
+- Test and benchmark existing performance on finding and connecting to nodes with the desired content
 
 ### Testground
 
@@ -232,9 +233,9 @@ Improve performance and stability of gateways and pinning, and provide public ob
 Ensure community health and growth through collaborations, developer experience and platform availability. This group is the parent group for the [**Integration with Web Browsers**](#integration-with-web-browsers), [**Developer Experience**](#developer-experience), and [**Collabs & Community**](#collabs--community) Special Interest Groups (SIGs).
 
 **Responsibilities include**:
-- Community and contributor enablement and support
-- Collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
-- Maintenance of lower-priority systems/tools
+- Steward and improve community and contributor enablement/support
+- Manage collaborations (including [with web browsers](https://github.com/ipfs/in-web-browsers))
+- Maintain lower-priority systems/tools
 
 
 ## Special Interest Groups
@@ -242,26 +243,26 @@ Ensure community health and growth through collaborations, developer experience 
 ### Collabs & Community
 
 - **Coordination**: https://github.com/ipfs/community
-- **TBD: Captain, TPM**
+- **[Dietrich Ayala](https://github.com/autonome): Captain, TPM**
 
-The Collabs and Community SIG supports IPFS users and grow new opportunities through research, collaborations and community engagement
+The Collabs and Community SIG supports IPFS users and grows new opportunities through research, collaborations and community engagement
 
 **Responsibilities include**:
-- Community communications channels
-- Collaborations with IPFS users and 
-- TBD
+- Manage community communications channels
+- Own collaborations with IPFS users and ecosystem
+- Identify areas of opportunity for future IPFS development
 
 ### Developer Experience
 
 - **Coordination**: TBD
-- **TBD: Captain, TPM**
+- **[Dietrich Ayala](https://github.com/autonome): Captain, TPM**
 
 The Developer Experience SIG supports the IPFS technical community through documentation, contributor experience, API ergonomics and tooling.
 
 **Responsibilities include**:
-- [IPFS Documentation](https://github.com/ipfs/docs) accuracy, usability, and accessibility.
-- Audits, research and assess community needs to make IPFS more accessible to developer users.
-- TBD
+- Steward [IPFS Documentation](https://github.com/ipfs/docs) accuracy, usability, and accessibility
+- Audit, research and assess community needs to make IPFS more accessible to developer users
+- Make improvements to IPFS user-facing subsystems like the http-api and client-api
 
 ### Integration with Web Browsers
 
@@ -285,6 +286,7 @@ The Integration with Web Browsers SIG designs and implements browser integration
 ### IPFS GUI/UX
 
 - **Coordination**: https://github.com/ipfs/ipfs-gui
+- **[Marcin Rataj](https://github.com/lidel): Captain, TPM**
 - **[Github Team](https://github.com/orgs/ipfs/teams/wg-gui-ux)**
 
 Making IPFS GUIs simple, accessible, reusable, and beautiful.
@@ -298,6 +300,7 @@ Making IPFS GUIs simple, accessible, reusable, and beautiful.
 
 ### Local Offline Collaboration (Locol)
  - **Coordination**: https://github.com/ipfs/local-offline-collab
+ - **[Teri Chadbourne](https://github.com/terichadbourne): Captain, TPM**
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
 
