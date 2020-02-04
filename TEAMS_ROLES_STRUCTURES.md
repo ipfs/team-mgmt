@@ -18,7 +18,7 @@
     - [Content Routing](#content-routing)
     - [Testground](#testground)
     - [Bifrost](#bifrost)
-    - [Ecosystem](#developer-experience)
+    - [Ecosystem](#ecosystem)
   - [Special Interest Groups](#special-interest-groups)
     - [Collabs & Community](#collabs--community)
     - [Developer Experience](#developer-experience)
@@ -156,7 +156,7 @@ These are the active teams inside the IPFS Org.
 - [Content Routing](#content-routing)
 - [Testground](#testground)
 - [Bifrost](#bifrost)
-- [Ecosystem](#developer-experience)
+- [Ecosystem](#ecosystem)
 
 **Special Interest Groups**
 - [Collabs & Community](#collabs--community)
