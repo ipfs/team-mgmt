@@ -202,7 +202,7 @@ The Content Routing team focuses on making improvements to the core implementati
 
 - **Coordination**: https://github.com/ipfs/testground
 - **[Raul Kripalani](https://github.com/raulk): Architect**
-- **[David Dias](https://github.com/daviddias): TPM**
+- **[Rob Matarangas](https://github.com/robmat05): TPM**
 
 The IPFS Testground team builds testing tooling to validate scalability and reliability of the core IPFS implementations, with easy onboarding for core developers to use in CI and one-off testing.
 
