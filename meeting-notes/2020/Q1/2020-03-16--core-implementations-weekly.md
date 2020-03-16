@@ -12,7 +12,7 @@
   - @petar
   - @dirkmc
   - @hugomrdias
-- **Recording:**
+- **Recording:** https://youtu.be/1rDWsIJvs3w
 
 ## Agenda
 
