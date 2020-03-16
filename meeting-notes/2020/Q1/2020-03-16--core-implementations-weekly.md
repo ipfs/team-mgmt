@@ -1,8 +1,9 @@
  # 🚀 IPFS Core Implementations Weekly Sync 🛰 March 16, 2020
 
-- **Lead:** @alanshaw
+- **Lead:** @stebalien
 - **Notetaker:** @dirkmc
 - **Attendees:**
+  - @alanshaw
   - @lidel
   - @ribasushi
   - @aphelionz
