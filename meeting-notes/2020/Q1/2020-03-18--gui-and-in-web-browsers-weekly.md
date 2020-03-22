@@ -28,7 +28,7 @@ A weekly discussion and show & tell around IPFS GUIs and Web Browsers
   - should be possible to decouple it from that and leverage delegated routing modules from libp2p
   - probably something SIG could look at in Q2
 - Road to PeerStore refactor [libp2p/js-libp2p#582](https://github.com/libp2p/js-libp2p/issues/582)
-    - AI@lidel: find/create issue about selecting type of datastore persistence via js-ipfs config/constructor 
+    - Mildly related: issue about selecting type of datastore persistence via js-ipfs config: [js-ipfs: Support for Persistent Storage in Web Browsers](https://github.com/ipfs/js-ipfs/issues/2937)
 - libdweb - help for Sam Macbeth's PR 
     - https://github.com/libdweb/libdweb/pull/2
     - the libdweb project moved from mozilla to a standalone org
