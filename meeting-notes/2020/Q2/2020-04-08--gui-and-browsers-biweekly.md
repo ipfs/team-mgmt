@@ -36,7 +36,7 @@ A biweekly discussion and show & tell around IPFS GUIs and Web Browsers
     - Determine reasonable connection manager constraints for webrtc
     - An "audit" of the things we have planned for webrtc, ie: What is reasonable and what are features/experiments we should have on our roadmap.
     - using https://github.com/ipfs-shipyard/ipfs-share-files/issues/58 as a playground?
-- dweb.link traffic around Opera launch - https://a92e77763d034e46b95d526b2d192678.us-east-1.aws.found.io:9243/app/kibana#/visualize/edit/cc78b050-72b5-11ea-a22c-fd6c76652285?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-2w%2Cto%3Anow))
+- dweb.link traffic around Opera launch
 - Igalia proposal will be moving forward soon, just contract details at this point
 - [13-repo ZenHub board](https://app.zenhub.com/workspaces/-ipfs-app-family-ux-5e7a3123e969e659cdebb5e6/board?repos=111841602,32695583,36580101,24483721,142161410,119716282,116711586,38799513,142181521,147528357,148369983,40225364,104770273) for consolidating/tracking UX-related stuff
 - Looking at more Brave work re embedded/bundled node
