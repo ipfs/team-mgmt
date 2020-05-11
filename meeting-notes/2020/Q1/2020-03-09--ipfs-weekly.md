@@ -1,0 +1,160 @@
+# IPFS All Hands Call Mar 9 2020
+
+-   **Moderator:** @alanshaw
+-   **Notetaker:** @autonome
+-   **Attendees:**
+    -   __RobM__
+    -   __@jennturner__
+    -   __@jaycarpenter__
+    -   __@chafey__
+    -   __@jessicaschilling__
+    -   __@ribasushi__
+    -   __@lidel__
+    -   __@daviddias__
+-   **Video:** https://youtu.be/wvmZj7IE9Bo
+
+**Agenda**
+
+-   Fission
+
+**Notes**
+
+-   Remote team
+-   IPFS can be a rough conversation starter
+-   What if front-end code was all you needed?
+-   Front-end not going away
+-   Browsers getting more powerful
+-   And we have public infra
+-   And edge computing is rising
+-   Many words, just starting to come to focus
+-   All apps are hard
+-   But lamp is 30yo now
+-   Front and back end, plus devops
+-   Lots of breaches
+-   Great local dev env, but deployment is hurty for devs
+-   Million choices, million different things to learn
+-   How to build web-native apps?
+-   Fission building a framework for “web-native” apps
+-   Building hosting too, but should run local
+-   User accounts, data priv, auth
+-   DNS still needed
+-   And IPFS features built-in for cdn, access control, encryption
+-   Making web apps more like native desktop or mobile apps
+-   Web, have to push stuff to som eserver
+-   For edge, mirro code, etc
+-   We’re making these bits location independent
+-   The dragon: LLVM
+-   Compiler and runtime infra on ios
+-   Leveraging js, v8, webassembly on top of ipfs
+-   Nice experience w/o having to worry about devops
+-   Your production server is now the network
+-   Build an entire app while offline on a plane
+-   Add first user account offline
+-   Should work in all browsers w/o plugins
+-   Webauthn
+-   Lets your browser hold keys for you
+-   For passwordless login
+-   Built into fission sdk
+-   Integration is the big thing
+-   What’s built so far…
+-   Web api (REST) for IPFS
+-   Similar to pinning svc but we don’t think of ourselves that way
+-   Pinning is least interesting
+-   More like app hosting
+-   Heroku addon
+-   Dns automation
+-   Automatically get subdomain
+-   Renewal
+-   Domain purchases from cmd line later
+-   Cli, all in one
+-   Used ipfs-deploy
+-   But all over http
+-   Want ot use ipfs natively
+-   Devs install ipfs
+-   Then fission
+-   And then do everything via cli
+-   \> fission up
+-   Ipfs does the syncing
+-   Fission register
+-   Fission watch
+-   Live reload
+-   Updating top level dag
+-   And dns txt record
+-   Next:
+-   pub/priv key based accounts
+-   For account portability
+-   Accounts can add apps
+-   Have domains
+-   Encryption
+-   Web login (webauthn)
+-   FFS fission file system
+-   Identity
+-   (or just below)
+-   Loosely based on DIDs and verifiable credtls
+-   Identity as pubkey
+-   Jwt auth and macaroons
+-   Can delegate across domains
+-   whitepaper.fission.codes/identity
+-   Similar to oauth/jwt today but decentralized
+-   Based largely on google macaroons
+-   RSA b/c browser support
+-   Cli is edwards curve
+-   FFS
+-   Store dag hash in dns -> boris.fission.name
+-   Today is public
+-   Next is private
+-   Each file in each dir has header w/ symmetric key
+-   And has keys all the way below it
+-   Can take subtree and share it w/ someone by sharing key
+-   Key rotated on index and key exchange for symmetric keys for read
+-   Write key is auth into fission svc to pin new dag
+-   “Just works” is primary goal
+-   Api is “store privately this file”
+-   Can try drive now
+-   Drive.fission.codes
+-   Launched in preview in feb
+-   Built on top of fission
+-   Who uses dotfiles
+-   App data
+-   Boris.fission.name
+-   Have per-app storage client side
+-   Works w/ any public ipfs files today
+-   Private coming
+-   Image previews
+-   Feels zippy
+-   Built by steven, client side
+-   Elm
+-   Quickly iterate, easy to refactor
+-   Rendermedia
+-   Not open source yet, but planned
+-   Get-ipfs
+-   Like ipfs provider
+-   Es6
+-   Haskell on backend
+-   Ipfs-haskell for local node or remote http
+-   Hired a dev to do ipfs ignore cmd
+-   Have a PR to go-ipfs
+-   Please look and review
+-   Want to get more files into ipfs
+-   Integrations and sync
+-   Eg drive on desktop but managing attachments on ghost, discourse, etc
+-   Heroku + ghost + ipfs for one-click deploy
+-   Heroku has no fs, so upload directly to ipfs
+-   Ghost storage adapter
+-   Same for Discourse
+-   Discourse-ipfs-filestore
+-   Get into discuss.ipfs.io?!?!
+-   QUESTIONS
+-   Are people using it?
+-   ~200 accounts
+-   Used at some hackathons
+-   Origin protocol poking around for making fe portable
+-   Not pushing hard on adoption until identity and private files
+-   Key for having 100% client side
+-   Where to contact you?
+-   Can ask here<https://events.fission.name/2020/ipfs-community-call>
+-   Discord chat
+-   <https://fission.codes/discord>
+-   https&#x3A;//talk.fission.codes forum
+-   Planning to offer paid service
+-   Interesting options like Filecoin
