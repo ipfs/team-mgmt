@@ -57,7 +57,7 @@
 #### Subdomain Gateway (Base32, Origin isolation)
 @lidel
 
-- [Updated docs about gateways @ docs-beta.ipfs.io](https://docs-beta.ipfs.io/how-to/address-ipfs-on-web/#http-gateways)
+- [Updated docs about gateways @ docs.ipfs.io](https://docs.ipfs.io/how-to/address-ipfs-on-web/#http-gateways)
 - Did not start subdomain work yet (finishing Q4 leftovers) 
 
 #### Distributed Signaling (js-libp2p)
@@ -220,7 +220,7 @@
 @lidel
 - Done:
   - subdomain gateways
-    - docs-beta.ipfs.io: [docs: subdomain gateway](https://github.com/ipfs/ipfs-docs-v2/pull/61)
+    - docs.ipfs.io: [docs: subdomain gateway](https://github.com/ipfs/ipfs-docs-v2/pull/61)
   - ipfs-webui:
     - Merged [feat: E2E test suite with puppeteer+ipfsd-ctl](https://github.com/ipfs-shipyard/ipfs-webui/pull/1353)
     - PR: [refactor: run all unit and e2e tests by default](https://github.com/ipfs-shipyard/ipfs-webui/pull/1373)

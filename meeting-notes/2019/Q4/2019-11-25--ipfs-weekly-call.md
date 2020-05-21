@@ -42,7 +42,7 @@ _Show your work!_
     *   We previously had instructions on developing tutorials, but we weren’t telling people how to design effective content that fits the platform well -  what the guiding principles were, what content ProtoSchool could handle, etc etc etc 
     *   Plus, tips about how to create lessons - not accidentally teaching JS when you want to teach IPFS, what a manageable chunk of a section of a tutorial is, etc
     *   The existing guidance on how to build a ProtoSchool tutorial, from a development perspective, has been pulled out of the main readme and now lives [here](https://github.com/ProtoSchool/protoschool.github.io/blob/code/DEVELOPING_TUTORIALS.md).
-*   [IPFS Docs Beta](https://docs-beta.ipfs.io/) sneak peek
+*   [IPFS Docs Beta](https://docs.ipfs.io/) sneak peek
     *   Getting close to shipping a new beta version of an improved IPFS docs site! Check the link for a sneak peek. Ideally launch will be EOY.
     *   You can check the overall progress of the beta as well as all other docs attention items in our OKRs - they’re in the [readme](https://github.com/ipfs/docs) for our repo
     *   Docs also start on the front of the main IPFS website! So we improved guidance on the [front of ipfs.io](https://ipfs.io/#install ) to show people the different flavors of IPFS they may want to install based on what they actually want to do with IPFS
