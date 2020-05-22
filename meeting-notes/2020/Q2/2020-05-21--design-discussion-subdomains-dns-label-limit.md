@@ -76,7 +76,7 @@ Things TBD, with provisional decisions for MVP:
   - or maybe we should change the default text representation of ipns keys everywhere in IPFS?
   - .. should this get bubbled up to libp2p? 
     - if so, should we update https://github.com/libp2p/specs/blob/master/RFC/0001-text-peerid-cid.md ?
-  
+    - or should we phase out base32 completely, and not use it in any API/CLI UX going forward
     
 ### Side-discussions    
     
