@@ -48,7 +48,10 @@ Anything we can do to give IPNS websites created with ed25519 TLS without warnin
 
 ## Notes
 
-- all agree that touching key encoding in libp2p too expensive atm
+- changing the way we represent keys in libp2p is expensive and may introduce problems in the future
+  - right now all key types represented as CIDs get `libp2p-key` codec
+    - this makes it easy to add support for different key types in the future without the need for updating CID/multicodec-related libraries
+  - if we introduce a custom multicodec for ed25519 this creates bad precedent of moving key type to multicodec layer: leaking abstractions and making it harder to support across implementations 
 - leaking browser limitations down the stack is something we want to avoid, looking for a surgical fix that is compatible with CIDv1 specs
 
 - base36 makes ed25519 fit in a single DNS label
