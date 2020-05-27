@@ -5,7 +5,7 @@ The IPFS Docs team designs, builds, and maintains the documentation for at devel
 ## 2020 Q1
 Here's a summary of this team's objectives for the first three months of 2020:
 
-1. Launch the [beta IPFS documentation](https://docs-beta.ipfs.io/) site on the IPFS network.
+1. Launch the [beta IPFS documentation](https://docs.ipfs.io/) site on the IPFS network.
 2. Improve documentation by:
    1. Creating new content based on [existing issues](https://github.com/ipfs/docs/issues).
    2. Improve and update existing pages.
