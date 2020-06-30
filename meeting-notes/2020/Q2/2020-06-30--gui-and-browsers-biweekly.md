@@ -26,7 +26,7 @@ A biweekly discussion and show & tell around IPFS GUIs and Web Browsers
 - [wip] [Pinning Service API Spec](https://github.com/ipfs/pinning-services-api-spec) 
     - ETA between 6th and 13th of July to finalize the spec
     - looking for feedback: feel free to fill issues in [ipfs/pinning-services-api-spec](https://github.com/ipfs/pinning-services-api-spec) repo
-    - [Pinning service features survey](hhttps://ipfscommunity.typeform.com/to/qQLALuQW): will get the word out today on Twitter, Reddit, HN
+    - [Pinning service features survey](https://ipfscommunity.typeform.com/to/qQLALuQW): will get the word out today on Twitter, Reddit, HN
         - May keep out of the newsletter if possible: we have several other surveys in flight
     - looking to make the api surface as small as possible that we can all agree on
     - probably dont want to require specific auth mechanisms
