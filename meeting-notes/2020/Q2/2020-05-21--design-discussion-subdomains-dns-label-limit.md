@@ -94,3 +94,12 @@ Things TBD, with provisional decisions for MVP:
      - "IPNS" as a generic mutable namespace
      - pick a new name for libp2p-key based subset of "IPNS" ("signed records", "IPRS", etc)
      
+-----
+
+### Update from 2020-07-14
+
+We decided to simplify our approach and merged [ED25519 support in subdomains](https://github.com/ipfs/go-ipfs/pull/7441)
+  - works with TLS certs
+  - defaults to base36 (instead of base32) in subdomains for all libp2p-keys
+  - b36 fix will be attempted for all long CIDs if original base is too long
+  - returns error if CID is still too long to be loaded via subdomain (this might be the case if you use custom hash functions eg. `sha-512`)
