@@ -161,7 +161,7 @@ In addition to the roles in each Team formation, we have these project leads:
 - `IPFS Project Co-Lead` - **AVAILABLE**
 
 ## Working Groups
-<img src="https://photos.google.com/u/1/photo/AF1QipOGkGjvF86myCWRUUk6IDi4f8FGr0wX4aX53_sT">
+![image](https://user-images.githubusercontent.com/618519/89355185-a10e3c00-d66f-11ea-8c5f-e1feed92eb26.png)
 
 ### Bifrost
 - **Coordination**: https://github.com/ipfs/infra (main repo private for infra security reasons)
@@ -174,7 +174,7 @@ In addition to the roles in each Team formation, we have these project leads:
 
 **KPIs**: 
 - Gateway uptime and time to first response
-- #benchmarks tracked & automated alerts
+- Number of benchmarks tracked & automated alerts
 
 
 ### Ecosystem
@@ -208,12 +208,12 @@ In addition to the roles in each Team formation, we have these project leads:
 **KPIs**:
 - <48hr response rate for collab issues/PRs
 - Avg release cadence (6 weeks or less)
-- # regressions in production go-ipfs or js-ipfs performance on network benchmarks (find time, transfer speed, provide time, success rate, add time)
+- Number of regressions in production go-ipfs or js-ipfs performance on network benchmarks (find time, transfer speed, provide time, success rate, add time)
 
 
 ### Web Browsers + GUI
 - **Coordination**: https://github.com/ipfs/in-web-browsers, https://github.com/ipfs/ipfs-gui
-- **[Marcin Rataj](https://github.com/lidel)
+- **[Marcin Rataj](https://github.com/lidel): Captain**
 
 **Focus**: 
 - Grow our browser adoption via integrations (Opera, Brave, Firefox, Chrome, and others).
@@ -224,7 +224,7 @@ In addition to the roles in each Team formation, we have these project leads:
 - Define specifications for address schemes and advocate for those schemes to be adopted.
 
 **KPIs**:
-- # nodes in the IPFS network
+- Number of nodes in the IPFS network
 - Onboarding funnel pass-through rate
 
 
@@ -232,7 +232,6 @@ In addition to the roles in each Team formation, we have these project leads:
 
 ### Local Offline Collaboration (Locol)
  - **Coordination**: https://github.com/ipfs/local-offline-collab
- - **[Teri Chadbourne](https://github.com/terichadbourne): Captain, TPM**
 
 User research, collaborations, and features to make the knowledge and tools on the internet accessible and useful on partitioned, low-bandwidth, or intermittant networks.
 
