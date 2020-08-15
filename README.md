@@ -15,6 +15,7 @@
   - [OKR (Objectives & Key Results)](#okrs)
   - [Tracking Repo Activity](#tracking-repo-activity)
 - [Synchronous Communication](#synchronous-communication)
+  - [Monthly Community Meetup](#monthly-community-meetup)
   - [Calendar](#calendar)
   - [Chat](#chat)
   - [Working Hours](#working-hours)
@@ -74,6 +75,14 @@ The IPFS workgroups plan and measure impact on a quarterly basis using OKRs - [l
 Synchronous Communication is phenomenal to transfer memes rapidly, clarify any outstanding questions, deep dive into hard topics together, get to know each other better and develop trust. The main pain point with Synchronous Communication is that if you were not present, you might miss out on important information that is relevant to you and your project. To overcome this limitation, **a core competency of the IPFS Org as a whole is to be stellar at taking notes and creating artifacts that represent any decision/announcement made during those synchronous conversations**. The corollary being: if it ain't written down and broadcasted, it didn't happen.
 
 You can find the schedule for meetings of each of the IPFS Working Groups, Special Interest Groups, and Related Projects in the [TEAMS_ROLES_STRUCTURES](TEAMS_ROLES_STRUCTURES.md) document, as well as in the community calendar below.
+
+### Monthly Community Meetup
+
+We host a monthly community meetup for builders across the IPFS ecosystem to present on notable improvements and updates. It's a great way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. You can sign up to share a lightning talk or demo in the meetup invite ([example](https://www.meetup.com/San-Francisco-IPFS/events/271042788/)). Newcomers are very welcome.
+
+You can find recordings of past meetups on [Youtube](https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew/):
+[![image](https://user-images.githubusercontent.com/618519/90301692-46869400-de56-11ea-9a2a-e0debb214f75.png)](https://www.youtube.com/playlist?list=PLuhRWgmPaHtToVYaDkd6ZTwB2Lo30s1vB)
+
 
 ### Calendar
 
