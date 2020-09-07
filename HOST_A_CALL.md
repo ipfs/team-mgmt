@@ -108,10 +108,6 @@ I mention these because invariably I would type "GMT to EST" to check the time z
 
 - **What do I do if the Livestream doesn't show up on the IPFS Youtube Channel?** It is important that the live stream privacy setting under "basic info" be set to "public", otherwise the livestream won't show up on the IPFS channel or on our link https://www.youtube.com/c/IPFS-dweb/live. If you see the livestream coming through the live dashboard but not on our channel, that's probably the issue. We still check the box to "Automatically make archive unlisted once the stream has ended" so that we can rename and update the recording after the call.
 - **Do I need a special account to be the host?** No, all you need is to ask to have your personal email address added to the list of hosts so that you have recording and livestreaming capabilities. Do this by asking one of the current hosts or sending an email to it@protocol.ai
-- **Who currently has delegated hosting ability per call (and can therefore can record/livestream if needed)?**
-  - IPFS All Hands Call: david@protocol.ai, matt@protocol.ai, erik@carbonfive.com, victor@protocol.ai, molly@protocol.ai
-  - JS Core Dev Weekly Sync: jake@andyet.net, alan.shaw@protocol.ai, david@protocol.ai, molly@protocol.ai
-  - Golang Core Dev Weekly Sync: dd@protocol.ai, david@protocol.ai, erik@carbonfive.com, molly@protocol.ai
 
   Anyone with access to the 1pass can add new delegated hosts to calls by signing into the zoom web interface as Zoom #1, #2, or #3.
 - **Why don't we use Zoom Webinars?** See our decision thread at https://github.com/ipfs/pm/issues/571. Instead, we have enabled and use the 3rd party livestreaming capability to stream to YouTube at https://www.youtube.com/c/IPFS-dweb/live. Hosts will find this option next to "record" in the "..." options at the bottom of a call. A Zoom account needs to explicitly enable the "livestreaming" capability (in meeting settings) and set up the handshake between a specific meeting and a YouTube channel to livestream to (at the bottom of the meeting details page through the link that says "configure").
