@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](https://ipfs.io/)
 [![Matrix](https://img.shields.io/badge/matrix-%23ipfs%3Amatrix.org-blue.svg?style=flat-square)](https://matrix.to/#/#ipfs:matrix.org)
 [![IRC](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
-[![Discord](https://img.shields.io/discord/475789330380488707?color=blueviolet&label=discord&style=flat-square)](https://discord.gg/24fmuwR)
-
-**tl:dr:** We have a **weekly call** on Mondays. The time, date and other info for each week's call is announced in [an issue in this repository](https://github.com/ipfs/pm/issues). Propose agenda items for the call by commenting on the issue!
 
 ## Repo Index
 
@@ -18,8 +15,7 @@
   - [OKR (Objectives & Key Results)](#okrs)
   - [Tracking Repo Activity](#tracking-repo-activity)
 - [Synchronous Communication](#synchronous-communication)
-  - [Weekly All Hands](#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
-  - [Working Groups Weekly/BiWeekly Syncs](#working-groups-weeklybiweekly-syncs)
+  - [Monthly Community Meetup](#monthly-community-meetup)
   - [Calendar](#calendar)
   - [Chat](#chat)
   - [Working Hours](#working-hours)
@@ -36,22 +32,22 @@
 
 ## Related Projects
 
-IPFS leverages several related projects that each have their own planning:
+IPFS is built on several related projects that each have their own planning:
 
 - [IPLD](https://github.com/ipld/team-mgmt)
 - [libp2p](https://github.com/libp2p/team-mgmt)
 
 ## How We Work Together
 
-We use a loose agile approach. We deliberately designed a Org wide process that is very flexible, enabling each team to design an internal coordination strategy that suits their project needs, while keeping a baseline for team wide coordination around Project Wide Roadmapping and [OKRs](OKR).
+We deliberately designed an organizational process that is very flexible, enabling each team to design a coordination strategy that suits their project needs, while keeping a baseline for team-wide coordination around project-wide planning.
 
-You might hear these terms "Working Group Roadmap", "Project Roadmap", "OKRs", "Metrics" and so on be thrown around often. If you are puzzled in how these all fit together and what is the best resource to look at, we've created the following diagram to illustrate how all of these fit together for the IPFS org.
+You might hear terms such as "Working Group Roadmap", "Project Roadmap", "OKRs", "Metrics" used often. If you are puzzled about how these all fit together and what is the best resource to look at, we've created the following diagram to illustrate how all of these fit together for the IPFS org.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ipfs/team-mgmt/master/img/ipfs-org-planning-one-picture.jpeg" alt="IPFS planning in one picture" width="450" />
 </p>
 
-**If you are new around here, the best way to get onboarded is to focus on the "Day to Day Operations" as it will help you meet the Working Groups, understand what their top priorities for the week are, and identify more quickly places where you can contribute**. Later, you can go through all the Quarterly OKRs and Yearly Planning so that you understand fully the decisions you see being made.
+**If you are new around here, the best way to get onboarded is to focus on the "Day to Day Operations" as it will help you meet the Working Groups, understand what their top priorities are, and quickly identify where you can contribute**. Later, you can go through all the Quarterly OKRs and Yearly Planning so that you understand fully the decisions you see being made.
 
 You can also learn more about operating in Distributed Teams at our ['Distributed Teams' Document](DISTRIBUTED_TEAMS.md), containing resources on tools, decision making, process and more. We have been gathering, reviewing, discussing and experimenting with many overtime and will continue to do so as we find new needs.
 
@@ -61,60 +57,38 @@ Meet the current Working and Research Groups at the [TEAMS_ROLES_STRUCTURES](TEA
 
 ## Asynchronous Communication
 
-As an organization that operates at a planetary scale with multiple people from different timezones and schedules, we value tremendously the benefits of Asynchronous Communication. The art of writting things down for future selfs or future contributors is one of the key reasons that enables [so many contributors](https://github.com/ipfs/contributors-hex-grid#big-grid) to participate in the large endeavour of Distributing the Web with the IPFS Project.
+As an organization that operates at a planetary scale with multiple people from different timezones and schedules, we value tremendously the benefits of Asynchronous Communication. The art of writing things down for our future selves or future contributors is one of the key reasons that enables [so many contributors](https://github.com/ipfs/contributors-hex-grid#big-grid) to participate in the large endeavour of Distributing the Web with the IPFS Project.
 
 Some golden recommendations:
 - Prefer opening an issue vs. sending a DM
-- If you find documentation missing, treat it as a bug. Once you get your answer, contribute it so that it benefits others
-- Use synchronous time wisely (only if needed), convert any output into an artifact that can be used by others (avoid Tribal Knowledge)
+- If you find documentation missing, treat it as a bug - once you get your answer, contribute it so that it benefits others
+- Use synchronous time wisely (only if needed), and convert any output into an artifact that can be used by others (avoid Tribal Knowledge)
 
-### Project & Working Groups Roadmaps
+### Planning
 
-The IPFS Project & Working Group Roadmaps serve as the north star for our quarterly planning process and org alignment. You can read these at https://github.com/ipfs/roadmap
+The IPFS Project & Working Group Roadmaps serve as the north star for our quarterly planning process and long term achievement of our mission goals. You can find these roadmaps at https://github.com/ipfs/roadmap.
 
-### OKRs
-
-Learn how the [IPFS Org uses OKRs to track quarterly process here](OKR).
-
-### Tracking Repo Activity
-
-We recommend trying using [Octobox](https://octobox.io/) as a way to keep up to date with different issues, tags, notifications and so on across Github.
+The IPFS workgroups plan and measure impact on a quarterly basis using OKRs - [learn more here](OKR).
 
 ## Synchronous Communication
 
 Synchronous Communication is phenomenal to transfer memes rapidly, clarify any outstanding questions, deep dive into hard topics together, get to know each other better and develop trust. The main pain point with Synchronous Communication is that if you were not present, you might miss out on important information that is relevant to you and your project. To overcome this limitation, **a core competency of the IPFS Org as a whole is to be stellar at taking notes and creating artifacts that represent any decision/announcement made during those synchronous conversations**. The corollary being: if it ain't written down and broadcasted, it didn't happen.
 
-### 🙌🏽 IPFS Weekly Call 📞 (formerly known as IPFS All Hands Call)
+You can find the schedule for meetings of each of the IPFS Working Groups, Special Interest Groups, and Related Projects in the [TEAMS_ROLES_STRUCTURES](TEAMS_ROLES_STRUCTURES.md) document, as well as in the community calendar below.
 
-- **When:** Every Monday, 5pm UTC. See [calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com).
-- **How:** This takes place synchronously using [Zoom](#zoom).
-- **Length:** 30 minutes.
-- **Format:** [IPFS_WEEKLY_CALL](IPFS_WEEKLY_CALL.md)
+### Monthly Community Meetup
 
-This is a regular and reliable call where everyone who's working on any repository under the IPFS umbrella checks in and has a chance to either call attention to particular items, to make announcements, or to seek discussion of a topic. It's also a way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. Newcomers are very welcome.
+We host a monthly community meetup for builders across the IPFS ecosystem to present on notable improvements and updates. It's a great way for casual followers to get a high-level update on the pulse of the IPFS projects without having to follow all of the sprint calls. You can sign up to share a lightning talk or demo in the meetup invite ([example](https://www.meetup.com/San-Francisco-IPFS/events/271042788/)). Newcomers are very welcome.
 
-If you are interested in participating, please join us on [Zoom](#zoom).
-
-You can find recordings of the meetings on the [Youtube playlist, IPFS All Hands 🙌🏽 📞](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSGRSHdU9dbsukHKlihZZAe)
-
-This call and other IPFS Community calls are tracked on the [IPFS Community Calendar](https://github.com/ipfs/community#calendar)
-
-If you are hosting a call for the first time or interested in learning how to do it, consult the [HOST_A_CALL](HOST_A_CALL.md) guide.
-
-### Weekly/BiWeekly Syncs of Working Groups, Special Interest Groups, and Related Projects
-
-- [`Core Implementations`](https://github.com/ipfs/team-mgmt/issues/992)
-- [`Project Operations`](https://github.com/ipfs/project-operations#ipfs-project-working-group)
-- [`IPLD BiWeekly`](https://github.com/ipfs/team-mgmt/issues/720)
-- [`Package Management`](https://github.com/ipfs/package-managers/issues/1)
-- [`ProtoSchool`](https://github.com/ProtoSchool/organizing/issues/47)
-- [`Local Offline Collaboration`](https://github.com/ipfs/local-offline-collab/issues?utf8=%E2%9C%93&q=is%3Aissue++label%3A%22%F0%9F%93%9E+Monthly+Call%22+)
-- [`Documentation & Developer UX`](https://docs.google.com/document/d/1EOD-pJi4GvRmGi9HHocgVV8uVHMFIZlyVgJDkvC3DQ4)
+You can find recordings of past meetups on [Youtube](https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew/):
+[![image](https://user-images.githubusercontent.com/618519/90301692-46869400-de56-11ea-9a2a-e0debb214f75.png)](https://www.youtube.com/playlist?list=PLuhRWgmPaHtToVYaDkd6ZTwB2Lo30s1vB)
 
 
 ### Calendar
 
-You can consult all IPFS-related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC) you can watch for events and sync to.
+You can view all IPFS-related calls and events on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC).
+
+<iframe src="https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Chat
 
@@ -163,7 +137,7 @@ Tools living in their own documents:
 
 ### Zoom
 
-We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube (currently under maintenance), and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
+We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream directly to YouTube, and to have calls with more than 25 users. Zoom may require a download before you are able to join. If you click on a Zoom link to a meeting room, it will automatically suggest the software to download. Please let us know if you have any issues with Zoom.
 
 **Note:** Screen Sharing in Zoom under X11 requires compositor. Users of minimalist tiling window managers (i3, awesome, dwm)  will share a "black screen" by default. The fix is to use third-party compositor, eg. [Compton](https://github.com/chjj/compton).
 
@@ -171,7 +145,7 @@ We use [Zoom](http://zoom.us/) for our community calls. This allows us to stream
 
 Feel free to join in. All welcome. Open an [issue](https://github.com/ipfs/pm/issues)!
 
-This repository and all of our sprint calls fall under the IPFS [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
+This repository and all of our calls fall under the IPFS [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md)
 
