@@ -7,6 +7,8 @@ If you want to see all working group OKRs at a glance by quarter, you can look a
 
 #### 2020
 - [Q1 OKRs Sheet](https://docs.google.com/spreadsheets/d/1vOSCIufWfU2CpG63rOTGVQ6tWNYcbnYvR2k_kN84jQU/edit#gid=1681757723)
+- [Q2 OKRs Sheet](https://docs.google.com/spreadsheets/d/1YTnvQ75v0jCuumOM9CPhx0BZHhJzZGy2u2ydU-rPh2w/edit#gid=1897212049)
+- [Q3 OKRs Sheet](https://docs.google.com/spreadsheets/d/1KVe3JCsfB-l47-DE5gvk7bT0Yly_EAPrHCi-8kCthy4/edit#gid=1897212049)
 
 #### 2019
 - [Q1 OKRs Sheet](https://docs.google.com/spreadsheets/d/1BtOfd7s9oYO5iKsIorCpsm4QuQoIsoZzSz7GItE-9ys/edit#gid=1681757723)
