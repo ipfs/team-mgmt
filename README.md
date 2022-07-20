@@ -1,9 +1,16 @@
+---
+⚠️ ⚠️ ⚠️  
+Much of this repo is not accurate to the current state of affairs in 202207.
+Updates are needed to account for how [IPFS development spans multiple implementations and organizations](https://docs.ipfs.io/basics/ipfs-implementations/).
+For now, see the [official IPFS community docs](https://docs.ipfs.io/community/) for ways to engage with teams developing IPFS.  
+⚠️ ⚠️ ⚠️
+
+---
+
 # IPFS Team Planning, Management & Coordination threads
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](https://protocol.ai)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](https://ipfs.io/)
-[![Matrix](https://img.shields.io/badge/matrix-%23ipfs%3Amatrix.org-blue.svg?style=flat-square)](https://matrix.to/#/#ipfs:matrix.org)
-[![IRC](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 
 ## Repo Index
 
