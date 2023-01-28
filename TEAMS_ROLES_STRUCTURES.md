@@ -165,7 +165,7 @@ In addition to the roles in each Team formation, we have these project leads:
 
 ### Bifrost
 - **Coordination**: https://github.com/ipfs/infra (main repo private for infra security reasons)
-- **[George Masgras](//https://github.com/gmas): Captain**
+- **[George Masgras](https://github.com/gmas): Captain**
 
 **Focus**:
 - Improve performance and stability of gateways and pinning
